@@ -1,0 +1,22 @@
+# main links links
+main:
+- title: "Home"
+  url: https://tiffanywhite.tech
+
+- title: "Tag Archive"
+  url: /tags/
+
+- title: "Category Archive"
+  url: /categories/
+
+- title: Search
+  url: /search/
+
+- title: Resume
+  url: https://www.tiffanyrwhite.com/resume/
+
+- title: Portfolio
+  url: https://www.tiffanyrwhite.com
+
+- title: About
+  url: /about/
