@@ -1,6 +1,7 @@
 ---
 title: About
 tags: [about, introductions]
+layout: single
 modified:
 comments: false
 image:

@@ -1,12 +1,11 @@
 source 'https://rubygems.org'
 
 gem 'json'
-gem 'jekyll'
+gem "jekyll", "~> 3.3.0"
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-archives'
-  #gem 'github-pages', group: :jekyll_plugins
   gem 'jekyll-feed'
   gem 'jekyll-lunr-js-search'
   gem 'jekyll-gist'

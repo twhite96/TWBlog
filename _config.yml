@@ -6,36 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 locale                   : "en"
 title                    : "Just Another DevBlog"
 title_separator          : "-"
 name                     : "Tiffany White"
-description              : "Java, PHP, Swift, Go, JavaScript, in that order."
-url                      : https://tiffanywhite.tech
+description              : "I make computers do things"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : twhite96/twhite96.github.io
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-theme                    : minimal-mistakes-jekyll
-breadcrumbs              : true
+repository               : twhite96/TWBlog
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
@@ -55,7 +35,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "_data/comments/{options.slug}"
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -65,7 +45,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : feed.xml
 
 # SEO Related
 google_site_verification :
@@ -75,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : TiffanyW_412
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -90,7 +70,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-standard"
+  provider               : "google"
   google:
     tracking_id          : "UA-93064728-1"
 
@@ -102,12 +82,30 @@ author:
   bio              : "Code slinger. Geek. Pitt Panther and Apple fangirl. Proud Pittsburgh sports fan with Buckeye blood."
   location         : "Pittsburgh"
   email            : "hey@tiffanyrwhite.com"
+  uri              :
+  bitbucket        :
   codepen          : "twhite96"
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "twhite96"
+  google_plus      :
+  keybase          :
   instagram        : "twhitedev412"
+  lastfm           :
   linkedin         : "tiffanyrwhite"
+  pinterest        :
+  soundcloud       :
   stackoverflow    : "3800146/twhite96"
+  steam            :
+  tumblr           :
   twitter          : "TiffanyW_412"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : https://youtube.com/user/trwhitenontrad
+
 
 # Reading Files
 include:
@@ -137,6 +135,8 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -171,10 +171,10 @@ sass:
 
 
 # Outputting
-permalink: /:title/
+permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/New_York
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -184,10 +184,6 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-lunr-js-search
-  - jekyll-archives
-  - octopress-littlefoot
-
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -196,6 +192,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-lunr-js-search
 
 
 # Archives
@@ -208,32 +205,24 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-# category_archive:
-  # type: liquid
-  # path: /categories/
-# tag_archive:
-  # type: liquid
-  # path: /tags/
-# https://github.com/jekyll/jekyll-archives
 category_archive:
-  type: jekyll-archives
+  type: liquid
   path: /categories/
 tag_archive:
-  type: jekyll-archives
+  type: liquid
   path: /tags/
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
-gems: ['jekyll-github-metadata']
-gems: [jekyll-youtube]
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -243,5 +232,20 @@ compress_html:
     envs: development
 
 lunr_search:
-  js_dir: "assets/js/lunr"
+  js_dir: "/assets/js/lunr"
   min_length: 3
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
