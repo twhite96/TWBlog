@@ -232,7 +232,7 @@ compress_html:
     envs: development
 
 lunr_search:
-  js_dir: "/assets/js/lunr"
+  js_dir: "assets/js/lunr"
   min_length: 3
 
 
