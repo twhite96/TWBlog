@@ -2,7 +2,7 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
-#main {
+#main, {
   @include container;
   @include clearfix;
   margin-top: 2em;
@@ -27,7 +27,6 @@
 
   .page__inner-wrap {
     @include full();
-
     .page__content,
     .page__meta,
     .page__share {
@@ -35,7 +34,6 @@
     }
   }
 }
-
 .page__title {
   margin-top: 0;
   line-height: 1;
@@ -405,4 +403,10 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+/* License
+===============================================================================*/
+.license {
+  text-align: center;
 }

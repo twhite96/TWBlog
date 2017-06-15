@@ -3,32 +3,37 @@
 
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.4.0 by Michael Rose
-  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+Minimal Mistakes Jekyll Theme 4.4.0 by Michael Rose
+Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+Free for personal and commercial use under the MIT license
+https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
 -->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+</head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+  {% include browser-upgrade.html %}
+  {% include masthead.html %}
 
-    {{ content }}
+  {{ content }}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+  <div class="license">
+    <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Just Another DevBlog</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://www.tiffanyrwhite.com" property="cc:attributionName" rel="cc:attributionURL">Tiffany White</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="https://purl.org/dc/terms/" href="https://tiffanywhite.tech" rel="dct:source">https://tiffanywhite.tech</a>.
+ </div>
 
-    {% include scripts.html %}
 
-  </body>
+  <div class="page__footer">
+    <footer>
+      {% include footer/custom.html %}
+      {% include footer.html %}
+    </footer>
+  </div>
+
+  {% include scripts.html %}
+
+</body>
 </html>
