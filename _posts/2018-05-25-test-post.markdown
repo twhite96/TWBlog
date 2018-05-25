@@ -5,7 +5,8 @@ date: 2018-05-25
 author: Tiffany White
 tags:
   - Test
-category: - Test
+category:
+- Test
 ---
 
 Test
