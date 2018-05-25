@@ -122,7 +122,7 @@ You can see the full set of partials you can replace in the
   ```
   ---
   layout: search
-  title:: Google Search
+  title: Google Search
   ---
   ```
 
