@@ -17,7 +17,7 @@ branches:
 
 deploy:
   provider: surge
-  project: ./_site/
+  project: ./_site
   domain: https://tiffanywhite.tech
 
 env:
