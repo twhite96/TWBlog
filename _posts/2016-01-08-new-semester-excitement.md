@@ -15,6 +15,7 @@ categories:
   - Tools
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/IMG3_20160108_172912.jpeg" alt="new_semester" width="550" height="550" /></h2>
 So I am starting a new semester with a new, funny, quirky, prof in <a href="https://twitter.com/BillLaboon">Bill Laboon</a> who showed us the absolute <em>power</em> of <em>Emacs</em>-- like a pixelated fire. No seriously. I prefer VS Code myself but I don’t need to start an editor flamewar.
 
@@ -39,6 +40,8 @@ Alex Gwartney is a young developer whose journey I’ve been following since I c
 	<li id="fn:1">The Snippet App is hosted on Heroku and I’ve gotten a few Cannot GET errors when clicking through to the app. Just refresh or retype it in and it should work. <a class="reversefootnote" title="return to article" href="1"> ↩</a></li>
 </ol>
 =======
+=======
+>>>>>>> Stashed changes
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/IMG3_20160108_172912.jpeg" alt="new_semester" width="550" height="550" /></h2>
 So I am starting a new semester with a new, funny, quirky, prof in <a href="https://twitter.com/BillLaboon">Bill Laboon</a> who showed us the absolute <em>power</em> of <em>Emacs</em>-- like a pixelated fire. No seriously. I prefer VS Code myself but I don’t need to start an editor flamewar.
 
@@ -62,5 +65,8 @@ Alex Gwartney is a young developer whose journey I’ve been following since I c
 <ol>
 	<li id="fn:1">The Snippet App is hosted on Heroku and I’ve gotten a few Cannot GET errors when clicking through to the app. Just refresh or retype it in and it should work. <a class="reversefootnote" title="return to article" href="1"> ↩</a></li>
 </ol>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </div>

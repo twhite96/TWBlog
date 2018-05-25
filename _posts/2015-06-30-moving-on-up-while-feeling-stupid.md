@@ -18,6 +18,7 @@ categories:
   - Web Development
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 &nbsp;
 
 <a href="http://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg"><img class="alignnone  wp-image-387" src="http://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg" alt="Fake-Mac.jpg" width="675" height="450" /></a>
@@ -58,6 +59,8 @@ Feeling stupid much?
 (Thinking about this while Rihanna sings "Bitch better have my money" on Beats1, Ha. Maybe I should turn it down...)
 
 =======
+=======
+>>>>>>> Stashed changes
 &nbsp;
 
 <a href="http://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg"><img class="alignnone  wp-image-387" src="http://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg" alt="Fake-Mac.jpg" width="675" height="450" /></a>
@@ -97,5 +100,8 @@ for (var i = 0; i &lt; 10; i++) {
 Feeling stupid much?
 (Thinking about this while Rihanna sings "Bitch better have my money" on Beats1, Ha. Maybe I should turn it down...)
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 So next post will be about Arrays and Objects because yes, I am **there finally**!!! I have an idea for my languishing CodePen.io account. Arrays and objects change everything.

@@ -19,6 +19,7 @@ categories:
   - Web Development
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/03/front-end.jpeg" alt="front-end_programming" />
 
 So I started the second front-end programming project for Free Code Camp which is the portfolio. I shared a Pen from a former Free Code Camp alum who built an interesting portfolio, which is what Free Code Camp uses as their example, which is high-praise.
@@ -57,6 +58,8 @@ color: #fff;
 I also found a stray div with my navigation. Now it’s starting to look good.
 
 =======
+=======
+>>>>>>> Stashed changes
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/03/front-end.jpeg" alt="front-end_programming" />
 
 So I started the second front-end programming project for Free Code Camp which is the portfolio. I shared a Pen from a former Free Code Camp alum who built an interesting portfolio, which is what Free Code Camp uses as their example, which is high-praise.
@@ -94,5 +97,8 @@ color: #fff;
 </pre>
 I also found a stray div with my navigation. Now it’s starting to look good.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 http://codepen.io/twhite96/pen/dMbwyM

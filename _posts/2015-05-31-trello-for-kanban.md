@@ -20,6 +20,7 @@ categories:
   - Productivity
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Trello.png" alt="Trello" width="284" height="284" />
 
 If you’re not using Kanban and Lean project management for your productivity as a developer, why?
@@ -37,6 +38,8 @@ For information on Kanban check out this <a href="http://blog.kanbanize.com/kanb
 &nbsp;
 
 =======
+=======
+>>>>>>> Stashed changes
 <img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Trello.png" alt="Trello" width="284" height="284" />
 
 If you’re not using Kanban and Lean project management for your productivity as a developer, why?
@@ -53,5 +56,8 @@ For information on Kanban check out this <a href="http://blog.kanbanize.com/kanb
 
 &nbsp;
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 https://vimeo.com/129059451

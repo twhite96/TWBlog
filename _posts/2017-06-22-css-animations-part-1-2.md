@@ -13,6 +13,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 As you may know, you can animate pretty much anything with JavaScript and jQuery. jQuery makes it easier as it is a pretty neat and simple JavaScript library. No need to use:
 
 ```
@@ -57,6 +58,8 @@ Once you hover over the image, the opacity will be set to `2,` and when you swit
 ## Not Too Bad, Right?
 
 =======
+=======
+>>>>>>> Stashed changes
 As you may know, you can animate pretty much anything with JavaScript and jQuery. jQuery makes it easier as it is a pretty neat and simple JavaScript library. No need to use:
 
 ```
@@ -100,5 +103,8 @@ Once you hover over the image, the opacity will be set to `2,` and when you swit
 
 ## Not Too Bad, Right?
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 It is fairly simple, once you get the hang of it. I will be posting more about CSS transitions as I learn them. Meanwhile, here is [nice little table](http://leaverou.github.io/animatable/) of animatable properties by [Lea Verou](http://lea.verou.me/) that animate when you hover over them.

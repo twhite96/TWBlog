@@ -16,6 +16,7 @@ categories:
   - Semester Updates
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This semester, this whole year even, has seen a dramatic increase in productivity and a conscious effort for self-care-- making necessary doctors appointments, going to bed around 9 or 10 and getting up at 8 or 9 am.
 
 Taking care of myself helps me think clearer, helps me get more done.
@@ -82,6 +83,8 @@ These are just some of the changes this semester. I *want* to be a software engi
 ## Good News!
 
 =======
+=======
+>>>>>>> Stashed changes
 This semester, this whole year even, has seen a dramatic increase in productivity and a conscious effort for self-care-- making necessary doctors appointments, going to bed around 9 or 10 and getting up at 8 or 9 am.
 
 Taking care of myself helps me think clearer, helps me get more done.
@@ -147,5 +150,8 @@ These are just some of the changes this semester. I *want* to be a software engi
 
 ## Good News!
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 I have transferred within Pitt, going from the College of General Studies to the Dietrich School of Arts &amp; Sciences! I'm thrilled that I can finally be a true Computer Science major. ????????‍????????????

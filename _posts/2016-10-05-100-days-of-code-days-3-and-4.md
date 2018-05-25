@@ -16,6 +16,7 @@ categories:
   - 100 Days of Code
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## Day 4: 4 October 2016
 
 <img class="size-full wp-image-1345 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png" alt="" width="256" height="256" />
@@ -43,6 +44,8 @@ I finally figured it out with some trial and error.
 Like I said, I've driving pretty hard. Check out my productivity pulse on RescueTime:
 
 =======
+=======
+>>>>>>> Stashed changes
 ## Day 4: 4 October 2016
 
 <img class="size-full wp-image-1345 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png" alt="" width="256" height="256" />
@@ -69,5 +72,8 @@ I finally figured it out with some trial and error.
 
 Like I said, I've driving pretty hard. Check out my productivity pulse on RescueTime:
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 <img class="size-full wp-image-1349 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/Image-10-5-16-3-40-AM.jpeg" width="2048" height="2732" />

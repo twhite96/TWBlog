@@ -23,6 +23,7 @@ categories:
   - Functional Programming
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 One of the hot topics right now in the web development world is functional programming in the language of the web, JavaScript.
 
 Functional programming encompasses a whole host of mathematical properties and phenomena that is beyond this post, but what I am going to address here is *how* to write a a few functions with nominal functional programming.
@@ -133,6 +134,8 @@ Filter and the callback are composed as they are meshed into each other. Not onl
 Next I want to tackle the `.map()` function and get back to my Chrome DevTools series.
 
 =======
+=======
+>>>>>>> Stashed changes
 One of the hot topics right now in the web development world is functional programming in the language of the web, JavaScript.
 
 Functional programming encompasses a whole host of mathematical properties and phenomena that is beyond this post, but what I am going to address here is *how* to write a a few functions with nominal functional programming.
@@ -242,5 +245,8 @@ Filter and the callback are composed as they are meshed into each other. Not onl
 
 Next I want to tackle the `.map()` function and get back to my Chrome DevTools series.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^1]: Though JavaScript isn’t a purely functional programming language.

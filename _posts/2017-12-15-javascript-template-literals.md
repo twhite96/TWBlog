@@ -102,4 +102,8 @@ returns a string with the appropriate variables substituted but with all the uns
 Nicholas Zakas goes over this in detail in his book [Understanding ES6](https://leanpub.com/understandinges6/read#leanpub-auto-multiline-strings).
 
 ## Summary
+<<<<<<< Updated upstream
 Template Literals or Template Strings are a powerful addition to the JavaScript language that brings it much needed string interpolation and transformation.
+=======
+Template Literals or Template Strings are a powerful addition to the JavaScript language that brings it much needed string interpolation and transformation.
+>>>>>>> Stashed changes

@@ -14,6 +14,7 @@ categories:
   - Programming
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <a href="http://helloburgh.me/wp-content/uploads/2016/06/completing_an_algorithm.jpg"><img class="aligncenter wp-image-1133 size-large" src="http://helloburgh.me/wp-content/uploads/2016/06/completing_an_algorithm-1024x683.jpg" alt="completing_algorithms" width="700" height="467" /></a>
 
 So, the last time I wrote an article here, I was <a href="http://helloburgh.me/2016/05/27/algorithms_again/" target="_blank">struggling with the <em>Truncate String</em> algorithm</a>.
@@ -92,6 +93,8 @@ I knew, also, that I didn’t need to actually use <code>slice()</code> but I di
 <h2>Solidifying Knowledge of Prototypes and Objects</h2>
 
 =======
+=======
+>>>>>>> Stashed changes
 <a href="http://helloburgh.me/wp-content/uploads/2016/06/completing_an_algorithm.jpg"><img class="aligncenter wp-image-1133 size-large" src="http://helloburgh.me/wp-content/uploads/2016/06/completing_an_algorithm-1024x683.jpg" alt="completing_algorithms" width="700" height="467" /></a>
 
 So, the last time I wrote an article here, I was <a href="http://helloburgh.me/2016/05/27/algorithms_again/" target="_blank">struggling with the <em>Truncate String</em> algorithm</a>.
@@ -169,5 +172,8 @@ I knew, also, that I didn’t need to actually use <code>slice()</code> but I di
 
 <h2>Solidifying Knowledge of Prototypes and Objects</h2>
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 I have started on PluralSight’s JavaScript Track. I took their test to see how much JavaScript I know and I tested at the low-end of proficient, which makes me very happy. I want to get this down— Prototypal Inheritance and Objects before I start into ES6. Lots of syntactic sugar in there. I like it.

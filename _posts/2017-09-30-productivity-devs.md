@@ -17,6 +17,7 @@ categories:
   - Productivity for Devs
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 While perusing [The Practical Dev](https://dev.to) for new posts, I came across a post that intrigued me: [Instant +100% command line productivity boost](https://dev.to/sobolevn/instant-100-command-line-productivity-boost). Productivity for devs is something I’ve been meaning to write about. Now I have the impetus to do so.
 
 I thought installing *oh-my-szh* and using *aliases* made me a badass. Unfortunately for me, that wasn’t the case.
@@ -86,6 +87,8 @@ I swear like a sailor when I am around people I know and so I appreciate this ex
 [^1]: Currently [Omnigroup only makes Apple apps](https://support.omnigroup.com/windows-or-android/) and don’t have a web interface for OmniFocus. A web interface may be coming soon. On Android, there is an app that interfaces with OmniFocus using the Omnigroup’s API called [Focus GTD](https://play.google.com/store/apps/details?id=com.burgstaller.android.focusgtd&amp;hl=en).
 [^2]: Shouldn’t it be called *iTerm 3*?
 =======
+=======
+>>>>>>> Stashed changes
 While perusing [The Practical Dev](https://dev.to) for new posts, I came across a post that intrigued me: [Instant +100% command line productivity boost](https://dev.to/sobolevn/instant-100-command-line-productivity-boost). Productivity for devs is something I’ve been meaning to write about. Now I have the impetus to do so.
 
 I thought installing *oh-my-szh* and using *aliases* made me a badass. Unfortunately for me, that wasn’t the case.
@@ -154,5 +157,8 @@ I swear like a sailor when I am around people I know and so I appreciate this ex
 
 [^1]: Currently [Omnigroup only makes Apple apps](https://support.omnigroup.com/windows-or-android/) and don’t have a web interface for OmniFocus. A web interface may be coming soon. On Android, there is an app that interfaces with OmniFocus using the Omnigroup’s API called [Focus GTD](https://play.google.com/store/apps/details?id=com.burgstaller.android.focusgtd&amp;hl=en).
 [^2]: Shouldn’t it be called *iTerm 3*?
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^3]: This is the new hotness. I tried it when it first came out and used it exclusively but went back to Atom because of the plugins. Everyone seems to be talking about it now so I gave it another shot.

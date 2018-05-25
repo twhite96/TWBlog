@@ -18,6 +18,7 @@ categories:
   - Web Development
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 I finished the algorithm scripting at Free Code Camp on June 19th and started the Random Quote Generator on the 20th.
 
 I have been working diligently for a few days on it. Usually we are instructed to use the Bootstrap CSS framework. When I went searching for an API I found Chris Coyer from CSS Tricks <em>Quotes on Design</em> API site and was enamored with the design and decided I wanted to do the same thing.
@@ -44,6 +45,8 @@ http://codepen.io/twhite96/pen/aZmrXO
 <ol id="footnotes">
  	<li id="fn1">Pun not intended <a href="#ffn1">↩︎</a></li>
 =======
+=======
+>>>>>>> Stashed changes
 I finished the algorithm scripting at Free Code Camp on June 19th and started the Random Quote Generator on the 20th.
 
 I have been working diligently for a few days on it. Usually we are instructed to use the Bootstrap CSS framework. When I went searching for an API I found Chris Coyer from CSS Tricks <em>Quotes on Design</em> API site and was enamored with the design and decided I wanted to do the same thing.
@@ -69,5 +72,8 @@ You can see the pen at the bottom of the page. It looks weird because it is a wo
 http://codepen.io/twhite96/pen/aZmrXO
 <ol id="footnotes">
  	<li id="fn1">Pun not intended <a href="#ffn1">↩︎</a></li>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </ol>

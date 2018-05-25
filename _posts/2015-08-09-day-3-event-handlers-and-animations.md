@@ -42,8 +42,13 @@ with passing an anonymous function in order to do something when the button we m
 So in the code block with the button selector with the [jquery].click(function() {});[/jquery] you can <strong>do</strong> nifty things. So inside this code block we used
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:javascript decode:1 " >$(this).show();
 $(this).remove();
+=======
+<pre class="lang:javascript decode:1 " >$(this).show();
+$(this).remove();
+>>>>>>> Stashed changes
 =======
 <pre class="lang:javascript decode:1 " >$(this).show();
 $(this).remove();
@@ -57,15 +62,21 @@ I hadn’t really gotten my head around [jquery]$(this)[/jquery] until he explai
 elements under the
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:html decode:1 " >
 &lt;div class= &quot;spoiler&quot;&lt;/div&gt;
 
 
 =======
+=======
+>>>>>>> Stashed changes
 <pre class="lang:html decode:1 " >
 &lt;div class= &quot;spoiler&quot;&lt;/div&gt;
 
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </pre>
 

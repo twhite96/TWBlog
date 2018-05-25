@@ -18,6 +18,7 @@ categories:
   - Uncategorized
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/02/webdev.jpg" alt="web_dev" width="615" height="464" />
 
 I seriously am not doing well right now. It’s all mental. It is all fear and anxiety. I already know this.
@@ -53,6 +54,8 @@ I will not fail.
 </div>
 
 =======
+=======
+>>>>>>> Stashed changes
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/02/webdev.jpg" alt="web_dev" width="615" height="464" />
 
 I seriously am not doing well right now. It’s all mental. It is all fear and anxiety. I already know this.
@@ -87,4 +90,7 @@ I will not fail.
 </ol>
 </div>
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

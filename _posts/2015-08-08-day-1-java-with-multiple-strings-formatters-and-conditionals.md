@@ -21,17 +21,23 @@ categories:
 
 What I learned…errr last night was about using multiple strings with formatters in Java. For instance:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 String name = “Tiffany”;
 String age = 30;
 
 console.printf(“My name is %s and I am %s years old.”, name, age);
 =======
+=======
+>>>>>>> Stashed changes
 <pre class="lang:java decode:1 " >
 String name = “Tiffany”;
 String age = 30;
 
 console.printf(“My name is %s and I am %s years old.”, name, age);
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </pre>
 
@@ -40,8 +46,13 @@ This is sort of like when I was doing Learn Python the Hard Way only the syntax 
 I learned how to get information into the console by way of prompting the user. So you have the console object and the method readLine to say something like:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 console.readLine(“What is your name?”);
+=======
+<pre class="lang:java decode:1 " >
+console.readLine(“What is your name?”);
+>>>>>>> Stashed changes
 =======
 <pre class="lang:java decode:1 " >
 console.readLine(“What is your name?”);
@@ -51,8 +62,13 @@ console.readLine(“What is your name?”);
 This was interesting, getting to learn these new methods for a new language. Also knowing the Java is compiled and how to run the compile command with:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 javac
+=======
+<pre class="lang:java decode:1 " >
+javac
+>>>>>>> Stashed changes
 =======
 <pre class="lang:java decode:1 " >
 javac
@@ -62,8 +78,13 @@ javac
 I learned more about integers and getting an integer from a string. Whereas in JavaScript you’d use:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 parseInt
+=======
+<pre class="lang:java decode:1 " >
+parseInt
+>>>>>>> Stashed changes
 =======
 <pre class="lang:java decode:1 " >
 parseInt
@@ -73,8 +94,13 @@ parseInt
 in Java you have this long string:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 Integer.parseInt
+=======
+<pre class="lang:java decode:1 " >
+Integer.parseInt
+>>>>>>> Stashed changes
 =======
 <pre class="lang:java decode:1 " >
 Integer.parseInt
@@ -84,6 +110,7 @@ Integer.parseInt
 Building things and adding conditions was interesting as well. Here is a little snippet of the app we built in Java:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 String name = console.readLine(“Enter a name: ”);
 String adjective = console.readLine(“Enter an adjective: ”);
@@ -98,6 +125,8 @@ do {
   }
 } while(isInvalidWord);
 =======
+=======
+>>>>>>> Stashed changes
 <pre class="lang:java decode:1 " >
 String name = console.readLine(“Enter a name: ”);
 String adjective = console.readLine(“Enter an adjective: ”);
@@ -111,14 +140,22 @@ do {
     console.printf(“That language is not allowed. Try again. \n\n”);
   }
 } while(isInvalidWord);
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </pre>
 
 To be honest, Java isn’t really too bad. I don’t like the verbosity. For instance in JavaScript you can call a method:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:javascript decode:1 " >
 noun.toLowerCase
+=======
+<pre class="lang:javascript decode:1 " >
+noun.toLowerCase
+>>>>>>> Stashed changes
 =======
 <pre class="lang:javascript decode:1 " >
 noun.toLowerCase

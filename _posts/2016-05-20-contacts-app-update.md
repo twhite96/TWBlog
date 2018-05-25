@@ -14,6 +14,7 @@ categories:
   - Programming
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <a href="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-itunes-session.jpg"><img class="alignleft size-full wp-image-1112" src="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-itunes-session.jpg" alt="working_on_contacts_app" width="1000" height="666" /></a>
 
 &nbsp;
@@ -114,6 +115,8 @@ You can find my updated docs <a href="https://twhite96.github.io/contacts-app/in
 Some video fun.
 
 =======
+=======
+>>>>>>> Stashed changes
 <a href="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-itunes-session.jpg"><img class="alignleft size-full wp-image-1112" src="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-itunes-session.jpg" alt="working_on_contacts_app" width="1000" height="666" /></a>
 
 &nbsp;
@@ -213,5 +216,8 @@ You can find my updated docs <a href="https://twhite96.github.io/contacts-app/in
 <h2>On the Grind</h2>
 Some video fun.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 https://www.instagram.com/p/BFm9gRoPHd9/?taken-by=twhitedev412&hl=en

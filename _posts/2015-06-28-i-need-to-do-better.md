@@ -16,6 +16,7 @@ categories:
   - Productivity
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <a href="http://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg"><img class="alignnone size-full wp-image-378" src="http://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg" alt="Desktop.jpg" width="600" height="400" /></a>
 
 For the record, I **do** code. I sit down, some time during the week, and knock out just one Codecademy challenge. This has been of late. I am not working hard enough, I am not grinding hard enough and I am trying to figure out why.
@@ -35,6 +36,8 @@ I have a time to read and a time to screw off. I feel really committed to my Pir
 I used to write these same types of posts when I was a writer. A lot of it is fear of success. If you listened to my Code &amp; Supply episode which you can find [here](http://www.codeandsupply.co/podcast/monthly-check-in-with-new-developer-tiffany-white), you'll know my story. Being a success once and failing is a big monkey on my back that I am trying to shake.
 
 =======
+=======
+>>>>>>> Stashed changes
 <a href="http://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg"><img class="alignnone size-full wp-image-378" src="http://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg" alt="Desktop.jpg" width="600" height="400" /></a>
 
 For the record, I **do** code. I sit down, some time during the week, and knock out just one Codecademy challenge. This has been of late. I am not working hard enough, I am not grinding hard enough and I am trying to figure out why.
@@ -53,5 +56,8 @@ I have a time to read and a time to screw off. I feel really committed to my Pir
 
 I used to write these same types of posts when I was a writer. A lot of it is fear of success. If you listened to my Code &amp; Supply episode which you can find [here](http://www.codeandsupply.co/podcast/monthly-check-in-with-new-developer-tiffany-white), you'll know my story. Being a success once and failing is a big monkey on my back that I am trying to shake.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 The fact that I have sort of cooled off my late nights and late waking hours has been a big step for me. We'll see where I am in one month. I was doing well for so long with this. It's now time to *keep going*...

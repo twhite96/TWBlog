@@ -15,6 +15,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 I have some news on recruiting I'd like to share.
 
@@ -51,6 +52,8 @@ Not certain what I did to get this kind of treatment. And I can’t tell you how
  	<li id="fn1">Black and female, considering I am black and female, is a bonus. I think this company did their homework. <a href="#ffn1">↩︎</a></li>
  	<li id="fn2">Am I developer or a medical assistant? <a href="#ffn2">↩︎</a></li>
 =======
+=======
+>>>>>>> Stashed changes
 
 I have some news on recruiting I'd like to share.
 
@@ -86,5 +89,8 @@ Not certain what I did to get this kind of treatment. And I can’t tell you how
 <ol id="footnotes">
  	<li id="fn1">Black and female, considering I am black and female, is a bonus. I think this company did their homework. <a href="#ffn1">↩︎</a></li>
  	<li id="fn2">Am I developer or a medical assistant? <a href="#ffn2">↩︎</a></li>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </ol>

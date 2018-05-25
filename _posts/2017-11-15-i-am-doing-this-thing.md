@@ -19,6 +19,7 @@ categories:
   - General Updates
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 I have recently joined the [The Practical Dev](https://dev.to) as an apprentice software developer.
 
 Remember when I said that good things were happening? That was one of the things.
@@ -87,6 +88,8 @@ I mean, really. You two have taken a chance on an old lady who doesn’t have a 
 Everyone has a story. I am glad mine is ending up like this. I hope for happiness and success for anyone who is on the outside looking in in tech. You got this. ???
 
 =======
+=======
+>>>>>>> Stashed changes
 I have recently joined the [The Practical Dev](https://dev.to) as an apprentice software developer.
 
 Remember when I said that good things were happening? That was one of the things.
@@ -154,5 +157,8 @@ I mean, really. You two have taken a chance on an old lady who doesn’t have a 
 ## Well
 Everyone has a story. I am glad mine is ending up like this. I hope for happiness and success for anyone who is on the outside looking in in tech. You got this. ???
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^1]: I am old. I am the oldest person on the team. Haha. I am young at heart though. Goes to show someone pushing 40 can break into the industry if they work their asses off.

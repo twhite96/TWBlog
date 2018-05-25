@@ -42,9 +42,15 @@ The DOM is basically the HTML document, arranged in a tree, with nodes that you 
 Self-explanatory really. So you have a few
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:html decode:1 " >
 &amp;lt;table&amp;gt;&amp;lt;/table&amp;gt;
 
+=======
+<pre class="lang:html decode:1 " >
+&amp;lt;table&amp;gt;&amp;lt;/table&amp;gt;
+
+>>>>>>> Stashed changes
 =======
 <pre class="lang:html decode:1 " >
 &amp;lt;table&amp;gt;&amp;lt;/table&amp;gt;
@@ -54,6 +60,7 @@ Self-explanatory really. So you have a few
 
 tags under which you can have this:
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <pre class="lang:html decode:1 " >
 &amp;lt;table&amp;gt;
@@ -79,6 +86,8 @@ tags under which you can have this:
 &amp;lt;/table&amp;gt;
 
 =======
+=======
+>>>>>>> Stashed changes
 <pre class="lang:html decode:1 " >
 &amp;lt;table&amp;gt;
 
@@ -102,6 +111,9 @@ tags under which you can have this:
 
 &amp;lt;/table&amp;gt;
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </pre>
 

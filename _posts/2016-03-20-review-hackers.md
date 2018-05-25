@@ -13,6 +13,7 @@ categories:
   - Book Reviews
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/8646752"><img src="http://d.gr-assets.com/books/1328343027m/8646752.jpg" alt="Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition" border="0" /></a>
 <a href="http://www.goodreads.com/book/show/8646752">Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition</a> by <a href="http://www.goodreads.com/author/show/32131">Steven Levy</a>
 My rating: <a href="http://www.goodreads.com/review/show/1576869358">5 of 5 stars</a>
@@ -26,6 +27,8 @@ If you'd like insights on geeky geniuses who have literally shaped the world tod
 5 stars because I am into that sort of thing and Levy does a good job of cleaning up his earlier mistakes. I wish he would have maybe cut some of the main part of the book to include more about today's hackers but still, a great read.
 
 =======
+=======
+>>>>>>> Stashed changes
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/8646752"><img src="http://d.gr-assets.com/books/1328343027m/8646752.jpg" alt="Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition" border="0" /></a>
 <a href="http://www.goodreads.com/book/show/8646752">Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition</a> by <a href="http://www.goodreads.com/author/show/32131">Steven Levy</a>
 My rating: <a href="http://www.goodreads.com/review/show/1576869358">5 of 5 stars</a>
@@ -38,5 +41,8 @@ If you'd like insights on geeky geniuses who have literally shaped the world tod
 
 5 stars because I am into that sort of thing and Levy does a good job of cleaning up his earlier mistakes. I wish he would have maybe cut some of the main part of the book to include more about today's hackers but still, a great read.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 <a href="http://www.goodreads.com/review/show/1576869358">View all my reviews</a>

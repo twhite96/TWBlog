@@ -14,6 +14,7 @@ categories:
   - Programming
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/OOP-JavaScript.jpeg"><img src="http://helloburgh.me/wp-content/uploads/2016/04/OOP-JavaScript.jpeg" alt="OOP JavaScript" width="1000" height="666" class="alignleft size-full wp-image-1093" /></a>
 
 <p>We learned a bit about constructors and prototypal inheritance in OOP JavaScript in this final section. We also went over prototype chaining which I found interesting.</p>
@@ -101,6 +102,8 @@ function Movie() {
 https://gist.github.com/twhite96/42aaf04d874630e4c733236392dc23f7
 
 =======
+=======
+>>>>>>> Stashed changes
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/OOP-JavaScript.jpeg"><img src="http://helloburgh.me/wp-content/uploads/2016/04/OOP-JavaScript.jpeg" alt="OOP JavaScript" width="1000" height="666" class="alignleft size-full wp-image-1093" /></a>
 
 <p>We learned a bit about constructors and prototypal inheritance in OOP JavaScript in this final section. We also went over prototype chaining which I found interesting.</p>
@@ -187,5 +190,8 @@ function Movie() {
 
 https://gist.github.com/twhite96/42aaf04d874630e4c733236392dc23f7
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 <p>See what I mean? We didn’t learn half this stuff. I love Treehouse and this was a hard course for Andrew to teach. But I felt it sorely lacking in practice.</p>

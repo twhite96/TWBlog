@@ -17,6 +17,7 @@ categories:
   - Uncategorized
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo3.png" alt="Dev" width="433" height="433" />
 
 Show notes:
@@ -38,6 +39,8 @@ Do you have perfectionitis? I do. Here is a book I'm reading on the topic:
 Are you getting outside?? GET OUTSIDE!! It’s summertime! Go for a stroll, go to the gym, go biking or running but get out. Here is a song I love to listen to in the summer, when it is warm and there is a cool wind blowing:
 
 =======
+=======
+>>>>>>> Stashed changes
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo3.png" alt="Dev" width="433" height="433" />
 
 Show notes:
@@ -58,5 +61,8 @@ Do you have perfectionitis? I do. Here is a book I'm reading on the topic:
 
 Are you getting outside?? GET OUTSIDE!! It’s summertime! Go for a stroll, go to the gym, go biking or running but get out. Here is a song I love to listen to in the summer, when it is warm and there is a cool wind blowing:
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 https://www.youtube.com/watch?v=1O1fcYyIWU4

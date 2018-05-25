@@ -19,6 +19,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This semester was a rollercoaster, boy. Started out strong and finished like a sputtering car, chugging along to finals week and dying in a heap of smoke and fire.
 
 Here are the five things I learned about myself this semester. You may be asking why I am doing this. It is for me, mostly, to spew out the good things as well as the bad so that I have a framework to go into next semester with. Letting the world know keeps me accountable, I suppose.
@@ -34,6 +35,8 @@ Here are the five things I learned about myself this semester. You may be asking
 There they are. Time to get going on rectifying mistakes and extending myself.
 
 =======
+=======
+>>>>>>> Stashed changes
 This semester was a rollercoaster, boy. Started out strong and finished like a sputtering car, chugging along to finals week and dying in a heap of smoke and fire.
 
 Here are the five things I learned about myself this semester. You may be asking why I am doing this. It is for me, mostly, to spew out the good things as well as the bad so that I have a framework to go into next semester with. Letting the world know keeps me accountable, I suppose.
@@ -48,5 +51,8 @@ Here are the five things I learned about myself this semester. You may be asking
 </ol>
 There they are. Time to get going on rectifying mistakes and extending myself.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 <img src="http://helloburgh.me/wp-content/uploads/2015/12/IMG_0400.jpg" alt="quote" />

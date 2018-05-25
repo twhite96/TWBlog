@@ -70,4 +70,8 @@ arr2.push(10); // Will return a deep copy of the array with 10 appended to the e
 //of the values
 ```
 ## More At the MDN
+<<<<<<< Updated upstream
 You can find more uses for the spread operator at the [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread\_operator)
+=======
+You can find more uses for the spread operator at the [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread\_operator)
+>>>>>>> Stashed changes

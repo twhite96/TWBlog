@@ -17,6 +17,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## DRY: Don’t Repeat Yourself
 
 As you may have seen in my last post, I have some *ridiculous* conditional statement blocks going on to show/hide the Skycons and for switching up the background photos based on your current weather conditions.
@@ -101,6 +102,8 @@ let icons = new Skycons({ color: &quot;#fff&quot; });
 So I am looking around for solutions.
 
 =======
+=======
+>>>>>>> Stashed changes
 ## DRY: Don’t Repeat Yourself
 
 As you may have seen in my last post, I have some *ridiculous* conditional statement blocks going on to show/hide the Skycons and for switching up the background photos based on your current weather conditions.
@@ -184,5 +187,8 @@ let icons = new Skycons({ color: &quot;#fff&quot; });
 ```
 So I am looking around for solutions.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^1]: This isn’t ideal either and I am currently asking around about it.

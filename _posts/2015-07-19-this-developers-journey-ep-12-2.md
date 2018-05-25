@@ -17,6 +17,7 @@ categories:
   - Uncategorized
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/wpid-Dev-Logo.png" alt="This Developers Journey" width="524" height="524" />
 <h2>Show Notes:</h2>
 <a href="http://codepen.io/twhite96/pen/KpRBzd">Me on CodePen:</a>
@@ -33,6 +34,8 @@ categories:
 <a href="https://leanpub.com/build-apis-you-wont-hate">Build APIs You Won’t Hate</a>
 <h2>Pick o’ the Week:</h2>
 =======
+=======
+>>>>>>> Stashed changes
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/wpid-Dev-Logo.png" alt="This Developers Journey" width="524" height="524" />
 <h2>Show Notes:</h2>
 <a href="http://codepen.io/twhite96/pen/KpRBzd">Me on CodePen:</a>
@@ -48,5 +51,8 @@ categories:
 
 <a href="https://leanpub.com/build-apis-you-wont-hate">Build APIs You Won’t Hate</a>
 <h2>Pick o’ the Week:</h2>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 <a href="https://itunes.apple.com/us/podcast/developer-tea/id955596067?mt=2">Developer Tea Podcast</a>

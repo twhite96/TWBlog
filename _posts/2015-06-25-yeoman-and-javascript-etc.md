@@ -18,6 +18,7 @@ categories:
   - Programming
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <a href="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg"><img class="  wp-image-365 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg" alt="Yeoman.jpg" width="293" height="293" /></a>
 
 &nbsp;
@@ -52,6 +53,8 @@ Cool.
 So I'm sharing, again, what I'm listening to on Spotify. On the Code Newbie Discourse we talked about music to code by and I found some awesome wub wub dubstep to kill code by. I'll share my favorite here (NSFW):
 
 =======
+=======
+>>>>>>> Stashed changes
 <a href="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg"><img class="  wp-image-365 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg" alt="Yeoman.jpg" width="293" height="293" /></a>
 
 &nbsp;
@@ -85,5 +88,8 @@ Cool.
 
 So I'm sharing, again, what I'm listening to on Spotify. On the Code Newbie Discourse we talked about music to code by and I found some awesome wub wub dubstep to kill code by. I'll share my favorite here (NSFW):
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 https://open.spotify.com/user/thetruckert/playlist/2TY4Y6Cg3R2i3UPS2WkvYa

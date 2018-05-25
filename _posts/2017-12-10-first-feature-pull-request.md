@@ -22,6 +22,7 @@ categories:
   - General Updates
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 &nbsp;
 
 I spent a good week working on our [CodePen Liquid Tag feature](https://dev.to/twhite/changelog-codepen-liquid-tags-now-live-amj). It was my first time working with a team on a feature for an app that wasn’t solely mine.
@@ -47,6 +48,8 @@ I submitted a PR to another project but it wasn’t merged. I wasn’t ready the
 The team is great. The perks are great, even for an intern like me. And I absolutely believe in what we’re trying to build.
 
 =======
+=======
+>>>>>>> Stashed changes
 &nbsp;
 
 I spent a good week working on our [CodePen Liquid Tag feature](https://dev.to/twhite/changelog-codepen-liquid-tags-now-live-amj). It was my first time working with a team on a feature for an app that wasn’t solely mine.
@@ -71,5 +74,8 @@ I submitted a PR to another project but it wasn’t merged. I wasn’t ready the
 ## Work Is Fun
 The team is great. The perks are great, even for an intern like me. And I absolutely believe in what we’re trying to build.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^1]: We don’t have hard deadlines, though, unless it is a critical bug or security flaw.

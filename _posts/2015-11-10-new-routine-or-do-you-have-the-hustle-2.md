@@ -19,6 +19,7 @@ categories:
   - Tips
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/11/wpid-IW1IXLIOY5.jpg" alt="rise_and_shine" />
 
 I don’t have enough time in the day. I don’t know anyone past the age of 25 who does. I am constantly lamenting about how I’d like to do all these things, fit all of these new learning ambitions, building apps and sites, while going to school, maintaining three blogs, a podcast, and other social presences, as well as hitting the gym like I used to into one day. Yet I often, when not tasked with having to get up early, stayed up late and got up in just enough time to get my day started, go to class, come home, order something because I’d be so tired, do minimal homework, and not have time to do anything else.
@@ -42,6 +43,8 @@ I went to Treehouse and learned more about AJAX. By 8, 2 hours before I had to l
 I was born poor. We didn’t have much. Eventually, through hard work, mom got a better position and lost it during the infamous PA furloughs of 88. She had garnered a better salary again eventually by longevity only. By then I was out of the house and on my own with no money of my own. I still don’t have money, and with the hand I had been dealt early I’ve had to struggle, get lucky, and hustle.
 
 =======
+=======
+>>>>>>> Stashed changes
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/11/wpid-IW1IXLIOY5.jpg" alt="rise_and_shine" />
 
 I don’t have enough time in the day. I don’t know anyone past the age of 25 who does. I am constantly lamenting about how I’d like to do all these things, fit all of these new learning ambitions, building apps and sites, while going to school, maintaining three blogs, a podcast, and other social presences, as well as hitting the gym like I used to into one day. Yet I often, when not tasked with having to get up early, stayed up late and got up in just enough time to get my day started, go to class, come home, order something because I’d be so tired, do minimal homework, and not have time to do anything else.
@@ -64,5 +67,8 @@ I went to Treehouse and learned more about AJAX. By 8, 2 hours before I had to l
 - Curtis Jackson</blockquote>
 I was born poor. We didn’t have much. Eventually, through hard work, mom got a better position and lost it during the infamous PA furloughs of 88. She had garnered a better salary again eventually by longevity only. By then I was out of the house and on my own with no money of my own. I still don’t have money, and with the hand I had been dealt early I’ve had to struggle, get lucky, and hustle.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 I want to build cool things. I want to be a full stack developer. Nothing has grabbed my attention like this. But I also need security. A steady income. I don’t have that right now. So getting up at the crack of dawn to improve my chances of being a good developer when I am all said in done is worth the tired eyes on the commute back home at 6 PM. Time to hustle like my life depends on it, because it honestly almost does.

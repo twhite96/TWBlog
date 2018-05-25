@@ -30,4 +30,8 @@ It was very helpful to write about the journey but now it's time to move on. Tha
 
 
 
+<<<<<<< Updated upstream
 [^1]: I am just getting my programming mojo back. The failed internship really couched me. I am working on a few freeCodeCamp intermediate projects to get the juices flowing again.
+=======
+[^1]: I am just getting my programming mojo back. The failed internship really couched me. I am working on a few freeCodeCamp intermediate projects to get the juices flowing again.
+>>>>>>> Stashed changes

@@ -16,6 +16,7 @@ categories:
   - App Updates
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 When open sourcing a piece of software, you are taking risks. It's true for everyone open sourcing a project, even more so for PoC and women [^1], though this isn't going to touch on that.
 
 You could get trolled hard by bros who think what you're working on is silly or, worse yet, stupid. They could ignore the code of ethics set down by GitHub, Gitlab, whomever. You really don't know what to expect.
@@ -43,6 +44,8 @@ I have now, with these stars, incentive to keep going and updating the app. Last
 [^3]: At least for me, as someone trying to build a portfolio and trying to get a job.
 [^4]: I pinned the tweet to my profile.
 =======
+=======
+>>>>>>> Stashed changes
 When open sourcing a piece of software, you are taking risks. It's true for everyone open sourcing a project, even more so for PoC and women [^1], though this isn't going to touch on that.
 
 You could get trolled hard by bros who think what you're working on is silly or, worse yet, stupid. They could ignore the code of ethics set down by GitHub, Gitlab, whomever. You really don't know what to expect.
@@ -69,5 +72,8 @@ I have now, with these stars, incentive to keep going and updating the app. Last
 [^2]: It won't. Pretty sure of that.
 [^3]: At least for me, as someone trying to build a portfolio and trying to get a job.
 [^4]: I pinned the tweet to my profile.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^5]: With my sleep apnea and allergies, it makes me really tired, more so than if I just didn't have a good night's sleep.

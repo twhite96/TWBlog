@@ -18,6 +18,7 @@ categories:
   - Interviews
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Okay, so not really a love story, but a good one nevertheless.
 
 A while back, maybe a month and a half ago, I was in the Code & Supply Slack, a local code meetup in Pittsburgh, perhaps the largest one here. Listless, I went to the #jobs channel.
@@ -92,6 +93,8 @@ I'm excited for my future in this field.
 [^1]: I got my first Mac three years ago with my first Mac bundle: a code editor and several learn to code courses. Up until that point I was a techie who wanted to write for a living and code on the side. After going through a few courses and falling in love with OS X, I decided programming was for me. The rest is history.
 [^2]: Except I am really out of shape and live in a bad area and it was 9 PM.
 =======
+=======
+>>>>>>> Stashed changes
 Okay, so not really a love story, but a good one nevertheless.
 
 A while back, maybe a month and a half ago, I was in the Code & Supply Slack, a local code meetup in Pittsburgh, perhaps the largest one here. Listless, I went to the #jobs channel.
@@ -165,5 +168,8 @@ I'm excited for my future in this field.
 
 [^1]: I got my first Mac three years ago with my first Mac bundle: a code editor and several learn to code courses. Up until that point I was a techie who wanted to write for a living and code on the side. After going through a few courses and falling in love with OS X, I decided programming was for me. The rest is history.
 [^2]: Except I am really out of shape and live in a bad area and it was 9 PM.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^3]: Because of some faulty brain wiring, I need medication and it helps me fall asleep. Usually. If not I suffer from crippling insomnia and because I was so excited, I knew sleep was not in the cards.

@@ -19,6 +19,7 @@ categories:
   - Treehouse
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 I am taking the <a href="https://teamtreehouse.com/library/introducing-es2015">JavaScript ES6 course on Treehouse</a>. I should have waited a bit, as I am still learning ES5. Eric Elliott made the case that newbies should be learning ES6 right now as it is the current standard. So I am diving in.
 
 One of the things that has me excited are lambda functions. JavaScript calls them Arrow functions, but I like the traditional name better. So for this article, I will call them lambda functions.
@@ -165,6 +166,8 @@ myClassroom.addStudent({ name: 'Dave' });
 You use Promises asynchronously with callback functions, handing those functions off to another scope. You must be careful that the promise can access its original scope, or it will throw an exception.
 <h2>Web Dev CS 0134</h2>
 =======
+=======
+>>>>>>> Stashed changes
 I am taking the <a href="https://teamtreehouse.com/library/introducing-es2015">JavaScript ES6 course on Treehouse</a>. I should have waited a bit, as I am still learning ES5. Eric Elliott made the case that newbies should be learning ES6 right now as it is the current standard. So I am diving in.
 
 One of the things that has me excited are lambda functions. JavaScript calls them Arrow functions, but I like the traditional name better. So for this article, I will call them lambda functions.
@@ -310,5 +313,8 @@ myClassroom.addStudent({ name: 'Dave' });
 
 You use Promises asynchronously with callback functions, handing those functions off to another scope. You must be careful that the promise can access its original scope, or it will throw an exception.
 <h2>Web Dev CS 0134</h2>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 I really want to see what the web development course has in store for me this semester. I wonder if we will use ES6. I doubt it, but I am hopeful.

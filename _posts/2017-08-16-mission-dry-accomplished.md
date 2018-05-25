@@ -17,6 +17,7 @@ categories:
   - Web Development
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 When working with multiple levels of conditionals, it helps to DRY things up a bit: not repeating yourself can give performance gains as well as make your code more readable and elegant.
 
 Here is one of the monstrosities I had before:
@@ -114,6 +115,8 @@ Pretty cool.
 ## Learning Express with The Web Developer Bootcamp
 
 =======
+=======
+>>>>>>> Stashed changes
 When working with multiple levels of conditionals, it helps to DRY things up a bit: not repeating yourself can give performance gains as well as make your code more readable and elegant.
 
 Here is one of the monstrosities I had before:
@@ -210,5 +213,8 @@ Pretty cool.
 
 ## Learning Express with The Web Developer Bootcamp
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Pretty soon I’ll be diving deep into how much I am learning about Express with The Web Developer Bootcamp. To get a sense of where I was a couple days ago, [read this](https://medium.com/100-days-of-code/100-days-of-code-day-17-7b04669c68c6).

@@ -18,6 +18,7 @@ categories:
   - Free Code Camp
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 I am working on the Free Code Camp weather app quite consistently.
 
@@ -73,6 +74,8 @@ There are *a lot*of parameters here. Some are asking if you want to get the resu
 ## Link to the App?
 
 =======
+=======
+>>>>>>> Stashed changes
 
 I am working on the Free Code Camp weather app quite consistently.
 
@@ -127,5 +130,8 @@ There are *a lot*of parameters here. Some are asking if you want to get the resu
 
 ## Link to the App?
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 It's *almost* finished. Still need to get civic data and do some CSS Kung fu. But after that, it should be ready to go. No link-- I have an API key I am using and need to keep it a secret for a bit. Once it is done I will link it up on GitHub Project Pages.

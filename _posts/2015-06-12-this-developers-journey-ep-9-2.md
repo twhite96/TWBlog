@@ -18,6 +18,7 @@ categories:
   - Uncategorized
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo1.png" alt="Dev" width="391" height="391" />
 
 This week: What I’ve been doing this week (killing code, that’s what), women and minorities in tech and the fact that maybe there just isn’t any real interest in this in these demographics, and great news for this podcast and blog.
@@ -33,6 +34,8 @@ Women in Tech? Here are some articles on the topic.
 Code &amp; Supply is an AWESOME resource for Pittsburgh developers.
 
 =======
+=======
+>>>>>>> Stashed changes
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo1.png" alt="Dev" width="391" height="391" />
 
 This week: What I’ve been doing this week (killing code, that’s what), women and minorities in tech and the fact that maybe there just isn’t any real interest in this in these demographics, and great news for this podcast and blog.
@@ -47,5 +50,8 @@ Women in Tech? Here are some articles on the topic.
 
 Code &amp; Supply is an AWESOME resource for Pittsburgh developers.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 You can find out more about C&amp;S <a href="http://www.codeandsupply.co/">here</a>

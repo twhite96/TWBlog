@@ -13,6 +13,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <em>This will be a series on working with arrays. Not sure how long it will be but there is so much rich information about arrays in JavaScript that I don’t think I could fit it all into one post. It may not be a series after all; I may just revisit the topic every now and again.</em>
 <h2 id="&quot;arrays&quot;">Arrays</h2>
 An array is an object in JavaScript. It is a global object set out in a list between two brackets <code class="&quot;highlighter-rouge&quot;">[]</code>. Elements in an array are separated by a comma. An array can have any type of data, in any order, inside of the brackets.
@@ -59,6 +60,8 @@ console.log(howMany.length); // this will return 5 as there are 5 items in the a
 </code></pre>
 </div>
 =======
+=======
+>>>>>>> Stashed changes
 <em>This will be a series on working with arrays. Not sure how long it will be but there is so much rich information about arrays in JavaScript that I don’t think I could fit it all into one post. It may not be a series after all; I may just revisit the topic every now and again.</em>
 <h2 id="&quot;arrays&quot;">Arrays</h2>
 An array is an object in JavaScript. It is a global object set out in a list between two brackets <code class="&quot;highlighter-rouge&quot;">[]</code>. Elements in an array are separated by a comma. An array can have any type of data, in any order, inside of the brackets.
@@ -104,5 +107,8 @@ console.log(howMany.length); // this will return 5 as there are 5 items in the a
 // Not to be confused with *indeces*
 </code></pre>
 </div>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 These are some basic facts about JavaScript arrays. Stay tuned for more.

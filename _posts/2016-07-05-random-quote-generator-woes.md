@@ -15,6 +15,7 @@ categories:
   - Programming
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class="aligncenter size-full wp-image-1202" src="http://helloburgh.me/wp-content/uploads/2016/07/Optimized-frustrated_shrink.jpg" alt="frustrated" width="1000" height="666" />
 
 I spent a lot of time looking over Chris Coyer’s magical looking <em>Quotes on Design</em> website. I’ve also spent a lot of time looking at its structure in Chrome Dev Tools. I’ve played around with it and I am sort of stuck.
@@ -73,6 +74,8 @@ quoteMachine.init();
 Now, I am going to try to reverse engineer this to use the <em>Quotes on Design</em> API 4.0. There are parts of this that baffle me and parts that I understand.
 <h2>Seeking Help</h2>
 =======
+=======
+>>>>>>> Stashed changes
 <img class="aligncenter size-full wp-image-1202" src="http://helloburgh.me/wp-content/uploads/2016/07/Optimized-frustrated_shrink.jpg" alt="frustrated" width="1000" height="666" />
 
 I spent a lot of time looking over Chris Coyer’s magical looking <em>Quotes on Design</em> website. I’ve also spent a lot of time looking at its structure in Chrome Dev Tools. I’ve played around with it and I am sort of stuck.
@@ -130,5 +133,8 @@ quoteMachine.init();
 </pre>
 Now, I am going to try to reverse engineer this to use the <em>Quotes on Design</em> API 4.0. There are parts of this that baffle me and parts that I understand.
 <h2>Seeking Help</h2>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 I don’t know when I stopped asking for help. I am always in Gitter and on the forums and just recently I stopped going and asking. I am not sure why my behavior changed— I guess I have asked for so much help and no one is giving me the answer I seek. Is the design really that complicated? I am not sure but I am starting to feel exhausted by trying this. I am not giving up but I have been sitting on it for a week. I have thought about it everyday. I have tried to troubleshoot it in my head. It has become this mini obsession and I <em>need</em> to finish it before school starts.

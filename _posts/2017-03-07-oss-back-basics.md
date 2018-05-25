@@ -13,6 +13,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 So I essentially said, “School is not for me. Plus, I don’t have the money to finish anyway. Time to hang up the Pitt hoodie”.
 
 So that’s what I did. No mental health issues this time, just a real sense that I could be learning and doing so much more than what I was on my own.
@@ -49,6 +50,8 @@ Back working on it. Not much else to report about it though. Still struggling a 
 
 [^1]: I did my first pull request in Java. It was very easy.
 =======
+=======
+>>>>>>> Stashed changes
 So I essentially said, “School is not for me. Plus, I don’t have the money to finish anyway. Time to hang up the Pitt hoodie”.
 
 So that’s what I did. No mental health issues this time, just a real sense that I could be learning and doing so much more than what I was on my own.
@@ -84,4 +87,7 @@ I am also looking forward to understanding *how* to build a library in any langu
 Back working on it. Not much else to report about it though. Still struggling a bit.
 
 [^1]: I did my first pull request in Java. It was very easy.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

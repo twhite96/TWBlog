@@ -13,6 +13,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## Transition Timing Functions, Delays, and Transforms
 
 You can do some really cool things with CSS that I wasn't sure I would like.
@@ -96,6 +97,8 @@ I will be writing about CSS shorthand properties for `transition` and `transform
 
 [^1]: I know it's popular to crap on JavaScript but *I* really like it.
 =======
+=======
+>>>>>>> Stashed changes
 ## Transition Timing Functions, Delays, and Transforms
 
 You can do some really cool things with CSS that I wasn't sure I would like.
@@ -178,5 +181,8 @@ How cool is that?
 I will be writing about CSS shorthand properties for `transition` and `transform`.
 
 [^1]: I know it's popular to crap on JavaScript but *I* really like it.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^2]: As long as you're not using a heavy library. I'm looking at you, jQuery.

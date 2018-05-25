@@ -14,6 +14,7 @@ categories:
   - Programming
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <figure><a href="http://helloburgh.me/wp-content/uploads/2016/03/app.jpeg" rel="attachment wp-att-1014"><img class="aligncenter size-large wp-image-1014" src="http://helloburgh.me/wp-content/uploads/2016/03/app-1024x683.jpeg" alt="apps" width="700" height="467" /></a></figure>I have completed both front-end projects for Free Code Camp and I have taken a longer than usual break from programming for personal reasons <em>but</em> I miss it and am raring to get back to regularity.
 
 I am going to be going back to Free Code Camp to finish out the JavaScript track since they have added <em>even more</em> content— feels like I can’t keep up, which is frustrating but it’s good for the community.
@@ -154,6 +155,8 @@ I need to build up my portfolio. I have a few freelance projects lined up (one i
 I need to finish up some loose ends at Free Code Camp and I want to start Code Clinic Python with Lynda.com and Treehouse Python course refreshers. Need to manage my time better. This past week was awful for me.
 <h2>Thoughts</h2>
 =======
+=======
+>>>>>>> Stashed changes
 <figure><a href="http://helloburgh.me/wp-content/uploads/2016/03/app.jpeg" rel="attachment wp-att-1014"><img class="aligncenter size-large wp-image-1014" src="http://helloburgh.me/wp-content/uploads/2016/03/app-1024x683.jpeg" alt="apps" width="700" height="467" /></a></figure>I have completed both front-end projects for Free Code Camp and I have taken a longer than usual break from programming for personal reasons <em>but</em> I miss it and am raring to get back to regularity.
 
 I am going to be going back to Free Code Camp to finish out the JavaScript track since they have added <em>even more</em> content— feels like I can’t keep up, which is frustrating but it’s good for the community.
@@ -293,5 +296,8 @@ I need to build up my portfolio. I have a few freelance projects lined up (one i
 
 I need to finish up some loose ends at Free Code Camp and I want to start Code Clinic Python with Lynda.com and Treehouse Python course refreshers. Need to manage my time better. This past week was awful for me.
 <h2>Thoughts</h2>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 I am super busy. I started another blog for making. You can find it <a href="http://tiffanyrwhite.tech" target="_blank">here</a>. So there’s a lot going on but I need to put programming first.

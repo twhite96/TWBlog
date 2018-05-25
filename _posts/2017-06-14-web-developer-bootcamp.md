@@ -20,6 +20,7 @@ categories:
   - General Updates
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 So I am still working on Check Yo Self, but, like I do, I jumped into another tutorial where you build stuff. I am so stuck on and afraid of the logic of Check Yo Self that I decided that I needed to shore up some knowledge of basic JavaScript [^1] so I bought, and have started working on The Web Developer Bootcamp by [Colt Steele](https://www.linkedin.com/in/coltsteele/).
 
 Colt is a Bootcamp instructor in San Francisco [^2] and has taught students how to be professional full-stack web developers for mountains of money. His Udemy course is usually $1000 but I got it for $10 on one of their deal weeks.
@@ -246,6 +247,8 @@ Got all of these courses for $10 a piece. Not too bad.
 [^2]: His apartment has me starry-eyed and wishing for a dev job and I am *totally* California dreamin’.
 [^3]: A form. Of all things.
 =======
+=======
+>>>>>>> Stashed changes
 So I am still working on Check Yo Self, but, like I do, I jumped into another tutorial where you build stuff. I am so stuck on and afraid of the logic of Check Yo Self that I decided that I needed to shore up some knowledge of basic JavaScript [^1] so I bought, and have started working on The Web Developer Bootcamp by [Colt Steele](https://www.linkedin.com/in/coltsteele/).
 
 Colt is a Bootcamp instructor in San Francisco [^2] and has taught students how to be professional full-stack web developers for mountains of money. His Udemy course is usually $1000 but I got it for $10 on one of their deal weeks.
@@ -471,5 +474,8 @@ Got all of these courses for $10 a piece. Not too bad.
 [^1]: Not just jQuery.
 [^2]: His apartment has me starry-eyed and wishing for a dev job and I am *totally* California dreamin’.
 [^3]: A form. Of all things.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^4]: Guy’s last name is always escaping me.

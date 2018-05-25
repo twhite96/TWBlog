@@ -19,6 +19,7 @@ categories:
   - General Updates
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 When I first started this blog, I was learning Ruby and I loved it.
 
 This was before starting freeCodeCamp or Zed Shaw’s Learn Python the Hard Way series [^1].
@@ -65,6 +66,8 @@ It has been a great first week so far and I am looking forward to the weeks to c
 
 [^1]: LPTHW is quite opinionated and I am not sure if it is still recommended to new developers.
 =======
+=======
+>>>>>>> Stashed changes
 When I first started this blog, I was learning Ruby and I loved it.
 
 This was before starting freeCodeCamp or Zed Shaw’s Learn Python the Hard Way series [^1].
@@ -110,5 +113,8 @@ https://www.instagram.com/p/Bb0GHGygllG/?taken-by=twhitedev412
 It has been a great first week so far and I am looking forward to the weeks to come.
 
 [^1]: LPTHW is quite opinionated and I am not sure if it is still recommended to new developers.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^2]: And very little sleep. Trying to fix that.

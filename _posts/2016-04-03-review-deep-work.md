@@ -13,6 +13,7 @@ categories:
   - Book Reviews
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/25904506"><img src="http://d.gr-assets.com/books/1449422525m/25904506.jpg" alt="Deep Work: Rules for Focused Success in a Distracted World" border="0" /></a>
 <a href="http://www.goodreads.com/book/show/25904506">Deep Work: Rules for Focused Success in a Distracted World</a> by <a href="http://www.goodreads.com/author/show/147891">Cal Newport</a>
 My rating: <a href="http://www.goodreads.com/review/show/1576872102">5 of 5 stars</a>
@@ -29,6 +30,8 @@ The book made take a long hard look at myself and for me that's worth five stars
 
 
 =======
+=======
+>>>>>>> Stashed changes
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/25904506"><img src="http://d.gr-assets.com/books/1449422525m/25904506.jpg" alt="Deep Work: Rules for Focused Success in a Distracted World" border="0" /></a>
 <a href="http://www.goodreads.com/book/show/25904506">Deep Work: Rules for Focused Success in a Distracted World</a> by <a href="http://www.goodreads.com/author/show/147891">Cal Newport</a>
 My rating: <a href="http://www.goodreads.com/review/show/1576872102">5 of 5 stars</a>
@@ -44,5 +47,8 @@ Cal offers great suggestions and I have a few plugins and tools to make this eas
 The book made take a long hard look at myself and for me that's worth five stars.
 
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 <a href="http://www.goodreads.com/review/show/1576872102">View all my reviews</a>

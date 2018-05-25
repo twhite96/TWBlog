@@ -18,6 +18,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 As I step through The Web Developer Bootcamp, I am beginning to realize just how much I’ve learned the last two years and how it is beginning to codify in my brain.
 
 I am coming from a Humanities background but I have always had technical chops, working with circuits was a thing I liked to do; improvising is fun.
@@ -144,6 +145,8 @@ movies.forEach(function(movie) {
 
 ```
 =======
+=======
+>>>>>>> Stashed changes
 As I step through The Web Developer Bootcamp, I am beginning to realize just how much I’ve learned the last two years and how it is beginning to codify in my brain.
 
 I am coming from a Humanities background but I have always had technical chops, working with circuits was a thing I liked to do; improvising is fun.
@@ -269,5 +272,8 @@ movies.forEach(function(movie) {
 });
 
 ```
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^1]: The arrogant, competitive little snot I was still peeks through sometimes.

@@ -13,9 +13,15 @@ categories:
   - Uncategorized
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/02/55C1968ACE.jpg" alt="college" width="493" height="330" />
 I wrote a story over at <a href="https://medium.freecodecamp.com/a-look-back-my-year-of-traditional-computer-science-learning-and-self-teaching-9176dfd9651c#.9hzjtrxho">Medium</a> about my recent decision to drop out of school.
 
+=======
+<img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/02/55C1968ACE.jpg" alt="college" width="493" height="330" />
+I wrote a story over at <a href="https://medium.freecodecamp.com/a-look-back-my-year-of-traditional-computer-science-learning-and-self-teaching-9176dfd9651c#.9hzjtrxho">Medium</a> about my recent decision to drop out of school.
+
+>>>>>>> Stashed changes
 =======
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/02/55C1968ACE.jpg" alt="college" width="493" height="330" />
 I wrote a story over at <a href="https://medium.freecodecamp.com/a-look-back-my-year-of-traditional-computer-science-learning-and-self-teaching-9176dfd9651c#.9hzjtrxho">Medium</a> about my recent decision to drop out of school.

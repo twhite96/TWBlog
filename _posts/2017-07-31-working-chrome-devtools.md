@@ -22,6 +22,7 @@ categories:
   - Chrome DevTools Series
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img src="https://i.imgur.com/DZMZiDRundefined.gif" />
 
 After working with web dev technologies for the past two years, I am finally beginning to understand the virtues of developer tools, specifically Chrome DevTools [^1].
@@ -56,6 +57,8 @@ I think I will make a series out of this. What do you think?
 [^2]: Hackers hack: I spent my late teens and early twenties just playing around with Windows, not being scared of breaking things. Not sure why I didn’t just play around with the tools.
 [^3]: And watched countless tutorials…
 =======
+=======
+>>>>>>> Stashed changes
 <img src="https://i.imgur.com/DZMZiDRundefined.gif" />
 
 After working with web dev technologies for the past two years, I am finally beginning to understand the virtues of developer tools, specifically Chrome DevTools [^1].
@@ -89,5 +92,8 @@ I think I will make a series out of this. What do you think?
 [^1]: I can definitely argue they are the best around. Safari, on the Mac is probably the worst, but then, Apple has no incentive to give web developers tools because it won’t help their bottom line, i.e. App Store.
 [^2]: Hackers hack: I spent my late teens and early twenties just playing around with Windows, not being scared of breaking things. Not sure why I didn’t just play around with the tools.
 [^3]: And watched countless tutorials…
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^4]: It’s really a ridiculous class: page-id? I was stumped while making the gif. Ha.

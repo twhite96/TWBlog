@@ -14,6 +14,7 @@ categories:
   - Programming
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/Digging.jpeg"><img class="aligncenter size-large wp-image-1074" src="http://helloburgh.me/wp-content/uploads/2016/04/Digging-1024x683.jpeg" alt="Digging" width="700" height="467" /></a>
 
 
@@ -83,6 +84,8 @@ I have pretty much stuck to what I said I was going to do. I had Sunday off and 
 I won’t get into which is better, Prototypal of Classical Inheritance. There are plenty of <a href="http://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical" target="_blank">articles</a> about <a href="https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.irm1j6oxw" target="_blank">this</a>.
 
 =======
+=======
+>>>>>>> Stashed changes
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/Digging.jpeg"><img class="aligncenter size-large wp-image-1074" src="http://helloburgh.me/wp-content/uploads/2016/04/Digging-1024x683.jpeg" alt="Digging" width="700" height="467" /></a>
 
 
@@ -151,5 +154,8 @@ I have pretty much stuck to what I said I was going to do. I had Sunday off and 
 <h2>Thoughts</h2>
 I won’t get into which is better, Prototypal of Classical Inheritance. There are plenty of <a href="http://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical" target="_blank">articles</a> about <a href="https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.irm1j6oxw" target="_blank">this</a>.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 I am reading a lot of Eric Elliott’s posts on the topic. It doesn’t jive with the stuff I am learning as it leans heavily on Prototypal Inheritance features in ES6. But I need to learn the OOP way first, at least for now, to lessen confusion.

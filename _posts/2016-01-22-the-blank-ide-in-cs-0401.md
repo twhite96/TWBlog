@@ -17,6 +17,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/JPEG-image-A22950F8B471-1.jpeg" alt="fire" />
 
 First let me say, the class with <a href="https://twitter.com/billlaboon">Licence to Bill</a>, my professor, kills it every class. Seriously. If you’re a Pitt student and haven’t taken him, <strong>do it</strong>. Like <strong>now</strong>. And get yourself an IDE. More on that later.
@@ -73,6 +74,8 @@ I just think it’s far more efficient to get the runtime and compile errors wit
 Bill doesn’t want those .idea folders or .iml files so I added them to my gitignore file and none of those were upload to the repository. Use your gitignore files, friends!
 
 =======
+=======
+>>>>>>> Stashed changes
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/JPEG-image-A22950F8B471-1.jpeg" alt="fire" />
 
 First let me say, the class with <a href="https://twitter.com/billlaboon">Licence to Bill</a>, my professor, kills it every class. Seriously. If you’re a Pitt student and haven’t taken him, <strong>do it</strong>. Like <strong>now</strong>. And get yourself an IDE. More on that later.
@@ -128,5 +131,8 @@ I just think it’s far more efficient to get the runtime and compile errors wit
 
 Bill doesn’t want those .idea folders or .iml files so I added them to my gitignore file and none of those were upload to the repository. Use your gitignore files, friends!
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 I have a lot of respect for the text editors I’ve worked in and I probably will stick with VS Code and the <em>plethora</em> of excellent JavaScript tooling modules out there for writing JavaScript heavy apps, no offense to WebStorm. But for code that doesn’t have the tooling JavaScript has, I will stick with IDEs like IntelliJ and RubyMine.

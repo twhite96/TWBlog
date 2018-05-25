@@ -14,6 +14,7 @@ categories:
   - Semester Updates
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class="alignnone size-full wp-image-1280" src="https://helloburgh.me/wp-content/uploads/2016/09/people-coffee-tea-meeting-1.jpg" width="1280" height="853" />
 
 First week of class has started. I have a pretty easy way of it this semester. There’s a CS class which is all web dev, and an InfoSci class that is design, basics, and some programming.
@@ -74,6 +75,8 @@ https://gist.github.com/twhite96/88882d73339e79583705fe9484846a64
 &nbsp;
 
 =======
+=======
+>>>>>>> Stashed changes
 <img class="alignnone size-full wp-image-1280" src="https://helloburgh.me/wp-content/uploads/2016/09/people-coffee-tea-meeting-1.jpg" width="1280" height="853" />
 
 First week of class has started. I have a pretty easy way of it this semester. There’s a CS class which is all web dev, and an InfoSci class that is design, basics, and some programming.
@@ -133,5 +136,8 @@ https://gist.github.com/twhite96/88882d73339e79583705fe9484846a64
 
 &nbsp;
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 [^1]: The 4 out of 7 of us participating, anyway

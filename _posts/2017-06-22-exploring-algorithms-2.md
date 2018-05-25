@@ -13,6 +13,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <h2 id="&quot;what-is-meant-by-an-algorithm&quot;">What Is Meant by an Algorithm?</h2>
 Algorithms are simple: they are a set of instructions broken down into simple steps in order to complete a larger task.
 
@@ -176,6 +177,8 @@ This a simple algorithm yet if you’re new to algorithms and programming in gen
 To see the implementation in java:
 
 =======
+=======
+>>>>>>> Stashed changes
 <h2 id="&quot;what-is-meant-by-an-algorithm&quot;">What Is Meant by an Algorithm?</h2>
 Algorithms are simple: they are a set of instructions broken down into simple steps in order to complete a larger task.
 
@@ -338,5 +341,8 @@ This a simple algorithm yet if you’re new to algorithms and programming in gen
 
 To see the implementation in java:
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 https://www.youtube.com/embed/RqfWvIsYmsc

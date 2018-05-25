@@ -20,6 +20,7 @@ categories:
   - Web Development
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/02/carl_sagan.jpg" alt="front-end_programming" width="624" height="471" />
 
 So I am working on the front-end programming projects for Free Code Camp. The first one is a tribute page to anyone you want. I chose Carl Sagan as he is my skeptical hero and scientist “for the people”. I’ve read one of his books and plenty of his essays and I just think the guy was amazing, smart, and could relay complicated scientific concepts to lay people.
@@ -41,6 +42,8 @@ I also want to make the quotes float left and be in a block. Not sure how I am g
 It’s crude but I am working on it. You can find the pen here:
 
 =======
+=======
+>>>>>>> Stashed changes
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/02/carl_sagan.jpg" alt="front-end_programming" width="624" height="471" />
 
 So I am working on the front-end programming projects for Free Code Camp. The first one is a tribute page to anyone you want. I chose Carl Sagan as he is my skeptical hero and scientist “for the people”. I’ve read one of his books and plenty of his essays and I just think the guy was amazing, smart, and could relay complicated scientific concepts to lay people.
@@ -61,5 +64,8 @@ I also want to make the quotes float left and be in a block. Not sure how I am g
 
 It’s crude but I am working on it. You can find the pen here:
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 http://codepen.io/twhite96/pen/dMbwyM

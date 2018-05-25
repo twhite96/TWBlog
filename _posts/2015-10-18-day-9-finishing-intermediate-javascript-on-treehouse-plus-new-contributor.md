@@ -34,17 +34,23 @@ event handler to traverse a certain part of the DOM (when something is clicked) 
 to listen for a click on an element specified as the argument to the method. For instance here:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:javascript decode:1 " >
 addButton.onclick = addTask;
 //Set the click handler to the addTask function
 addButton.addEventListener(&amp;quot;click&amp;quot;, addTask);
 addButton.addEventListener(&amp;quot;click&amp;quot;, ajaxRequest);
 =======
+=======
+>>>>>>> Stashed changes
 <pre class="lang:javascript decode:1 " >
 addButton.onclick = addTask;
 //Set the click handler to the addTask function
 addButton.addEventListener(&amp;quot;click&amp;quot;, addTask);
 addButton.addEventListener(&amp;quot;click&amp;quot;, ajaxRequest);
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </pre>
 

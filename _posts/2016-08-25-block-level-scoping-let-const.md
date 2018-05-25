@@ -17,6 +17,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class="alignnone size-full wp-image-1251" src="http://helloburgh.me/wp-content/uploads/2016/08/const_shrink.jpg" width="3000" height="2143" />
 
 This is an exposè on the difference between function and block level scope using <code>let</code> and <code>const</code> in JavaScript. The following explanation is how I’ve come to understand them so far <sup><a id="ffn1" href="#fn1" class="footnote">1</a></sup>.
@@ -146,6 +147,8 @@ What do you think? Are you taking advantage of ES6’s <code>let</code> and <cod
 	<li id="fn2">An aside: In JavaScript, the interpreter will hoist variable declarations but not initializations.  <a href="#ffn2">&#8617;</a></li>
 	<li id="fn3">Immediately Invoked Function Expression <a href="#ffn3">&#8617;</a></li>
 =======
+=======
+>>>>>>> Stashed changes
 <img class="alignnone size-full wp-image-1251" src="http://helloburgh.me/wp-content/uploads/2016/08/const_shrink.jpg" width="3000" height="2143" />
 
 This is an exposè on the difference between function and block level scope using <code>let</code> and <code>const</code> in JavaScript. The following explanation is how I’ve come to understand them so far <sup><a id="ffn1" href="#fn1" class="footnote">1</a></sup>.
@@ -274,5 +277,8 @@ What do you think? Are you taking advantage of ES6’s <code>let</code> and <cod
 	<li id="fn1">StackOverflow ftw <a href="#ffn1">&#8617;</a></li>
 	<li id="fn2">An aside: In JavaScript, the interpreter will hoist variable declarations but not initializations.  <a href="#ffn2">&#8617;</a></li>
 	<li id="fn3">Immediately Invoked Function Expression <a href="#ffn3">&#8617;</a></li>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 </ol>

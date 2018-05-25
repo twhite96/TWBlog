@@ -31,8 +31,13 @@ But while I was reading my textbook chapter on arrays, I noticed that you can it
 Arrays in Java are initialized completely differently as you must specify a data type and the slots you allocate in the array cannot be changed, as such, it is immutable. Here is an example of an array in Java:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >int[] myArray;
 myArray = new int[10];
+=======
+<pre class="lang:java decode:1 " >int[] myArray;
+myArray = new int[10];
+>>>>>>> Stashed changes
 =======
 <pre class="lang:java decode:1 " >int[] myArray;
 myArray = new int[10];
@@ -52,6 +57,7 @@ An array in JavaScript looks like this:
 So, I first got a taste of iterating through an array in JavaScript while working the Bonfires at Free Code Camp, which use algorithms to help you better understand the ins and outs of the language. One of the ways you can iterate through an array in JavaScript is by a for loop and a .length method depending on what you need. Here is the syntax of an algorithm I wrote in order to find out if a word was a palindrome or not:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:javascript decode:1 " >function palindrome(str) {
  str = str.toLowerCase().replace(/[\W_]/g, &quot;&quot;);
  for(var i = 0, len = str.length - 1; i &amp;lt; len/2; i++) {
@@ -66,6 +72,8 @@ So, I first got a taste of iterating through an array in JavaScript while workin
 
 
 =======
+=======
+>>>>>>> Stashed changes
 <pre class="lang:javascript decode:1 " >function palindrome(str) {
  str = str.toLowerCase().replace(/[\W_]/g, &quot;&quot;);
  for(var i = 0, len = str.length - 1; i &amp;lt; len/2; i++) {
@@ -79,6 +87,9 @@ So, I first got a taste of iterating through an array in JavaScript while workin
 
 
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 palindrome(&quot;eye&quot;);</pre>
 
@@ -93,15 +104,21 @@ The next part checks each index of the array to see if it is the same later, goi
 The for loop in a Java array iteration looks the same when you just break it down into the method body. For instance:
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >public static void showArray(int|) array)
 {
  for (int i = 0; i &lt; array.length; i++)
  System.out.print(array(i] + &quot; &quot;);
 =======
+=======
+>>>>>>> Stashed changes
 <pre class="lang:java decode:1 " >public static void showArray(int|) array)
 {
  for (int i = 0; i &lt; array.length; i++)
  System.out.print(array(i] + &quot; &quot;);
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 }</pre>
 

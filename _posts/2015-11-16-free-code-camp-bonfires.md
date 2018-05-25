@@ -21,6 +21,7 @@ categories:
   - "Tiffany's Posts"
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img src="http://helloburgh.me/wp-content/uploads/2015/11/wpid-0G7N1L3G2F.jpg" alt="bonfire" />
 <blockquote>“…talent means nothing, while experience, acquired in humility and with hard work, means everything.”
 ― Patrick Süskind, <em>Perfume: The story of a murderer</em></blockquote>
@@ -49,6 +50,8 @@ https://gist.github.com/twhite96/d093f42db2954b8a84a7#file-bonfire_longest_word-
 &nbsp;
 
 =======
+=======
+>>>>>>> Stashed changes
 <img src="http://helloburgh.me/wp-content/uploads/2015/11/wpid-0G7N1L3G2F.jpg" alt="bonfire" />
 <blockquote>“…talent means nothing, while experience, acquired in humility and with hard work, means everything.”
 ― Patrick Süskind, <em>Perfume: The story of a murderer</em></blockquote>
@@ -76,5 +79,8 @@ https://gist.github.com/twhite96/d093f42db2954b8a84a7#file-bonfire_longest_word-
 
 &nbsp;
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 &nbsp;

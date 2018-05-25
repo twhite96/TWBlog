@@ -18,6 +18,7 @@ categories:
   - Web Development
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <a href="http://helloburgh.me/wp-content/uploads/2016/03/JPEG-image-573A94AF296B-1-1.jpeg" rel="attachment wp-att-978"><img class="aligncenter wp-image-978" src="http://helloburgh.me/wp-content/uploads/2016/03/JPEG-image-573A94AF296B-1-1.jpeg" alt="JPEG image-573A94AF296B-1" width="559" height="567" /></a>So I started the portfolio project on March 10th and finished it today. I had help from the Gitter chat but not as much as last time.
 
 I took the example code and re-engineered it to fit what I wanted to do. I added an unordered list, a cover photo, a mailto: link and a few other things.
@@ -43,6 +44,8 @@ This allowed me to negated the overflow on the x axis part of the page which is 
 You can find the Pen below.
 
 =======
+=======
+>>>>>>> Stashed changes
 <a href="http://helloburgh.me/wp-content/uploads/2016/03/JPEG-image-573A94AF296B-1-1.jpeg" rel="attachment wp-att-978"><img class="aligncenter wp-image-978" src="http://helloburgh.me/wp-content/uploads/2016/03/JPEG-image-573A94AF296B-1-1.jpeg" alt="JPEG image-573A94AF296B-1" width="559" height="567" /></a>So I started the portfolio project on March 10th and finished it today. I had help from the Gitter chat but not as much as last time.
 
 I took the example code and re-engineered it to fit what I wanted to do. I added an unordered list, a cover photo, a mailto: link and a few other things.
@@ -67,5 +70,8 @@ This allowed me to negated the overflow on the x axis part of the page which is 
 
 You can find the Pen below.
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 http://codepen.io/twhite96/pen/GZJRJz

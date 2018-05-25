@@ -16,6 +16,7 @@ categories:
   - Uncategorized
 ---
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-TWW_movil_20.jpg" alt="Dev_desk" width="671" height="671" />
 <h2>Show Notes</h2>
 <a href="http://teamtreehouse.com">Treehouse– learn how to code.</a>
@@ -46,6 +47,8 @@ categories:
 <a href="http://joequery.me/code/the-self-hating-web-developer">The Self-Hating Web Developer</a>
 
 =======
+=======
+>>>>>>> Stashed changes
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-TWW_movil_20.jpg" alt="Dev_desk" width="671" height="671" />
 <h2>Show Notes</h2>
 <a href="http://teamtreehouse.com">Treehouse– learn how to code.</a>
@@ -75,5 +78,8 @@ categories:
 
 <a href="http://joequery.me/code/the-self-hating-web-developer">The Self-Hating Web Developer</a>
 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 <a href="http://www.renfei.org/snippets-lab/">SnippetsLab for Mac</a>
