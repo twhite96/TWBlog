@@ -15,14 +15,11 @@ branches:
   - master     # test the gh-pages branch
   # - /pages-(.*)/ # test every branch which starts with "pages-"
 
-<<<<<<< Updated upstream
 deploy:
   provider: surge
   project: ./_site
   skip_cleanup: true
 
-=======
->>>>>>> Stashed changes
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
