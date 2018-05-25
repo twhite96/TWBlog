@@ -15,8 +15,8 @@ tags:
 categories:
   - School
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class="size-full wp-image-1386 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/11/coding_in_java.jpeg" width="4047" height="2698" />
 
 I have about a month left of the fall semester. I am doing better than the previous two, though I’d like to boost my grade in InfoSci up to at least a B. Stupid study mistakes on my part led to a C on the midterm— being sure you know something and actually knowing it are two different things. Even if you go over it a million times, it doesn’t hurt to study it again.
@@ -37,9 +37,9 @@ https://gist.github.com/twhite96/64a9446a18c1aa188b7c9118cb85908f
 <h3>Answer</h3>
 https://gist.github.com/twhite96/fc16f748768bc62e3fc7dae5676a0c65
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class="size-full wp-image-1386 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/11/coding_in_java.jpeg" width="4047" height="2698" />
 
 I have about a month left of the fall semester. I am doing better than the previous two, though I’d like to boost my grade in InfoSci up to at least a B. Stupid study mistakes on my part led to a C on the midterm— being sure you know something and actually knowing it are two different things. Even if you go over it a million times, it doesn’t hurt to study it again.
@@ -60,8 +60,8 @@ https://gist.github.com/twhite96/64a9446a18c1aa188b7c9118cb85908f
 <h3>Answer</h3>
 https://gist.github.com/twhite96/fc16f748768bc62e3fc7dae5676a0c65
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 Pretty simple Java stuff, no?

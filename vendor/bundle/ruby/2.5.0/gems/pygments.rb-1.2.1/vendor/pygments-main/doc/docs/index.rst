@@ -1,5 +1,5 @@
 Pygments documentation
-======================
+=
 
 **Starting with Pygments**
 

@@ -17,8 +17,8 @@ tags:
 categories:
   - Programming
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo2.png" alt="Dev" width="416" height="416" />
 
 In this episode I interview Mark Pearyer, father, student, developer and Code Newbie veteran. He shares his insights on coding, balance, and the hustle.
@@ -37,9 +37,9 @@ Other links:
 
 <a href="https://kanbanflow.com">KanbanFlow</a>
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo2.png" alt="Dev" width="416" height="416" />
 
 In this episode I interview Mark Pearyer, father, student, developer and Code Newbie veteran. He shares his insights on coding, balance, and the hustle.
@@ -58,8 +58,8 @@ Other links:
 
 <a href="https://kanbanflow.com">KanbanFlow</a>
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 <a href="http://happenapps.com">Quiver</a>

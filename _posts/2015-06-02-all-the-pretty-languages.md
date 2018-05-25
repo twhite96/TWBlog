@@ -15,8 +15,8 @@ tags:
 categories:
   - Uncategorized
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-Help-button.jpg" alt="Ugh" />
 
 &nbsp;
@@ -39,9 +39,9 @@ I also want to start building. I have a nice forked <a href="http://codepen.io/t
 
 Here is what the calculator looks like. The CSS will be modified by Mark Pearyer and I will see what else I can bring to the table.
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-Help-button.jpg" alt="Ugh" />
 
 &nbsp;
@@ -64,8 +64,8 @@ I also want to start building. I have a nice forked <a href="http://codepen.io/t
 
 Here is what the calculator looks like. The CSS will be modified by Mark Pearyer and I will see what else I can bring to the table.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 [codepen_embed height="268" theme_id="0" slug_hash="GJrdoq" default_tab="result" user="twhite96"]See the Pen &lt;a href='http://codepen.io/twhite96/pen/GJrdoq/'&gt;GJrdoq&lt;/a&gt; by Tiffany White (&lt;a href='http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;) on &lt;a href='http://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]

@@ -14,8 +14,8 @@ categories:
   - New Years Reflections
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img src="http://helloburgh.me/wp-content/uploads/2016/03/Goals.jpeg" alt="new_years_goals" />
 
 
@@ -35,9 +35,9 @@ categories:
 
 <p>I will probably do better in the exercise and sleep department, as I need to. I also want to get to more meetups. I can do that now that I am not pressed for time.</p>
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img src="http://helloburgh.me/wp-content/uploads/2016/03/Goals.jpeg" alt="new_years_goals" />
 
 
@@ -57,8 +57,8 @@ categories:
 
 <p>I will probably do better in the exercise and sleep department, as I need to. I also want to get to more meetups. I can do that now that I am not pressed for time.</p>
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 <p>I will be sharing my progress and reassessing what I need to get done in three months. These goals may change.</p>

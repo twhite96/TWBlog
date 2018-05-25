@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-===================================
+
 Using Pygments in various scenarios
-===================================
+
 
 Markdown
 --------

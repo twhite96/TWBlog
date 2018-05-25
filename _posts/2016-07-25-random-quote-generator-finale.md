@@ -13,8 +13,8 @@ categories:
   - Daily Progress
   - Free Code Camp
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class="aligncenter size-large wp-image-1221" src="http://helloburgh.me/wp-content/uploads/2016/07/celebrate-1-1024x683.jpeg" alt="celebrate" width="700" height="467" />
 
 So I am <em>finally</em> finished with the Free Code Camp Random Quote Generator. I can breathe a sigh of relief until next project.
@@ -50,9 +50,9 @@ http://codepen.io/twhite96/pen/XKqrJX
  	<li id="fn1">I am a pro user. A lot of features come in super handy while building apps in there for Free Code Camp <a href="#ffn1">↩︎</a></li>
  	<li id="fn2">Hopefully it is free to use <a href="#ffn2">↩︎</a></li>
  	<li id="fn3">There’s a caveat, though and that is there is a bug in Twitter sharing that adds a <code>&lt;p&gt;</code> tag to the beginning of the share. I am looking into it and will hope to fix it in the next few days. <a href="#ffn3">↩︎</a></li>
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class="aligncenter size-large wp-image-1221" src="http://helloburgh.me/wp-content/uploads/2016/07/celebrate-1-1024x683.jpeg" alt="celebrate" width="700" height="467" />
 
 So I am <em>finally</em> finished with the Free Code Camp Random Quote Generator. I can breathe a sigh of relief until next project.
@@ -88,8 +88,8 @@ http://codepen.io/twhite96/pen/XKqrJX
  	<li id="fn1">I am a pro user. A lot of features come in super handy while building apps in there for Free Code Camp <a href="#ffn1">↩︎</a></li>
  	<li id="fn2">Hopefully it is free to use <a href="#ffn2">↩︎</a></li>
  	<li id="fn3">There’s a caveat, though and that is there is a bug in Twitter sharing that adds a <code>&lt;p&gt;</code> tag to the beginning of the share. I am looking into it and will hope to fix it in the next few days. <a href="#ffn3">↩︎</a></li>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 </ol>

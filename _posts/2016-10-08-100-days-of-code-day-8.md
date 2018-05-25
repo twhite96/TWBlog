@@ -15,8 +15,8 @@ tags:
 categories:
   - 100 Days of Code
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class="size-full wp-image-1362 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-2.png" alt="100-days-of-code-day-8" width="256" height="256" />
 
 ## Day 8: 8 October 2016
@@ -35,9 +35,9 @@ Today I just added a cart font-awesome icon to the navbar and worked primarily o
 
 **Thoughts:** Things are getting together quite nicely. I am starting to get wound up about it though and so I need to take more of a break. I am Type-A all the way. Once I am heads down and working for a whole week, I find it hard to quit and relax. I need to relax tomorrow so I don’t burn out.
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class="size-full wp-image-1362 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-2.png" alt="100-days-of-code-day-8" width="256" height="256" />
 
 ## Day 8: 8 October 2016
@@ -56,8 +56,8 @@ Today I just added a cart font-awesome icon to the navbar and worked primarily o
 
 **Thoughts:** Things are getting together quite nicely. I am starting to get wound up about it though and so I need to take more of a break. I am Type-A all the way. Once I am heads down and working for a whole week, I find it hard to quit and relax. I need to relax tomorrow so I don’t burn out.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 **Link to work:** I didn’t host the assignment anywhere to actually *see* it. **Update**: I posted the code on [CodePen](https://codepen.io/twhite96/pen/XjEgvq). As always, you can find my site at [The Lens Cap](https://twhite96.github.io/The-Lens-Cap/).

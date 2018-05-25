@@ -14,8 +14,8 @@ categories:
   - Pitt
   - School
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class="aligncenter size-full wp-image-1206" src="http://helloburgh.me/wp-content/uploads/2016/07/logo_-university-of-pittsburgh-panthers-pitt-paw_shrink.png" alt="logo_-university-of-pittsburgh-panthers-pitt-paw_shrink" width="500" height="500" />
 
 &nbsp;
@@ -54,9 +54,9 @@ and <a href="https://trello.com/b/6hbpStI7/mathematics-mastery" target="_blank">
 
 boards.
 <h2>Let’s Get It</h2>
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class="aligncenter size-full wp-image-1206" src="http://helloburgh.me/wp-content/uploads/2016/07/logo_-university-of-pittsburgh-panthers-pitt-paw_shrink.png" alt="logo_-university-of-pittsburgh-panthers-pitt-paw_shrink" width="500" height="500" />
 
 &nbsp;
@@ -95,8 +95,8 @@ and <a href="https://trello.com/b/6hbpStI7/mathematics-mastery" target="_blank">
 
 boards.
 <h2>Let’s Get It</h2>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 As all the meatheads I know say. I say it too, especially when I am tired and am headed to the gym. Which is something all of us could stand doing, or walking. I find that a little bit of exercise has the power to lift my mood like nothing else. So, get out there. Learn. Walk. Be the best you can. I am trying my hand at this again and this time I won’t fail.

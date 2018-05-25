@@ -13,8 +13,8 @@ categories:
   - General Updates
   - Rants
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/shitonjs.jpeg" rel="attachment wp-att-1035"><img class="aligncenter size-large wp-image-1035" src="http://helloburgh.me/wp-content/uploads/2016/04/shitonjs-1024x683.jpeg" alt="shit_on_javascript_mmkay" width="700" height="467" /></a>
 
 &nbsp;
@@ -40,9 +40,9 @@ Micro-dependencies to hide complexity isn’t something we should be doing. Mayb
 <strong>Strive to have as few dependencies as possible, where possible</strong>. This isn’t a JavaScript thing. Less gems, less npm modules, less swift packages. Just <strong>write good code</strong>. If you’re a shitty developer, you probably couldn’t care less about any of this. This type of laziness isn’t quarantined to the JavaScript community so let’s stop pretending that is.
 <ol id="footnotes">
 	<li id="fn1">I am not totally clear on what left-pad does <a href="#ffn1">↩︎</a></li>
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/shitonjs.jpeg" rel="attachment wp-att-1035"><img class="aligncenter size-large wp-image-1035" src="http://helloburgh.me/wp-content/uploads/2016/04/shitonjs-1024x683.jpeg" alt="shit_on_javascript_mmkay" width="700" height="467" /></a>
 
 &nbsp;
@@ -68,8 +68,8 @@ Micro-dependencies to hide complexity isn’t something we should be doing. Mayb
 <strong>Strive to have as few dependencies as possible, where possible</strong>. This isn’t a JavaScript thing. Less gems, less npm modules, less swift packages. Just <strong>write good code</strong>. If you’re a shitty developer, you probably couldn’t care less about any of this. This type of laziness isn’t quarantined to the JavaScript community so let’s stop pretending that is.
 <ol id="footnotes">
 	<li id="fn1">I am not totally clear on what left-pad does <a href="#ffn1">↩︎</a></li>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 </ol>

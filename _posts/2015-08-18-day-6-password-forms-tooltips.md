@@ -34,8 +34,8 @@ in relation to making it so the tooltips showed up when we clicked in the formâ€
 
 The code looked something like this:
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >//Problem: Hints are shown even when form is valid
 //Solution: Hide and show them at appropriate times
 var $password = $(&quot;#password&quot;);
@@ -66,9 +66,9 @@ function passwordEvent(){
  $password.next().show();
  }
 }
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <pre class="lang:javascript decode:1 " >//Problem: Hints are shown even when form is valid
 //Solution: Hide and show them at appropriate times
 var $password = $(&quot;#password&quot;);
@@ -99,10 +99,10 @@ function passwordEvent(){
  $password.next().show();
  }
 }
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 We practiced DRY programming by wrapping our resued methods, variables, etc in functions.

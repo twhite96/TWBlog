@@ -15,8 +15,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class="size-full wp-image-1466 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/12/Image-12-9-16-1-56-PM.jpeg" width="500" height="660" />
 
 I have been writing here at Code Newbie in Pittsburgh for almost two years. It will be two years on December 26th.
@@ -54,9 +54,9 @@ Here is the Trello board for my grades:
 
 ## What Will the Next Two Years Hold?
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class="size-full wp-image-1466 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/12/Image-12-9-16-1-56-PM.jpeg" width="500" height="660" />
 
 I have been writing here at Code Newbie in Pittsburgh for almost two years. It will be two years on December 26th.
@@ -94,8 +94,8 @@ Here is the Trello board for my grades:
 
 ## What Will the Next Two Years Hold?
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 I will hopefully be graduated by the time two more years is up. I will probably be actively seeking employment in the 'burgh and then, after experience is gained, moving out west. I wonder what I will call this blog then? ;-)

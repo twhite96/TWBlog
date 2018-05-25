@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-======================
+=
 Command Line Interface
-======================
+=
 
 You can use Pygments from the shell, provided you installed the
 :program:`pygmentize` script::

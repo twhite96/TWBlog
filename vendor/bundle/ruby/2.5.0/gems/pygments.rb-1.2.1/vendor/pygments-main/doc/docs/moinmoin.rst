@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-============================
+
 Using Pygments with MoinMoin
-============================
+
 
 From Pygments 0.7, the source distribution ships a `Moin`_ parser plugin that
 can be used to get Pygments highlighting in Moin wiki pages.

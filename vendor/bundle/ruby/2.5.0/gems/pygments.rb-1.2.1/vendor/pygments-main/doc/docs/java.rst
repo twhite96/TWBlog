@@ -1,6 +1,6 @@
-=====================
+
 Use Pygments in Java
-=====================
+
 
 Thanks to `Jython <http://www.jython.org>`_ it is possible to use Pygments in
 Java.

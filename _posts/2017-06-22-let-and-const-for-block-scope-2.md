@@ -12,8 +12,8 @@ tags: [ ]
 categories:
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 Up until ES6, you couldn’t achieve true block scoping in JavaScript. With the <code class="&quot;highlighter-rouge&quot;">var</code> keyword, the scope in a code block could be accessed in the global scope, as variable declarations are hoisted to the top of scope and the assignments are kept where they are.
 
 For instance, take this code:
@@ -65,9 +65,9 @@ You can make a <code class="&quot;highlighter-rouge&quot;">const</code> value im
 <h2 id="&quot;what-should-you-use&quot;">What Should You Use?</h2>
 I’ll leave you with a quote by <a href="&quot;https://twitter.com/getify&quot;">Kyle Simpson</a>:
 <blockquote>let improves scoping options in JS, not replaces. var is still a useful signal for variables that are used throughout the function. Having both, and using both, means scoping intent is clearer to understand and maintain and enforce. That’s a big win!</blockquote>
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 Up until ES6, you couldn’t achieve true block scoping in JavaScript. With the <code class="&quot;highlighter-rouge&quot;">var</code> keyword, the scope in a code block could be accessed in the global scope, as variable declarations are hoisted to the top of scope and the assignments are kept where they are.
 
 For instance, take this code:
@@ -119,8 +119,8 @@ You can make a <code class="&quot;highlighter-rouge&quot;">const</code> value im
 <h2 id="&quot;what-should-you-use&quot;">What Should You Use?</h2>
 I’ll leave you with a quote by <a href="&quot;https://twitter.com/getify&quot;">Kyle Simpson</a>:
 <blockquote>let improves scoping options in JS, not replaces. var is still a useful signal for variables that are used throughout the function. Having both, and using both, means scoping intent is clearer to understand and maintain and enforce. That’s a big win!</blockquote>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 [^1]: ES2015. Sorry.

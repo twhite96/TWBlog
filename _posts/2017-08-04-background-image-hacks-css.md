@@ -21,8 +21,8 @@ tags:
 categories:
   - Web Development
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 Yesterday [^1] I found myself in a situation where the background image in my freeCodeCamp Weather App on mobile was cut off at the bottom. Needed some background image hacks in css to fix it.
 
 <img class="wp-image-2185 aligncenter" src="https://tiffanywhite.tech/wp-content/uploads/2017/08/Image-8-3-17-1-48-PM.jpeg" width="203" height="358" />
@@ -119,9 +119,9 @@ You can find the weather app at [https://twhite96.github.io/Weather\_App](https:
 [^1]: And for several days before that actually.
 
 </div>
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 Yesterday [^1] I found myself in a situation where the background image in my freeCodeCamp Weather App on mobile was cut off at the bottom. Needed some background image hacks in css to fix it.
 
 <img class="wp-image-2185 aligncenter" src="https://tiffanywhite.tech/wp-content/uploads/2017/08/Image-8-3-17-1-48-PM.jpeg" width="203" height="358" />
@@ -218,8 +218,8 @@ You can find the weather app at [https://twhite96.github.io/Weather\_App](https:
 [^1]: And for several days before that actually.
 
 </div>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 </div>

@@ -14,8 +14,8 @@ categories:
   - Ideas
   - Productivity
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-18_09-41-31_PM.png"><img class="aligncenter size-large wp-image-1055" src="http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-18_09-41-31_PM-1024x586.png" alt="Screenshot2016-04-18_09-41-31_PM" width="700" height="401" /></a>
 
 <p>Chris Johnson, one of my favorite programming <a href="http://www.thatamazingprogrammer.com/blog/">bloggers</a> posted his Trello <a href="https://trello.com/b/iMkh9HVu/asp-net-mvc-mastery">board</a> for ASP.NET MVC Mastery. I saved the board as it is public but I forgot I had it. I just recently looked at it and <strong>whoa</strong>. A great idea, indeed.</p>
@@ -80,9 +80,9 @@ categories:
 <p>Full-stack JavaScript Mastery <a href="https://trello.com/b/g8EsIwnV/full-stack-javascript-mastery">Trello Board</a></p>
 
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-18_09-41-31_PM.png"><img class="aligncenter size-large wp-image-1055" src="http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-18_09-41-31_PM-1024x586.png" alt="Screenshot2016-04-18_09-41-31_PM" width="700" height="401" /></a>
 
 <p>Chris Johnson, one of my favorite programming <a href="http://www.thatamazingprogrammer.com/blog/">bloggers</a> posted his Trello <a href="https://trello.com/b/iMkh9HVu/asp-net-mvc-mastery">board</a> for ASP.NET MVC Mastery. I saved the board as it is public but I forgot I had it. I just recently looked at it and <strong>whoa</strong>. A great idea, indeed.</p>
@@ -147,7 +147,7 @@ categories:
 <p>Full-stack JavaScript Mastery <a href="https://trello.com/b/g8EsIwnV/full-stack-javascript-mastery">Trello Board</a></p>
 
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+

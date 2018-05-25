@@ -26,8 +26,8 @@ element which we have to use JavaScript interactivity to; we can’t use pure jQ
 
 We used new event handlers like
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >$canvas.mousedown(function(e) {
  lastEvent = e;
  mouseDown = true;
@@ -35,9 +35,9 @@ We used new event handlers like
 }).mouseup(function() {
 }).mouseleave(function() {
 });
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <pre class="lang:javascript decode:1 " >$canvas.mousedown(function(e) {
  lastEvent = e;
  mouseDown = true;
@@ -45,10 +45,10 @@ We used new event handlers like
 }).mouseup(function() {
 }).mouseleave(function() {
 });
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 Obviously this code doesn’t work in its current state, but I digress. So drawing the line in the app consists of
@@ -65,8 +65,8 @@ which will access the siblings in a child element and execute an event handler o
 
 We learned JavaScript specific ways to make the canvas interactive. The code looks like this:
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >$canvas.mousedown(function(e) {
  lastEvent = e;
  mouseDown = true;
@@ -83,9 +83,9 @@ We learned JavaScript specific ways to make the canvas interactive. The code loo
  mouseDown = false;
 }).mouseleave(function() {
  $canvas.mouseup
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <pre class="lang:javascript decode:1 " >$canvas.mousedown(function(e) {
  lastEvent = e;
  mouseDown = true;
@@ -102,10 +102,10 @@ We learned JavaScript specific ways to make the canvas interactive. The code loo
  mouseDown = false;
 }).mouseleave(function() {
  $canvas.mouseup
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 });</pre>
 
 <pre class="lang:javascript decode:1 " >context.beginPath()</pre>

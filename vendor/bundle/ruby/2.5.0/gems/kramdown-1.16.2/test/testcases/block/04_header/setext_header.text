@@ -2,7 +2,7 @@ test
 -
 
 test2
-=========
+==
 
 test
 -
@@ -17,7 +17,7 @@ para
 This is a para.
 With two lines.
 And not a header.
-=================
+===
 
 > Blockquote.
 Not a Header

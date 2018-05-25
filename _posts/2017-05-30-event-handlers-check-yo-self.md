@@ -15,8 +15,8 @@ tags:
 categories:
   - Daily Progress
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 Since starting Check Yo Self a month ago, I have been at a loss as to what the logic should be, how to register click event handlers with jQuery, basically everything I learned the past two years, I drew a blank on [^1].
 
 This baffled me. How could I know so much when talking to others, when learning and watching countless tutorials, but actually draw a blank when it came time to work on the logic?
@@ -53,9 +53,9 @@ I added the whiteboard picture to Evernote and will probably add it to Quiver ju
 [^2]: Still guilty of this.
 [^3]: I feel I need to quantify this: nothing for someone of my skill-level and experience though CSS is changing rapidly and I am learning as I go.
 [^4]: Still on it, though. I am in some really great groups. I also have a Facebook brand page for my other blog. I deleted all the apps and have a block on my mobile and desktop browsers for pretty much all day until evening, when I am most likely to browse it.
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 Since starting Check Yo Self a month ago, I have been at a loss as to what the logic should be, how to register click event handlers with jQuery, basically everything I learned the past two years, I drew a blank on [^1].
 
 This baffled me. How could I know so much when talking to others, when learning and watching countless tutorials, but actually draw a blank when it came time to work on the logic?
@@ -92,8 +92,8 @@ I added the whiteboard picture to Evernote and will probably add it to Quiver ju
 [^2]: Still guilty of this.
 [^3]: I feel I need to quantify this: nothing for someone of my skill-level and experience though CSS is changing rapidly and I am learning as I go.
 [^4]: Still on it, though. I am in some really great groups. I also have a Facebook brand page for my other blog. I deleted all the apps and have a block on my mobile and desktop browsers for pretty much all day until evening, when I am most likely to browse it.
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 [^5]: Or my apartment for that matter.

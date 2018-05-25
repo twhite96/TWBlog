@@ -24,8 +24,8 @@ tags:
 categories:
   - Goals
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 [Una Kravets](https://twitter.com/una) is one of my favorite designers/developers even though I just discovered who she was, and by accident.
 
 I was doing a little GitHub dumpster diving, scrolling through who I was following. Found a guy who I wanted to keep an eye on who hadn’t posted in a while. I went through his repos and found a personal goals repo. It was a fork. I went to the source and found it was <a href="https://github.com/una/personal-goals">Una Kravets repo</a>.
@@ -44,9 +44,9 @@ I had my goals on [my other blog](https://thatmacnerd.com/blog/). Since it is no
 
 I thought this was a great idea immediately. What do *you* think? Will you try it? Two weeks in and I am hooked.
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 [Una Kravets](https://twitter.com/una) is one of my favorite designers/developers even though I just discovered who she was, and by accident.
 
 I was doing a little GitHub dumpster diving, scrolling through who I was following. Found a guy who I wanted to keep an eye on who hadn’t posted in a while. I went through his repos and found a personal goals repo. It was a fork. I went to the source and found it was <a href="https://github.com/una/personal-goals">Una Kravets repo</a>.
@@ -65,8 +65,8 @@ I had my goals on [my other blog](https://thatmacnerd.com/blog/). Since it is no
 
 I thought this was a great idea immediately. What do *you* think? Will you try it? Two weeks in and I am hooked.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 [^1]: Especially if you procrastinate and get off schedule on weekends like I do.

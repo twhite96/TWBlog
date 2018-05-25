@@ -19,8 +19,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 I thought I’d post a short update about why I haven’t been blogging as much.
 
 These past two months have been a whirlwind for me. I am looking for jobs and I have gotten some interest. I can’t say too much right now, but things are looking up.
@@ -37,9 +37,9 @@ https://twitter.com/TiffanyW_412/status/923000005035724800
 
 And awesome…things…started…happening.
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 I thought I’d post a short update about why I haven’t been blogging as much.
 
 These past two months have been a whirlwind for me. I am looking for jobs and I have gotten some interest. I can’t say too much right now, but things are looking up.
@@ -56,8 +56,8 @@ https://twitter.com/TiffanyW_412/status/923000005035724800
 
 And awesome…things…started…happening.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 That’s all I can really say but I have honestly just been trying to process what is happening and how, when it comes together and tries, the tech community is the best there is…

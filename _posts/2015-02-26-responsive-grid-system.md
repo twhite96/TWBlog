@@ -17,27 +17,27 @@ categories:
   - General Updates
   - Web Development
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <pre class="lang:html decode:1 " >
 &lt;div class=&quot;section group&quot;&gt;
  &lt;div class=&quot;col span_1_of_3&quot;&gt;This is column 1&lt;/div&gt;
  &lt;div class=&quot;col span_1_of_3&quot;&gt;This is column 2&lt;/div&gt;
  &lt;div class=&quot;col span_1_of_3&quot;&gt;This is column 3&lt;/div&gt;
 &lt;/div&gt;
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <pre class="lang:html decode:1 " >
 &lt;div class=&quot;section group&quot;&gt;
  &lt;div class=&quot;col span_1_of_3&quot;&gt;This is column 1&lt;/div&gt;
  &lt;div class=&quot;col span_1_of_3&quot;&gt;This is column 2&lt;/div&gt;
  &lt;div class=&quot;col span_1_of_3&quot;&gt;This is column 3&lt;/div&gt;
 &lt;/div&gt;
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 This whole mess broke the very thing I was trying to do with the footer of my site. Why does responsive code have to be so verbose? The main complaint, it seems from devs who are tons more experienced than me, is that it is slower loading. I mean, I guess if you traverse around the interwebs, you will see complaints about slow responsive sites.
@@ -46,27 +46,27 @@ I copied the code, just as expected. Tweaked the margins of the columns but yet 
 
 My friend Piper helped me out but somewhere in my HTML there is a problem. We decided that using this:
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <pre class="lang:html decode:1 " >
 &lt;footer&gt;
  &lt;div&gt;&lt;/div&gt;
    &lt;div&gt;&lt;/div&gt;
      &lt;div&gt;&lt;/div&gt;
 &lt;/footer
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <pre class="lang:html decode:1 " >
 &lt;footer&gt;
  &lt;div&gt;&lt;/div&gt;
    &lt;div&gt;&lt;/div&gt;
      &lt;div&gt;&lt;/div&gt;
 &lt;/footer
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 for the HTML and

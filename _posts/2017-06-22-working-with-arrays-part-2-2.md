@@ -12,8 +12,8 @@ tags: [ ]
 categories:
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 What is an array?
 
 You use an array to store data. You can initialize an empty array and then store data in it as well. But that is beyond the scope of this post.
@@ -68,9 +68,9 @@ Is an array with nothing in it. For example:
 </div>
 This is useful for loops and adding data later to your program.
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 What is an array?
 
 You use an array to store data. You can initialize an empty array and then store data in it as well. But that is beyond the scope of this post.
@@ -125,8 +125,8 @@ Is an array with nothing in it. For example:
 </div>
 This is useful for loops and adding data later to your program.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 These are the types of arrays in JavaScript. I will cover arrays in Java as well.

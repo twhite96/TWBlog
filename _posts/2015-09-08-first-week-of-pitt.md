@@ -28,8 +28,8 @@ Seeing that I’ve been programming for a year plus it is slow going for me righ
 
 Here is one of the first programs we wrote, actually today:
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <pre class="lang:java decode:1 " >
 // This is a sample Java program
 
@@ -39,9 +39,9 @@ public class Simple
    {
    System.out.println(&quot;Programming is great fun!&quot;);
    }
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <pre class="lang:java decode:1 " >
 // This is a sample Java program
 
@@ -51,10 +51,10 @@ public class Simple
    {
    System.out.println(&quot;Programming is great fun!&quot;);
    }
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 }</pre>
 
 Quite simple, really. Looking forward to our first project. We have smaller activities we must do to build up to the whole.

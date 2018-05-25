@@ -18,8 +18,8 @@ tags:
 categories:
   - Uncategorized
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo1.png" alt="Dev" width="488" height="488" />
 
 The “I AM BUILD!” is a reference to Pittsburgh’s beloved hockey star Geno Malkin (Evgeni Malkin from Russia). He says sometimes, “Geno is score”, or something like that.
@@ -32,9 +32,9 @@ Show Notes:
 
 <a href="http://mywiki.wooledge.org/XyProblem">More on the XY problem</a>
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo1.png" alt="Dev" width="488" height="488" />
 
 The “I AM BUILD!” is a reference to Pittsburgh’s beloved hockey star Geno Malkin (Evgeni Malkin from Russia). He says sometimes, “Geno is score”, or something like that.
@@ -47,8 +47,8 @@ Show Notes:
 
 <a href="http://mywiki.wooledge.org/XyProblem">More on the XY problem</a>
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 <a href="http://heroku.com">Heroku</a>

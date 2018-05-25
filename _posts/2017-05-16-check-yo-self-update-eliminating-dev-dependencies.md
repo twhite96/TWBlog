@@ -20,8 +20,8 @@ tags:
 categories:
   - App Updates
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 I worked like a fiend over the weekend on Check Yo Self, reading documentation, implementing features, and taking some away.
 
 Going over the `write-good` issues on GitHub to see how if it could parse extra characters [^1].
@@ -150,9 +150,9 @@ Here is a nifty video of my getting the vertical fabs working.
 [^1]: Those lovely markdown characters. I ❤️ markdown.
 [^2]: This utility crashed someone’s browser so be careful.
 [^3]: There are some users who really don’t pay attention or care.
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 I worked like a fiend over the weekend on Check Yo Self, reading documentation, implementing features, and taking some away.
 
 Going over the `write-good` issues on GitHub to see how if it could parse extra characters [^1].
@@ -281,8 +281,8 @@ Here is a nifty video of my getting the vertical fabs working.
 [^1]: Those lovely markdown characters. I ❤️ markdown.
 [^2]: This utility crashed someone’s browser so be careful.
 [^3]: There are some users who really don’t pay attention or care.
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 [^4]: Steel City? Not much anymore. More like, up-and-coming tech hub.

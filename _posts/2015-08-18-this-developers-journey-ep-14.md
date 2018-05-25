@@ -14,8 +14,8 @@ tags:
 categories:
   - Uncategorized
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-Dev-Logo.png" alt="Dev_logo" width="479" height="479" />
 
 <h2>Show Notes</h2>
@@ -26,9 +26,9 @@ Not much to talk about today! But you can find relevant links to what I talked a
 <h3>Picks</h3>
 <a href="https://affinity.serif.com/en-us/designer/">Affinity Designer</a>
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-Dev-Logo.png" alt="Dev_logo" width="479" height="479" />
 
 <h2>Show Notes</h2>
@@ -39,8 +39,8 @@ Not much to talk about today! But you can find relevant links to what I talked a
 <h3>Picks</h3>
 <a href="https://affinity.serif.com/en-us/designer/">Affinity Designer</a>
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 <a href="http://www.keyboardmaestro.com/main/">Keyboard Maestro</a>

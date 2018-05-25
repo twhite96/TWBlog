@@ -13,8 +13,8 @@ categories:
   - General Updates
   - Programming
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/Sad.jpg" rel="attachment wp-att-1043"><img class="aligncenter size-large wp-image-1043" src="http://helloburgh.me/wp-content/uploads/2016/04/Sad-1024x577.jpg" alt="Sad" width="700" height="394" /></a>
 
 &nbsp;
@@ -125,9 +125,9 @@ As far as keeping a regular coding schedule. Yeah. I need to wake up earlier to 
 <h2>Off My Soap box</h2>
 This post got <em>looooong</em> but I haven’t posted in a minute. It’s been hell lately emotionally but I am dealing with it.
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/Sad.jpg" rel="attachment wp-att-1043"><img class="aligncenter size-large wp-image-1043" src="http://helloburgh.me/wp-content/uploads/2016/04/Sad-1024x577.jpg" alt="Sad" width="700" height="394" /></a>
 
 &nbsp;
@@ -238,8 +238,8 @@ As far as keeping a regular coding schedule. Yeah. I need to wake up earlier to 
 <h2>Off My Soap box</h2>
 This post got <em>looooong</em> but I haven’t posted in a minute. It’s been hell lately emotionally but I am dealing with it.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/Deal-With-It.gif" rel="attachment wp-att-1044"><img class="aligncenter size-full wp-image-1044" src="http://helloburgh.me/wp-content/uploads/2016/04/Deal-With-It.gif" alt="Deal With It" width="366" height="288" /></a>

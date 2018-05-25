@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-=======
+
 Filters
-=======
+
 
 .. versionadded:: 0.7
 
@@ -36,6 +36,6 @@ If you want to write your own filter, have a look at :doc:`Write your own filter
 
 
 Builtin Filters
-===============
+=
 
 .. pygmentsdoc:: filters

@@ -16,8 +16,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2015/07/TT.jpg"><img class="  wp-image-432 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/TT.jpg" alt="TT.jpg" width="418" height="418" /></a>
 
 # Free Code Camp to Treehouse
@@ -50,9 +50,9 @@ I have gotten 5 badges in three days and I am excited to get more. The gamificat
 
 ## What About Free Code Camp?
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2015/07/TT.jpg"><img class="  wp-image-432 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/TT.jpg" alt="TT.jpg" width="418" height="418" /></a>
 
 # Free Code Camp to Treehouse
@@ -85,8 +85,8 @@ I have gotten 5 badges in three days and I am excited to get more. The gamificat
 
 ## What About Free Code Camp?
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 Oh they're still on my radar. I will come back to them once I know more about what I am doing in JavaScript. The chatroom is so great that I don't think I'll ever give it up. I am hoping Treehouse gets a Slack or Gitter because that is the next step to make it great. I'll have to pay for Treehouse, unlike Free Code Camp, but that's okay. It's $9/mo for students so not too much of a burden. And you can pause your enrollment at any time. Like I said, I love Free Code Camp. The style is just not right for me right now.

@@ -234,7 +234,7 @@ https://people.apache.org/~andyc/neko/doc/dtd/
     OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, 
     EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     
-    ====================================================================
+    =====
     
     This license is based on the Apache Software License, version 1.1.
 

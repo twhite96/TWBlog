@@ -1,5 +1,5 @@
 Markdown: Basics
-================
+==
 
 <ul id="ProjectSubmenu">
     <li><a href="/projects/markdown/" title="Markdown Project Page">Main</a></li>
@@ -51,7 +51,7 @@ Blockquotes are indicated using email-style '`>`' angle brackets.
 Markdown:
 
     A First Level Header
-    ====================
+    ======
     
     A Second Level Header
     ---------------------

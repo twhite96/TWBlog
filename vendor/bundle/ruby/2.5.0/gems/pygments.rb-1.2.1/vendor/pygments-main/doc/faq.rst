@@ -1,7 +1,7 @@
 :orphan:
 
 Pygments FAQ
-=============
+======
 
 What is Pygments?
 -----------------

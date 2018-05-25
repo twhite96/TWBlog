@@ -21,8 +21,8 @@ tags:
 categories:
   - Web Development
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-camper-image-placeholder.png" alt="Freecode" />
 
 So I’m checking out Free Code Camp and I LOVE IT. Knocking out their Codecademy challenges left and right.
@@ -31,9 +31,9 @@ What I’m noticing is since I’ve started the Learn Code the Hard Way series I
 
 Freecodecamp has been an awesome thing. There isn’t as much focus on HTML and CSS which I am thankful for. We are focusing on JQuery and Javascript mainly, then some frameworks like Node.js and Angular.js, Angular for backend and I think Node can be used for the whole stack.
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-camper-image-placeholder.png" alt="Freecode" />
 
 So I’m checking out Free Code Camp and I LOVE IT. Knocking out their Codecademy challenges left and right.
@@ -42,8 +42,8 @@ What I’m noticing is since I’ve started the Learn Code the Hard Way series I
 
 Freecodecamp has been an awesome thing. There isn’t as much focus on HTML and CSS which I am thankful for. We are focusing on JQuery and Javascript mainly, then some frameworks like Node.js and Angular.js, Angular for backend and I think Node can be used for the whole stack.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 This is a short post. Getting into the University has caused me so much excitement and setting things up and getting appointments, etc, has taken a lot of my time. I have just sat down to code furiously for the past two days. My last post was Saturday, I believe and before that it was a week. I am coming down off of 5 months of anxiety. I am sleeping a good bit, trying to recooperate. But don’t worry! Coding like a madwoman as of late and enjoying the hell out of it.

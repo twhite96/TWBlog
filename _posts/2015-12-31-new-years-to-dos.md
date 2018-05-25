@@ -16,8 +16,8 @@ categories:
   - New Years Reflections
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <a href="https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0410.jpg"><img class="aligncenter size-large wp-image-831" src="https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0410-1024x1024.jpg" alt="" width="730" height="730" /></a>
 
 <blockquote>"For last year’s words belong to last year’s language,
@@ -40,9 +40,9 @@ I also now don’t get as frustrated at things that stump me, I just go search f
 <h3>Stay Sharp</h3>
 <a href="https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0435.jpg"><img class="aligncenter size-large wp-image-832" src="https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0435-1024x680.jpg" alt="" width="730" height="485" /></a>
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <a href="https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0410.jpg"><img class="aligncenter size-large wp-image-831" src="https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0410-1024x1024.jpg" alt="" width="730" height="730" /></a>
 
 <blockquote>"For last year’s words belong to last year’s language,
@@ -65,8 +65,8 @@ I also now don’t get as frustrated at things that stump me, I just go search f
 <h3>Stay Sharp</h3>
 <a href="https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0435.jpg"><img class="aligncenter size-large wp-image-832" src="https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0435-1024x680.jpg" alt="" width="730" height="485" /></a>
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 I plan to start all this tomorrow evening. So as we say at the gym, <em>Let’s get it</em>.

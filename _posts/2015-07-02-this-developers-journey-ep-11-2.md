@@ -17,8 +17,8 @@ tags:
 categories:
   - Uncategorized
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg"><img class="  wp-image-397 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg" alt="TDJ.jpg" width="553" height="553" /></a>
 
 This Developer's Journey ep.11 is out.
@@ -41,9 +41,9 @@ This Developer's Journey ep.11 is out.
 
 Yeoman
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg"><img class="  wp-image-397 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg" alt="TDJ.jpg" width="553" height="553" /></a>
 
 This Developer's Journey ep.11 is out.
@@ -66,8 +66,8 @@ This Developer's Journey ep.11 is out.
 
 Yeoman
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 [Music](http://applemusic.tumblr.com/)

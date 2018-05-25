@@ -14,8 +14,8 @@ categories:
   - Semester Updates
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/Algorithms_for_days.jpeg" alt="Algorithms" /></h2>
 <h3>Books I Am Reading Now on Algorithms, etc.</h3>
 So I was doing some editing on my Book Collectorz database and came across an ebook I didn’t even remember buying: Data Structures and Algorithms in JavaScript. I went searching for it at Amazon to get the physical copy but the reviews were pretty negative as there were plenty of errata in the book and code samples. <a id="fnref:1" class="footnote" title="see footnote" href="1">[1]</a>
@@ -40,9 +40,9 @@ I will probably read chapter 2 again tonight. This is just intro stuff rehashed.
 	<li id="fn:2">You can use these tips and tools in <strong>every</strong> programming language. It’s a best practice for programmers in general. <a class="reversefootnote" title="return to article" href="2"> ↩</a></li>
 	<li id="fn:3">Lacking confidence in my abilities but I <em>know</em> I am getting better. I can look at code and just know it’s too verbose, needs to broken up. Just knowing things don’t look right is half the battle. <a class="reversefootnote" title="return to article" href="3"> ↩</a></li>
 </ol>
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/Algorithms_for_days.jpeg" alt="Algorithms" /></h2>
 <h3>Books I Am Reading Now on Algorithms, etc.</h3>
 So I was doing some editing on my Book Collectorz database and came across an ebook I didn’t even remember buying: Data Structures and Algorithms in JavaScript. I went searching for it at Amazon to get the physical copy but the reviews were pretty negative as there were plenty of errata in the book and code samples. <a id="fnref:1" class="footnote" title="see footnote" href="1">[1]</a>
@@ -67,8 +67,8 @@ I will probably read chapter 2 again tonight. This is just intro stuff rehashed.
 	<li id="fn:2">You can use these tips and tools in <strong>every</strong> programming language. It’s a best practice for programmers in general. <a class="reversefootnote" title="return to article" href="2"> ↩</a></li>
 	<li id="fn:3">Lacking confidence in my abilities but I <em>know</em> I am getting better. I can look at code and just know it’s too verbose, needs to broken up. Just knowing things don’t look right is half the battle. <a class="reversefootnote" title="return to article" href="3"> ↩</a></li>
 </ol>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 </div>

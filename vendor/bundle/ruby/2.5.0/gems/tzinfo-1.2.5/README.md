@@ -1,5 +1,5 @@
 TZInfo - Ruby Timezone Library
-==============================
+==
 
 [![Gem Version](https://badge.fury.io/rb/tzinfo.svg)](http://badge.fury.io/rb/tzinfo) [![Build Status](https://travis-ci.org/tzinfo/tzinfo.svg?branch=master)](https://travis-ci.org/tzinfo/tzinfo)
 

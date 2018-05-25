@@ -15,8 +15,8 @@ tags: [ ]
 categories:
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <h2 id="&quot;summary&quot;">Summary</h2>
 I asked six users of various technical ability to test The Lens Cap’s UX: its responsiveness, its legibility, its resolution, and whether they were able to find what they needed in search, etc. I asked them to tell me which devices they used and asked for suggestions on how to make the site better, what surprised them, good or bad, about the site, and also if anything frustrated them while using it.
 
@@ -76,9 +76,9 @@ The font choice, Lato, was the correct one, with all users being able to read th
 <h2 id="&quot;conclusion&quot;">Conclusion</h2>
 For my first site built with a template and then overhauled, it was a moderate success. I am not a designer, and I don’t want to be a designer, and so my knowledge of color and harmony are limited. I am willing to learn through places like Treehouse, Sitepoint, etc.
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <h2 id="&quot;summary&quot;">Summary</h2>
 I asked six users of various technical ability to test The Lens Cap’s UX: its responsiveness, its legibility, its resolution, and whether they were able to find what they needed in search, etc. I asked them to tell me which devices they used and asked for suggestions on how to make the site better, what surprised them, good or bad, about the site, and also if anything frustrated them while using it.
 
@@ -138,8 +138,8 @@ The font choice, Lato, was the correct one, with all users being able to read th
 <h2 id="&quot;conclusion&quot;">Conclusion</h2>
 For my first site built with a template and then overhauled, it was a moderate success. I am not a designer, and I don’t want to be a designer, and so my knowledge of color and harmony are limited. I am willing to learn through places like Treehouse, Sitepoint, etc.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 I have gained enough knowledge from this test to know where I need to improve.

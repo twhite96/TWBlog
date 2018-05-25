@@ -16,8 +16,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <h1><img class="alignnone size-full wp-image-1313" src="https://helloburgh.me/wp-content/uploads/2015/05/IMG_0297.jpg" alt="img_0297" width="747" height="585" /></h1>
 <h1>H2P!</h1>
 &nbsp;
@@ -35,9 +35,9 @@ I fell back on my bed in this over-the-moon way, a sort of ease back on the bed 
 
 I have spent many years in and out of community colleges. 13 to be exact. Young and not prepared or serious. Having that teenaged rebellion and arrogrance so many people like me who were expected to do great things have. I guess patience pays off.
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <h1><img class="alignnone size-full wp-image-1313" src="https://helloburgh.me/wp-content/uploads/2015/05/IMG_0297.jpg" alt="img_0297" width="747" height="585" /></h1>
 <h1>H2P!</h1>
 &nbsp;
@@ -55,8 +55,8 @@ I fell back on my bed in this over-the-moon way, a sort of ease back on the bed 
 
 I have spent many years in and out of community colleges. 13 to be exact. Young and not prepared or serious. Having that teenaged rebellion and arrogrance so many people like me who were expected to do great things have. I guess patience pays off.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 Clean slate now. Computer science major. More work. Intense work. Focused work. I look forward to a new semester at a university, the University of Pittsburgh. <strong>H2P!!</strong>

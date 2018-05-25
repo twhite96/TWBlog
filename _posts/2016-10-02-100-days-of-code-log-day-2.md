@@ -16,8 +16,8 @@ categories:
   - "Tiffany's Posts"
   - Web Development
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png" alt="" width="256" height="256" class="aligncenter size-full wp-image-1345" />
 
 ## Day 2: 1 October 2016
@@ -38,9 +38,9 @@ As  I said up top, that I need to recreate Shepherd functions in a separate js f
 
 I'll be coding on day three but I may not get too much in. There are domestic things to do and errands to run so I don’t know how much code I’ll write. 
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png" alt="" width="256" height="256" class="aligncenter size-full wp-image-1345" />
 
 ## Day 2: 1 October 2016
@@ -61,8 +61,8 @@ As  I said up top, that I need to recreate Shepherd functions in a separate js f
 
 I'll be coding on day three but I may not get too much in. There are domestic things to do and errands to run so I don’t know how much code I’ll write. 
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 We will have a checkin in CS 0134 to see where we are in the project. I have a skeleton but I am wanting to have more.

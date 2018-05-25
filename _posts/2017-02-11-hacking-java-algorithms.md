@@ -17,8 +17,8 @@ tags:
 categories:
   - Java
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 So I have been pretty knee deep in algorithms and Java lately.
 
 Coming from Free Code Camp last spring, I have found that I’m finally *understanding* the methods, algorithms, etc, that I am currently working on in class.
@@ -53,9 +53,9 @@ Next, in the for loop, we split the string in half and then loop through each ha
 
 I honestly wasn’t sure I could explain that after not looking at it for a week or so. It took about 10 minutes but I felt like I explained it pretty well. I am patting myself on the back. Ha.
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 So I have been pretty knee deep in algorithms and Java lately.
 
 Coming from Free Code Camp last spring, I have found that I’m finally *understanding* the methods, algorithms, etc, that I am currently working on in class.
@@ -90,8 +90,8 @@ Next, in the for loop, we split the string in half and then loop through each ha
 
 I honestly wasn’t sure I could explain that after not looking at it for a week or so. It took about 10 minutes but I felt like I explained it pretty well. I am patting myself on the back. Ha.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 There’s still gaps in my knowledge and a long way to go for total understanding of basic programming concepts, but the comprehension is coming faster, and I am grateful Definitely a bonus of Free Code Camp’s model of teaching.

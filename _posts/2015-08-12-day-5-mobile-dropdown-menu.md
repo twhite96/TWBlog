@@ -32,21 +32,21 @@ We learned about the
 
 event handler with an anonymous function that we used to change the function of the dropdown menu. Before we had a Go button but what good is that? You would select the dropdown and the link to say, an FAQ, and then press "Go". Well what about just <strong>going</strong> to that page when you touch or click on the dropdown menu link for that page? That is what we did by changing the whole behavior of the dropdown, and eliminating the appended Go button. Here is the code:
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >$select.change(function() {
  //Go to select's locaiton
  window.location = $select.val();
-=======
+
 <pre class="lang:javascript decode:1 " >$select.change(function() {
  //Go to select's locaiton
  window.location = $select.val();
->>>>>>> Stashed changes
-=======
+
+
 <pre class="lang:javascript decode:1 " >$select.change(function() {
  //Go to select's locaiton
  window.location = $select.val();
->>>>>>> Stashed changes
+
 });</pre>
 
 The

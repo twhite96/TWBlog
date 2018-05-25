@@ -13,8 +13,8 @@ categories:
   - Daily Progress
   - Programming
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class="aligncenter size-large wp-image-1182" src="http://helloburgh.me/wp-content/uploads/2016/06/algorithm_solutions-1024x703.jpg" alt="algorithm_solutions" width="700" height="481" />
 
 &nbsp;
@@ -199,9 +199,9 @@ I am studying this. I am trying to figure out what is going on here and I will p
 <h2>Back At It</h2>
 I am doing the <strong>Falsy Bouncer</strong> algorithm after this post. It looks easy enough, and if I get stuck I will go to Gitter instead of the wiki as the solutions are there. You don’t have to look, but I was tired and frustrated last night which is never a good mix.
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class="aligncenter size-large wp-image-1182" src="http://helloburgh.me/wp-content/uploads/2016/06/algorithm_solutions-1024x703.jpg" alt="algorithm_solutions" width="700" height="481" />
 
 &nbsp;
@@ -386,8 +386,8 @@ I am studying this. I am trying to figure out what is going on here and I will p
 <h2>Back At It</h2>
 I am doing the <strong>Falsy Bouncer</strong> algorithm after this post. It looks easy enough, and if I get stuck I will go to Gitter instead of the wiki as the solutions are there. You don’t have to look, but I was tired and frustrated last night which is never a good mix.
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 I will also be reading all the algorithm books I have and the Coursera courses I downloaded from Stanford.

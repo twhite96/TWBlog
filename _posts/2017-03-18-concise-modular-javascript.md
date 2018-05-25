@@ -14,8 +14,8 @@ tags:
 categories:
   - Web Development
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 Working with JavaScript again at Treehouse, I went over the Arrow Syntax again[^1].
 
 Before it really wasn’t making much sense. I mean, I *thought* I had it down, but really, it was too fast and too complicated for me at the time. I wanted to learn ES2015 and write, clean, concise, modular javascript.
@@ -68,9 +68,9 @@ Have anything to add? Leave me a comment. :-)
 [^2]: I actually rewatched them a couple times and downloaded the completed workspace.
 [^3]: Learning ES2015 and so we are now using `const`.
 [^4]: Much to the rejoicing of [Uncle Bob Martin](https://twitter.com/unclebobmartin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 Working with JavaScript again at Treehouse, I went over the Arrow Syntax again[^1].
 
 Before it really wasn’t making much sense. I mean, I *thought* I had it down, but really, it was too fast and too complicated for me at the time. I wanted to learn ES2015 and write, clean, concise, modular javascript.
@@ -123,8 +123,8 @@ Have anything to add? Leave me a comment. :-)
 [^2]: I actually rewatched them a couple times and downloaded the completed workspace.
 [^3]: Learning ES2015 and so we are now using `const`.
 [^4]: Much to the rejoicing of [Uncle Bob Martin](https://twitter.com/unclebobmartin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 [^5]: As stated in the comment, you can only do this when there is one line of code in the code block and one argument.

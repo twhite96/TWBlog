@@ -12,8 +12,8 @@ tags: [ ]
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img src="http://helloburgh.me/wp-content/uploads/2016/07/laptop-cellphone.png" alt="laptop-cellphone" width="732" height="488" class="aligncenter size-full wp-image-1229" />
 
 I’ve noticed something these past couple days:
@@ -75,9 +75,9 @@ I also didn’t call the methods I created inside of <code>main</code>. I don’
 <h2>Debugging is Easier</h2>
 I had to troubleshoot a couple problems with hosting my projects on GitHub Project Pages, one being mixed content when serving up the page over <code>https</code>. I didn’t know why my project was insecure. It kept getting blocked in every browser I tried. It took an hour to figure out what that error meant: I was serving up a mixture of <code>https</code> and <code>http</code> scripts in the same document. I changed the API call to <code>https</code> and my Random Quote Generator project became secure again.
 <h2>Thoughts</h2>
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img src="http://helloburgh.me/wp-content/uploads/2016/07/laptop-cellphone.png" alt="laptop-cellphone" width="732" height="488" class="aligncenter size-full wp-image-1229" />
 
 I’ve noticed something these past couple days:
@@ -139,8 +139,8 @@ I also didn’t call the methods I created inside of <code>main</code>. I don’
 <h2>Debugging is Easier</h2>
 I had to troubleshoot a couple problems with hosting my projects on GitHub Project Pages, one being mixed content when serving up the page over <code>https</code>. I didn’t know why my project was insecure. It kept getting blocked in every browser I tried. It took an hour to figure out what that error meant: I was serving up a mixture of <code>https</code> and <code>http</code> scripts in the same document. I changed the API call to <code>https</code> and my Random Quote Generator project became secure again.
 <h2>Thoughts</h2>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 I still have a long way to go. I am warming up to Java as JavaScript’s ES6 syntax mimics a lot of the OOP naming conventions in Java which makes switching back and forth between them as an intermediate programmer easy enough, even though JavaScript isn’t technically OOP and the <code>class</code> keyword isn’t the same as in Java. I am really excited right now. I am growing and it feels good after a year and a half of learning.

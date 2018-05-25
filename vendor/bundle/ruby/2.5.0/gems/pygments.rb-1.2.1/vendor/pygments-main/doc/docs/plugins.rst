@@ -1,6 +1,6 @@
-================
+==
 Register Plugins
-================
+==
 
 If you want to extend Pygments without hacking the sources, but want to
 use the lexer/formatter/style/filter lookup functions (`lexers.get_lexer_by_name`
@@ -14,7 +14,7 @@ which relies on the mentioned functions.
 
 
 Entrypoints
-===========
+====
 
 Here is a list of setuptools entrypoints that Pygments understands:
 
@@ -76,7 +76,7 @@ Here is a list of setuptools entrypoints that Pygments understands:
 
 
 How To Use Entrypoints
-======================
+=
 
 This documentation doesn't explain how to use those entrypoints because this is
 covered in the `setuptools documentation`_. That page should cover everything
@@ -86,7 +86,7 @@ you need to write a plugin.
 
 
 Extending The Core
-==================
+====
 
 If you have written a Pygments plugin that is open source, please inform us
 about that. There is a high chance that we'll add it to the Pygments

@@ -14,8 +14,8 @@ categories:
   - Programming
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/kickass_rainbow.jpeg" alt="kickass_rainbow_pic" /></h2>
 So I am working on a project from last semester called Rainbow Explosion. <a id="fnref-1" class="footnote" title="see footnote" href="#fn-1">[1]</a>
 
@@ -77,9 +77,9 @@ Back to the drawing board.
 	<li id="fn-1">Link to the repository is private now. <a class="reversefootnote" title="return to article" href="#fnref-1"> ↩</a></li>
         <li id="fn-2">At the request of my mentor I took this down. She didn't want future classes to be able to see it. <a class="reversefootnote" title="return to article" href="#fnref-2">  ↩</a></li>
 </ol>
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/kickass_rainbow.jpeg" alt="kickass_rainbow_pic" /></h2>
 So I am working on a project from last semester called Rainbow Explosion. <a id="fnref-1" class="footnote" title="see footnote" href="#fn-1">[1]</a>
 
@@ -141,8 +141,8 @@ Back to the drawing board.
 	<li id="fn-1">Link to the repository is private now. <a class="reversefootnote" title="return to article" href="#fnref-1"> ↩</a></li>
         <li id="fn-2">At the request of my mentor I took this down. She didn't want future classes to be able to see it. <a class="reversefootnote" title="return to article" href="#fnref-2">  ↩</a></li>
 </ol>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 </div>

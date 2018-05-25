@@ -15,8 +15,8 @@ tags:
 categories:
   - Uncategorized
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-4978.png" alt="Posts" width="733" height="488" />
 
 If you aren’t reading my fellow Code Newbie <a href="http://nickqueen.com/blog/">Nick Queen’s blog</a> you should. It’s great. Besides being great, the format has given me an idea.
@@ -33,9 +33,9 @@ I started this blog post last night and during the period where I am about to go
 
 So this is the plan. Starting tonight!
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-4978.png" alt="Posts" width="733" height="488" />
 
 If you aren’t reading my fellow Code Newbie <a href="http://nickqueen.com/blog/">Nick Queen’s blog</a> you should. It’s great. Besides being great, the format has given me an idea.
@@ -52,8 +52,8 @@ I started this blog post last night and during the period where I am about to go
 
 So this is the plan. Starting tonight!
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 Also check out my <a href="http://www.tiffanyrwhite.com">portfolio</a> too, for app and website updates.

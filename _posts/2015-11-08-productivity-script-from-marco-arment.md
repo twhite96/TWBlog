@@ -21,8 +21,8 @@ categories:
   - Productivity
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <h2><a href="http://helloburgh.me/wp-content/uploads/2015/11/22359007740_b6c033c237_k.jpg"><img class="aligncenter size-large wp-image-713" src="http://helloburgh.me/wp-content/uploads/2015/11/22359007740_b6c033c237_k-1024x683.jpg" alt="22359007740_b6c033c237_k" width="640" height="427" /></a></h2>
 Like a lot of people, I struggle with balancing time sinking social media with actual work. <a href="https://twitter.com/marcoarment?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Marco Arment</a>, one of my Apple Programming heroes, despite his immense success and talent, struggles with it, too.
 
@@ -30,9 +30,9 @@ I went to his site the other day after listening to <a href="https://daringfireb
 
 From last week, since we are sharing RescueTime Stats:
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <h2><a href="http://helloburgh.me/wp-content/uploads/2015/11/22359007740_b6c033c237_k.jpg"><img class="aligncenter size-large wp-image-713" src="http://helloburgh.me/wp-content/uploads/2015/11/22359007740_b6c033c237_k-1024x683.jpg" alt="22359007740_b6c033c237_k" width="640" height="427" /></a></h2>
 Like a lot of people, I struggle with balancing time sinking social media with actual work. <a href="https://twitter.com/marcoarment?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Marco Arment</a>, one of my Apple Programming heroes, despite his immense success and talent, struggles with it, too.
 
@@ -40,8 +40,8 @@ I went to his site the other day after listening to <a href="https://daringfireb
 
 From last week, since we are sharing RescueTime Stats:
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 <img src="http://helloburgh.me/wp-content/uploads/2015/11/wpid-Screenshot.jpg" alt="RT" />

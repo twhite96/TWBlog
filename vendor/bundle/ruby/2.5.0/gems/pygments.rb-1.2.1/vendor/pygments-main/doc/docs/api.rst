@@ -1,13 +1,13 @@
 .. -*- mode: rst -*-
 
-=====================
+
 The full Pygments API
-=====================
+
 
 This page describes the Pygments API.
 
 High-level API
-==============
+
 
 .. module:: pygments
 
@@ -261,7 +261,7 @@ The base lexer class from which all lexers are derived is:
 .. module:: pygments.formatter
 
 Formatters
-==========
+===
 
 A formatter is derived from this class:
 
@@ -317,7 +317,7 @@ A formatter is derived from this class:
 .. module:: pygments.util
 
 Option processing
-=================
+===
 
 The :mod:`pygments.util` module has some utility functions usable for option
 processing:

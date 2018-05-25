@@ -60,7 +60,7 @@ struct sharedObjectsStruct shared;
 
 double R_Zero, R_PosInf, R_NegInf, R_Nan;
 
-/*================================= Globals ================================= */
+/*===== Globals ===== */
 
 /* Global vars */
 struct redisServer server; /* server global state */
@@ -250,7 +250,7 @@ struct redisCommand redisCommandTable[] = {
     {"bitcount",bitcountCommand,-2,"r",0,NULL,1,1,1,0,0}
 };
 
-/*============================ Utility functions ============================ */
+/* Utility functions  */
 
 /* Low level logging. To use only for very big messages, otherwise
  * redisLog() is to prefer. */
@@ -369,7 +369,7 @@ void exitFromChild(int retcode) {
 #endif
 }
 
-/*====================== Hash table type implementation  ==================== */
+/*= Hash table type implementation  ====== */
 
 /* This is an hash table type that uses the SDS dynamic strings libary as
  * keys and radis objects as values (objects can hold SDS strings,
@@ -623,7 +623,7 @@ void updateDictResizePolicy(void) {
         dictDisableResize();
 }
 
-/* ======================= Cron: called every 100 ms ======================== */
+/* == Cron: called every 100 ms === */
 
 /* Try to expire a few timed out keys. The algorithm used is adaptive and
  * will use few CPU cycles if there are few expiring keys, otherwise
@@ -1013,7 +1013,7 @@ void beforeSleep(struct aeEventLoop *eventLoop) {
     flushAppendOnlyFile(0);
 }
 
-/* =========================== Server initialization ======================== */
+/* ====== Server initialization === */
 
 void createSharedObjects(void) {
     int j;
@@ -1403,7 +1403,7 @@ void resetCommandTableStats(void) {
     }
 }
 
-/* ========================== Redis OP Array API ============================ */
+/* ===== Redis OP Array API  */
 
 void redisOpArrayInit(redisOpArray *oa) {
     oa->ops = NULL;
@@ -1440,7 +1440,7 @@ void redisOpArrayFree(redisOpArray *oa) {
     zfree(oa->ops);
 }
 
-/* ====================== Commands lookup and execution ===================== */
+/* = Commands lookup and execution  */
 
 struct redisCommand *lookupCommand(sds name) {
     return dictFetchValue(server.commands, name);
@@ -1685,7 +1685,7 @@ int processCommand(redisClient *c) {
     return REDIS_OK;
 }
 
-/*================================== Shutdown =============================== */
+/*====== Shutdown === */
 
 int prepareForShutdown(int flags) {
     int save = flags & REDIS_SHUTDOWN_SAVE;
@@ -1741,7 +1741,7 @@ int prepareForShutdown(int flags) {
     return REDIS_OK;
 }
 
-/*================================== Commands =============================== */
+/*====== Commands === */
 
 /* Return zero if strings are the same, non-zero if they are not.
  * The comparison is performed in a way that prevents an attacker to obtain
@@ -2208,7 +2208,7 @@ void monitorCommand(redisClient *c) {
     addReply(c,shared.ok);
 }
 
-/* ============================ Maxmemory directive  ======================== */
+/*  Maxmemory directive  === */
 
 /* This function gets called when 'maxmemory' is set on the config file to limit
  * the max memory used by the server, before processing a command.
@@ -2366,7 +2366,7 @@ int freeMemoryIfNeeded(void) {
     return REDIS_OK;
 }
 
-/* =================================== Main! ================================ */
+/*  Main! ==== */
 
 #ifdef __linux__
 int linuxOvercommitMemoryValue(void) {

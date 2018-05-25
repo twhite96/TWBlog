@@ -16,8 +16,8 @@ categories:
   - Programming
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class="alignnone wp-image-1300" src="https://helloburgh.me/wp-content/uploads/2016/09/JS-5.png" alt="" width="531" height="531" />
 
 &nbsp;
@@ -86,9 +86,9 @@ foo = 3;
 
 As you can see, the declaration in this scope is the only thing that was “raised” to the top of the scope. The initialization remains at the bottom.
 <h2>Just the Basics</h2>
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class="alignnone wp-image-1300" src="https://helloburgh.me/wp-content/uploads/2016/09/JS-5.png" alt="" width="531" height="531" />
 
 &nbsp;
@@ -157,8 +157,8 @@ foo = 3;
 
 As you can see, the declaration in this scope is the only thing that was “raised” to the top of the scope. The initialization remains at the bottom.
 <h2>Just the Basics</h2>
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 I encourage you to check out the link I linked to above. <a href="https://twitter.com/getify" target="_blank">Kyle Simpson</a> is an amazing teacher and I’ve learned so much from the <a href="http://shop.oreilly.com/category/get/kyle-simpson-kit.do" target="_blank">YDKJS series</a>. You can find the <a href="https://github.com/getify/You-Dont-Know-JS" target="_blank">free version on GitHub</a>.

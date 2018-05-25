@@ -17,8 +17,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 So this is a brief post about my intent for my career and prospects for myself.
 
 I love web. But I don't want to be about that life.
@@ -34,9 +34,9 @@ Still going to work JavaScript-- kind of can't avoid it. And the blog name is ch
 As a first job? Not sure. It's unavoidable at this point. Whether I do architecture or backend remains to be seen. I'd prefer to have some say over an interface because I like visual things, but I am not a good designer, and I don't want to learn how to design; that would take away from my main focus, programming. So getting better at Java for now is important to me. I will be finishing out Free Code Camp because I started it and I will also finish up my cousin's ecommerce site which uses PHP. But after that, it's software engineering all the way.
 
 [^1]: Specifically Java, C, Swift, Go, and C++.
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 So this is a brief post about my intent for my career and prospects for myself.
 
 I love web. But I don't want to be about that life.
@@ -52,8 +52,8 @@ Still going to work JavaScript-- kind of can't avoid it. And the blog name is ch
 As a first job? Not sure. It's unavoidable at this point. Whether I do architecture or backend remains to be seen. I'd prefer to have some say over an interface because I like visual things, but I am not a good designer, and I don't want to learn how to design; that would take away from my main focus, programming. So getting better at Java for now is important to me. I will be finishing out Free Code Camp because I started it and I will also finish up my cousin's ecommerce site which uses PHP. But after that, it's software engineering all the way.
 
 [^1]: Specifically Java, C, Swift, Go, and C++.
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 [^2]: Sorry about that.

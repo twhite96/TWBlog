@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-================================
+====
 Using Pygments in ReST documents
-================================
+====
 
 Many Python people use `ReST`_ for documentation their sourcecode, programs,
 scripts et cetera. This also means that documentation often includes sourcecode

@@ -1,7 +1,7 @@
 :orphan:
 
 Supported languages
-===================
+=====
 
 Pygments supports an ever-growing range of languages. Watch this space...
 

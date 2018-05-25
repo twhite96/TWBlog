@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-==============
+
 Builtin Tokens
-==============
+
 
 .. module:: pygments.token
 
@@ -59,7 +59,7 @@ For some tokens aliases are already defined:
 
 Inside the :mod:`pygments.token` module the following aliases are defined:
 
-============= ============================ ====================================
+======  =
 `Text`        `Token.Text`                 for any type of text data
 `Whitespace`  `Token.Text.Whitespace`      for specially highlighted whitespace
 `Error`       `Token.Error`                represents lexer errors
@@ -76,7 +76,7 @@ Inside the :mod:`pygments.token` module the following aliases are defined:
 `Comment`     `Token.Comment`              any kind of comments
 `Generic`     `Token.Generic`              generic tokens (have a look at
                                            the explanation below)
-============= ============================ ====================================
+======  =
 
 The `Whitespace` token type is new in Pygments 0.8. It is used only by the
 `VisibleWhitespaceFilter` currently.
@@ -106,7 +106,7 @@ if you want to supply a token from the command line):
 
 
 Keyword Tokens
-==============
+
 
 `Keyword`
     For any kind of keyword (especially if it doesn't match any of the
@@ -136,7 +136,7 @@ Keyword Tokens
 
 
 Name Tokens
-===========
+====
 
 `Name`
     For any name (variable names, function names, classes).
@@ -211,7 +211,7 @@ Name Tokens
 
 
 Literals
-========
+=
 
 `Literal`
     For any literal (if not further defined).
@@ -289,7 +289,7 @@ Literals
 
 
 Operators
-=========
+==
 
 `Operator`
     For any punctuation operator (e.g. ``+``, ``-``).
@@ -299,7 +299,7 @@ Operators
 
 
 Punctuation
-===========
+====
 
 .. versionadded:: 0.7
 
@@ -308,7 +308,7 @@ Punctuation
 
 
 Comments
-========
+=
 
 `Comment`
     Token type for any comment.
@@ -332,7 +332,7 @@ Comments
 
 
 Generic Tokens
-==============
+
 
 Generic tokens are for special lexers like the `DiffLexer` that doesn't really
 highlight a programming language but a patch file.

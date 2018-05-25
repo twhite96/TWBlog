@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-================
+==
 Available lexers
-================
+==
 
 This page lists all available builtin lexers and the options they take.
 

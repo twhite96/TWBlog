@@ -14,8 +14,8 @@ categories:
   - Pitt
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
+
 <img class="alignnone size-full wp-image-1232" src="http://helloburgh.me/wp-content/uploads/2016/08/Success.jpeg" width="900" height="600" />
 
 So, in two weeks, I will be back at Pitt. I know I’ve talked about it a lot but I am honestly excited.
@@ -40,9 +40,9 @@ I am taking a break from doing any real projects. I am just trying to learn and 
 
 ## Thoughts
 
-=======
-=======
->>>>>>> Stashed changes
+
+
+
 <img class="alignnone size-full wp-image-1232" src="http://helloburgh.me/wp-content/uploads/2016/08/Success.jpeg" width="900" height="600" />
 
 So, in two weeks, I will be back at Pitt. I know I’ve talked about it a lot but I am honestly excited.
@@ -67,8 +67,8 @@ I am taking a break from doing any real projects. I am just trying to learn and 
 
 ## Thoughts
 
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+
+
+
+
 This semester shouldn’t be very difficult. I am taking a web design and development class. I am between a beginner and intermediate with my knowledge of JavaScript so I should be alright with this class. I am looking forward to it.
