@@ -1,7 +1,7 @@
 ---
 ID: 944
-post_title: FCC Front-End Programming Project
-post_name: front-end-programming-project
+title: FCC Front-End Programming Project
+# front-end-programming-project
 author: Tiffany White
 post_date: 2016-03-10 22:47:41
 layout: post

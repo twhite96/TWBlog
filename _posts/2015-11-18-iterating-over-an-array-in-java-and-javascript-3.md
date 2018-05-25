@@ -1,10 +1,6 @@
 ---
 ID: 741
-post_title: >
-  Iterating Over an Array in Java and
-  JavaScript
-post_name: >
-  iterating-over-an-array-in-java-and-javascript-3
+title: 'Iterating Over an Array in Java and JavaScript'
 author: Tiffany White
 post_date: 2015-11-18 01:39:36
 layout: post
@@ -48,7 +44,7 @@ This declares the array then initializes it with 10 int spots.
 
 An array in JavaScript looks like this:
 
-<pre class="lang:javascript decode:1 " >var myArray = [&quot;Jerri&quot;, 69, &quot;Tiffany&quot;, 37, &quot;John&quot;, 39];</pre> <a id="fnref-1" class="footnote" title="see footnote" href="#fn-1">[1]</a>
+<pre class="lang:javascript decode:1 " >var myArray = [&quot;Jerri&quot;, 69, &quot;Tiffany&quot;, 37, &quot;John&quot;, 39];</pre> <a id="fnref-1" class="footnote" title:="see footnote" href="#fn-1">[1]</a>
 
 <h3>How Interating Through Arrays in Java and JavaScript Are Similar</h3>
 
@@ -95,7 +91,7 @@ palindrome(&quot;eye&quot;);</pre>
 
 <h3>Breaking It Down</h3>
 
-The first part of this algorithm is turning all the letters in the string to lowercase and then using regex to get rid of capital letters, spaces, and punctuation<a id="fnref-2" class="footnote" title="see footnote" href="#fn-2">[2]</a>.
+The first part of this algorithm is turning all the letters in the string to lowercase and then using regex to get rid of capital letters, spaces, and punctuation<a id="fnref-2" class="footnote" title:="see footnote" href="#fn-2">[2]</a>.
 
 The next part checks each index of the array to see if it is the same later, going inwards until it reached half the length of the array. If they are the same letter, then it’s a palindrome and will return true.
 
@@ -131,7 +127,7 @@ The parallel? You can cycle through, and get elements/indeces of arrays with a f
 <hr />
 
 <ol>
-    <li id="fn-1">You need to have the same data type in a Java array. If you look at the JavaScript array, I have number data types and strings. In the Java example I have 10 ints, which are numbers up to 2<sup>31</sup>–1. Can’t mix data types in Java arrays. <a class="reversefootnote" title="return to article" href="#fnref-1"> ↩</a></li>
-    <li id="fn-2">I used regex because there was a test that had to be run that included numbers and odd punctuation that had to return false. <a class="reversefootnote" title="return to article" href="#fnref-2"> ↩</a></li>
+    <li id="fn-1">You need to have the same data type in a Java array. If you look at the JavaScript array, I have number data types and strings. In the Java example I have 10 ints, which are numbers up to 2<sup>31</sup>–1. Can’t mix data types in Java arrays. <a class="reversefootnote" title:="return to article" href="#fnref-1"> ↩</a></li>
+    <li id="fn-2">I used regex because there was a test that had to be run that included numbers and odd punctuation that had to return false. <a class="reversefootnote" title:="return to article" href="#fnref-2"> ↩</a></li>
 </ol>
 </div>

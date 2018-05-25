@@ -1,7 +1,7 @@
 ---
 ID: 2026
-post_title: CSS Animations, Part 1
-post_name: css-animations-part-1-2
+title: CSS Animations, Part 1
+# css-animations-part-1-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

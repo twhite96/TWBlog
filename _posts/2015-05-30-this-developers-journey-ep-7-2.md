@@ -1,7 +1,7 @@
 ---
 ID: 277
-post_title: 'This Developer&#8217;s Journey ep. 7'
-post_name: this-developers-journey-ep-7-2
+title: 'This Developer&#8217;s Journey ep. 7'
+# this-developers-journey-ep-7-2
 author: Tiffany White
 post_date: 2015-05-30 13:30:31
 layout: post

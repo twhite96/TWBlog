@@ -1,7 +1,7 @@
 ---
 ID: 574
-post_title: 'Day 8: HTML Tables and The DOM'
-post_name: day-8-html-tables-and-the-dom
+title: 'Day 8: HTML Tables and The DOM'
+# day-8-html-tables-and-the-dom
 author: Tiffany White
 post_date: 2015-08-20 21:21:54
 layout: post

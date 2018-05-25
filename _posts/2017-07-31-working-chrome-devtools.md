@@ -1,7 +1,7 @@
 ---
 ID: 2170
-post_title: Working With Chrome DevTools
-post_name: working-chrome-devtools
+title: Working With Chrome DevTools
+# working-chrome-devtools
 author: Tiffany White
 post_date: 2017-07-31 21:47:56
 post_excerpt: >

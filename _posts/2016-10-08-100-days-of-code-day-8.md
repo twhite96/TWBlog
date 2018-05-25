@@ -1,7 +1,7 @@
 ---
 ID: 1363
-post_title: 100 Days of Code Day 8
-post_name: 100-days-of-code-day-8
+title: 100 Days of Code Day 8
+# 100-days-of-code-day-8
 author: Tiffany White
 post_date: 2016-10-08 23:36:50
 layout: post

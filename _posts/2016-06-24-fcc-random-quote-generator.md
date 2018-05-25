@@ -1,7 +1,7 @@
 ---
 ID: 1190
-post_title: FCC Random Quote Generator
-post_name: fcc-random-quote-generator
+title: FCC Random Quote Generator
+# fcc-random-quote-generator
 author: Tiffany White
 post_date: 2016-06-24 01:21:24
 layout: post

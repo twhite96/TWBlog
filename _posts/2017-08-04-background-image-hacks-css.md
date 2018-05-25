@@ -1,7 +1,7 @@
 ---
 ID: 2189
-post_title: Background Image Hacks in CSS
-post_name: background-image-hacks-css
+title: Background Image Hacks in CSS
+# background-image-hacks-css
 author: Tiffany White
 post_date: 2017-08-04 19:31:37
 post_excerpt: >
@@ -75,7 +75,7 @@ I also already had my main content wrapped in a `div`:
     &lt;div class=&quot;wrapper&quot;&gt;
       &lt;div class=&quot;col-md-12&quot;&gt;
         &lt;header&gt;
-          &lt;h1 class=&quot;h1-title&quot;&gt;Local Weather App &lt;/h1&gt;
+          &lt;h1 class=&quot;h1-title:&quot;&gt;Local Weather App &lt;/h1&gt;
           &lt;h3&gt;&lt;/h3&gt;
         &lt;/header&gt;
 ```
@@ -174,7 +174,7 @@ I also already had my main content wrapped in a `div`:
     &lt;div class=&quot;wrapper&quot;&gt;
       &lt;div class=&quot;col-md-12&quot;&gt;
         &lt;header&gt;
-          &lt;h1 class=&quot;h1-title&quot;&gt;Local Weather App &lt;/h1&gt;
+          &lt;h1 class=&quot;h1-title:&quot;&gt;Local Weather App &lt;/h1&gt;
           &lt;h3&gt;&lt;/h3&gt;
         &lt;/header&gt;
 ```

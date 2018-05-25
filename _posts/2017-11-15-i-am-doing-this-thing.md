@@ -1,7 +1,7 @@
 ---
 ID: 2647
-post_title: I Am Now Doing This Thing For Real
-post_name: i-am-doing-this-thing
+title: I Am Now Doing This Thing For Real
+# i-am-doing-this-thing
 author: Tiffany White
 post_date: 2017-11-15 20:03:55
 post_excerpt: >

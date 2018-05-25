@@ -1,7 +1,7 @@
 ---
 ID: 2027
-post_title: Objects and JSON
-post_name: objects-and-json-2
+title: Objects and JSON
+# objects-and-json-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

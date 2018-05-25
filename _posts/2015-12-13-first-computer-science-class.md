@@ -1,9 +1,9 @@
 ---
 ID: 769
-post_title: >
+title: >
   Thoughts on My First Computer Science
   Class and Great News
-post_name: first-computer-science-class
+# first-computer-science-class
 author: Tiffany White
 post_date: 2015-12-13 00:05:10
 layout: post

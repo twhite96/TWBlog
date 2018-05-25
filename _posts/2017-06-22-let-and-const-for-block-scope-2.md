@@ -1,7 +1,7 @@
 ---
 ID: 2024
-post_title: Let and Const for Block Scope
-post_name: let-and-const-for-block-scope-2
+title: Let and Const for Block Scope
+# let-and-const-for-block-scope-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 457
-post_title: 'New Post Idea: Daily, Bi-Daily Updates'
-post_name: daily-bi-daily-updates
+title: 'New Post Idea: Daily, Bi-Daily Updates'
+# daily-bi-daily-updates
 author: Tiffany White
 post_date: 2015-08-07 18:04:22
 layout: post

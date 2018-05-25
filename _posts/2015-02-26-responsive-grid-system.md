@@ -1,7 +1,7 @@
 ---
 ID: 105
-post_title: Responsive Grid System
-post_name: responsive-grid-system
+title: Responsive Grid System
+# responsive-grid-system
 author: Tiffany White
 post_date: 2015-02-26 18:17:59
 layout: post

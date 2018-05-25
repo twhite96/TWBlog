@@ -1,7 +1,7 @@
 ---
 ID: 1243
-post_title: ES6 and Lambdas
-post_name: es6-and-lambdas
+title: ES6 and Lambdas
+# es6-and-lambdas
 author: Tiffany White
 post_date: 2016-08-13 23:56:52
 layout: post

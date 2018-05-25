@@ -1,7 +1,7 @@
 ---
 ID: 594
-post_title: Outdated Java Tech at Uni
-post_name: outdated-java-tech-at-uni
+title: Outdated Java Tech at Uni
+# outdated-java-tech-at-uni
 author: Tiffany White
 post_date: 2015-09-18 03:52:24
 layout: post

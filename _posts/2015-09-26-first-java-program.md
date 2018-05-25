@@ -1,7 +1,7 @@
 ---
 ID: 612
-post_title: First Java Program and My Side Project
-post_name: first-java-program
+title: First Java Program and My Side Project
+# first-java-program
 author: Tiffany White
 post_date: 2015-09-26 01:21:53
 layout: post

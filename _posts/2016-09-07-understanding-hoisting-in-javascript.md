@@ -1,7 +1,7 @@
 ---
 ID: 1302
-post_title: Understanding Hoisting in JavaScript
-post_name: understanding-hoisting-in-javascript
+title: Understanding Hoisting in JavaScript
+# understanding-hoisting-in-javascript
 author: Tiffany White
 post_date: 2016-09-07 00:34:28
 layout: post

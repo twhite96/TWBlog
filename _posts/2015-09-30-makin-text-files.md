@@ -1,7 +1,7 @@
 ---
 ID: 623
-post_title: 'Fifth Week of Class and Makin&#8217; Text Files'
-post_name: makin-text-files
+title: 'Fifth Week of Class and Makin&#8217; Text Files'
+# makin-text-files
 author: Tiffany White
 post_date: 2015-09-30 20:03:36
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 1027
-post_title: 'Review: The Master Algorithm'
-post_name: review-the-master-algorithm
+title: 'Review: The Master Algorithm'
+# review-the-master-algorithm
 author: Tiffany White
 post_date: 2016-04-03 18:22:39
 layout: post

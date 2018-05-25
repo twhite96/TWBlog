@@ -1,7 +1,7 @@
 ---
 ID: 1263
-post_title: Recruiting News
-post_name: recruiting-news
+title: Recruiting News
+# recruiting-news
 author: Tiffany White
 post_date: 2016-09-05 01:31:01
 layout: post

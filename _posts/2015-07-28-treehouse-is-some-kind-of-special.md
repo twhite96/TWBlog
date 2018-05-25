@@ -1,7 +1,7 @@
 ---
 ID: 439
-post_title: Treehouse is Some Kind of Special
-post_name: treehouse-is-some-kind-of-special
+title: Treehouse is Some Kind of Special
+# treehouse-is-some-kind-of-special
 author: Tiffany White
 post_date: 2015-07-28 11:50:17
 layout: post

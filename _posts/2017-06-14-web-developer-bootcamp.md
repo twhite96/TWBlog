@@ -1,7 +1,7 @@
 ---
 ID: 1964
-post_title: The Web Developer Bootcamp
-post_name: web-developer-bootcamp
+title: The Web Developer Bootcamp
+# web-developer-bootcamp
 author: Tiffany White
 post_date: 2017-06-14 22:54:10
 post_excerpt: |
@@ -52,7 +52,7 @@ Here is a form I built in HTML that I had an issue with [^3].
 &lt;html&gt;
 &lt;head&gt;
   &lt;meta charset=&quot;UTF-8&quot;&gt;
-  &lt;title&gt;Register&lt;/title&gt;
+  &lt;title:&gt;Register&lt;/title:&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -77,7 +77,7 @@ Here is a form I built in HTML that I had an issue with [^3].
       &lt;/label&gt;
 
       &lt;label&gt;Password:
-        &lt;input type=&quot;password&quot; name=&quot;password&quot; pattern=&quot;.{5,10}&quot; required title=&quot;Password must be 5 to 10 characters&quot; /&gt;
+        &lt;input type=&quot;password&quot; name=&quot;password&quot; pattern=&quot;.{5,10}&quot; required title:=&quot;Password must be 5 to 10 characters&quot; /&gt;
       &lt;/label&gt;
     &lt;/div&gt;
 
@@ -280,7 +280,7 @@ Here is a form I built in HTML that I had an issue with [^3].
 &lt;html&gt;
 &lt;head&gt;
   &lt;meta charset=&quot;UTF-8&quot;&gt;
-  &lt;title&gt;Register&lt;/title&gt;
+  &lt;title:&gt;Register&lt;/title:&gt;
 &lt;/head&gt;
 
 &lt;body&gt;
@@ -305,7 +305,7 @@ Here is a form I built in HTML that I had an issue with [^3].
       &lt;/label&gt;
 
       &lt;label&gt;Password:
-        &lt;input type=&quot;password&quot; name=&quot;password&quot; pattern=&quot;.{5,10}&quot; required title=&quot;Password must be 5 to 10 characters&quot; /&gt;
+        &lt;input type=&quot;password&quot; name=&quot;password&quot; pattern=&quot;.{5,10}&quot; required title:=&quot;Password must be 5 to 10 characters&quot; /&gt;
       &lt;/label&gt;
     &lt;/div&gt;
 

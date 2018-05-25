@@ -1,7 +1,7 @@
 ---
 ID: 18
-post_title: Alice First Look
-post_name: alice-first-look
+title: Alice First Look
+# alice-first-look
 author: Tiffany White
 post_date: 2015-01-13 20:30:46
 layout: post

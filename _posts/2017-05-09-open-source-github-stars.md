@@ -1,7 +1,7 @@
 ---
 ID: 1901
-post_title: Open Source and GitHub Stars
-post_name: open-source-github-stars
+title: Open Source and GitHub Stars
+# open-source-github-stars
 author: Tiffany White
 post_date: 2017-05-09 18:48:16
 layout: post

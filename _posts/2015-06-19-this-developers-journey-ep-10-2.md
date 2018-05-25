@@ -1,7 +1,7 @@
 ---
 ID: 344
-post_title: 'This Developer&#8217;s Journey ep.10'
-post_name: this-developers-journey-ep-10-2
+title: 'This Developer&#8217;s Journey ep.10'
+# this-developers-journey-ep-10-2
 author: Tiffany White
 post_date: 2015-06-19 21:48:41
 layout: post

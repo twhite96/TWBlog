@@ -1,9 +1,9 @@
 ---
 ID: 1252
-post_title: >
+title: >
   Function vs. Block Level Scoping with
   let and const
-post_name: block-level-scoping-let-const
+# block-level-scoping-let-const
 author: Tiffany White
 post_date: 2016-08-25 21:54:04
 layout: post

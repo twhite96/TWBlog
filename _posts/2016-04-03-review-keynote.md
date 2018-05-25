@@ -1,7 +1,7 @@
 ---
 ID: 1025
-post_title: 'Review: Keynote, Professional Presentations and Animations'
-post_name: review-keynote
+title: 'Review: Keynote, Professional Presentations and Animations'
+# review-keynote
 author: Tiffany White
 post_date: 2016-04-03 18:20:33
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 717
-post_title: Free Code Camp Bonfires
-post_name: free-code-camp-bonfires
+title: Free Code Camp Bonfires
+# free-code-camp-bonfires
 author: Tiffany White
 post_date: 2015-11-16 21:37:59
 layout: post

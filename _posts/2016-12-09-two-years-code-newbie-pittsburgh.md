@@ -1,7 +1,7 @@
 ---
 ID: 1467
-post_title: Two Years of Code Newbie in Pittsburgh
-post_name: two-years-code-newbie-pittsburgh
+title: Two Years of Code Newbie in Pittsburgh
+# two-years-code-newbie-pittsburgh
 author: Tiffany White
 post_date: 2016-12-09 14:36:56
 layout: post

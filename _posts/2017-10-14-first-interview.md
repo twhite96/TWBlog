@@ -1,7 +1,7 @@
 ---
 ID: 2543
-post_title: 'My First Interview: A Love Story'
-post_name: first-interview
+title: 'My First Interview: A Love Story'
+# first-interview
 author: Tiffany White
 post_date: 2017-10-14 10:34:46
 post_excerpt: >

@@ -1,9 +1,9 @@
 ---
 ID: 280
-post_title: >
+title: >
   Kanban and My Love of Trello for Project
   Management
-post_name: trello-for-kanban
+# trello-for-kanban
 author: Tiffany White
 post_date: 2015-05-31 14:30:48
 layout: post

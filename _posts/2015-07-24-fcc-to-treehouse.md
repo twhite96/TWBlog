@@ -1,7 +1,7 @@
 ---
 ID: 433
-post_title: FCC to Treehouse
-post_name: fcc-to-treehouse
+title: FCC to Treehouse
+# fcc-to-treehouse
 author: Tiffany White
 post_date: 2015-07-24 17:35:23
 layout: post

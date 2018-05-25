@@ -1,7 +1,7 @@
 ---
 ID: 662
-post_title: Should You Be Copying That Code?
-post_name: should-you-be-copying-code
+title: Should You Be Copying That Code?
+# should-you-be-copying-code
 author: Nicholas
 post_date: 2015-10-19 13:00:00
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 1621
-post_title: OSS and Back to Basics
-post_name: oss-back-basics
+title: OSS and Back to Basics
+# oss-back-basics
 author: Tiffany White
 post_date: 2017-03-07 15:46:37
 layout: post

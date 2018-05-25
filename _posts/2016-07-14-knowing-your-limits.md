@@ -1,7 +1,7 @@
 ---
 ID: 1211
-post_title: Knowing Your Limits
-post_name: knowing-your-limits
+title: Knowing Your Limits
+# knowing-your-limits
 author: Tiffany White
 post_date: 2016-07-14 06:30:52
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 2033
-post_title: The Execution Stack and Scope
-post_name: the-execution-stack-and-scope-2
+title: The Execution Stack and Scope
+# the-execution-stack-and-scope-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

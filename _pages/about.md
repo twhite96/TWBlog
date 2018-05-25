@@ -1,7 +1,6 @@
 ---
 ID: 5
-post_title: /About
-post_name: about
+title: /About
 author: Tiffany White
 post_date: 2015-01-12 01:13:59
 layout: page

@@ -1,7 +1,7 @@
 ---
 ID: 1032
-post_title: Hey Everybody! Let’s Shit on JS!
-post_name: hey-everybody-lets-shit-on-js
+title: Hey Everybody! Let’s Shit on JS!
+# hey-everybody-lets-shit-on-js
 author: Tiffany White
 post_date: 2016-04-04 01:52:28
 layout: post

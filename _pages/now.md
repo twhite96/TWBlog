@@ -1,7 +1,7 @@
 ---
 ID: 1950
-post_title: /Now
-post_name: now
+title: /Now
+# now
 author: Tiffany White
 post_date: 2017-06-12 22:07:31
 layout: page

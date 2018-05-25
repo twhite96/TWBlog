@@ -1,7 +1,7 @@
 ---
 ID: 2230
-post_title: 'Mission DRY: Accomplished'
-post_name: mission-dry-accomplished
+title: 'Mission DRY: Accomplished'
+# mission-dry-accomplished
 author: Tiffany White
 post_date: 2017-08-16 22:43:40
 post_excerpt: 'When working with multiple levels of conditionals, it helps to DRY things up a bit: not repeating yourself can give performance gains as well as make your code more readable and elegant.'

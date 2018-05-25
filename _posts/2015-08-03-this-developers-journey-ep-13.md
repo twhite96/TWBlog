@@ -1,7 +1,7 @@
 ---
 ID: 448
-post_title: 'This Developer&#8217;s Journey ep.13'
-post_name: this-developers-journey-ep-13
+title: 'This Developer&#8217;s Journey ep.13'
+# this-developers-journey-ep-13
 author: Tiffany White
 post_date: 2015-08-03 21:08:42
 layout: post

@@ -1,9 +1,9 @@
 ---
 ID: 3065
-post_title: >
+title: >
   How to Bind this in React Without a
   Constructor
-post_name: bind-this-without-constructor
+# bind-this-without-constructor
 author: Tiffany White
 post_date: 2018-04-25 05:00:27
 post_excerpt: >

@@ -1,7 +1,7 @@
 ---
 ID: 52
-post_title: Learning the JavaScript Machine
-post_name: javascript-machine
+title: Learning the JavaScript Machine
+# javascript-machine
 author: Tiffany White
 post_date: 2015-01-24 15:30:47
 layout: post

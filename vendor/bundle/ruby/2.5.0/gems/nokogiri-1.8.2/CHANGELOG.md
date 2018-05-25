@@ -442,7 +442,7 @@ Now requires libxml >= 2.6.21 (was previously >= 2.6.17).
 * Add support for bare and multiple :not() functions in selectors. #887 (Thanks, Magnus Bergmark!)
 * (MRI) Add an extconf.rb option --use-system-libraries, alternative to setting the environment variable NOKOGIRI_USE_SYSTEM_LIBRARIES.
 * (MRI) Update packaged libraries: libxslt to 1.1.28, zlib to 1.2.8, and libiconv to 1.14, respectively.
-* Nokogiri::HTML::Document#title= and #meta_encoding= now always add an element if not present, trying hard to find the best place to put it.
+* Nokogiri::HTML::Document#title:= and #meta_encoding= now always add an element if not present, trying hard to find the best place to put it.
 * Nokogiri::XML::DTD#html_dtd? and #html5_dtd? are added.
 * Nokogiri::XML::Node#prepend_child is added. #664
 * Nokogiri::XML::SAX::ParserContext#recovery is added. #453
@@ -818,7 +818,7 @@ Repackaging of 1.5.1 with a gemspec that is compatible with older Rubies. #631, 
 
 * New Features
 
-  * Nokogiri::HTML::Document#title accessor gets and sets the document title.
+  * Nokogiri::HTML::Document#title: accessor gets and sets the document title:.
   * extracted sets of Node::SaveOptions into Node::SaveOptions::DEFAULT_{X,H,XH}TML (refactor)
   * Raise an exception if a string is passed to Nokogiri::XML::Schema#validate. #406
 

@@ -1,8 +1,6 @@
 ---
 ID: 1839
-post_title: 'Hacking on a Project: Getting Out of the Tutorial Loop'
-post_name: >
-  hacking-project-getting-out-tutorial-loop
+title: 'Hacking on a Project: Getting Out of the Tutorial Loop'
 author: Tiffany White
 post_date: 2017-04-10 14:51:26
 layout: post

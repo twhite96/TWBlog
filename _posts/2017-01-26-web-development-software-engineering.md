@@ -1,9 +1,9 @@
 ---
 ID: 1590
-post_title: >
+title: >
   From Web Development to Software
   Engineering
-post_name: web-development-software-engineering
+# web-development-software-engineering
 author: Tiffany White
 post_date: 2017-01-26 14:44:29
 layout: post

@@ -1,9 +1,6 @@
 ---
 ID: 466
-post_title: 'Day 1: Java with Multiple Strings, Formatters, and Conditionals'
-post_name: >
-  day-1-java-with-multiple-strings-formatters-and-conditionals
-author: Tiffany White
+title: 'Day 1: Java with Multiple Strings, Formatters, and Conditionals'
 post_date: 2015-08-08 01:13:05
 layout: post
 link: >

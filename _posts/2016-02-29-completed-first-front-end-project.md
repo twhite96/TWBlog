@@ -1,7 +1,7 @@
 ---
 ID: 933
-post_title: Completed The First Front-End Project
-post_name: completed-first-front-end-project
+title: Completed The First Front-End Project
+# completed-first-front-end-project
 author: Tiffany White
 post_date: 2016-02-29 23:05:28
 layout: post

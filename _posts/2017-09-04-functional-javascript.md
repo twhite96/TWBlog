@@ -1,9 +1,9 @@
 ---
 ID: 2403
-post_title: >
+title: >
   Functional Programming in JavaScript?
   Yes Please.
-post_name: functional-javascript
+# functional-javascript
 author: Tiffany White
 post_date: 2017-09-04 18:13:04
 post_excerpt: >

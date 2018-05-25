@@ -1,7 +1,7 @@
 ---
 ID: 258
-post_title: 'This Developer&#8217;s Journey ep. 6&#8211; An Interview with Mark Pearyer'
-post_name: this-developers-journey-ep-6
+title: 'This Developer&#8217;s Journey ep. 6&#8211; An Interview with Mark Pearyer'
+# this-developers-journey-ep-6
 author: Tiffany White
 post_date: 2015-05-19 17:00:22
 layout: post

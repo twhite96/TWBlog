@@ -1,7 +1,7 @@
 ---
 ID: 1570
-post_title: First Day of the Spring Semester 2017
-post_name: first-day-spring-semester-2017
+title: First Day of the Spring Semester 2017
+# first-day-spring-semester-2017
 author: Tiffany White
 post_date: 2017-01-05 14:15:54
 layout: post

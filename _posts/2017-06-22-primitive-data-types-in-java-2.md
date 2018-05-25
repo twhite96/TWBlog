@@ -1,7 +1,7 @@
 ---
 ID: 2029
-post_title: Primitive Data Types in Java
-post_name: primitive-data-types-in-java-2
+title: Primitive Data Types in Java
+# primitive-data-types-in-java-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

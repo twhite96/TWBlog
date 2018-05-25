@@ -1,7 +1,7 @@
 ---
 ID: 1179
-post_title: Algorithm Solutions
-post_name: algorithm-solutions
+title: Algorithm Solutions
+# algorithm-solutions
 author: Tiffany White
 post_date: 2016-06-19 17:38:47
 layout: post

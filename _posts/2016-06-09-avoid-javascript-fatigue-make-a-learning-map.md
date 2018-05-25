@@ -1,8 +1,6 @@
 ---
 ID: 1145
-post_title: 'Avoid JavaScript Fatigue: Make a Learning Map'
-post_name: >
-  avoid-javascript-fatigue-make-a-learning-map
+title: 'Avoid JavaScript Fatigue: Make a Learning Map'
 author: Tiffany White
 post_date: 2016-06-09 16:58:51
 layout: post

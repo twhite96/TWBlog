@@ -1,7 +1,7 @@
 ---
 ID: 2125
-post_title: Tech Ladies and The Job Search
-post_name: tech-ladies-job-search
+title: Tech Ladies and The Job Search
+# tech-ladies-job-search
 author: Tiffany White
 post_date: 2017-07-21 19:30:09
 layout: post

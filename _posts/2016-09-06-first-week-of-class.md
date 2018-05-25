@@ -1,7 +1,7 @@
 ---
 ID: 1281
-post_title: First Week of Class, Pitt 2016
-post_name: first-week-of-class
+title: First Week of Class, Pitt 2016
+# first-week-of-class
 author: Tiffany White
 post_date: 2016-09-06 12:47:44
 layout: post
@@ -58,7 +58,7 @@ We learned about UI design our first day of class. We also got thrown into a gro
 
 I understand the need to show us what it will be like in teams in the workplace. And I understand that there are personalities in every team. Working through that? I don’t know.
 
-There’s a guy who wants to put **all the things** in the music app we are designing. Most of us [^1] have advised against all these features. He is talking about building the thing himself, even though we don’t have to code anything. There’s even a Google Doc with the title *B code example* in our folder.
+There’s a guy who wants to put **all the things** in the music app we are designing. Most of us [^1] have advised against all these features. He is talking about building the thing himself, even though we don’t have to code anything. There’s even a Google Doc with the title: *B code example* in our folder.
 
 I don’t know how to deal with people like this, who are as equally headstrong, opinionated, and as arrogant as I am. It’s weird to see parts of yourself in other people.
 
@@ -120,7 +120,7 @@ We learned about UI design our first day of class. We also got thrown into a gro
 
 I understand the need to show us what it will be like in teams in the workplace. And I understand that there are personalities in every team. Working through that? I don’t know.
 
-There’s a guy who wants to put **all the things** in the music app we are designing. Most of us [^1] have advised against all these features. He is talking about building the thing himself, even though we don’t have to code anything. There’s even a Google Doc with the title *B code example* in our folder.
+There’s a guy who wants to put **all the things** in the music app we are designing. Most of us [^1] have advised against all these features. He is talking about building the thing himself, even though we don’t have to code anything. There’s even a Google Doc with the title: *B code example* in our folder.
 
 I don’t know how to deal with people like this, who are as equally headstrong, opinionated, and as arrogant as I am. It’s weird to see parts of yourself in other people.
 

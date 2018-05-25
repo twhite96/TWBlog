@@ -1,7 +1,7 @@
 ---
 ID: 2624
-post_title: Finishing YelpCamp and Lessons Learned
-post_name: finishing-yelpcamp
+title: Finishing YelpCamp and Lessons Learned
+# finishing-yelpcamp
 author: Tiffany White
 post_date: 2017-10-30 12:30:48
 post_excerpt: 'So I have finished The Web Developer Bootcamp and the final project, YelpCamp, a full-stack Yelp clone built  with Node, Express, Mongo, Mongoose, Passport.js, and Bootstrap.'

@@ -1,7 +1,7 @@
 ---
 ID: 110
-post_title: CSS and Stack Overflow
-post_name: css-and-stack-overflow
+title: CSS and Stack Overflow
+# css-and-stack-overflow
 author: Tiffany White
 post_date: 2015-02-28 20:30:57
 layout: post

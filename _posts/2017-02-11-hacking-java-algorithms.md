@@ -1,7 +1,7 @@
 ---
 ID: 1600
-post_title: Hacking with Java Algorithms
-post_name: hacking-java-algorithms
+title: Hacking with Java Algorithms
+# hacking-java-algorithms
 author: Tiffany White
 post_date: 2017-02-11 03:08:31
 layout: post

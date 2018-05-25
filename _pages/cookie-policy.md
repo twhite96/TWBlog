@@ -1,7 +1,7 @@
 ---
 ID: 1990
-post_title: Cookie Policy
-post_name: cookie-policy
+title: Cookie Policy
+# cookie-policy
 author: Tiffany White
 post_date: 2017-06-17 18:43:16
 layout: page

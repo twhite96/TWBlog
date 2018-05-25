@@ -1,7 +1,7 @@
 ---
 ID: 2022
-post_title: JavaScript Resources for Learning
-post_name: javascript-resources-for-learning-2
+title: JavaScript Resources for Learning
+# javascript-resources-for-learning-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

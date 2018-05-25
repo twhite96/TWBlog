@@ -1,9 +1,9 @@
 ---
 ID: 823
-post_title: >
+title: >
   5 Things I Learned About Myself This
   Semester
-post_name: 5-things-learned-semester
+# 5-things-learned-semester
 author: Tiffany White
 post_date: 2015-12-29 20:02:17
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 890
-post_title: Preparing for Free Code Camp Bonfires
-post_name: preparing-for-free-code-camp-bonfires
+title: Preparing for Free Code Camp Bonfires
+# preparing-for-free-code-camp-bonfires
 author: Tiffany White
 post_date: 2016-02-12 01:45:19
 layout: post

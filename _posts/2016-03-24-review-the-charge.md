@@ -1,7 +1,7 @@
 ---
 ID: 1001
-post_title: 'Review: The Charge: Activating the 10 Human Drives That Make You Feel Alive'
-post_name: review-the-charge
+title: 'Review: The Charge: Activating the 10 Human Drives That Make You Feel Alive'
+# review-the-charge
 author: Tiffany White
 post_date: 2016-03-24 00:29:49
 layout: post

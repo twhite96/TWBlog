@@ -1,7 +1,7 @@
 ---
 ID: 2710
-post_title: Things I Am Cooking Up
-post_name: things-i-cooking-up
+title: Things I Am Cooking Up
+# things-i-cooking-up
 author: Tiffany White
 post_date: 2017-12-11 15:30:51
 post_excerpt: >

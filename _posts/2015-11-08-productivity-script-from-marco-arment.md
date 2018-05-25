@@ -1,9 +1,9 @@
 ---
 ID: 711
-post_title: >
+title: >
   Getting Better at Being Productive with
   a Script from Marco Arment
-post_name: productivity-script-from-marco-arment
+# productivity-script-from-marco-arment
 author: Tiffany White
 post_date: 2015-11-08 21:58:43
 layout: post

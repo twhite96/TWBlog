@@ -1,7 +1,7 @@
 ---
 ID: 1548
-post_title: Livecoding.tv
-post_name: livecoding-tv
+title: Livecoding.tv
+# livecoding-tv
 author: Tiffany White
 post_date: 2016-12-30 00:21:07
 layout: page

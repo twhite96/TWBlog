@@ -1,7 +1,7 @@
 ---
 ID: 388
-post_title: Moving on Up While Feeling Stupid
-post_name: moving-on-up-while-feeling-stupid
+title: Moving on Up While Feeling Stupid
+# moving-on-up-while-feeling-stupid
 author: Tiffany White
 post_date: 2015-06-30 21:31:29
 layout: post

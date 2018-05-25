@@ -1,7 +1,7 @@
 ---
 ID: 653
-post_title: NaNoWriMo? How About NaCoWriMo?
-post_name: nanowrimo-or-nacowrimo
+title: NaNoWriMo? How About NaCoWriMo?
+# nanowrimo-or-nacowrimo
 author: Tiffany White
 post_date: 2015-10-13 23:47:30
 layout: post

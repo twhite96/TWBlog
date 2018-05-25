@@ -1,7 +1,7 @@
 ---
 ID: 1325
-post_title: Working on the E-commerce Site for Class
-post_name: ecommerce-class
+title: Working on the E-commerce Site for Class
+# ecommerce-class
 author: Tiffany White
 post_date: 2016-09-18 19:02:23
 layout: post

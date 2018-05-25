@@ -1,7 +1,7 @@
 ---
 ID: 234
-post_title: I Am Now a Pitt Panther
-post_name: i-am-now-a-pitt-panther
+title: I Am Now a Pitt Panther
+# i-am-now-a-pitt-panther
 author: Tiffany White
 post_date: 2015-05-02 18:24:01
 layout: post

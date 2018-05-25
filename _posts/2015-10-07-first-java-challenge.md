@@ -1,9 +1,9 @@
 ---
 ID: 645
-post_title: >
+title: >
   First Java Challenge and Getting to Know
   Variable Scope
-post_name: first-java-challenge
+# first-java-challenge
 author: Tiffany White
 post_date: 2015-10-07 19:03:28
 layout: post

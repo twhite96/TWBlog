@@ -1,7 +1,7 @@
 ---
 ID: 309
-post_title: 'Killing This Code&#8211; LIKE A BOSS'
-post_name: killing-this-code-like-a-boss
+title: 'Killing This Code&#8211; LIKE A BOSS'
+# killing-this-code-like-a-boss
 author: Tiffany White
 post_date: 2015-06-09 17:30:33
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 941
-post_title: New Years Goals Follow-up
-post_name: new-years-goals-follow
+title: New Years Goals Follow-up
+# new-years-goals-follow
 author: Tiffany White
 post_date: 2016-03-10 22:49:14
 layout: post

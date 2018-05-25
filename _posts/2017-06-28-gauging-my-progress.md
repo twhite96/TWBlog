@@ -1,7 +1,7 @@
 ---
 ID: 2098
-post_title: Gauging My Progress
-post_name: gauging-my-progress
+title: Gauging My Progress
+# gauging-my-progress
 author: Tiffany White
 post_date: 2017-06-28 22:42:46
 layout: post
@@ -112,17 +112,17 @@ function max(arr) {
 
 var movies = [
   {
-title: &quot;Taxi Driver&quot;,
+title:: &quot;Taxi Driver&quot;,
 hasWatched: true,
 rating: 5
   },
   {
-title: &quot;The Social Network&quot;,
+title:: &quot;The Social Network&quot;,
 hasWatched: true,
 rating: 5
   },
   {
-title: &quot;Steve Jobs&quot;,
+title:: &quot;Steve Jobs&quot;,
 hasWatched: true,
 rating: 4.5
   }
@@ -135,7 +135,7 @@ function stringBuilder(movie) {
   } else {
     result += &quot;has not seen&quot;;
   }
-  result += &#039;&quot;&#039; + movie.title + &#039;&quot; - &#039;;
+  result += &#039;&quot;&#039; + movie.title: + &#039;&quot; - &#039;;
   result += movie.rating + &quot; stars&quot;;
 }
 
@@ -240,17 +240,17 @@ function max(arr) {
 
 var movies = [
   {
-title: &quot;Taxi Driver&quot;,
+title:: &quot;Taxi Driver&quot;,
 hasWatched: true,
 rating: 5
   },
   {
-title: &quot;The Social Network&quot;,
+title:: &quot;The Social Network&quot;,
 hasWatched: true,
 rating: 5
   },
   {
-title: &quot;Steve Jobs&quot;,
+title:: &quot;Steve Jobs&quot;,
 hasWatched: true,
 rating: 4.5
   }
@@ -263,7 +263,7 @@ function stringBuilder(movie) {
   } else {
     result += &quot;has not seen&quot;;
   }
-  result += &#039;&quot;&#039; + movie.title + &#039;&quot; - &#039;;
+  result += &#039;&quot;&#039; + movie.title: + &#039;&quot; - &#039;;
   result += movie.rating + &quot; stars&quot;;
 }
 

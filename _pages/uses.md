@@ -1,7 +1,7 @@
 ---
 ID: 1960
-post_title: /Uses
-post_name: uses
+title: /Uses
+# uses
 author: Tiffany White
 post_date: 2017-06-15 19:59:18
 layout: page

@@ -1,7 +1,7 @@
 ---
 ID: 833
-post_title: 'New Years To-dos: Every Day is a New Day'
-post_name: new-years-to-dos
+title: 'New Years To-dos: Every Day is a New Day'
+# new-years-to-dos
 author: Tiffany White
 post_date: 2015-12-31 19:36:07
 layout: post

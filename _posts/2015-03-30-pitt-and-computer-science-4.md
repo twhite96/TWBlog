@@ -1,7 +1,7 @@
 ---
 ID: 160
-post_title: Pitt and Computer Science
-post_name: pitt-and-computer-science-4
+title: Pitt and Computer Science
+# pitt-and-computer-science-4
 author: Tiffany White
 post_date: 2015-03-30 23:30:00
 layout: post

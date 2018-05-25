@@ -1,7 +1,7 @@
 ---
 ID: 2021
-post_title: Exploring Algorithms
-post_name: exploring-algorithms-2
+title: Exploring Algorithms
+# exploring-algorithms-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

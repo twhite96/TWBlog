@@ -1,9 +1,9 @@
 ---
 ID: 597
-post_title: >
+title: >
   Moving Right Along in CS 0007, Intro to
   Programming in Java
-post_name: cs-intro-to-programming-java
+# cs-intro-to-programming-java
 author: Tiffany White
 post_date: 2015-09-18 03:39:54
 layout: post

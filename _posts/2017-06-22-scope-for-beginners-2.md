@@ -1,7 +1,7 @@
 ---
 ID: 2034
-post_title: Scope for Beginners
-post_name: scope-for-beginners-2
+title: Scope for Beginners
+# scope-for-beginners-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

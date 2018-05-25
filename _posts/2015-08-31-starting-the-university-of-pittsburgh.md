@@ -1,7 +1,7 @@
 ---
 ID: 581
-post_title: Starting the University of Pittsburgh
-post_name: starting-the-university-of-pittsburgh
+title: Starting the University of Pittsburgh
+# starting-the-university-of-pittsburgh
 author: Tiffany White
 post_date: 2015-08-31 17:46:28
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 302
-post_title: 'This Developer&#8217;s Journey ep.8'
-post_name: this-developers-journey-ep-8-2
+title: 'This Developer&#8217;s Journey ep.8'
+# this-developers-journey-ep-8-2
 author: Tiffany White
 post_date: 2015-06-07 18:00:46
 layout: post

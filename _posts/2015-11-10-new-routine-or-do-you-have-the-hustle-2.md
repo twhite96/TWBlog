@@ -1,7 +1,7 @@
 ---
 ID: 705
-post_title: New Routine or Do You Have the Hustle?
-post_name: new-routine-or-do-you-have-the-hustle-2
+title: New Routine or Do You Have the Hustle?
+# new-routine-or-do-you-have-the-hustle-2
 author: Tiffany White
 post_date: 2015-11-10 15:00:00
 layout: post

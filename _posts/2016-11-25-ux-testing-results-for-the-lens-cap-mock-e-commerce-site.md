@@ -1,5 +1,5 @@
 ---
-title: UX Testing Results for The Lens Cap Mock E-Commerce Site
+title:: UX Testing Results for The Lens Cap Mock E-Commerce Site
 modified:
 categories: cs_0134 ux_testing assignments
 excerpt: I asked six users of various technical ability to test The Lens Cap’s UX-- its responsiveness, its legibility, its resolution, and whether they were able to find what they needed in search, etc.

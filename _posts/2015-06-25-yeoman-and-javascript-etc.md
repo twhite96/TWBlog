@@ -1,7 +1,7 @@
 ---
 ID: 363
-post_title: Yeoman and JavaScript, etc
-post_name: yeoman-and-javascript-etc
+title: Yeoman and JavaScript, etc
+# yeoman-and-javascript-etc
 author: Tiffany White
 post_date: 2015-06-25 23:35:23
 layout: post

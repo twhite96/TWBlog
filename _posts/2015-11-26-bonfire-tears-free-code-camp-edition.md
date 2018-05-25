@@ -1,7 +1,7 @@
 ---
 ID: 752
-post_title: Bonfire Tears (Free Code Camp Edition)
-post_name: bonfire-tears-free-code-camp-edition
+title: Bonfire Tears (Free Code Camp Edition)
+# bonfire-tears-free-code-camp-edition
 author: Tiffany White
 post_date: 2015-11-26 02:06:20
 layout: post

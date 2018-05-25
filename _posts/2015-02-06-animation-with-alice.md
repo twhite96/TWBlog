@@ -1,7 +1,7 @@
 ---
 ID: 83
-post_title: Animation With Alice
-post_name: animation-with-alice
+title: Animation With Alice
+# animation-with-alice
 author: Tiffany White
 post_date: 2015-02-06 18:23:38
 layout: post

@@ -1,10 +1,6 @@
 ---
 ID: 176
-post_title: >
-  Finding ONE (Well, TWO) Tutorial Sites
-  and Sticking to Them
-post_name: >
-  finding-tutorial-sites-and-sticking-to-them
+title: 'Finding ONE (Well, TWO) Tutorial Sites and Sticking to Them'
 author: Tiffany White
 post_date: 2015-04-01 19:01:40
 layout: post

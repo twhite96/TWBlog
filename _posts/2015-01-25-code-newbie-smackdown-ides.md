@@ -1,7 +1,7 @@
 ---
 ID: 68
-post_title: 'Code Newbie SMACKDOWN&#8211; IDEs'
-post_name: code-newbie-smackdown-ides
+title: 'Code Newbie SMACKDOWN&#8211; IDEs'
+# code-newbie-smackdown-ides
 author: Tiffany White
 post_date: 2015-01-25 11:03:18
 layout: post

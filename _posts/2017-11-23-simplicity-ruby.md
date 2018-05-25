@@ -1,7 +1,7 @@
 ---
 ID: 2681
-post_title: The Simplicity of Ruby
-post_name: simplicity-ruby
+title: The Simplicity of Ruby
+# simplicity-ruby
 author: Tiffany White
 post_date: 2017-11-23 22:24:55
 post_excerpt: >

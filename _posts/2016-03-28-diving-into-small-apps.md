@@ -1,7 +1,7 @@
 ---
 ID: 1010
-post_title: Expanding and Diving Into Small Apps
-post_name: diving-into-small-apps
+title: Expanding and Diving Into Small Apps
+# diving-into-small-apps
 author: Tiffany White
 post_date: 2016-03-28 01:49:21
 layout: post
@@ -69,7 +69,7 @@ return posts
 def search_key_for_post(post):
 &quot;&quot;&quot;Generate a string search key for a post&quot;&quot;&quot;
 elements = []
-elements.append(post['description']) # title of post
+elements.append(post['description']) # title: of post
 elements.append(post['tags']) # post tags
 elements.append(post['extended']) # description
 return u' '.join(elements)
@@ -135,7 +135,7 @@ posts = wf.filter(query, posts, key=search_key_for_post, min_score=20)
 # Loop through the returned posts and add a item for each to
 # the list of results for Alfred
 for post in posts:
-wf.add_item(title=post['description'],
+wf.add_item(title:=post['description'],
 subtitle=post['href'],
 arg=post['href'],
 valid=True,
@@ -211,7 +211,7 @@ return posts
 def search_key_for_post(post):
 &quot;&quot;&quot;Generate a string search key for a post&quot;&quot;&quot;
 elements = []
-elements.append(post['description']) # title of post
+elements.append(post['description']) # title: of post
 elements.append(post['tags']) # post tags
 elements.append(post['extended']) # description
 return u' '.join(elements)
@@ -277,7 +277,7 @@ posts = wf.filter(query, posts, key=search_key_for_post, min_score=20)
 # Loop through the returned posts and add a item for each to
 # the list of results for Alfred
 for post in posts:
-wf.add_item(title=post['description'],
+wf.add_item(title:=post['description'],
 subtitle=post['href'],
 arg=post['href'],
 valid=True,

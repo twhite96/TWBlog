@@ -1,7 +1,7 @@
 ---
 ID: 913
-post_title: College vs Self-Learning
-post_name: college-vs-self-learning
+title: College vs Self-Learning
+# college-vs-self-learning
 author: Tiffany White
 post_date: 2016-02-25 17:31:21
 layout: post

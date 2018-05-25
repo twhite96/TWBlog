@@ -1,7 +1,7 @@
 ---
 ID: 268
-post_title: Making Good Habits, or Coding Regularly
-post_name: coding-regularly
+title: Making Good Habits, or Coding Regularly
+# coding-regularly
 author: Tiffany White
 post_date: 2015-05-22 21:30:55
 layout: post

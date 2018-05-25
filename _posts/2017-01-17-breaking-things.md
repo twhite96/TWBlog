@@ -1,7 +1,7 @@
 ---
 ID: 1578
-post_title: Breaking Things
-post_name: breaking-things
+title: Breaking Things
+# breaking-things
 author: Tiffany White
 post_date: 2017-01-17 20:40:43
 layout: post

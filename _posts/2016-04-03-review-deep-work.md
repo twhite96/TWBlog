@@ -1,7 +1,7 @@
 ---
 ID: 1022
-post_title: 'Review: Deep Work by Cal Newport'
-post_name: review-deep-work
+title: 'Review: Deep Work by Cal Newport'
+# review-deep-work
 author: Tiffany White
 post_date: 2016-04-03 03:09:13
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 919
-post_title: Resuming Lessons at Free Code Camp
-post_name: resume-free-code-camp
+title: Resuming Lessons at Free Code Camp
+# resume-free-code-camp
 author: Tiffany White
 post_date: 2016-02-26 20:53:30
 layout: post

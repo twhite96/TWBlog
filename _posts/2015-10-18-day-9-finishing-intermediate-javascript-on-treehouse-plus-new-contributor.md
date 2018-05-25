@@ -1,8 +1,6 @@
 ---
 ID: 672
-post_title: 'Day 9: Finishing Intermediate JavaScript on Treehouse Plus: New Contributor'
-post_name: >
-  day-9-finishing-intermediate-javascript-on-treehouse-plus-new-contributor
+title: 'Day 9: Finishing Intermediate JavaScript on Treehouse Plus: New Contributor'
 author: Tiffany White
 post_date: 2015-10-18 00:16:53
 layout: post

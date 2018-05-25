@@ -1,7 +1,7 @@
 ---
 ID: 1072
-post_title: Digging Into OOP JavaScript
-post_name: digging-into-oop-javascript
+title: Digging Into OOP JavaScript
+# digging-into-oop-javascript
 author: Tiffany White
 post_date: 2016-04-25 21:35:48
 layout: post

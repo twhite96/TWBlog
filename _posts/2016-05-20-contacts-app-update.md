@@ -1,7 +1,7 @@
 ---
 ID: 1109
-post_title: Contacts App Update
-post_name: contacts-app-update
+title: Contacts App Update
+# contacts-app-update
 author: Tiffany White
 post_date: 2016-05-20 01:30:56
 layout: post

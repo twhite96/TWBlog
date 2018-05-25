@@ -1,10 +1,6 @@
 ---
 ID: 183
-post_title: >
-  Going through Python and Ruby with Zed
-  Shaw
-post_name: >
-  going-through-python-and-ruby-with-zed-shaw
+title: 'Going through Python and Ruby with Zed Shaw'
 author: Tiffany White
 post_date: 2015-04-09 17:54:03
 layout: post

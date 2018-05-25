@@ -1,7 +1,7 @@
 ---
 ID: 2220
-post_title: 'DRY Code: Using IIFEs to Clean Up Code'
-post_name: dry-code-iife
+title: 'DRY Code: Using IIFEs to Clean Up Code'
+# dry-code-iife
 author: Tiffany White
 post_date: 2017-08-07 19:39:18
 post_excerpt: |

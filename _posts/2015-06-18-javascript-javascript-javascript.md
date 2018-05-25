@@ -1,7 +1,7 @@
 ---
 ID: 338
-post_title: JavaScript, JavaScript, JavaScript
-post_name: javascript-javascript-javascript
+title: JavaScript, JavaScript, JavaScript
+# javascript-javascript-javascript
 author: Tiffany White
 post_date: 2015-06-18 22:00:54
 layout: post

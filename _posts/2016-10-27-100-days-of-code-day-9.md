@@ -1,7 +1,7 @@
 ---
 ID: 1373
-post_title: 100 Days of Code Day 9
-post_name: 100-days-of-code-day-9
+title: 100 Days of Code Day 9
+# 100-days-of-code-day-9
 author: Tiffany White
 post_date: 2016-10-27 23:35:31
 layout: post

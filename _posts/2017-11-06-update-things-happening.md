@@ -1,7 +1,7 @@
 ---
 ID: 2631
-post_title: 'Update: Lots of Things Happening'
-post_name: update-things-happening
+title: 'Update: Lots of Things Happening'
+# update-things-happening
 author: Tiffany White
 post_date: 2017-11-06 23:55:32
 post_excerpt: >

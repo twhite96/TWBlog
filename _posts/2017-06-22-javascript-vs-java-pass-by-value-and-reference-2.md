@@ -1,10 +1,6 @@
 ---
 ID: 2020
-post_title: >
-  JavaScript vs Java Pass by Value and
-  Reference
-post_name: >
-  javascript-vs-java-pass-by-value-and-reference-2
+title: 'JavaScript vs Java Pass by Value and Reference'
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

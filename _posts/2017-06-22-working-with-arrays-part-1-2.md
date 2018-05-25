@@ -1,7 +1,7 @@
 ---
 ID: 2032
-post_title: Working With Arrays, Part 1
-post_name: working-with-arrays-part-1-2
+title: Working With Arrays, Part 1
+# working-with-arrays-part-1-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

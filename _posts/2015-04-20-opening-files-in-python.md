@@ -1,7 +1,7 @@
 ---
 ID: 199
-post_title: Opening Files in Python
-post_name: opening-files-in-python
+title: Opening Files in Python
+# opening-files-in-python
 author: Tiffany White
 post_date: 2015-04-20 17:07:39
 layout: post

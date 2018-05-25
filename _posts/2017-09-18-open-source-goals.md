@@ -1,7 +1,7 @@
 ---
 ID: 2448
-post_title: Open Source Goals and the Year in Review
-post_name: open-source-goals
+title: Open Source Goals and the Year in Review
+# open-source-goals
 author: Tiffany White
 post_date: 2017-09-18 12:49:14
 post_excerpt: >

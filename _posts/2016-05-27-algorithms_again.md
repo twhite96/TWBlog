@@ -1,7 +1,7 @@
 ---
 ID: 1122
-post_title: Algorithms…Again
-post_name: algorithms_again
+title: Algorithms…Again
+# algorithms_again
 author: Tiffany White
 post_date: 2016-05-27 01:48:11
 layout: post

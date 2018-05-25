@@ -1,7 +1,7 @@
 ---
 ID: 380
-post_title: I Need to Do Better
-post_name: i-need-to-do-better
+title: I Need to Do Better
+# i-need-to-do-better
 author: Tiffany White
 post_date: 2015-06-28 22:38:55
 layout: post

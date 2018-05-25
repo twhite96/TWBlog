@@ -1,7 +1,7 @@
 ---
 ID: 252
-post_title: Free Code Camp ROCKS
-post_name: free-code-camp-rocks
+title: Free Code Camp ROCKS
+# free-code-camp-rocks
 author: Tiffany White
 post_date: 2015-05-13 17:00:52
 layout: post

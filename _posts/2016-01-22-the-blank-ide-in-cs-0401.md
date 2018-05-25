@@ -1,9 +1,9 @@
 ---
 ID: 869
-post_title: >
+title: >
   Thrown Into the Fire, or, The Blank IDE
   in CS 0401
-post_name: the-blank-ide-in-cs-0401
+# the-blank-ide-in-cs-0401
 author: Tiffany White
 post_date: 2016-01-22 02:56:54
 layout: post

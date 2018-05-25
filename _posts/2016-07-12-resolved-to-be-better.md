@@ -1,7 +1,7 @@
 ---
 ID: 1209
-post_title: Resolved to Be Better
-post_name: resolved-to-be-better
+title: Resolved to Be Better
+# resolved-to-be-better
 author: Tiffany White
 post_date: 2016-07-12 22:56:27
 layout: post

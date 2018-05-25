@@ -1,7 +1,7 @@
 ---
 ID: 1090
-post_title: Finishing OOP JavaScript at Treehouse
-post_name: finishing-oop-javascript-treehouse
+title: Finishing OOP JavaScript at Treehouse
+# finishing-oop-javascript-treehouse
 author: Tiffany White
 post_date: 2016-04-30 19:17:50
 layout: post
@@ -31,7 +31,7 @@ categories:
 
 function Media() {
 
-  this.title = title;
+  this.title: = title:;
 
   this.duration = duration;
 
@@ -59,7 +59,7 @@ Media.prototype.stop = function() {
 
 function Movie() {
 
-  Media.call(this, title, duration);
+  Media.call(this, title:, duration);
 
   this.year = year;
 
@@ -85,7 +85,7 @@ Movie.prototype.stop = function() {
 
 function Movie() {
 
-  Media.call(this, title, duration);
+  Media.call(this, title:, duration);
 
   this.year = year;
 
@@ -120,7 +120,7 @@ https://gist.github.com/twhite96/42aaf04d874630e4c733236392dc23f7
 
 function Media() {
 
-  this.title = title;
+  this.title: = title:;
 
   this.duration = duration;
 
@@ -148,7 +148,7 @@ Media.prototype.stop = function() {
 
 function Movie() {
 
-  Media.call(this, title, duration);
+  Media.call(this, title:, duration);
 
   this.year = year;
 
@@ -174,7 +174,7 @@ Movie.prototype.stop = function() {
 
 function Movie() {
 
-  Media.call(this, title, duration);
+  Media.call(this, title:, duration);
 
   this.year = year;
 

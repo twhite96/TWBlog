@@ -1,7 +1,7 @@
 ---
 ID: 1387
-post_title: Back into the Java Virtual Machine
-post_name: java-virtual-machine
+title: Back into the Java Virtual Machine
+# java-virtual-machine
 author: Tiffany White
 post_date: 2016-11-05 03:13:52
 layout: post

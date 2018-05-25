@@ -1,7 +1,7 @@
 ---
 ID: 544
-post_title: 'Day 6: Password Forms &#038; Tooltips'
-post_name: day-6-password-forms-tooltips
+title: 'Day 6: Password Forms &#038; Tooltips'
+# day-6-password-forms-tooltips
 author: Tiffany White
 post_date: 2015-08-18 17:27:21
 layout: post

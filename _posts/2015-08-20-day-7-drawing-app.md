@@ -1,7 +1,7 @@
 ---
 ID: 562
-post_title: 'Day 7: Drawing App'
-post_name: day-7-drawing-app
+title: 'Day 7: Drawing App'
+# day-7-drawing-app
 author: Tiffany White
 post_date: 2015-08-20 13:28:55
 layout: post

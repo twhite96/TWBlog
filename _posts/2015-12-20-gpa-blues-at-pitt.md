@@ -1,9 +1,9 @@
 ---
 ID: 809
-post_title: >
+title: >
   First Semester at Pitt. Not What I
   Wanted to End Up With.
-post_name: gpa-blues-at-pitt
+# gpa-blues-at-pitt
 author: Tiffany White
 post_date: 2015-12-20 20:21:36
 layout: post

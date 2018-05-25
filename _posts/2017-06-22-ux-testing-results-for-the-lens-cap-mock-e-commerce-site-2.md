@@ -1,10 +1,6 @@
 ---
 ID: 2023
-post_title: >
-  UX Testing Results for The Lens Cap Mock
-  E-Commerce Site
-post_name: >
-  ux-testing-results-for-the-lens-cap-mock-e-commerce-site-2
+title: 'UX Testing Results for The Lens Cap Mock E-Commerce Site'
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

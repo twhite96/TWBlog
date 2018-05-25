@@ -1,7 +1,7 @@
 ---
 ID: 491
-post_title: 'Day 3: Event Handlers and Animations'
-post_name: day-3-event-handlers-and-animations
+title: 'Day 3: Event Handlers and Animations'
+# day-3-event-handlers-and-animations
 author: Tiffany White
 post_date: 2015-08-09 23:05:45
 layout: post

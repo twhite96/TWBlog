@@ -1,7 +1,7 @@
 ---
 ID: 879
-post_title: Confidence Through Self-Talk
-post_name: confidence-self-talk
+title: Confidence Through Self-Talk
+# confidence-self-talk
 author: Tiffany White
 post_date: 2016-02-05 23:43:43
 layout: post

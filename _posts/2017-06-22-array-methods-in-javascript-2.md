@@ -1,7 +1,7 @@
 ---
 ID: 2030
-post_title: Array Methods in JavaScript
-post_name: array-methods-in-javascript-2
+title: Array Methods in JavaScript
+# array-methods-in-javascript-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

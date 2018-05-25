@@ -1,7 +1,7 @@
 ---
 ID: 697
-post_title: Regaining My Footing as a Java Student
-post_name: regaining-my-footing-as-a-java-student
+title: Regaining My Footing as a Java Student
+# regaining-my-footing-as-a-java-student
 author: Tiffany White
 post_date: 2015-11-08 10:00:02
 layout: post

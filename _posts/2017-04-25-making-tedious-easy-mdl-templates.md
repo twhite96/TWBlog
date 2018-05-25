@@ -1,9 +1,9 @@
 ---
 ID: 1889
-post_title: >
+title: >
   Making The Tedious Easy With MDL
   Templates
-post_name: making-tedious-easy-mdl-templates
+# making-tedious-easy-mdl-templates
 author: Tiffany White
 post_date: 2017-04-25 07:20:47
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 840
-post_title: New Semester Excitement
-post_name: new-semester-excitement
+title: New Semester Excitement
+# new-semester-excitement
 author: Tiffany White
 post_date: 2016-01-08 22:42:10
 layout: post
@@ -31,13 +31,13 @@ I thought I had installed this long ago but didn’t have the zsh shell installe
 
 Love geeking out with this. Not only is it pretty but the plugins are incredibly useful, too.
 <h3>Alex Gwartney’s Snippet Web App</h3>
-Alex Gwartney is a young developer whose journey I’ve been following since I came across the now-on-hiatus Developer Soup Podcast. He built a nice little snippet app using Node, MongoDB, JavaScript, Bootstrap and a few other technologies. Check it <a href="https://snippetsearch.herokuapp.com/">out</a>. <a id="fnref:1" class="footnote" title="see footnote" href="1">[1]</a>
+Alex Gwartney is a young developer whose journey I’ve been following since I came across the now-on-hiatus Developer Soup Podcast. He built a nice little snippet app using Node, MongoDB, JavaScript, Bootstrap and a few other technologies. Check it <a href="https://snippetsearch.herokuapp.com/">out</a>. <a id="fnref:1" class="footnote" title:="see footnote" href="1">[1]</a>
 <div class="footnotes">
 
 <hr />
 
 <ol>
-	<li id="fn:1">The Snippet App is hosted on Heroku and I’ve gotten a few Cannot GET errors when clicking through to the app. Just refresh or retype it in and it should work. <a class="reversefootnote" title="return to article" href="1"> ↩</a></li>
+	<li id="fn:1">The Snippet App is hosted on Heroku and I’ve gotten a few Cannot GET errors when clicking through to the app. Just refresh or retype it in and it should work. <a class="reversefootnote" title:="return to article" href="1"> ↩</a></li>
 </ol>
 
 
@@ -57,13 +57,13 @@ I thought I had installed this long ago but didn’t have the zsh shell installe
 
 Love geeking out with this. Not only is it pretty but the plugins are incredibly useful, too.
 <h3>Alex Gwartney’s Snippet Web App</h3>
-Alex Gwartney is a young developer whose journey I’ve been following since I came across the now-on-hiatus Developer Soup Podcast. He built a nice little snippet app using Node, MongoDB, JavaScript, Bootstrap and a few other technologies. Check it <a href="https://snippetsearch.herokuapp.com/">out</a>. <a id="fnref:1" class="footnote" title="see footnote" href="1">[1]</a>
+Alex Gwartney is a young developer whose journey I’ve been following since I came across the now-on-hiatus Developer Soup Podcast. He built a nice little snippet app using Node, MongoDB, JavaScript, Bootstrap and a few other technologies. Check it <a href="https://snippetsearch.herokuapp.com/">out</a>. <a id="fnref:1" class="footnote" title:="see footnote" href="1">[1]</a>
 <div class="footnotes">
 
 <hr />
 
 <ol>
-	<li id="fn:1">The Snippet App is hosted on Heroku and I’ve gotten a few Cannot GET errors when clicking through to the app. Just refresh or retype it in and it should work. <a class="reversefootnote" title="return to article" href="1"> ↩</a></li>
+	<li id="fn:1">The Snippet App is hosted on Heroku and I’ve gotten a few Cannot GET errors when clicking through to the app. Just refresh or retype it in and it should work. <a class="reversefootnote" title:="return to article" href="1"> ↩</a></li>
 </ol>
 
 

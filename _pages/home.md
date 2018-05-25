@@ -1,7 +1,7 @@
 ---
 ID: 818
-post_title: /Home
-post_name: home
+title: /Home
+# home
 author: Tiffany White
 post_date: 2015-12-21 22:12:32
 layout: page

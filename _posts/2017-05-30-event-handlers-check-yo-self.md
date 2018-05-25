@@ -1,7 +1,7 @@
 ---
 ID: 1928
-post_title: Event Handlers in Check Yo Self
-post_name: event-handlers-check-yo-self
+title: Event Handlers in Check Yo Self
+# event-handlers-check-yo-self
 author: Tiffany White
 post_date: 2017-05-30 18:57:05
 layout: post

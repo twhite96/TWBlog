@@ -1,9 +1,9 @@
 ---
 ID: 1533
-post_title: >
+title: >
   Working on the Free Code Camp Weather
   App
-post_name: working-free-code-camp-weather-app
+# working-free-code-camp-weather-app
 author: Tiffany White
 post_date: 2016-12-18 23:18:42
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 288
-post_title: 'Back and Forth I Go&#8211; All the Pretty Languages!'
-post_name: all-the-pretty-languages
+title: 'Back and Forth I Go&#8211; All the Pretty Languages!'
+# all-the-pretty-languages
 author: Tiffany White
 post_date: 2015-06-02 14:30:03
 layout: post

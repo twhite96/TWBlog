@@ -1,7 +1,7 @@
 ---
 ID: 1226
-post_title: Leveling Up as a Programmer
-post_name: leveling-up-as-a-programmer
+title: Leveling Up as a Programmer
+# leveling-up-as-a-programmer
 author: Tiffany White
 post_date: 2016-07-31 00:31:04
 layout: post

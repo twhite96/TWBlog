@@ -1,7 +1,7 @@
 ---
 ID: 1219
-post_title: Random Quote Generator Finale
-post_name: random-quote-generator-finale
+title: Random Quote Generator Finale
+# random-quote-generator-finale
 author: Tiffany White
 post_date: 2016-07-25 00:54:08
 layout: post

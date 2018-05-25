@@ -1,7 +1,7 @@
 ---
 ID: 529
-post_title: 'Day 5: Mobile Dropdown Menu'
-post_name: day-5-mobile-dropdown-menu
+title: 'Day 5: Mobile Dropdown Menu'
+# day-5-mobile-dropdown-menu
 author: Tiffany White
 post_date: 2015-08-12 23:41:01
 layout: post

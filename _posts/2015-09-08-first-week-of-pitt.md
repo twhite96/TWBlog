@@ -1,9 +1,9 @@
 ---
 ID: 586
-post_title: >
+title: >
   First Week of Pitt, Learning Java, and
   My New Podcast Site
-post_name: first-week-of-pitt
+# first-week-of-pitt
 author: Tiffany White
 post_date: 2015-09-08 15:27:54
 layout: post

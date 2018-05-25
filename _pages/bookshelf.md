@@ -1,7 +1,7 @@
 ---
 ID: 965
-post_title: /Weekly Reading
-post_name: bookshelf
+title: /Weekly Reading
+# bookshelf
 author: Tiffany White
 post_date: 2016-03-21 22:02:17
 layout: page

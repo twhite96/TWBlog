@@ -1,7 +1,7 @@
 ---
 ID: 1233
-post_title: Plan for Success
-post_name: plan-for-success
+title: Plan for Success
+# plan-for-success
 author: Tiffany White
 post_date: 2016-08-11 01:15:38
 layout: post

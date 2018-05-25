@@ -1,7 +1,7 @@
 ---
 ID: 1095
-post_title: Thinking Like a Programmer
-post_name: thinking-like-programmer
+title: Thinking Like a Programmer
+# thinking-like-programmer
 author: Tiffany White
 post_date: 2016-05-01 19:32:46
 layout: post

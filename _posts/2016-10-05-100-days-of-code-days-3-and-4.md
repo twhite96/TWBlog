@@ -1,7 +1,7 @@
 ---
 ID: 1350
-post_title: 100 Days of Code Days 3 and 4
-post_name: 100-days-of-code-days-3-and-4
+title: 100 Days of Code Days 3 and 4
+# 100-days-of-code-days-3-and-4
 author: Tiffany White
 post_date: 2016-10-05 03:51:01
 layout: post

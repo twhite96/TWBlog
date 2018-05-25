@@ -1,7 +1,7 @@
 ---
 ID: 2736
-post_title: Use Cases for the Spread Operator
-post_name: use-cases-es6-spread-operator
+title: Use Cases for the Spread Operator
+# use-cases-es6-spread-operator
 author: Tiffany White
 post_date: 2017-12-13 11:30:30
 post_excerpt: >

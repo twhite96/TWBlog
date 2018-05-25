@@ -1,7 +1,7 @@
 ---
 ID: 2704
-post_title: First Feature and Pull Request
-post_name: first-feature-pull-request
+title: First Feature and Pull Request
+# first-feature-pull-request
 author: Tiffany White
 post_date: 2017-12-10 20:35:54
 post_excerpt: >

@@ -1,7 +1,7 @@
 ---
 ID: 1874
-post_title: 'CRUD: My New App, Check Yo Self'
-post_name: crud-my-new-app-check-yo-self
+title: 'CRUD: My New App, Check Yo Self'
+# crud-my-new-app-check-yo-self
 author: Tiffany White
 post_date: 2017-04-22 22:41:47
 layout: post

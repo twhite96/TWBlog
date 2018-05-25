@@ -1,7 +1,7 @@
 ---
 ID: 506
-post_title: 'Day 4: Lightbox'
-post_name: day-4-lightbox
+title: 'Day 4: Lightbox'
+# day-4-lightbox
 author: Tiffany White
 post_date: 2015-08-11 19:57:17
 layout: post

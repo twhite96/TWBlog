@@ -1,7 +1,7 @@
 ---
 ID: 1800
-post_title: Concise, Modular JavaScript
-post_name: concise-modular-javascript
+title: Concise, Modular JavaScript
+# concise-modular-javascript
 author: Tiffany White
 post_date: 2017-03-18 20:26:14
 layout: post

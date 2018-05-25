@@ -1,7 +1,7 @@
 ---
 ID: 413
-post_title: I Was Running on Heroku with my Woes
-post_name: heroku-woes
+title: I Was Running on Heroku with my Woes
+# heroku-woes
 author: Tiffany White
 post_date: 2015-07-15 16:21:05
 layout: post

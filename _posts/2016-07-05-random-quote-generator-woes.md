@@ -1,7 +1,7 @@
 ---
 ID: 1198
-post_title: Random Quote Generator Woes
-post_name: random-quote-generator-woes
+title: Random Quote Generator Woes
+# random-quote-generator-woes
 author: Tiffany White
 post_date: 2016-07-05 22:21:35
 layout: post
@@ -47,7 +47,7 @@ I found some code for the random quotes that uses jQuery. Here it is:
 	},
 	placeQuote: function(){
 		$("#quoteContent").html("&lt;h3&gt;" + quoteMachine.quoteArray[quoteMachine.count].content + "&lt;/h3&gt;");
-		$("#quoteTitle").html("&lt;h4&gt; - " + quoteMachine.quoteArray[quoteMachine.count].title + "&lt;/h4&gt;");
+		$("#quoteTitle").html("&lt;h4&gt; - " + quoteMachine.quoteArray[quoteMachine.count].title: + "&lt;/h4&gt;");
 	},
 	newQuote: function(){
 		if(quoteMachine.count &lt; 39){
@@ -63,8 +63,8 @@ I found some code for the random quotes that uses jQuery. Here it is:
 		content = content.substring(3, content.length -5);
 		content = content.replace(/&amp;#.{4};/g, "");
 		content = encodeURIComponent(content);
-		var title = quoteMachine.quoteArray[quoteMachine.count].title;
-		var message = content + " -" + title + "%20#randomQuote%20#FCC";
+		var title: = quoteMachine.quoteArray[quoteMachine.count].title:;
+		var message = content + " -" + title: + "%20#randomQuote%20#FCC";
 		window.open("http://twitter.com/home/?status=" + message);
 	}
 };
@@ -107,7 +107,7 @@ I found some code for the random quotes that uses jQuery. Here it is:
 	},
 	placeQuote: function(){
 		$("#quoteContent").html("&lt;h3&gt;" + quoteMachine.quoteArray[quoteMachine.count].content + "&lt;/h3&gt;");
-		$("#quoteTitle").html("&lt;h4&gt; - " + quoteMachine.quoteArray[quoteMachine.count].title + "&lt;/h4&gt;");
+		$("#quoteTitle").html("&lt;h4&gt; - " + quoteMachine.quoteArray[quoteMachine.count].title: + "&lt;/h4&gt;");
 	},
 	newQuote: function(){
 		if(quoteMachine.count &lt; 39){
@@ -123,8 +123,8 @@ I found some code for the random quotes that uses jQuery. Here it is:
 		content = content.substring(3, content.length -5);
 		content = content.replace(/&amp;#.{4};/g, "");
 		content = encodeURIComponent(content);
-		var title = quoteMachine.quoteArray[quoteMachine.count].title;
-		var message = content + " -" + title + "%20#randomQuote%20#FCC";
+		var title: = quoteMachine.quoteArray[quoteMachine.count].title:;
+		var message = content + " -" + title: + "%20#randomQuote%20#FCC";
 		window.open("http://twitter.com/home/?status=" + message);
 	}
 };

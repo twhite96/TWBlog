@@ -1,7 +1,7 @@
 ---
 ID: 45
-post_title: Realizing CSS3 Through a Design Book
-post_name: design-book
+title: Realizing CSS3 Through a Design Book
+# design-book
 author: Tiffany White
 post_date: 2015-01-21 10:04:25
 layout: post

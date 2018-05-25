@@ -1,7 +1,7 @@
 ---
 ID: 1354
-post_title: 100 Days of Code Day 5
-post_name: 100-days-of-code-day-5
+title: 100 Days of Code Day 5
+# 100-days-of-code-day-5
 author: Tiffany White
 post_date: 2016-10-06 01:02:05
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 1346
-post_title: 100 Days of Code Log, Day 2
-post_name: 100-days-of-code-log-day-2
+title: 100 Days of Code Log, Day 2
+# 100-days-of-code-log-day-2
 author: Tiffany White
 post_date: 2016-10-02 00:10:37
 layout: post

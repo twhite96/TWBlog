@@ -1,9 +1,9 @@
 ---
 ID: 190
-post_title: >
+title: >
   Argument Variables and ValueErrors in
   Python
-post_name: argument-variables-in-python
+# argument-variables-in-python
 author: Tiffany White
 post_date: 2015-04-13 17:00:22
 layout: post

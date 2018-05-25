@@ -1,7 +1,7 @@
 ---
 ID: 1052
-post_title: Using Trello to Track Learning
-post_name: using-trello-to-track-learning
+title: Using Trello to Track Learning
+# using-trello-to-track-learning
 author: Tiffany White
 post_date: 2016-04-18 21:48:27
 layout: post

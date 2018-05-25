@@ -1,7 +1,7 @@
 ---
 ID: 1585
-post_title: 'On My First 100% on a Java Program'
-post_name: first-100-java-program
+title: 'On My First 100% on a Java Program'
+# first-100-java-program
 author: Tiffany White
 post_date: 2017-01-26 14:39:45
 layout: post

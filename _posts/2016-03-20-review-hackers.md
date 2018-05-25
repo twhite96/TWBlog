@@ -1,7 +1,7 @@
 ---
 ID: 982
-post_title: 'Review: Hackers: Heroes of the Computer Revolution &#8211; 25th Anniversary Edition'
-post_name: review-hackers
+title: 'Review: Hackers: Heroes of the Computer Revolution &#8211; 25th Anniversary Edition'
+# review-hackers
 author: Tiffany White
 post_date: 2016-03-20 00:43:22
 layout: post

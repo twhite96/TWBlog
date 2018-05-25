@@ -1,7 +1,7 @@
 ---
 ID: 1040
-post_title: Crawling Before You Walk
-post_name: crawling-before-you-walk
+title: Crawling Before You Walk
+# crawling-before-you-walk
 author: Tiffany White
 post_date: 2016-04-12 01:12:25
 layout: post

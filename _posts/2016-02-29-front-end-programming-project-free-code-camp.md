@@ -1,10 +1,6 @@
 ---
 ID: 925
-post_title: >
-  Front-End Programming Project on Free
-  Code Camp
-post_name: >
-  front-end-programming-project-free-code-camp
+title: 'Front-End Programming Project on Free Code Camp'
 author: Tiffany White
 post_date: 2016-02-29 00:00:43
 layout: post

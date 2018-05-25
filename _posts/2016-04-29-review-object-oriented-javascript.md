@@ -1,7 +1,7 @@
 ---
 ID: 1081
-post_title: 'Review: Object-Oriented JavaScript'
-post_name: review-object-oriented-javascript
+title: 'Review: Object-Oriented JavaScript'
+# review-object-oriented-javascript
 author: Tiffany White
 post_date: 2016-04-29 23:20:58
 layout: post

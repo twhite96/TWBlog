@@ -1,7 +1,7 @@
 ---
 ID: 2459
-post_title: Productivity for Devs
-post_name: productivity-devs
+title: Productivity for Devs
+# productivity-devs
 author: Tiffany White
 post_date: 2017-09-30 19:30:06
 post_excerpt: 'While perusing The Practical Dev for new posts, I came across a post that intrigued me: Instant +100% command line productivity boost. Productivity for devs is something I’ve been meaning to write about. Now I have the impetus to do so.'

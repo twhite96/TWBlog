@@ -1,7 +1,7 @@
 ---
 ID: 1131
-post_title: Completing Algorithms
-post_name: completing-algorithms
+title: Completing Algorithms
+# completing-algorithms
 author: Tiffany White
 post_date: 2016-06-05 22:51:36
 layout: post

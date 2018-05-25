@@ -1,8 +1,6 @@
 ---
 ID: 1909
-post_title: 'Check Yo Self Update: Eliminating Dev Dependencies'
-post_name: >
-  check-yo-self-update-eliminating-dev-dependencies
+title: 'Check Yo Self Update: Eliminating Dev Dependencies'
 author: Tiffany White
 post_date: 2017-05-16 22:55:32
 post_excerpt: |
