@@ -18,8 +18,10 @@ author:
   url:            https://twitter.com/TiffanyW_412
 
 paginate:         5
-# paginate_path:    '/page:num'
+paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
+disqus:
+  shortname: helloburgh
 
 plugins:
   - jekyll-feed
