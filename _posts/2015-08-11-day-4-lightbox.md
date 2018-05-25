@@ -21,6 +21,7 @@ So yesterday we made a simple lightbox for a set of images, which I found hard t
 
 Assigning jQuery elements to a variable has proven to be extremely useful. For instance this bit of code:
 
+<<<<<<< Updated upstream
 <pre class="lang:javascript decode:1 " >var $overlay = $('&amp;lt;div id=&amp;quot;overlay&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;');
 var $image = $(&amp;quot;&amp;lt;img&amp;gt;&amp;quot;);
 var $caption = $(&amp;quot;&amp;quot;);
@@ -31,6 +32,18 @@ $overlay.append($image);
 $(&amp;quot;body&amp;quot;).append($overlay);
 // An image
  // A caption
+=======
+<pre class="lang:javascript decode:1 " >var $overlay = $('&amp;lt;div id=&amp;quot;overlay&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;');
+var $image = $(&amp;quot;&amp;lt;img&amp;gt;&amp;quot;);
+var $caption = $(&amp;quot;&amp;quot;);
+
+$overlay.append($image);
+// Add overly
+
+$(&amp;quot;body&amp;quot;).append($overlay);
+// An image
+ // A caption
+>>>>>>> Stashed changes
 $overlay.append($caption);</pre>
 
 We don't have to continually write out jQuery objects, we can just refer to them in the variables that preceded the block of code where we need them.
@@ -49,6 +62,7 @@ method which we passed in the string, ("href") after attaching it to
 
 assured us that we were clicking the linked image attribute in the HTML, and it wouldn't matter which image was clicked. Here is the last part of the code:
 
+<<<<<<< Updated upstream
 <pre class="lang:javascript decode:1 " >//Capture the click event on a link to an image
 $(&amp;quot;#imageGallery a&amp;quot;).click(function(event){
    event.preventDefault();
@@ -69,4 +83,26 @@ $(&amp;quot;#imageGallery a&amp;quot;).click(function(event){
   $overlay.click(function(){
  //Hide the overlay
   $overlay.hide();
+=======
+<pre class="lang:javascript decode:1 " >//Capture the click event on a link to an image
+$(&amp;quot;#imageGallery a&amp;quot;).click(function(event){
+   event.preventDefault();
+   var imageLocation = $(this).attr(&amp;quot;href&amp;quot;);
+ //Update overlay with the image linked in the link
+   $image.attr(&amp;quot;src&amp;quot;, imageLocation);
+
+//Show the overlay.
+   $overlay.show();
+
+//Get child's alt attribute and set caption
+   var captionText = $(this).children(&amp;quot;img&amp;quot;).attr(&amp;quot;alt&amp;quot;);
+   $caption.text(captionText);
+
+});
+
+//When overlay is clicked
+  $overlay.click(function(){
+ //Hide the overlay
+  $overlay.hide();
+>>>>>>> Stashed changes
 });</pre>

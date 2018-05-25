@@ -25,6 +25,7 @@ I got to experience the thrill of debugging something myself. That feeling was s
 
 So what does my first Java program look like? Well, because of the requirements, the code is really verbose. I don’t think I could use a method call at all to sort of DRY it out. I may be able to do that down the road.
 
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >/* Author name: Tiffany White
 This is a budget calculator
 Created date: September 22, 2015
@@ -142,6 +143,125 @@ elecBillPercentage = (elecBill * 100) / grossPay;
 
 
   }
+=======
+<pre class="lang:java decode:1 " >/* Author name: Tiffany White
+This is a budget calculator
+Created date: September 22, 2015
+Last modified date: September 24, 2015
+*/
+
+// This line imports the Scanner class to the document
+import java.util.Scanner;
+
+public class P1A5_White
+{
+ public static void main(String[] args)
+ {
+    // This line declares a scanner variable that will be used to get user input
+    Scanner keyboard = new Scanner(System.in);
+
+    // This line prints text to the screen
+    System.out.println(&amp;quot;Welcome to Budget Calculator by Tiffany White. It will calculate your income and expenses.&amp;quot;);
+
+    // The lines like these print instructions to the screen and then get user input
+    System.out.print(&amp;quot;Enter your name.&amp;quot;);
+    String name = keyboard.nextLine();
+
+    System.out.print(&amp;quot;Enter your hourly rate.&amp;quot;);
+    double hourlyRate = keyboard.nextDouble();
+
+    System.out.print(&amp;quot;Enter your regular hours worked.&amp;quot;);
+    int regularHoursWorked = keyboard.nextInt();
+
+    System.out.print(&amp;quot;Enter your overtime hours worked.&amp;quot;);
+    double overtimeHoursWorked = keyboard.nextDouble();
+
+    // Clears keyboard buffer
+    keyboard.nextLine();
+
+    System.out.print(&amp;quot;Enter your rent.&amp;quot;);
+    double rent = keyboard.nextDouble();
+
+    System.out.print(&amp;quot;Enter your electric bill amount.&amp;quot;);
+    double elecBill = keyboard.nextDouble();
+
+    System.out.print(&amp;quot;Enter the amount of your water bill.&amp;quot;);
+    double waterBill = keyboard.nextDouble();
+
+    // Clears keyboard buffer
+    keyboard.nextLine();
+
+    System.out.print(&amp;quot;Enter the amount of your sewage bill.&amp;quot;);
+    double sewBill = keyboard.nextDouble();
+
+    System.out.print(&amp;quot;Enter the amount of your gas bill.&amp;quot;);
+    double gasBill = keyboard.nextDouble();
+
+    System.out.print(&amp;quot;Enter the amount of your food budget.&amp;quot;);
+    double foodBudget = keyboard.nextDouble();
+
+    // Clears keyboard buffer
+    keyboard.nextLine();
+
+    System.out.print(&amp;quot;Enter the amount of your entertainment expenses.&amp;quot;);
+    double entertainment = keyboard.nextDouble();
+
+    System.out.print(&amp;quot;Enter the amount of your car expenses.&amp;quot;);
+    double carExpenses = keyboard.nextDouble();
+
+    // Clears keyboard buffer
+    keyboard.nextLine();
+
+    // This line calculates the user's gross pay
+    double grossPay = (regularHoursWorked + overtimeHoursWorked) * hourlyRate;
+
+    //This format string prints out the reults of the grossPay calculation and returns a new line
+    System.out.printf(&amp;quot;Your gross pay is &amp;quot; + &amp;quot;%.2f\%%, grossPay);
+
+    // This line calculates expenses/deductions
+    double deductions = (rent + elecBill + waterBill + sewBill + gasBill
+    + foodBudget + entertainment + carExpenses);
+
+    // This line declares variables in the double primitive data type
+    double rentPercentage, elecBillPercentage, waterBillPercentage, sewBillPercentage,
+    gasBillPercentage, foodBudgetPercentage, entertainmentPercentage, carExpensesPercentage;
+
+    /* The following lines of code calculate the percentages of each deduction against
+    the user's gross pay and prints out the results to the console, returning a new line
+    */
+    rentPercentage = (rent * 100) / grossPay;
+System.out.printf(&amp;quot;The amount of your gross pay that goes to rent is %.2f%%.\n&amp;quot;, rentPercentage);
+
+elecBillPercentage = (elecBill * 100) / grossPay;
+    System.out.printf(&amp;quot;The amount of your gross pay that goes to your electric bill is %.2f%%.\n&amp;quot;, elecBillPercentage);
+
+    waterBillPercentage = (waterBill * 100) / grossPay;
+    System.out.printf(&amp;quot;The amount of your gross pay that goes to your water bill is %.2f%%.\n&amp;quot;, waterBillPercentage);
+
+    sewBillPercentage = (sewBill * 100) / grossPay;
+    System.out.printf(&amp;quot;The amount of your gross pay that goes to sewage is %.2f%%.\n&amp;quot;, sewBillPercentage);
+
+    gasBillPercentage = (gasBill * 100) / grossPay;
+    System.out.printf(&amp;quot;The amount of your gross pay that goes to gas is %.2f%%.\n&amp;quot;, gasBillPercentage);
+
+    foodBudgetPercentage = (foodBudget * 100) / grossPay;
+    System.out.printf(&amp;quot;The amount of your gross pay that goes to food is %.2f%%.\n&amp;quot;, foodBudgetPercentage);
+
+    entertainmentPercentage = (entertainment * 100) / grossPay;
+    System.out.printf(&amp;quot;The amount of your gross pay that goes to entertainment is %.2f%%.\n&amp;quot;, entertainmentPercentage);
+
+    carExpensesPercentage = (carExpenses * 100) / grossPay;
+    System.out.printf(&amp;quot;The amount of your gross pay that goes to your car is %.2f%%.\n&amp;quot;, carExpensesPercentage);
+
+    // This line calculates net pay after deductions are subtracted from the gross pay
+    double netPay = (grossPay - deductions);
+
+    // This format string prints out the net pay to the console and returns a new line
+    System.out.printf(&amp;quot;Your net pay after deductions is $&amp;quot; + &amp;quot;%.2f.\n&amp;quot;, netPay);
+
+
+  }
+>>>>>>> Stashed changes
 }</pre>
 
 See what I mean by verbose? But we’re beginners so I guess she wants to make sure we know what we’re doing. ¯&#95;(ツ)_/¯
@@ -154,6 +274,7 @@ I am only taking 6 credits so I have some in between time. It won’t be that wa
 
 Anyway, I’ve used some simple Bootstrap to set up a few of the pages. Here’s the static html code for the index page:
 
+<<<<<<< Updated upstream
 <pre class="lang:html decode:1 " >
 &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
 &amp;lt;head&amp;gt;
@@ -221,6 +342,75 @@ Add your contacts to keep up with potential sales leads, anniversaries, birthday
 
 &amp;lt;/body&amp;gt;
 &amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;main.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+=======
+<pre class="lang:html decode:1 " >
+&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+    &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;
+    &amp;lt;!-- Latest compiled and minified CSS --&amp;gt;
+    &amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css&amp;quot;&amp;gt;
+
+    &amp;lt;!-- Optional theme --&amp;gt;
+    &amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css&amp;quot;&amp;gt;
+
+    &amp;lt;!-- Latest compiled and minified JavaScript --&amp;gt;
+    &amp;lt;script src=&amp;quot;https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+    &amp;lt;link rel=&amp;quot;stylesheet&amp;quot; type=&amp;quot;text/css&amp;quot; href=&amp;quot;stylesheet.css&amp;quot;&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+
+&amp;lt;div class=&amp;quot;navbar-header&amp;quot;&amp;gt;
+
+&amp;lt;ul class=&amp;quot;nav nav-tabs&amp;quot;&amp;gt;
+
+&amp;lt;li role=&amp;quot;presentation&amp;quot; class=&amp;quot;active&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;index.html&amp;quot;&amp;gt;Contacts&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+
+
+&amp;lt;li role=&amp;quot;presentation&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;addContacts.html&amp;quot;&amp;gt;Add Contacts&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+
+
+&amp;lt;li role=&amp;quot;presentation&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;Phone.html&amp;quot;&amp;gt;Phone&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+
+
+&amp;lt;li role=&amp;quot;presentation&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;Email.html&amp;quot;&amp;gt;Email&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt;
+
+      &amp;lt;/ul&amp;gt;
+
+  &amp;lt;/div&amp;gt;
+
+
+&amp;lt;div class=&amp;quot;col-sm-3 col-md-3 pull-right&amp;quot;&amp;gt;
+
+&amp;lt;form class=&amp;quot;navbar-form&amp;quot; role=&amp;quot;search&amp;quot;&amp;gt;
+
+&amp;lt;div class=&amp;quot;input-group&amp;quot;&amp;gt;
+              &amp;lt;input type=&amp;quot;text&amp;quot; class=&amp;quot;form-control&amp;quot; placeholder=&amp;quot;Search&amp;quot; name=&amp;quot;srch-term&amp;quot; id=&amp;quot;srch-term&amp;quot;&amp;gt;
+
+&amp;lt;div class=&amp;quot;input-group-btn&amp;quot;&amp;gt;
+                  &amp;lt;button class=&amp;quot;btn btn-default&amp;quot; type=&amp;quot;submit&amp;quot;&amp;gt;&amp;lt;i class=&amp;quot;glyphicon glyphicon-search&amp;quot;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/button&amp;gt;
+              &amp;lt;/div&amp;gt;
+
+          &amp;lt;/div&amp;gt;
+
+      &amp;lt;/form&amp;gt;
+
+  &amp;lt;/div&amp;gt;
+
+
+&amp;lt;div class=&amp;quot;jumbotron&amp;quot;&amp;gt;
+
+&amp;lt;h1&amp;gt;My Contacts&amp;lt;/h1&amp;gt;
+
+
+
+Add your contacts to keep up with potential sales leads, anniversaries, birthdays, etc. You can add it all right here.
+
+  &amp;lt;/div&amp;gt;
+
+
+&amp;lt;/body&amp;gt;
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;main.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+>>>>>>> Stashed changes
 &amp;lt;/html&amp;gt;</pre>
 
 It’s going to be a Node app hosted on Heroku. I can’t wait to get it finished.

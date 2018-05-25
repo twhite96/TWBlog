@@ -20,41 +20,70 @@ categories:
 <a href="http://helloburgh.me/wp-content/uploads/2015/08/Screenshot-2015-08-08-01.14.53.png"><img class="aligncenter size-full wp-image-471" src="http://helloburgh.me/wp-content/uploads/2015/08/Screenshot-2015-08-08-01.14.53.png" alt="Screenshot 2015-08-08 01.14.53" width="262" height="274" /></a>
 
 What I learned…errr last night was about using multiple strings with formatters in Java. For instance:
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 String name = “Tiffany”;
 String age = 30;
 
 console.printf(“My name is %s and I am %s years old.”, name, age);
+=======
+<pre class="lang:java decode:1 " >
+String name = “Tiffany”;
+String age = 30;
+
+console.printf(“My name is %s and I am %s years old.”, name, age);
+>>>>>>> Stashed changes
 </pre>
 
 This is sort of like when I was doing Learn Python the Hard Way only the syntax is different and more verbose.
 
 I learned how to get information into the console by way of prompting the user. So you have the console object and the method readLine to say something like:
 
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 console.readLine(“What is your name?”);
+=======
+<pre class="lang:java decode:1 " >
+console.readLine(“What is your name?”);
+>>>>>>> Stashed changes
 </pre>
 
 This was interesting, getting to learn these new methods for a new language. Also knowing the Java is compiled and how to run the compile command with:
 
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 javac
+=======
+<pre class="lang:java decode:1 " >
+javac
+>>>>>>> Stashed changes
 </pre>
 
 I learned more about integers and getting an integer from a string. Whereas in JavaScript you’d use:
 
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 parseInt
+=======
+<pre class="lang:java decode:1 " >
+parseInt
+>>>>>>> Stashed changes
 </pre>
 
 in Java you have this long string:
 
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 Integer.parseInt
+=======
+<pre class="lang:java decode:1 " >
+Integer.parseInt
+>>>>>>> Stashed changes
 </pre>
 
 Building things and adding conditions was interesting as well. Here is a little snippet of the app we built in Java:
 
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >
 String name = console.readLine(“Enter a name: ”);
 String adjective = console.readLine(“Enter an adjective: ”);
@@ -68,12 +97,32 @@ do {
     console.printf(“That language is not allowed. Try again. \n\n”);
   }
 } while(isInvalidWord);
+=======
+<pre class="lang:java decode:1 " >
+String name = console.readLine(“Enter a name: ”);
+String adjective = console.readLine(“Enter an adjective: ”);
+String noun;
+boolean isInvalidWord;
+do {
+    noun = console.readLine(“Enter a noun: ”);
+    isInvalidWord = (noun.equalsIgnoreCase(“dork”) ||
+                     noun.equalsIgnoreCase(“jerk”));
+    if (isInvalidWord) {
+    console.printf(“That language is not allowed. Try again. \n\n”);
+  }
+} while(isInvalidWord);
+>>>>>>> Stashed changes
 </pre>
 
 To be honest, Java isn’t really too bad. I don’t like the verbosity. For instance in JavaScript you can call a method:
 
+<<<<<<< Updated upstream
 <pre class="lang:javascript decode:1 " >
 noun.toLowerCase
+=======
+<pre class="lang:javascript decode:1 " >
+noun.toLowerCase
+>>>>>>> Stashed changes
 </pre>
 
 instead of what we’ve got here in Java. Java is a little better in that the .equalsIgnoreCase makes things simpler so I could call it on any object and the case would be ignored completely. But it just <strong>looks</strong> cleaner.

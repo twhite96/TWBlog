@@ -18,6 +18,7 @@ tags:
 categories:
   - Uncategorized
 ---
+<<<<<<< Updated upstream
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo1.png" alt="Dev" width="488" height="488" />
 
 The “I AM BUILD!” is a reference to Pittsburgh’s beloved hockey star Geno Malkin (Evgeni Malkin from Russia). He says sometimes, “Geno is score”, or something like that.
@@ -30,4 +31,18 @@ Show Notes:
 
 <a href="http://mywiki.wooledge.org/XyProblem">More on the XY problem</a>
 
+=======
+<img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo1.png" alt="Dev" width="488" height="488" />
+
+The “I AM BUILD!” is a reference to Pittsburgh’s beloved hockey star Geno Malkin (Evgeni Malkin from Russia). He says sometimes, “Geno is score”, or something like that.
+
+Running through ruby-monday on <a href="https://codenewbie.typeform.com/to/uwsWlZ">Code Newbies Slack Channel</a> we came up with an idea for an app and I get to build! Listen to the podcast to find out more.
+
+Show Notes:
+
+<a href="http://meta.stackexchange.com/questions/66377/what-is-the-xy-problem">XY Problem</a>
+
+<a href="http://mywiki.wooledge.org/XyProblem">More on the XY problem</a>
+
+>>>>>>> Stashed changes
 <a href="http://heroku.com">Heroku</a>

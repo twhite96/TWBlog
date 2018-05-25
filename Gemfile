@@ -1,18 +1,13 @@
 source 'https://rubygems.org'
 
 gem 'json'
-gem "jekyll", "~> 3.3.0"
+gem "jekyll", "~> 3.6.0"
+gem "jekyll-theme-hydeout", "~> 3.4"
 
 group :jekyll_plugins do
-  gem 'jekyll-sitemap'
-  gem 'jekyll-archives'
-  gem 'jekyll-feed'
-  gem 'jekyll-lunr-js-search'
   gem 'jekyll-gist'
-  gem 'minimal-mistakes-jekyll'
-  gem 'jekyll-youtube'
   gem 'jekyll-paginate'
-  gem 'nokogiri', '~> 1.6'
-  gem 'therubyracer'
-
+  gem 'redcarpet'
+  gem 'pygments.rb'
+  gem "html-proofer"
 end

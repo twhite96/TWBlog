@@ -71,6 +71,7 @@ So I spent a whole month dreading this assignment. I had, evenutally, a block of
 
 Someone in their Slack room helped tremendously. He said, “You have these complicated instructions and this big block of code. When things are complicated we need to break them down into pieces.” I knew he meant methods, something I asked my TA about. He rearranged my code and we went through the process, what was happening, what methods were being called where. He eventually had to feed his kids and I was left to figure out how to get the program to keep running when certain conditions were met. I figured it out myself. Here is the end result:
 
+<<<<<<< Updated upstream
 <pre class="lang:java decode:1 " >/* Tiffany White
 Dice Rolling program, Rockymon, creating different methods to determine if the game is won, lost
 or the user should roll again.
@@ -148,4 +149,83 @@ printResult(bigStartRoll);
   }
  }
 }
+=======
+<pre class="lang:java decode:1 " >/* Tiffany White
+Dice Rolling program, Rockymon, creating different methods to determine if the game is won, lost
+or the user should roll again.
+Date created: November 3, 2015
+Date modified: November 5, 2015
+*/
+
+// Imports Random and Scanner classes
+import java.util.Scanner;
+import java.util.Random;
+
+
+// Declares the class name
+public class P2A4_White_
+{
+ // This is the main method declaration
+ public static void main(String[] args)
+ {
+ // This calls the runGame method
+ runGame();
+ }
+
+// Creates Scanner and Random objects
+ public static Scanner keyboard = new Scanner(System.in);
+ public static Random r = new Random();
+
+
+// Created a new method to be called to run the game
+ public static void runGame(){
+
+
+// Declares a variable and calls the rollDice method
+int bigStartRoll = rollDice();
+
+//calls the print Result method and passes the result of Big Start Roll as an argument
+printResult(bigStartRoll);
+}
+ // creates rollDice method
+ public static int rollDice(){
+ // creates a Random object that will roll the second die with 6 sides
+ int secondRoll = r.nextInt(6) + 1;
+ // creates a Random object that will roll the first die with 6 sides
+ int firstRoll = r.nextInt(6) + 1;
+ // returns the result of the first and second roll
+ return secondRoll + firstRoll;
+ }
+
+// Creates a method called printResult and passes rollValue as an argument
+ public static void printResult(int rollValue){
+ // the logic that will determine if the value of the roll is a 5 or 10
+ if (rollValue == 5 || rollValue == 10) {
+ // if the Random number object returns a rollValue of 5 or 10 you've won will be printed to the console
+ System.out.println(&amp;amp;quot;Your Big Start Roll Number: &amp;amp;quot; + rollValue + &amp;amp;quot;You've won Rockymon. Congrats!&amp;amp;quot;);
+ // the logic that determines that if the first condition is false and the value of rollValue is any of these numbers, you lose will be printed to the console
+ } else if (rollValue == 2 || rollValue == 4 || rollValue == 11) {
+ System.out.println(&amp;amp;quot;Your Big Start Roll Number: &amp;amp;quot; + rollValue + &amp;amp;quot;You lose.&amp;amp;quot;);
+ // the logic that determines if the previous values for rollValue were false then you enter, and the rollValue is not a 5 or itself, then you enter match number mode.
+ } else if (rollValue != 5 || rollValue != 5 &amp;amp;amp;&amp;amp;amp; rollValue == rollValue) {
+ System.out.println(&amp;amp;quot;Your Big Start Roll Number: &amp;amp;quot; + rollValue + &amp;amp;quot;\n You've entered Match Number Mode.\nRoll again.&amp;amp;quot;);
+ // Declares empty string to hold input
+ String again = &amp;amp;quot;&amp;amp;quot;
+
+  // the logic that will loop through, calling the rollDice method each time the enter key is pressed until
+  // the rollValue is not 5 or itself
+  do {
+    rollValue = rollDice();
+    System.out.println(&amp;amp;quot;Your result: &amp;amp;quot; + rollValue + &amp;amp;quot;Roll again.&amp;amp;quot;);
+    again = keyboard.nextLine();
+  } while (again.equals(&amp;amp;quot;&amp;amp;quot;) &amp;amp;amp;&amp;amp;amp; rollValue != 5 || rollValue != 5 &amp;amp;amp;&amp;amp;amp; rollValue == rollValue);
+
+  // if the rollValue value is 5, you lose
+  if (rollValue == 5) {
+    System.out.println(&amp;amp;quot;You lose.&amp;amp;quot;);
+   }
+  }
+ }
+}
+>>>>>>> Stashed changes
 </pre>
