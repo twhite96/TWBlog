@@ -12,7 +12,15 @@
       positionContent: "true"
     });
   </script>
-
+  <script>
+    function emoji() {
+      if (navigator.userAgent.indexOf('Mac OS X') != -1) {
+        window.location.hash = '👩🏾‍💻';
+      }
+    }
+    emoji();
+    console.log("You found my landing page! You're awesome.");
+  </script>
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
