@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Python, Python, and More Python-- ep.2 Is Live"
 modified:
 categories: Python, podcast, SoundCloud

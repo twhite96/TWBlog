@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Working With Arrays, Part 1"
 modified:
 categories: JavaScript

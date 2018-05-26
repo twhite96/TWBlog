@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Array Methods in JavaScript"
 modified: 2016-02-15s
 categories: 

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Episode 3 Is Live-- With Some Oddness"
 modified:
 categories: 

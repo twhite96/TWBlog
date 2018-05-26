@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Objects and JSON"
 modified: 2016-06-15T16:10:44-04:00
 categories: JavaScript, JSON
