@@ -1,7 +1,7 @@
 ---
 ID: 653
-post_title: NaNoWriMo? How About NaCoWriMo?
-post_name: nanowrimo-or-nacowrimo
+title: NaNoWriMo? How About NaCoWriMo?
+# nanowrimo-or-nacowrimo
 author: Tiffany White
 post_date: 2015-10-13 23:47:30
 layout: post
@@ -18,7 +18,8 @@ categories:
   - Ideas
   - Programming
 ---
-<<<<<<< Updated upstream
+
+
 <img src="http://helloburgh.me/wp-content/uploads/2015/10/wpid-winner-2014-web-banner.jpg" alt="NaCoWriMo" />
 
 November, if you’re an internet savvy fiction writer, is NaNoWriMo, or National Novel Writing Month. As a writer in my previous life, I participated in NaNoWriMo several times. The objective is to write 50,000 words of a novel in <strong>one month</strong>. It’s <em>insanity personified</em>. I spent countless nights awake writing to get to 50,000 words and only ever “won” once. You win a certificate and some nice discounts from writing software people. The community is great as well.
@@ -29,7 +30,9 @@ So how do I measure <em>winning</em>? In NaNoWriMo you won when you got to 50,00
 
 Maybe I’ll thow in something good to the first person to complete NaCoWriMo, like a book or Amazon Gift card (I don’t have a lot of money so you’re looking at $25 max) or an iTunes Gift Card for that dev app you were eyeing.
 
-=======
+
+
+
 <img src="http://helloburgh.me/wp-content/uploads/2015/10/wpid-winner-2014-web-banner.jpg" alt="NaCoWriMo" />
 
 November, if you’re an internet savvy fiction writer, is NaNoWriMo, or National Novel Writing Month. As a writer in my previous life, I participated in NaNoWriMo several times. The objective is to write 50,000 words of a novel in <strong>one month</strong>. It’s <em>insanity personified</em>. I spent countless nights awake writing to get to 50,000 words and only ever “won” once. You win a certificate and some nice discounts from writing software people. The community is great as well.
@@ -40,5 +43,8 @@ So how do I measure <em>winning</em>? In NaNoWriMo you won when you got to 50,00
 
 Maybe I’ll thow in something good to the first person to complete NaCoWriMo, like a book or Amazon Gift card (I don’t have a lot of money so you’re looking at $25 max) or an iTunes Gift Card for that dev app you were eyeing.
 
->>>>>>> Stashed changes
+
+
+
+
 Good idea? Let me know in the comments.

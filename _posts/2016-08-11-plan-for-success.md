@@ -1,7 +1,7 @@
 ---
 ID: 1233
-post_title: Plan for Success
-post_name: plan-for-success
+title: Plan for Success
+# plan-for-success
 author: Tiffany White
 post_date: 2016-08-11 01:15:38
 layout: post
@@ -14,7 +14,8 @@ categories:
   - Pitt
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 <img class="alignnone size-full wp-image-1232" src="http://helloburgh.me/wp-content/uploads/2016/08/Success.jpeg" width="900" height="600" />
 
 So, in two weeks, I will be back at Pitt. I know I’ve talked about it a lot but I am honestly excited.
@@ -39,7 +40,9 @@ I am taking a break from doing any real projects. I am just trying to learn and 
 
 ## Thoughts
 
-=======
+
+
+
 <img class="alignnone size-full wp-image-1232" src="http://helloburgh.me/wp-content/uploads/2016/08/Success.jpeg" width="900" height="600" />
 
 So, in two weeks, I will be back at Pitt. I know I’ve talked about it a lot but I am honestly excited.
@@ -64,5 +67,8 @@ I am taking a break from doing any real projects. I am just trying to learn and 
 
 ## Thoughts
 
->>>>>>> Stashed changes
+
+
+
+
 This semester shouldn’t be very difficult. I am taking a web design and development class. I am between a beginner and intermediate with my knowledge of JavaScript so I should be alright with this class. I am looking forward to it.

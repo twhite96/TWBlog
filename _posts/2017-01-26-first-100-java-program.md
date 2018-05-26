@@ -1,7 +1,7 @@
 ---
 ID: 1585
-post_title: 'On My First 100% on a Java Program'
-post_name: first-100-java-program
+title: 'On My First 100% on a Java Program'
+# first-100-java-program
 author: Tiffany White
 post_date: 2017-01-26 14:39:45
 layout: post
@@ -16,7 +16,8 @@ categories:
   - Pitt
   - Semester Updates
 ---
-<<<<<<< Updated upstream
+
+
 Got a 100/100 on my first Intermediate Java Program.
 
 I have been working really hard at being consistent in my life: consistent bedtimes, consistent night time medication times, consistent hygiene times (you'd be surprised at how weird my hygiene patterns were when I had that breakdown this time last year), consistent eating, notes &amp; homework...you get the gist.
@@ -85,7 +86,9 @@ on one line, I could keep each separate part of the string input in the string b
 
 ## Aced the First Project
 
-=======
+
+
+
 Got a 100/100 on my first Intermediate Java Program.
 
 I have been working really hard at being consistent in my life: consistent bedtimes, consistent night time medication times, consistent hygiene times (you'd be surprised at how weird my hygiene patterns were when I had that breakdown this time last year), consistent eating, notes &amp; homework...you get the gist.
@@ -154,5 +157,8 @@ on one line, I could keep each separate part of the string input in the string b
 
 ## Aced the First Project
 
->>>>>>> Stashed changes
+
+
+
+
 Got a 100% on Project 1. It helps he fills out the output that he expects but he also lets you do it as many times as you can until a certain point after the project/lab is due. This is the first time I've gotten 100% on any difficult programming assignment since I've been going to Pitt. Yes, it's a text based Speeding Ticket Calculator that basically relies on Scanner input and conditionals and some simple math, but I hadn't even gotten 100% on my Beginning Programming projects, let alone the Intermediate programming projects. This boosts confidence and gives me hope for the future.

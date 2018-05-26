@@ -1,7 +1,7 @@
 ---
 ID: 143
-post_title: 'Jekyll &#038; Hyde'
-post_name: jekyll-hyde
+title: 'Jekyll &#038; Hyde'
+# jekyll-hyde
 author: Tiffany White
 post_date: 2015-03-22 20:08:51
 layout: post

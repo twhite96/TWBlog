@@ -1,7 +1,7 @@
 ---
 ID: 428
-post_title: 'This Developer&#8217;s Journey ep.12'
-post_name: this-developers-journey-ep-12-2
+title: 'This Developer&#8217;s Journey ep.12'
+# this-developers-journey-ep-12-2
 author: Tiffany White
 post_date: 2015-07-19 22:28:37
 layout: post
@@ -16,7 +16,8 @@ tags:
 categories:
   - Uncategorized
 ---
-<<<<<<< Updated upstream
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/wpid-Dev-Logo.png" alt="This Developers Journey" width="524" height="524" />
 <h2>Show Notes:</h2>
 <a href="http://codepen.io/twhite96/pen/KpRBzd">Me on CodePen:</a>
@@ -32,7 +33,9 @@ categories:
 
 <a href="https://leanpub.com/build-apis-you-wont-hate">Build APIs You Won’t Hate</a>
 <h2>Pick o’ the Week:</h2>
-=======
+
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/wpid-Dev-Logo.png" alt="This Developers Journey" width="524" height="524" />
 <h2>Show Notes:</h2>
 <a href="http://codepen.io/twhite96/pen/KpRBzd">Me on CodePen:</a>
@@ -48,5 +51,8 @@ categories:
 
 <a href="https://leanpub.com/build-apis-you-wont-hate">Build APIs You Won’t Hate</a>
 <h2>Pick o’ the Week:</h2>
->>>>>>> Stashed changes
+
+
+
+
 <a href="https://itunes.apple.com/us/podcast/developer-tea/id955596067?mt=2">Developer Tea Podcast</a>

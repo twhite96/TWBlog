@@ -1,7 +1,7 @@
 ---
 ID: 3127
-post_title: What Is React Reconciliation?
-post_name: react-reconciliation
+title: What Is React Reconciliation?
+# react-reconciliation
 author: Tiffany White
 post_date: 2018-05-19 23:04:01
 post_excerpt: >
@@ -94,7 +94,7 @@ When state in a component changes, React will unmount the component and tear the
 
 To get an example of this, check out this pen I forked below:
 
-<p data-height="467" data-theme-id="22729" data-slug-hash="WJPeME" data-default-tab="js,result" data-user="twhite96" data-embed-version="2" data-pen-title="reconciliation-2 Pen" class="codepen">See the Pen <a href="https://codepen.io/twhite96/pen/WJPeME/">reconciliation-2 Pen</a> by Tiffany White (<a href="https://codepen.io/twhite96">@twhite96</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="467" data-theme-id="22729" data-slug-hash="WJPeME" data-default-tab="js,result" data-user="twhite96" data-embed-version="2" data-pen-title:="reconciliation-2 Pen" class="codepen">See the Pen <a href="https://codepen.io/twhite96/pen/WJPeME/">reconciliation-2 Pen</a> by Tiffany White (<a href="https://codepen.io/twhite96">@twhite96</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 

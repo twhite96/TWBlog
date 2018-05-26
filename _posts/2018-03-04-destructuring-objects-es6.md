@@ -1,7 +1,7 @@
 ---
 ID: 2911
-post_title: Destructuring Objects in ES6
-post_name: destructuring-objects-es6
+title: Destructuring Objects in ES6
+# destructuring-objects-es6
 author: Tiffany White
 post_date: 2018-03-04 11:31:49
 post_excerpt: >

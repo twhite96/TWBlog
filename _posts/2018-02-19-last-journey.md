@@ -1,7 +1,7 @@
 ---
 ID: 2894
-post_title: The Last of the Journey
-post_name: last-journey
+title: The Last of the Journey
+# last-journey
 author: Tiffany White
 post_date: 2018-02-19 17:25:29
 post_excerpt: This post will the last of its kind.

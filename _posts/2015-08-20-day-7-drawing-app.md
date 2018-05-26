@@ -1,7 +1,7 @@
 ---
 ID: 562
-post_title: 'Day 7: Drawing App'
-post_name: day-7-drawing-app
+title: 'Day 7: Drawing App'
+# day-7-drawing-app
 author: Tiffany White
 post_date: 2015-08-20 13:28:55
 layout: post
@@ -26,7 +26,8 @@ element which we have to use JavaScript interactivity to; we can’t use pure jQ
 
 We used new event handlers like
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >$canvas.mousedown(function(e) {
  lastEvent = e;
  mouseDown = true;
@@ -34,7 +35,9 @@ We used new event handlers like
 }).mouseup(function() {
 }).mouseleave(function() {
 });
-=======
+
+
+
 <pre class="lang:javascript decode:1 " >$canvas.mousedown(function(e) {
  lastEvent = e;
  mouseDown = true;
@@ -42,7 +45,10 @@ We used new event handlers like
 }).mouseup(function() {
 }).mouseleave(function() {
 });
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 Obviously this code doesn’t work in its current state, but I digress. So drawing the line in the app consists of
@@ -59,7 +65,8 @@ which will access the siblings in a child element and execute an event handler o
 
 We learned JavaScript specific ways to make the canvas interactive. The code looks like this:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >$canvas.mousedown(function(e) {
  lastEvent = e;
  mouseDown = true;
@@ -76,7 +83,9 @@ We learned JavaScript specific ways to make the canvas interactive. The code loo
  mouseDown = false;
 }).mouseleave(function() {
  $canvas.mouseup
-=======
+
+
+
 <pre class="lang:javascript decode:1 " >$canvas.mousedown(function(e) {
  lastEvent = e;
  mouseDown = true;
@@ -93,7 +102,10 @@ We learned JavaScript specific ways to make the canvas interactive. The code loo
  mouseDown = false;
 }).mouseleave(function() {
  $canvas.mouseup
->>>>>>> Stashed changes
+
+
+
+
 });</pre>
 
 <pre class="lang:javascript decode:1 " >context.beginPath()</pre>

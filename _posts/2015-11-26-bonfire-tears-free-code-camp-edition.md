@@ -1,7 +1,7 @@
 ---
 ID: 752
-post_title: Bonfire Tears (Free Code Camp Edition)
-post_name: bonfire-tears-free-code-camp-edition
+title: Bonfire Tears (Free Code Camp Edition)
+# bonfire-tears-free-code-camp-edition
 author: Tiffany White
 post_date: 2015-11-26 02:06:20
 layout: post
@@ -40,7 +40,8 @@ String.substr()</blockquote>
 
 The given code:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >function end(str, target) {
  // &quot;Never give up and good luck will find you.&quot;
  // -- Falcor
@@ -51,7 +52,9 @@ The given code:
 
 
 end(&quot;Bastian&quot;, &quot;n&quot;);
-=======
+
+
+
 <pre class="lang:javascript decode:1 " >function end(str, target) {
  // &quot;Never give up and good luck will find you.&quot;
  // -- Falcor
@@ -62,7 +65,10 @@ end(&quot;Bastian&quot;, &quot;n&quot;);
 
 
 end(&quot;Bastian&quot;, &quot;n&quot;);
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 <h3>What the Hell Substrings?</h3>
@@ -75,7 +81,8 @@ end(&quot;Bastian&quot;, &quot;n&quot;);
 
 I knew that, since we had lengths of different strings. The tests proved that. So I kept hardcoding for one particular string. I couldn’t get past that. How do I code this thing for different string lengths? How do you get the length of a string? <code>.length</code>. Right? YES. But <em>how</em>. Where do I put the <code>.length</code>? I had this code:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >function end(str, target) {
  //&quot;Never give up and good luck will find you.&quot;
  // -- Falcor
@@ -95,7 +102,9 @@ I knew that, since we had lengths of different strings. The tests proved that. S
 
 }
 ​
-=======
+
+
+
 <pre class="lang:javascript decode:1 " >function end(str, target) {
  //&quot;Never give up and good luck will find you.&quot;
  // -- Falcor
@@ -115,14 +124,18 @@ I knew that, since we had lengths of different strings. The tests proved that. S
 
 }
 ​
->>>>>>> Stashed changes
+
+
+
+
 end(&quot;Bastian&quot;, &quot;n&quot;);</pre>
 
 I found out in Free Code Camp’s Gitter chat that you can get to the end of a string with a negative number; no need to keep popping off all those letters before the “n” on Bastian. But I continued to hard code for “Bastian” and “n”. I needed a broader approach.
 
 I tried:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >function end(str, target) {
 
 ​
@@ -134,7 +147,9 @@ I tried:
 
 }
 ​
-=======
+
+
+
 <pre class="lang:javascript decode:1 " >function end(str, target) {
 
 ​
@@ -146,12 +161,16 @@ I tried:
 
 }
 ​
->>>>>>> Stashed changes
+
+
+
+
 end(&quot;Bastian&quot;, &quot;n&quot;);</pre>
 
 But I wasn’t really making any progress. All but one of the tests were passing, and I wasn’t really utilizing <code>.length</code> to have a basic variance of string lengths. So I did this:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >function end(str, target) {
 
  var n = target.length;
@@ -161,7 +180,9 @@ But I wasn’t really making any progress. All but one of the tests were passing
 
 }
 ​
-=======
+
+
+
 <pre class="lang:javascript decode:1 " >function end(str, target) {
 
  var n = target.length;
@@ -171,7 +192,10 @@ But I wasn’t really making any progress. All but one of the tests were passing
 
 }
 ​
->>>>>>> Stashed changes
+
+
+
+
 end(&quot;Bastian&quot;, &quot;n&quot;);</pre>
 
 Same result. I knew I needed to have <code>.length;</code> up there. But where to go after that?
@@ -182,7 +206,8 @@ Same result. I knew I needed to have <code>.length;</code> up there. But where t
 
 Finally, I had to be guided to the answer. The woman was in Britain and I am pretty sure I was keeping her awake. So we came up with this solution:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >function end(str, target) {
  // &quot;Never give up and good luck will find you.&quot;
  // -- Falcor
@@ -193,7 +218,9 @@ Finally, I had to be guided to the answer. The woman was in Britain and I am pre
 }
 
 end(&quot;Bastian&quot;, &quot;n&quot;);
-=======
+
+
+
 <pre class="lang:javascript decode:1 " >function end(str, target) {
  // &quot;Never give up and good luck will find you.&quot;
  // -- Falcor
@@ -204,7 +231,10 @@ end(&quot;Bastian&quot;, &quot;n&quot;);
 }
 
 end(&quot;Bastian&quot;, &quot;n&quot;);
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 <code>var length = target.length;</code> gets the length of any target string and assigns it to the length variable.

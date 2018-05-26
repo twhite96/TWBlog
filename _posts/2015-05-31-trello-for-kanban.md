@@ -1,9 +1,9 @@
 ---
 ID: 280
-post_title: >
+title: >
   Kanban and My Love of Trello for Project
   Management
-post_name: trello-for-kanban
+# trello-for-kanban
 author: Tiffany White
 post_date: 2015-05-31 14:30:48
 layout: post
@@ -19,7 +19,8 @@ tags:
 categories:
   - Productivity
 ---
-<<<<<<< Updated upstream
+
+
 <img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Trello.png" alt="Trello" width="284" height="284" />
 
 If you’re not using Kanban and Lean project management for your productivity as a developer, why?
@@ -36,7 +37,9 @@ For information on Kanban check out this <a href="http://blog.kanbanize.com/kanb
 
 &nbsp;
 
-=======
+
+
+
 <img class=" alignright" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Trello.png" alt="Trello" width="284" height="284" />
 
 If you’re not using Kanban and Lean project management for your productivity as a developer, why?
@@ -53,5 +56,8 @@ For information on Kanban check out this <a href="http://blog.kanbanize.com/kanb
 
 &nbsp;
 
->>>>>>> Stashed changes
+
+
+
+
 https://vimeo.com/129059451

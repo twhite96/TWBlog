@@ -7,9 +7,19 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
   <meta name="p:domain_verify" content="acc30ca3b2824e0ab04b503c2916b738" />
   <script type="text/javascript">
-    $.bigfoot({
-      numberResetSelector: "article"
+    var bigfoot = $.bigfoot({
+      actionOriginalFN: "hide",
+      positionContent: "true"
     });
+  </script>
+  <script>
+    function emoji() {
+      if (navigator.userAgent.indexOf('Mac OS X') != -1) {
+        window.location.hash = '👩🏾‍💻';
+      }
+    }
+    emoji();
+    console.log("You found my landing page! You're awesome.");
   </script>
 
   <!-- Enable responsiveness on mobile devices-->

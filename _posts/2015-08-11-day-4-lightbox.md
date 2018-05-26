@@ -1,7 +1,7 @@
 ---
 ID: 506
-post_title: 'Day 4: Lightbox'
-post_name: day-4-lightbox
+title: 'Day 4: Lightbox'
+# day-4-lightbox
 author: Tiffany White
 post_date: 2015-08-11 19:57:17
 layout: post
@@ -21,7 +21,8 @@ So yesterday we made a simple lightbox for a set of images, which I found hard t
 
 Assigning jQuery elements to a variable has proven to be extremely useful. For instance this bit of code:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >var $overlay = $('&amp;lt;div id=&amp;quot;overlay&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;');
 var $image = $(&amp;quot;&amp;lt;img&amp;gt;&amp;quot;);
 var $caption = $(&amp;quot;&amp;quot;);
@@ -32,7 +33,9 @@ $overlay.append($image);
 $(&amp;quot;body&amp;quot;).append($overlay);
 // An image
  // A caption
-=======
+
+
+
 <pre class="lang:javascript decode:1 " >var $overlay = $('&amp;lt;div id=&amp;quot;overlay&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;');
 var $image = $(&amp;quot;&amp;lt;img&amp;gt;&amp;quot;);
 var $caption = $(&amp;quot;&amp;quot;);
@@ -43,7 +46,10 @@ $overlay.append($image);
 $(&amp;quot;body&amp;quot;).append($overlay);
 // An image
  // A caption
->>>>>>> Stashed changes
+
+
+
+
 $overlay.append($caption);</pre>
 
 We don't have to continually write out jQuery objects, we can just refer to them in the variables that preceded the block of code where we need them.
@@ -62,7 +68,8 @@ method which we passed in the string, ("href") after attaching it to
 
 assured us that we were clicking the linked image attribute in the HTML, and it wouldn't matter which image was clicked. Here is the last part of the code:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >//Capture the click event on a link to an image
 $(&amp;quot;#imageGallery a&amp;quot;).click(function(event){
    event.preventDefault();
@@ -83,7 +90,9 @@ $(&amp;quot;#imageGallery a&amp;quot;).click(function(event){
   $overlay.click(function(){
  //Hide the overlay
   $overlay.hide();
-=======
+
+
+
 <pre class="lang:javascript decode:1 " >//Capture the click event on a link to an image
 $(&amp;quot;#imageGallery a&amp;quot;).click(function(event){
    event.preventDefault();
@@ -104,5 +113,8 @@ $(&amp;quot;#imageGallery a&amp;quot;).click(function(event){
   $overlay.click(function(){
  //Hide the overlay
   $overlay.hide();
->>>>>>> Stashed changes
+
+
+
+
 });</pre>

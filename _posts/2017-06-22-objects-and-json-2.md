@@ -1,7 +1,7 @@
 ---
 ID: 2027
-post_title: Objects and JSON
-post_name: objects-and-json-2
+title: Objects and JSON
+# objects-and-json-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post
@@ -12,7 +12,8 @@ tags: [ ]
 categories:
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 ## What are JavaScript Objects?
 
 When thinking about JavaScript objects, it is important to think about them in terms of real life objects. For instance, you have a cup, which is an object. The object has some *properties*: it is white, it has some text, it is holds 12 oz, it is used for coffee, etc.
@@ -99,7 +100,9 @@ Looks similar but it isn't. It is a simpler way to exchange data. Previously XML
 
 ### Conclusion
 
-=======
+
+
+
 ## What are JavaScript Objects?
 
 When thinking about JavaScript objects, it is important to think about them in terms of real life objects. For instance, you have a cup, which is an object. The object has some *properties*: it is white, it has some text, it is holds 12 oz, it is used for coffee, etc.
@@ -186,5 +189,8 @@ Looks similar but it isn't. It is a simpler way to exchange data. Previously XML
 
 ### Conclusion
 
->>>>>>> Stashed changes
+
+
+
+
 There is so much more to get into with JavaScript Objects. As I get to know more I will post it. Soon, I'll go over prototypal inheritance, `this`, and more.

@@ -1,7 +1,7 @@
 ---
 ID: 2033
-post_title: The Execution Stack and Scope
-post_name: the-execution-stack-and-scope-2
+title: The Execution Stack and Scope
+# the-execution-stack-and-scope-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post
@@ -12,7 +12,8 @@ tags: [ ]
 categories:
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 What is the <em>Execution Stack</em>? Before I answer that question, we’ll first have to take a look at the <em>Global Execution Context</em>
 
 The <em>Global Execution Context</em>, in general terms, is the environment in which the function gets invoked, or the variable’s scope. <em>The Global Execution Context</em>, creates global object, a window object, and a <em>this</em> variable in its creation phase as well as storing any variables you’ve made stored in memory.
@@ -57,7 +58,9 @@ myFunction();
 </div>
 Everything is created along the same lines. The global execution context is created, <em>myFunction()</em> sits on top of the global execution context, <em>yourFunction()</em> sits on top of it. But when the scope chain looks for its outer reference lexical environment this time, <em>yourFunction()</em>’s outer reference lexical environment is <em>myFunction()</em> because <em>yourFunction()</em> sits lexically inside of it.
 
-=======
+
+
+
 What is the <em>Execution Stack</em>? Before I answer that question, we’ll first have to take a look at the <em>Global Execution Context</em>
 
 The <em>Global Execution Context</em>, in general terms, is the environment in which the function gets invoked, or the variable’s scope. <em>The Global Execution Context</em>, creates global object, a window object, and a <em>this</em> variable in its creation phase as well as storing any variables you’ve made stored in memory.
@@ -102,5 +105,8 @@ myFunction();
 </div>
 Everything is created along the same lines. The global execution context is created, <em>myFunction()</em> sits on top of the global execution context, <em>yourFunction()</em> sits on top of it. But when the scope chain looks for its outer reference lexical environment this time, <em>yourFunction()</em>’s outer reference lexical environment is <em>myFunction()</em> because <em>yourFunction()</em> sits lexically inside of it.
 
->>>>>>> Stashed changes
+
+
+
+
 This is how, under the hood, local and global scope function. For further information see: <a href="&quot;http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/&quot;">ECMAScript Docs</a>

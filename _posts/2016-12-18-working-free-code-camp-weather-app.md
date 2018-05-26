@@ -1,9 +1,9 @@
 ---
 ID: 1533
-post_title: >
+title: >
   Working on the Free Code Camp Weather
   App
-post_name: working-free-code-camp-weather-app
+# working-free-code-camp-weather-app
 author: Tiffany White
 post_date: 2016-12-18 23:18:42
 layout: post
@@ -17,7 +17,8 @@ tags:
 categories:
   - Free Code Camp
 ---
-<<<<<<< Updated upstream
+
+
 
 I am working on the Free Code Camp weather app quite consistently.
 
@@ -72,7 +73,9 @@ There are *a lot*of parameters here. Some are asking if you want to get the resu
 
 ## Link to the App?
 
-=======
+
+
+
 
 I am working on the Free Code Camp weather app quite consistently.
 
@@ -127,5 +130,8 @@ There are *a lot*of parameters here. Some are asking if you want to get the resu
 
 ## Link to the App?
 
->>>>>>> Stashed changes
+
+
+
+
 It's *almost* finished. Still need to get civic data and do some CSS Kung fu. But after that, it should be ready to go. No link-- I have an API key I am using and need to keep it a secret for a bit. Once it is done I will link it up on GitHub Project Pages.

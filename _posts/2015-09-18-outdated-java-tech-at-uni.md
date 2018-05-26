@@ -1,7 +1,7 @@
 ---
 ID: 594
-post_title: Outdated Java Tech at Uni
-post_name: outdated-java-tech-at-uni
+title: Outdated Java Tech at Uni
+# outdated-java-tech-at-uni
 author: Tiffany White
 post_date: 2015-09-18 03:52:24
 layout: post
@@ -16,7 +16,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
+
+
 
 <img src="http://helloburgh.me/wp-content/uploads/2015/09/wpid-java-logo.jpg" alt="Javac" />
 
@@ -27,7 +28,9 @@ categories:
 
 <p>I went to school and we were talking about doing string concatenation with the + operator. When asking around on Twitter about it Craig, a guy in Pittsburgh who works as an engineer, showed me an <a href="http://javapapers.com/core-java/java-string-concatenation/">article</a> that states that using + to concatenate strings in Java is outdated (surprise!) and comes at a speed cost. I discussed this in my Code &amp; Supply <a href="http://www.codeandsupply.co/podcast/monthly-check-in-with-tiffany-white">podcast</a> segment.</p>
 
-=======
+
+
+
 
 <img src="http://helloburgh.me/wp-content/uploads/2015/09/wpid-java-logo.jpg" alt="Javac" />
 
@@ -38,5 +41,8 @@ categories:
 
 <p>I went to school and we were talking about doing string concatenation with the + operator. When asking around on Twitter about it Craig, a guy in Pittsburgh who works as an engineer, showed me an <a href="http://javapapers.com/core-java/java-string-concatenation/">article</a> that states that using + to concatenate strings in Java is outdated (surprise!) and comes at a speed cost. I discussed this in my Code &amp; Supply <a href="http://www.codeandsupply.co/podcast/monthly-check-in-with-tiffany-white">podcast</a> segment.</p>
 
->>>>>>> Stashed changes
+
+
+
+
 <p>This was talked about on Twitter among local devs. Seems it&#8217;s a good way to introduce a student to string concat, but that other ways are discussed as you move forward in schooling. But what about JavaFX for GUI apps? According to Alex, they don&#8217;t teach that. I&#8217;ll just have to wait and see.</p>

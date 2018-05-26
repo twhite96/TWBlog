@@ -1,7 +1,7 @@
 ---
 ID: 1001
-post_title: 'Review: The Charge: Activating the 10 Human Drives That Make You Feel Alive'
-post_name: review-the-charge
+title: 'Review: The Charge: Activating the 10 Human Drives That Make You Feel Alive'
+# review-the-charge
 author: Tiffany White
 post_date: 2016-03-24 00:29:49
 layout: post
@@ -12,7 +12,8 @@ tags: [ ]
 categories:
   - Book Reviews
 ---
-<<<<<<< Updated upstream
+
+
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/13573685"><img src="http://d.gr-assets.com/books/1350302188m/13573685.jpg" alt="The Charge: Activating the 10 Human Drives That Make You Feel Alive" border="0" /></a>
 <a href="http://www.goodreads.com/book/show/13573685">The Charge: Activating the 10 Human Drives That Make You Feel Alive</a> by <a href="http://www.goodreads.com/author/show/588158">Brendon Burchard</a>
 My rating: <a href="http://www.goodreads.com/review/show/1576871522">1 of 5 stars</a>
@@ -32,7 +33,9 @@ He uses the term neuroscience quite loosely. He also turned me off with that pse
 Honestly, I should have listened to my gut and saved the $6. Waste of time.
 
 
-=======
+
+
+
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/13573685"><img src="http://d.gr-assets.com/books/1350302188m/13573685.jpg" alt="The Charge: Activating the 10 Human Drives That Make You Feel Alive" border="0" /></a>
 <a href="http://www.goodreads.com/book/show/13573685">The Charge: Activating the 10 Human Drives That Make You Feel Alive</a> by <a href="http://www.goodreads.com/author/show/588158">Brendon Burchard</a>
 My rating: <a href="http://www.goodreads.com/review/show/1576871522">1 of 5 stars</a>
@@ -52,5 +55,8 @@ He uses the term neuroscience quite loosely. He also turned me off with that pse
 Honestly, I should have listened to my gut and saved the $6. Waste of time.
 
 
->>>>>>> Stashed changes
+
+
+
+
 <a href="http://www.goodreads.com/review/show/1576871522">View all my reviews</a>

@@ -1,8 +1,6 @@
 ---
 ID: 1145
-post_title: 'Avoid JavaScript Fatigue: Make a Learning Map'
-post_name: >
-  avoid-javascript-fatigue-make-a-learning-map
+title: 'Avoid JavaScript Fatigue: Make a Learning Map'
 author: Tiffany White
 post_date: 2016-06-09 16:58:51
 layout: post
@@ -15,7 +13,8 @@ categories:
   - Programming
   - Skills
 ---
-<<<<<<< Updated upstream
+
+
 There are a lot of tools at our disposal as web developers. JavaScript has been in the tech news recently, with developers complaining of “JavaScript fatigue”— with frameworks and libraries coming out everyday it seems, who can blame them?
 
 How do you avoid the never-ending rabbit hole of jumping from one technology to another? <a href="https://twitter.com/CindyPtn" target="_blank">Cindy Potvin</a> came up with a solution I am going to talk about here: <a href="http://blog.cindypotvin.com/taking-control-learning-by-mapping-out-your-skills/" target="_blank">making a learning map</a>.
@@ -41,7 +40,9 @@ It consists of three parts:
 </li>
 </ul>
 <h2>Analyzing Your Map</h2>
-=======
+
+
+
 There are a lot of tools at our disposal as web developers. JavaScript has been in the tech news recently, with developers complaining of “JavaScript fatigue”— with frameworks and libraries coming out everyday it seems, who can blame them?
 
 How do you avoid the never-ending rabbit hole of jumping from one technology to another? <a href="https://twitter.com/CindyPtn" target="_blank">Cindy Potvin</a> came up with a solution I am going to talk about here: <a href="http://blog.cindypotvin.com/taking-control-learning-by-mapping-out-your-skills/" target="_blank">making a learning map</a>.
@@ -67,5 +68,8 @@ It consists of three parts:
 </li>
 </ul>
 <h2>Analyzing Your Map</h2>
->>>>>>> Stashed changes
+
+
+
+
 You may find you are weak in some areas and need to spend more time focusing on them before you get to the outside set of skills. Or, you may find out that some of these skills don’t interest you at all and move onto something different altogether. The important thing here is to list them, color code them, and see what you’re solid in and what you need to get better at. [Tweet "Don’t fall prey to FOMO and the framework rabbit hole. Have a plan."]

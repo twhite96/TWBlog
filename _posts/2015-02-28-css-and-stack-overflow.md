@@ -1,7 +1,7 @@
 ---
 ID: 110
-post_title: CSS and Stack Overflow
-post_name: css-and-stack-overflow
+title: CSS and Stack Overflow
+# css-and-stack-overflow
 author: Tiffany White
 post_date: 2015-02-28 20:30:57
 layout: post
@@ -22,7 +22,8 @@ categories:
 
 My friend Piper put me on the correct path for my footer with the following code:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:css decode:1 " >
 footer div {
 
@@ -50,7 +51,9 @@ padding: 0;
 
 }
 
-=======
+
+
+
 <pre class="lang:css decode:1 " >
 footer div {
 
@@ -78,14 +81,18 @@ padding: 0;
 
 }
 
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 But that left me with some janky (my new favorite word, apparently) formatting that I could not get rid of by myself. Stack Overflow to the rescue!
 
 <strong>So</strong>. I got four answers and tried three before I tried this:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:css decode:1 " >
 footer {
 
@@ -119,7 +126,9 @@ text-align: center;
 
 }
 
-=======
+
+
+
 <pre class="lang:css decode:1 " >
 footer {
 
@@ -153,7 +162,10 @@ text-align: center;
 
 }
 
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 And <strong>boom</strong>. Fixed…but not quite.
@@ -162,7 +174,8 @@ There was an issue with the Font Awesome icons that I still can’t get right–
 
 Here is the HTML:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:html decode:1 " >
  &lt;div id=&quot;container&quot;&gt; 
  &lt;a href=&quot;https://www.behance.net/twhite412photo&quot;&gt;&lt;i class=&quot;fa fa-behance-square fa-2x&quot;&gt;&lt;/i&gt;&lt;/a&gt;
@@ -171,7 +184,9 @@ Here is the HTML:
  &lt;a href=&quot;https://github.com/twhite96&quot;&gt;&lt;i class=&quot;fa fa-github fa-2x&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
  &lt;a href=&quot;https://plus.google.com/+TiffanyWhiteWriter&quot;&gt;&lt;i class=&quot;fa fa-google-plus-square fa-2x&quot;&gt;&lt;/i&gt;&lt;/a&gt;
  &lt;/div&gt;
-=======
+
+
+
 <pre class="lang:html decode:1 " >
  &lt;div id=&quot;container&quot;&gt; 
  &lt;a href=&quot;https://www.behance.net/twhite412photo&quot;&gt;&lt;i class=&quot;fa fa-behance-square fa-2x&quot;&gt;&lt;/i&gt;&lt;/a&gt;
@@ -180,22 +195,31 @@ Here is the HTML:
  &lt;a href=&quot;https://github.com/twhite96&quot;&gt;&lt;i class=&quot;fa fa-github fa-2x&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
  &lt;a href=&quot;https://plus.google.com/+TiffanyWhiteWriter&quot;&gt;&lt;i class=&quot;fa fa-google-plus-square fa-2x&quot;&gt;&lt;/i&gt;&lt;/a&gt;
  &lt;/div&gt;
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 And the CSS:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:css decode:1 " >
 footer div container{
  float: left;
 }
-=======
+
+
+
 <pre class="lang:css decode:1 " >
 footer div container{
  float: left;
 }
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 <em>Sigh</em>. It is almost 2 am in Pittsburgh and I have been messing with this for the past two days. It isn’t where I want it, regardless of the hinky CSS. I need JavaScript and JQuery to make it not just a static page. Maybe some CSS animations. Don’t know. Yesterday I thought, “this will be up in running in three months, tops, regardless of if I’m ready to freelance”. Today I’m back down to earth.

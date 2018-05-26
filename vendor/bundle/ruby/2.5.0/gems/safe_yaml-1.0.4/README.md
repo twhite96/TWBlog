@@ -1,5 +1,5 @@
 SafeYAML
-========
+=
 
 [![Build Status](https://travis-ci.org/dtao/safe_yaml.png)](http://travis-ci.org/dtao/safe_yaml)
 [![Gem Version](https://badge.fury.io/rb/safe_yaml.png)](http://badge.fury.io/rb/safe_yaml)

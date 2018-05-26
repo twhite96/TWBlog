@@ -1,7 +1,7 @@
 ---
 ID: 717
-post_title: Free Code Camp Bonfires
-post_name: free-code-camp-bonfires
+title: Free Code Camp Bonfires
+# free-code-camp-bonfires
 author: Tiffany White
 post_date: 2015-11-16 21:37:59
 layout: post
@@ -20,7 +20,8 @@ categories:
   - Programming
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 <img src="http://helloburgh.me/wp-content/uploads/2015/11/wpid-0G7N1L3G2F.jpg" alt="bonfire" />
 <blockquote>“…talent means nothing, while experience, acquired in humility and with hard work, means everything.”
 ― Patrick Süskind, <em>Perfume: The story of a murderer</em></blockquote>
@@ -48,7 +49,9 @@ https://gist.github.com/twhite96/d093f42db2954b8a84a7#file-bonfire_longest_word-
 
 &nbsp;
 
-=======
+
+
+
 <img src="http://helloburgh.me/wp-content/uploads/2015/11/wpid-0G7N1L3G2F.jpg" alt="bonfire" />
 <blockquote>“…talent means nothing, while experience, acquired in humility and with hard work, means everything.”
 ― Patrick Süskind, <em>Perfume: The story of a murderer</em></blockquote>
@@ -76,5 +79,8 @@ https://gist.github.com/twhite96/d093f42db2954b8a84a7#file-bonfire_longest_word-
 
 &nbsp;
 
->>>>>>> Stashed changes
+
+
+
+
 &nbsp;

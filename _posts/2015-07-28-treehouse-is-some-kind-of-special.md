@@ -1,7 +1,7 @@
 ---
 ID: 439
-post_title: Treehouse is Some Kind of Special
-post_name: treehouse-is-some-kind-of-special
+title: Treehouse is Some Kind of Special
+# treehouse-is-some-kind-of-special
 author: Tiffany White
 post_date: 2015-07-28 11:50:17
 layout: post
@@ -14,7 +14,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/wpid-Computer-design-elements-flat-vector-material.jpg" alt="Create" width="573" height="513" />
 
 I am building all kinds of things! Learning Loops, Arrays, and Objects now that I finished the JavaScript Basics course in 5 days. I have 6 badges and looking to get more and more, as quickly as possible.
@@ -67,7 +68,9 @@ alert(&amp;quot;You are a flash fiction writer with no credits. Sucks to be you!
 }
 
 See the Pen &lt;a href='http://codepen.io/twhite96/pen/oXadEd/'&gt;Literary Quiz for Writers (WIP)&lt;/a&gt; by Tiffany White (&lt;a href='http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;) on &lt;a href='http://codepen.io'&gt;CodePen&lt;/a&gt;.
-=======
+
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/wpid-Computer-design-elements-flat-vector-material.jpg" alt="Create" width="573" height="513" />
 
 I am building all kinds of things! Learning Loops, Arrays, and Objects now that I finished the JavaScript Basics course in 5 days. I have 6 badges and looking to get more and more, as quickly as possible.
@@ -120,5 +123,8 @@ alert(&amp;quot;You are a flash fiction writer with no credits. Sucks to be you!
 }
 
 See the Pen &lt;a href='http://codepen.io/twhite96/pen/oXadEd/'&gt;Literary Quiz for Writers (WIP)&lt;/a&gt; by Tiffany White (&lt;a href='http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;) on &lt;a href='http://codepen.io'&gt;CodePen&lt;/a&gt;.
->>>>>>> Stashed changes
+
+
+
+
 [/codepen_embed]

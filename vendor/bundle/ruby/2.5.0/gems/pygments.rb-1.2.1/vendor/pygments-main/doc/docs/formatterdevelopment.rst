@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-========================
+===
 Write your own formatter
-========================
+===
 
 As well as creating :doc:`your own lexer <lexerdevelopment>`, writing a new
 formatter for Pygments is easy and straightforward.
@@ -15,7 +15,7 @@ formatter's output format.
 
 
 Quickstart
-==========
+===
 
 The most basic formatter shipped with Pygments is the `NullFormatter`. It just
 sends the value of a token to the output stream:
@@ -72,7 +72,7 @@ they don't support.
 
 
 HTML 3.2 Formatter
-==================
+====
 
 For an more complex example, let's implement a HTML 3.2 Formatter. We don't
 use CSS but inline markup (``<u>``, ``<font>``, etc). Because this isn't good
@@ -160,7 +160,7 @@ purpose the `get_style_defs()` method exists:
 
 
 Generating Style Definitions
-============================
+
 
 Some formatters like the `LatexFormatter` and the `HtmlFormatter` don't
 output inline markup but reference either macros or css classes. Because

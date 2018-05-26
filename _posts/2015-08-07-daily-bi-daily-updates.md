@@ -1,7 +1,7 @@
 ---
 ID: 457
-post_title: 'New Post Idea: Daily, Bi-Daily Updates'
-post_name: daily-bi-daily-updates
+title: 'New Post Idea: Daily, Bi-Daily Updates'
+# daily-bi-daily-updates
 author: Tiffany White
 post_date: 2015-08-07 18:04:22
 layout: post
@@ -15,7 +15,8 @@ tags:
 categories:
   - Uncategorized
 ---
-<<<<<<< Updated upstream
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-4978.png" alt="Posts" width="733" height="488" />
 
 If you aren’t reading my fellow Code Newbie <a href="http://nickqueen.com/blog/">Nick Queen’s blog</a> you should. It’s great. Besides being great, the format has given me an idea.
@@ -32,7 +33,9 @@ I started this blog post last night and during the period where I am about to go
 
 So this is the plan. Starting tonight!
 
-=======
+
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-4978.png" alt="Posts" width="733" height="488" />
 
 If you aren’t reading my fellow Code Newbie <a href="http://nickqueen.com/blog/">Nick Queen’s blog</a> you should. It’s great. Besides being great, the format has given me an idea.
@@ -49,5 +52,8 @@ I started this blog post last night and during the period where I am about to go
 
 So this is the plan. Starting tonight!
 
->>>>>>> Stashed changes
+
+
+
+
 Also check out my <a href="http://www.tiffanyrwhite.com">portfolio</a> too, for app and website updates.

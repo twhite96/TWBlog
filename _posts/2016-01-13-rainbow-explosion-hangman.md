@@ -1,7 +1,7 @@
 ---
 ID: 856
-post_title: Rainbow Explosion Hangman App
-post_name: rainbow-explosion-hangman
+title: Rainbow Explosion Hangman App
+# rainbow-explosion-hangman
 author: Tiffany White
 post_date: 2016-01-13 22:51:11
 layout: post
@@ -14,9 +14,10 @@ categories:
   - Programming
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/kickass_rainbow.jpeg" alt="kickass_rainbow_pic" /></h2>
-So I am working on a project from last semester called Rainbow Explosion. <a id="fnref-1" class="footnote" title="see footnote" href="#fn-1">[1]</a>
+So I am working on a project from last semester called Rainbow Explosion. <a id="fnref-1" class="footnote" title:="see footnote" href="#fn-1">[1]</a>
 
 It is a hangman app with a twist. Here is an excerpt of the instructions:
 <blockquote>
@@ -57,7 +58,7 @@ I thought about it and consulted her with my code. She gave me more advice– us
 <h3>It Works! Sort Of…</h3>
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/DeathtoStock_NotStock7.jpg" alt="hangman_world" />
 
-So my code looks like this: <a id="fnref-2" class="footnote" title="see footnote" href="#fn-2">[2]</a>
+So my code looks like this: <a id="fnref-2" class="footnote" title:="see footnote" href="#fn-2">[2]</a>
  
 After some trial and error, scope and return statement issues, it ran. It does not run correctly. Here is the output from my terminal:
 
@@ -73,12 +74,14 @@ Back to the drawing board.
 <hr />
 
 <ol>
-	<li id="fn-1">Link to the repository is private now. <a class="reversefootnote" title="return to article" href="#fnref-1"> ↩</a></li>
-        <li id="fn-2">At the request of my mentor I took this down. She didn't want future classes to be able to see it. <a class="reversefootnote" title="return to article" href="#fnref-2">  ↩</a></li>
+	<li id="fn-1">Link to the repository is private now. <a class="reversefootnote" title:="return to article" href="#fnref-1"> ↩</a></li>
+        <li id="fn-2">At the request of my mentor I took this down. She didn't want future classes to be able to see it. <a class="reversefootnote" title:="return to article" href="#fnref-2">  ↩</a></li>
 </ol>
-=======
+
+
+
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/kickass_rainbow.jpeg" alt="kickass_rainbow_pic" /></h2>
-So I am working on a project from last semester called Rainbow Explosion. <a id="fnref-1" class="footnote" title="see footnote" href="#fn-1">[1]</a>
+So I am working on a project from last semester called Rainbow Explosion. <a id="fnref-1" class="footnote" title:="see footnote" href="#fn-1">[1]</a>
 
 It is a hangman app with a twist. Here is an excerpt of the instructions:
 <blockquote>
@@ -119,7 +122,7 @@ I thought about it and consulted her with my code. She gave me more advice– us
 <h3>It Works! Sort Of…</h3>
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/01/DeathtoStock_NotStock7.jpg" alt="hangman_world" />
 
-So my code looks like this: <a id="fnref-2" class="footnote" title="see footnote" href="#fn-2">[2]</a>
+So my code looks like this: <a id="fnref-2" class="footnote" title:="see footnote" href="#fn-2">[2]</a>
  
 After some trial and error, scope and return statement issues, it ran. It does not run correctly. Here is the output from my terminal:
 
@@ -135,8 +138,11 @@ Back to the drawing board.
 <hr />
 
 <ol>
-	<li id="fn-1">Link to the repository is private now. <a class="reversefootnote" title="return to article" href="#fnref-1"> ↩</a></li>
-        <li id="fn-2">At the request of my mentor I took this down. She didn't want future classes to be able to see it. <a class="reversefootnote" title="return to article" href="#fnref-2">  ↩</a></li>
+	<li id="fn-1">Link to the repository is private now. <a class="reversefootnote" title:="return to article" href="#fnref-1"> ↩</a></li>
+        <li id="fn-2">At the request of my mentor I took this down. She didn't want future classes to be able to see it. <a class="reversefootnote" title:="return to article" href="#fnref-2">  ↩</a></li>
 </ol>
->>>>>>> Stashed changes
+
+
+
+
 </div>

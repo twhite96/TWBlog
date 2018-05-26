@@ -1,7 +1,7 @@
 ---
 ID: 1811
-post_title: /CS Self-Study Plan
-post_name: cs-self-study-plan
+title: /CS Self-Study Plan
+# cs-self-study-plan
 author: Tiffany White
 post_date: 2017-03-28 22:42:54
 layout: page

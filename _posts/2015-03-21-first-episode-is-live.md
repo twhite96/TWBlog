@@ -1,7 +1,7 @@
 ---
 ID: 2019
-post_title: First Episode Is Live!
-post_name: first-episode-is-live
+title: First Episode Is Live!
+# first-episode-is-live
 author: Tiffany White
 post_date: 2015-03-21 23:02:32
 layout: post

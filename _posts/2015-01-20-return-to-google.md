@@ -1,7 +1,7 @@
 ---
 ID: 40
-post_title: Return to Google+
-post_name: return-to-google
+title: Return to Google+
+# return-to-google
 author: Tiffany White
 post_date: 2015-01-20 18:55:28
 layout: post

@@ -1,13 +1,13 @@
 .. -*- mode: rst -*-
 
-====================
+======
 Available formatters
-====================
+======
 
 This page lists all builtin formatters.
 
 Common options
-==============
+
 
 All formatters support these options:
 
@@ -41,7 +41,7 @@ All formatters support these options:
 
 
 Formatter classes
-=================
+===
 
 All these classes are importable from :mod:`pygments.formatters`.
 

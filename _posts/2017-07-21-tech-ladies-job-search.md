@@ -1,7 +1,7 @@
 ---
 ID: 2125
-post_title: Tech Ladies and The Job Search
-post_name: tech-ladies-job-search
+title: Tech Ladies and The Job Search
+# tech-ladies-job-search
 author: Tiffany White
 post_date: 2017-07-21 19:30:09
 layout: post
@@ -16,7 +16,8 @@ tags:
 categories:
   - Job Search
 ---
-<<<<<<< Updated upstream
+
+
 I can’t go back to Pitt this semester as the *funds ran dry*. I had been planning to search for work after the semester. I’m still searching, just probably before I had planned. This is where Tech Ladies helps with my job search.
 
 ## Enter Tech Ladies
@@ -52,7 +53,9 @@ Tech Ladies has a sh!t ton of jobs for *us*. Looking forward to the search!
 [^2]: You need to answer some questions to get in similar to the questions to get into their job boards.
 [^3]: You don’t have to make much to get that distinction.
 [^4]: That’s on my to-do list for next month. I’ve lost a good bit of weight unintentionally so I will feel a bit more comfortable being at them. I’ve always felt weird in places like this as I am a really tall, just all around hulking human being. I scare little kids. Ha. No. I really do...
-=======
+
+
+
 I can’t go back to Pitt this semester as the *funds ran dry*. I had been planning to search for work after the semester. I’m still searching, just probably before I had planned. This is where Tech Ladies helps with my job search.
 
 ## Enter Tech Ladies
@@ -88,5 +91,8 @@ Tech Ladies has a sh!t ton of jobs for *us*. Looking forward to the search!
 [^2]: You need to answer some questions to get in similar to the questions to get into their job boards.
 [^3]: You don’t have to make much to get that distinction.
 [^4]: That’s on my to-do list for next month. I’ve lost a good bit of weight unintentionally so I will feel a bit more comfortable being at them. I’ve always felt weird in places like this as I am a really tall, just all around hulking human being. I scare little kids. Ha. No. I really do...
->>>>>>> Stashed changes
+
+
+
+
 [^5]: I’m such an introvert I need to mindmap emails to people. Ha.

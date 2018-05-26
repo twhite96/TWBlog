@@ -1,7 +1,7 @@
 ---
 ID: 2681
-post_title: The Simplicity of Ruby
-post_name: simplicity-ruby
+title: The Simplicity of Ruby
+# simplicity-ruby
 author: Tiffany White
 post_date: 2017-11-23 22:24:55
 post_excerpt: >
@@ -18,7 +18,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
+
+
 When I first started this blog, I was learning Ruby and I loved it.
 
 This was before starting freeCodeCamp or Zed Shaw’s Learn Python the Hard Way series [^1].
@@ -64,7 +65,9 @@ https://www.instagram.com/p/Bb0GHGygllG/?taken-by=twhitedev412
 It has been a great first week so far and I am looking forward to the weeks to come.
 
 [^1]: LPTHW is quite opinionated and I am not sure if it is still recommended to new developers.
-=======
+
+
+
 When I first started this blog, I was learning Ruby and I loved it.
 
 This was before starting freeCodeCamp or Zed Shaw’s Learn Python the Hard Way series [^1].
@@ -110,5 +113,8 @@ https://www.instagram.com/p/Bb0GHGygllG/?taken-by=twhitedev412
 It has been a great first week so far and I am looking forward to the weeks to come.
 
 [^1]: LPTHW is quite opinionated and I am not sure if it is still recommended to new developers.
->>>>>>> Stashed changes
+
+
+
+
 [^2]: And very little sleep. Trying to fix that.

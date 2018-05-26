@@ -1,7 +1,7 @@
 ---
 ID: 1095
-post_title: Thinking Like a Programmer
-post_name: thinking-like-programmer
+title: Thinking Like a Programmer
+# thinking-like-programmer
 author: Tiffany White
 post_date: 2016-05-01 19:32:46
 layout: post
@@ -13,7 +13,8 @@ categories:
   - General Updates
   - Thoughts
 ---
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/05/thinking-like-a-programmer.jpeg"><img class="size-large wp-image-1097 aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/05/thinking-like-a-programmer-1024x685.jpeg" alt="thinking like a programmer" width="700" height="468" /></a>
 
 I am reading, <em>Thinking Like a Programmer</em> by Anton Spraul and the first few sentences say:
@@ -40,7 +41,9 @@ My plan is to remember what I’ve been taught. I look at a thing like my contac
 <ol id="footnotes">
  	<li id="fn1">There’s devdocs.io for online documentation, much like Dash Docs that won’t nag you and isn’t just Mac only. Kapeli has a fork of Dash for Windows you can find on his website. <a href="#ffn1">↩︎</a></li>
  	<li id="fn2">Though I did add jQuery to the tribute page just to look like I knew what I was doing. Ha. <a href="#ffn2">↩︎</a></li>
-=======
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/05/thinking-like-a-programmer.jpeg"><img class="size-large wp-image-1097 aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/05/thinking-like-a-programmer-1024x685.jpeg" alt="thinking like a programmer" width="700" height="468" /></a>
 
 I am reading, <em>Thinking Like a Programmer</em> by Anton Spraul and the first few sentences say:
@@ -67,5 +70,8 @@ My plan is to remember what I’ve been taught. I look at a thing like my contac
 <ol id="footnotes">
  	<li id="fn1">There’s devdocs.io for online documentation, much like Dash Docs that won’t nag you and isn’t just Mac only. Kapeli has a fork of Dash for Windows you can find on his website. <a href="#ffn1">↩︎</a></li>
  	<li id="fn2">Though I did add jQuery to the tribute page just to look like I knew what I was doing. Ha. <a href="#ffn2">↩︎</a></li>
->>>>>>> Stashed changes
+
+
+
+
 </ol>

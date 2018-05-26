@@ -1,7 +1,7 @@
 ---
 ID: 258
-post_title: 'This Developer&#8217;s Journey ep. 6&#8211; An Interview with Mark Pearyer'
-post_name: this-developers-journey-ep-6
+title: 'This Developer&#8217;s Journey ep. 6&#8211; An Interview with Mark Pearyer'
+# this-developers-journey-ep-6
 author: Tiffany White
 post_date: 2015-05-19 17:00:22
 layout: post
@@ -17,7 +17,8 @@ tags:
 categories:
   - Programming
 ---
-<<<<<<< Updated upstream
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo2.png" alt="Dev" width="416" height="416" />
 
 In this episode I interview Mark Pearyer, father, student, developer and Code Newbie veteran. He shares his insights on coding, balance, and the hustle.
@@ -36,7 +37,9 @@ Other links:
 
 <a href="https://kanbanflow.com">KanbanFlow</a>
 
-=======
+
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo2.png" alt="Dev" width="416" height="416" />
 
 In this episode I interview Mark Pearyer, father, student, developer and Code Newbie veteran. He shares his insights on coding, balance, and the hustle.
@@ -55,5 +58,8 @@ Other links:
 
 <a href="https://kanbanflow.com">KanbanFlow</a>
 
->>>>>>> Stashed changes
+
+
+
+
 <a href="http://happenapps.com">Quiver</a>

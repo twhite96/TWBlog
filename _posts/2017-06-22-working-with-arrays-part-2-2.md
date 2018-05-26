@@ -1,7 +1,7 @@
 ---
 ID: 2031
-post_title: Working With Arrays Part 2
-post_name: working-with-arrays-part-2-2
+title: Working With Arrays Part 2
+# working-with-arrays-part-2-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post
@@ -12,7 +12,8 @@ tags: [ ]
 categories:
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 What is an array?
 
 You use an array to store data. You can initialize an empty array and then store data in it as well. But that is beyond the scope of this post.
@@ -67,7 +68,9 @@ Is an array with nothing in it. For example:
 </div>
 This is useful for loops and adding data later to your program.
 
-=======
+
+
+
 What is an array?
 
 You use an array to store data. You can initialize an empty array and then store data in it as well. But that is beyond the scope of this post.
@@ -122,5 +125,8 @@ Is an array with nothing in it. For example:
 </div>
 This is useful for loops and adding data later to your program.
 
->>>>>>> Stashed changes
+
+
+
+
 These are the types of arrays in JavaScript. I will cover arrays in Java as well.

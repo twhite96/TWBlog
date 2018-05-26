@@ -67,7 +67,7 @@ RubyDep does 2 things right now:
 
 ## Supported Ruby versions:
 
-NOTE: RubyDep uses it's own approach on itself. This means it can only be installed on Ruby versions tested here: [check out the Travis build status](https://travis-ci.org/e2/ruby_dep). If you need support for an different/older version of Ruby, open an issue with "backport" in the title and provide a compelling case for supporting the version of Ruby you need. 
+NOTE: RubyDep uses it's own approach on itself. This means it can only be installed on Ruby versions tested here: [check out the Travis build status](https://travis-ci.org/e2/ruby_dep). If you need support for an different/older version of Ruby, open an issue with "backport" in the title: and provide a compelling case for supporting the version of Ruby you need. 
 
 ## Problem 1: "Which version of Ruby does your project support?"
 

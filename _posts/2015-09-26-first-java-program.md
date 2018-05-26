@@ -1,7 +1,7 @@
 ---
 ID: 612
-post_title: First Java Program and My Side Project
-post_name: first-java-program
+title: First Java Program and My Side Project
+# first-java-program
 author: Tiffany White
 post_date: 2015-09-26 01:21:53
 layout: post
@@ -25,7 +25,8 @@ I got to experience the thrill of debugging something myself. That feeling was s
 
 So what does my first Java program look like? Well, because of the requirements, the code is really verbose. I don’t think I could use a method call at all to sort of DRY it out. I may be able to do that down the road.
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:java decode:1 " >/* Author name: Tiffany White
 This is a budget calculator
 Created date: September 22, 2015
@@ -143,7 +144,9 @@ elecBillPercentage = (elecBill * 100) / grossPay;
 
 
   }
-=======
+
+
+
 <pre class="lang:java decode:1 " >/* Author name: Tiffany White
 This is a budget calculator
 Created date: September 22, 2015
@@ -261,7 +264,10 @@ elecBillPercentage = (elecBill * 100) / grossPay;
 
 
   }
->>>>>>> Stashed changes
+
+
+
+
 }</pre>
 
 See what I mean by verbose? But we’re beginners so I guess she wants to make sure we know what we’re doing. ¯&#95;(ツ)_/¯
@@ -274,7 +280,8 @@ I am only taking 6 credits so I have some in between time. It won’t be that wa
 
 Anyway, I’ve used some simple Bootstrap to set up a few of the pages. Here’s the static html code for the index page:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:html decode:1 " >
 &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
 &amp;lt;head&amp;gt;
@@ -342,7 +349,9 @@ Add your contacts to keep up with potential sales leads, anniversaries, birthday
 
 &amp;lt;/body&amp;gt;
 &amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;main.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
-=======
+
+
+
 <pre class="lang:html decode:1 " >
 &amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
 &amp;lt;head&amp;gt;
@@ -410,7 +419,10 @@ Add your contacts to keep up with potential sales leads, anniversaries, birthday
 
 &amp;lt;/body&amp;gt;
 &amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;main.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
->>>>>>> Stashed changes
+
+
+
+
 &amp;lt;/html&amp;gt;</pre>
 
 It’s going to be a Node app hosted on Heroku. I can’t wait to get it finished.

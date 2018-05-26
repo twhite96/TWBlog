@@ -1,7 +1,7 @@
 ---
 ID: 1025
-post_title: 'Review: Keynote, Professional Presentations and Animations'
-post_name: review-keynote
+title: 'Review: Keynote, Professional Presentations and Animations'
+# review-keynote
 author: Tiffany White
 post_date: 2016-04-03 18:20:33
 layout: post
@@ -12,7 +12,8 @@ tags: [ ]
 categories:
   - Book Reviews
 ---
-<<<<<<< Updated upstream
+
+
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/28419314"><img src="http://d.gr-assets.com/books/1451611692m/28419314.jpg" alt="Keynote, Professional Presentations and Animations" border="0" /></a>
 <a href="http://www.goodreads.com/book/show/28419314">Keynote, Professional Presentations and Animations</a> by <a href="http://www.goodreads.com/author/show/14823298">Angelo Spiler</a>
 My rating: <a href="http://www.goodreads.com/review/show/1579146369">4 of 5 stars</a>
@@ -32,7 +33,9 @@ For beginners and and Intermediate Keynote users this is a great book. I'm certa
 4 stars for the quality of the information and the exercise files. One star off for text formatting issues.
 
 
-=======
+
+
+
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/28419314"><img src="http://d.gr-assets.com/books/1451611692m/28419314.jpg" alt="Keynote, Professional Presentations and Animations" border="0" /></a>
 <a href="http://www.goodreads.com/book/show/28419314">Keynote, Professional Presentations and Animations</a> by <a href="http://www.goodreads.com/author/show/14823298">Angelo Spiler</a>
 My rating: <a href="http://www.goodreads.com/review/show/1579146369">4 of 5 stars</a>
@@ -52,5 +55,8 @@ For beginners and and Intermediate Keynote users this is a great book. I'm certa
 4 stars for the quality of the information and the exercise files. One star off for text formatting issues.
 
 
->>>>>>> Stashed changes
+
+
+
+
 <a href="http://www.goodreads.com/review/show/1579146369">View all my reviews</a>

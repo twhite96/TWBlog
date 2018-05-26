@@ -1,7 +1,7 @@
 ---
 ID: 1467
-post_title: Two Years of Code Newbie in Pittsburgh
-post_name: two-years-code-newbie-pittsburgh
+title: Two Years of Code Newbie in Pittsburgh
+# two-years-code-newbie-pittsburgh
 author: Tiffany White
 post_date: 2016-12-09 14:36:56
 layout: post
@@ -15,7 +15,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
+
+
 <img class="size-full wp-image-1466 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/12/Image-12-9-16-1-56-PM.jpeg" width="500" height="660" />
 
 I have been writing here at Code Newbie in Pittsburgh for almost two years. It will be two years on December 26th.
@@ -53,7 +54,9 @@ Here is the Trello board for my grades:
 
 ## What Will the Next Two Years Hold?
 
-=======
+
+
+
 <img class="size-full wp-image-1466 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/12/Image-12-9-16-1-56-PM.jpeg" width="500" height="660" />
 
 I have been writing here at Code Newbie in Pittsburgh for almost two years. It will be two years on December 26th.
@@ -91,5 +94,8 @@ Here is the Trello board for my grades:
 
 ## What Will the Next Two Years Hold?
 
->>>>>>> Stashed changes
+
+
+
+
 I will hopefully be graduated by the time two more years is up. I will probably be actively seeking employment in the 'burgh and then, after experience is gained, moving out west. I wonder what I will call this blog then? ;-)

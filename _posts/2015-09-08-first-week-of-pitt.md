@@ -1,9 +1,9 @@
 ---
 ID: 586
-post_title: >
+title: >
   First Week of Pitt, Learning Java, and
   My New Podcast Site
-post_name: first-week-of-pitt
+# first-week-of-pitt
 author: Tiffany White
 post_date: 2015-09-08 15:27:54
 layout: post
@@ -28,7 +28,8 @@ Seeing that I’ve been programming for a year plus it is slow going for me righ
 
 Here is one of the first programs we wrote, actually today:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:java decode:1 " >
 // This is a sample Java program
 
@@ -38,7 +39,9 @@ public class Simple
    {
    System.out.println(&quot;Programming is great fun!&quot;);
    }
-=======
+
+
+
 <pre class="lang:java decode:1 " >
 // This is a sample Java program
 
@@ -48,7 +51,10 @@ public class Simple
    {
    System.out.println(&quot;Programming is great fun!&quot;);
    }
->>>>>>> Stashed changes
+
+
+
+
 }</pre>
 
 Quite simple, really. Looking forward to our first project. We have smaller activities we must do to build up to the whole.

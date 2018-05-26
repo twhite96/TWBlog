@@ -19,7 +19,7 @@ it with an `index.html` that uses the `index` layout:
 ```
 ---
 layout: index
-title: Home
+title:: Home
 ---
 ```
 
@@ -87,7 +87,7 @@ You can see the full set of partials you can replace in the
   `favicon.png` with your own favicons references.
 
 * `_includes/font-includes.html` - The Abril Fatface font used for the site
-  title is loaded here. If you're overriding that font in the CSS, be sure
+  title: is loaded here. If you're overriding that font in the CSS, be sure
   to also remove the font load reference here.
 
 ### New Features
@@ -98,7 +98,7 @@ You can see the full set of partials you can replace in the
   ```
   ---
   layout: tags
-  title: Tags
+  title:: Tags
   ---
   ```
 
@@ -110,7 +110,7 @@ You can see the full set of partials you can replace in the
   ```
   ---
   layout: category
-  title: My Category
+  title:: My Category
   ---
 
   Description of "My Category"

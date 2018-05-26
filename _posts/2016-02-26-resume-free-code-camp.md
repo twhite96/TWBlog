@@ -1,7 +1,7 @@
 ---
 ID: 919
-post_title: Resuming Lessons at Free Code Camp
-post_name: resume-free-code-camp
+title: Resuming Lessons at Free Code Camp
+# resume-free-code-camp
 author: Tiffany White
 post_date: 2016-02-26 20:53:30
 layout: post
@@ -16,7 +16,8 @@ categories:
   - "Tiffany's Posts"
   - Web Development
 ---
-<<<<<<< Updated upstream
+
+
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/02/Free-Code-Camp.png" alt="Free Code Camp" />
 So I went back through the Bootstrap additions and the jQuery course. Now I am building a tribute page to Carl Sagan as my front-end project.
 
@@ -30,7 +31,9 @@ So many ideas…
 <h3>JavaScript Understanding the Weird Parts</h3>
 I wrote a post on my <em>strictly</em> programming blog about coercion. I learned quite a bit about it from Tony Alicea, who made the course I picked up for $10 at Udemy (a <em>steal</em> at that price). His explanation was clear and the console examples made it easy to see what was going on.
 
-=======
+
+
+
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/02/Free-Code-Camp.png" alt="Free Code Camp" />
 So I went back through the Bootstrap additions and the jQuery course. Now I am building a tribute page to Carl Sagan as my front-end project.
 
@@ -44,5 +47,8 @@ So many ideas…
 <h3>JavaScript Understanding the Weird Parts</h3>
 I wrote a post on my <em>strictly</em> programming blog about coercion. I learned quite a bit about it from Tony Alicea, who made the course I picked up for $10 at Udemy (a <em>steal</em> at that price). His explanation was clear and the console examples made it easy to see what was going on.
 
->>>>>>> Stashed changes
+
+
+
+
 You can find the course <a href="https://www.udemy.com/understand-javascript/learn/#/">here</a> and my blog post <a href="https://twhite96.github.io/javascript/the-danger-of-type-coercion-in-javascript/">here</a>.

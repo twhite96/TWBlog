@@ -1,5 +1,5 @@
 Markdown: Syntax
-================
+==
 
 <ul id="ProjectSubmenu">
     <li><a href="/projects/markdown/" title="Markdown Project Page">Main</a></li>
@@ -215,7 +215,7 @@ Setext-style headers are "underlined" using equal signs (for first-level
 headers) and dashes (for second-level headers). For example:
 
     This is an H1
-    =============
+    ======
 
     This is an H2
     -------------

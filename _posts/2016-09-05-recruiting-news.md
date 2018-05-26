@@ -1,7 +1,7 @@
 ---
 ID: 1263
-post_title: Recruiting News
-post_name: recruiting-news
+title: Recruiting News
+# recruiting-news
 author: Tiffany White
 post_date: 2016-09-05 01:31:01
 layout: post
@@ -14,7 +14,8 @@ categories:
   - Thoughts
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 
 I have some news on recruiting I'd like to share.
 
@@ -50,7 +51,9 @@ Not certain what I did to get this kind of treatment. And I can’t tell you how
 <ol id="footnotes">
  	<li id="fn1">Black and female, considering I am black and female, is a bonus. I think this company did their homework. <a href="#ffn1">↩︎</a></li>
  	<li id="fn2">Am I developer or a medical assistant? <a href="#ffn2">↩︎</a></li>
-=======
+
+
+
 
 I have some news on recruiting I'd like to share.
 
@@ -86,5 +89,8 @@ Not certain what I did to get this kind of treatment. And I can’t tell you how
 <ol id="footnotes">
  	<li id="fn1">Black and female, considering I am black and female, is a bonus. I think this company did their homework. <a href="#ffn1">↩︎</a></li>
  	<li id="fn2">Am I developer or a medical assistant? <a href="#ffn2">↩︎</a></li>
->>>>>>> Stashed changes
+
+
+
+
 </ol>

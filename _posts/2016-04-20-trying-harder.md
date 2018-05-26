@@ -1,7 +1,7 @@
 ---
 ID: 1066
-post_title: 'Restructured Learning: Trying Harder'
-post_name: trying-harder
+title: 'Restructured Learning: Trying Harder'
+# trying-harder
 author: Tiffany White
 post_date: 2016-04-20 18:01:26
 layout: post
@@ -12,7 +12,8 @@ categories:
   - Daily Progress
   - Programming
 ---
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/Optimized-Learning.jpeg"><img class="aligncenter size-large wp-image-1068" src="http://helloburgh.me/wp-content/uploads/2016/04/Optimized-Learning-1024x682.jpeg" alt="Optimized-Learning" width="700" height="466" /></a>
 
 &nbsp;
@@ -121,7 +122,9 @@ But, as I know and had gotten confirmed, the less dependencies the better. And f
 <h2>Finished Up The Programming AJAX and AJAX Concepts Courses</h2>
 And am almost done with the AJAX JavaScript track in the full-stack JavaScript track at Treehouse. Tonight I am finishing this AJAX course up and heading back to Free Code Camp.
 
-=======
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/Optimized-Learning.jpeg"><img class="aligncenter size-large wp-image-1068" src="http://helloburgh.me/wp-content/uploads/2016/04/Optimized-Learning-1024x682.jpeg" alt="Optimized-Learning" width="700" height="466" /></a>
 
 &nbsp;
@@ -230,5 +233,8 @@ But, as I know and had gotten confirmed, the less dependencies the better. And f
 <h2>Finished Up The Programming AJAX and AJAX Concepts Courses</h2>
 And am almost done with the AJAX JavaScript track in the full-stack JavaScript track at Treehouse. Tonight I am finishing this AJAX course up and heading back to Free Code Camp.
 
->>>>>>> Stashed changes
+
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-19_08-40-58_PM.png"><img src="http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-19_08-40-58_PM.png" alt="Screenshot2016-04-19_08-40-58_PM" width="630" height="518" class="aligncenter size-full wp-image-1061" /></a>

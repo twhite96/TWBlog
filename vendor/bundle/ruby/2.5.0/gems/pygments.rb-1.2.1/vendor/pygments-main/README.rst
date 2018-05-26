@@ -1,5 +1,5 @@
 README for Pygments
-===================
+=====
 
 This is the source of Pygments.  It is a generic syntax highlighter that
 supports over 300 languages and text formats, for use in code hosting, forums,

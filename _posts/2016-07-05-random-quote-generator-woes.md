@@ -1,7 +1,7 @@
 ---
 ID: 1198
-post_title: Random Quote Generator Woes
-post_name: random-quote-generator-woes
+title: Random Quote Generator Woes
+# random-quote-generator-woes
 author: Tiffany White
 post_date: 2016-07-05 22:21:35
 layout: post
@@ -14,7 +14,8 @@ categories:
   - Free Code Camp
   - Programming
 ---
-<<<<<<< Updated upstream
+
+
 <img class="aligncenter size-full wp-image-1202" src="http://helloburgh.me/wp-content/uploads/2016/07/Optimized-frustrated_shrink.jpg" alt="frustrated" width="1000" height="666" />
 
 I spent a lot of time looking over Chris Coyer’s magical looking <em>Quotes on Design</em> website. I’ve also spent a lot of time looking at its structure in Chrome Dev Tools. I’ve played around with it and I am sort of stuck.
@@ -46,7 +47,7 @@ I found some code for the random quotes that uses jQuery. Here it is:
 	},
 	placeQuote: function(){
 		$("#quoteContent").html("&lt;h3&gt;" + quoteMachine.quoteArray[quoteMachine.count].content + "&lt;/h3&gt;");
-		$("#quoteTitle").html("&lt;h4&gt; - " + quoteMachine.quoteArray[quoteMachine.count].title + "&lt;/h4&gt;");
+		$("#quoteTitle").html("&lt;h4&gt; - " + quoteMachine.quoteArray[quoteMachine.count].title: + "&lt;/h4&gt;");
 	},
 	newQuote: function(){
 		if(quoteMachine.count &lt; 39){
@@ -62,8 +63,8 @@ I found some code for the random quotes that uses jQuery. Here it is:
 		content = content.substring(3, content.length -5);
 		content = content.replace(/&amp;#.{4};/g, "");
 		content = encodeURIComponent(content);
-		var title = quoteMachine.quoteArray[quoteMachine.count].title;
-		var message = content + " -" + title + "%20#randomQuote%20#FCC";
+		var title: = quoteMachine.quoteArray[quoteMachine.count].title:;
+		var message = content + " -" + title: + "%20#randomQuote%20#FCC";
 		window.open("http://twitter.com/home/?status=" + message);
 	}
 };
@@ -72,7 +73,9 @@ quoteMachine.init();
 </pre>
 Now, I am going to try to reverse engineer this to use the <em>Quotes on Design</em> API 4.0. There are parts of this that baffle me and parts that I understand.
 <h2>Seeking Help</h2>
-=======
+
+
+
 <img class="aligncenter size-full wp-image-1202" src="http://helloburgh.me/wp-content/uploads/2016/07/Optimized-frustrated_shrink.jpg" alt="frustrated" width="1000" height="666" />
 
 I spent a lot of time looking over Chris Coyer’s magical looking <em>Quotes on Design</em> website. I’ve also spent a lot of time looking at its structure in Chrome Dev Tools. I’ve played around with it and I am sort of stuck.
@@ -104,7 +107,7 @@ I found some code for the random quotes that uses jQuery. Here it is:
 	},
 	placeQuote: function(){
 		$("#quoteContent").html("&lt;h3&gt;" + quoteMachine.quoteArray[quoteMachine.count].content + "&lt;/h3&gt;");
-		$("#quoteTitle").html("&lt;h4&gt; - " + quoteMachine.quoteArray[quoteMachine.count].title + "&lt;/h4&gt;");
+		$("#quoteTitle").html("&lt;h4&gt; - " + quoteMachine.quoteArray[quoteMachine.count].title: + "&lt;/h4&gt;");
 	},
 	newQuote: function(){
 		if(quoteMachine.count &lt; 39){
@@ -120,8 +123,8 @@ I found some code for the random quotes that uses jQuery. Here it is:
 		content = content.substring(3, content.length -5);
 		content = content.replace(/&amp;#.{4};/g, "");
 		content = encodeURIComponent(content);
-		var title = quoteMachine.quoteArray[quoteMachine.count].title;
-		var message = content + " -" + title + "%20#randomQuote%20#FCC";
+		var title: = quoteMachine.quoteArray[quoteMachine.count].title:;
+		var message = content + " -" + title: + "%20#randomQuote%20#FCC";
 		window.open("http://twitter.com/home/?status=" + message);
 	}
 };
@@ -130,5 +133,8 @@ quoteMachine.init();
 </pre>
 Now, I am going to try to reverse engineer this to use the <em>Quotes on Design</em> API 4.0. There are parts of this that baffle me and parts that I understand.
 <h2>Seeking Help</h2>
->>>>>>> Stashed changes
+
+
+
+
 I don’t know when I stopped asking for help. I am always in Gitter and on the forums and just recently I stopped going and asking. I am not sure why my behavior changed— I guess I have asked for so much help and no one is giving me the answer I seek. Is the design really that complicated? I am not sure but I am starting to feel exhausted by trying this. I am not giving up but I have been sitting on it for a week. I have thought about it everyday. I have tried to troubleshoot it in my head. It has become this mini obsession and I <em>need</em> to finish it before school starts.

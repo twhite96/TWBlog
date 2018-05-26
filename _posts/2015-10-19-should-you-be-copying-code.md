@@ -1,7 +1,7 @@
 ---
 ID: 662
-post_title: Should You Be Copying That Code?
-post_name: should-you-be-copying-code
+title: Should You Be Copying That Code?
+# should-you-be-copying-code
 author: Nicholas
 post_date: 2015-10-19 13:00:00
 layout: post
@@ -13,7 +13,8 @@ categories:
   - "Nick's Posts"
   - Tips
 ---
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2015/10/Copy.jpeg"><img class="aligncenter size-full wp-image-679" src="http://helloburgh.me/wp-content/uploads/2015/10/Copy.jpeg" alt="Copy" width="640" height="381" /></a>
 
 &nbsp;
@@ -38,7 +39,9 @@ When you are working on a project, it's important to follow the old adage of not
 
 When you work on an assignment in school, it is tempting to copy entire code blocks, but take extreme caution. On a simple coding assignment testing your knowledge of syntax and algorithms, you will inevitably get busted for plagiarism.
 
-=======
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2015/10/Copy.jpeg"><img class="aligncenter size-full wp-image-679" src="http://helloburgh.me/wp-content/uploads/2015/10/Copy.jpeg" alt="Copy" width="640" height="381" /></a>
 
 &nbsp;
@@ -63,5 +66,8 @@ When you are working on a project, it's important to follow the old adage of not
 
 When you work on an assignment in school, it is tempting to copy entire code blocks, but take extreme caution. On a simple coding assignment testing your knowledge of syntax and algorithms, you will inevitably get busted for plagiarism.
 
->>>>>>> Stashed changes
+
+
+
+
 In the end, I've found that I've learned the most from perusing documentation. I'm lucky to be working mainly with Javascript using Sencha frameworks with some C# here and there, which all have excellent documentation. For the beginner, documentation can be scary and dry, but all of them follow common conventions which allow for quick get-in-and-out reference. Learning to love documentation is a *must!*

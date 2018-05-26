@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-===========================
+======
 Introduction and Quickstart
-===========================
+======
 
 
 Welcome to Pygments! This document explains the basic concepts and terms and
@@ -10,7 +10,7 @@ gives a few examples of how to use the library.
 
 
 Architecture
-============
+=====
 
 There are four types of components that work together highlighting a piece of
 code:
@@ -28,7 +28,7 @@ code:
 
 
 Example
-=======
+
 
 Here is a small example for highlighting Python code:
 
@@ -69,7 +69,7 @@ the output may look like this:
 
 
 Options
-=======
+
 
 The :func:`highlight()` function supports a fourth argument called *outfile*, it
 must be a file object if given. The formatted output will then be written to
@@ -109,7 +109,7 @@ For a documentation on filters, see :doc:`this page <filters>`.
 
 
 Lexer and formatter lookup
-==========================
+=====
 
 If you want to lookup a built-in lexer by its alias or a filename, you can use
 one of the following methods:
@@ -137,7 +137,7 @@ module for this purpose.
 
 
 Guessing lexers
-===============
+=
 
 If you don't know the content of the file, or you want to highlight a file
 whose extension is ambiguous, such as ``.html`` (which could contain plain HTML
@@ -170,7 +170,7 @@ as options.
 
 
 Command line usage
-==================
+====
 
 You can use Pygments from the command line, using the :program:`pygmentize`
 script::

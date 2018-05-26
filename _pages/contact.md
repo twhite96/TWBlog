@@ -1,7 +1,7 @@
 ---
 ID: 886
-post_title: /Contact Me
-post_name: contact
+title: /Contact Me
+# contact
 author: Tiffany White
 post_date: 2016-02-10 00:36:33
 layout: page

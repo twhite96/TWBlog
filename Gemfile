@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem 'redcarpet'
   gem 'pygments.rb'
   gem "html-proofer"
+  gem 'jekyll-cloudinary'
 end

@@ -1,7 +1,7 @@
 ---
 ID: 544
-post_title: 'Day 6: Password Forms &#038; Tooltips'
-post_name: day-6-password-forms-tooltips
+title: 'Day 6: Password Forms &#038; Tooltips'
+# day-6-password-forms-tooltips
 author: Tiffany White
 post_date: 2015-08-18 17:27:21
 layout: post
@@ -34,7 +34,8 @@ in relation to making it so the tooltips showed up when we clicked in the formâ€
 
 The code looked something like this:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >//Problem: Hints are shown even when form is valid
 //Solution: Hide and show them at appropriate times
 var $password = $(&quot;#password&quot;);
@@ -65,7 +66,9 @@ function passwordEvent(){
  $password.next().show();
  }
 }
-=======
+
+
+
 <pre class="lang:javascript decode:1 " >//Problem: Hints are shown even when form is valid
 //Solution: Hide and show them at appropriate times
 var $password = $(&quot;#password&quot;);
@@ -96,7 +99,10 @@ function passwordEvent(){
  $password.next().show();
  }
 }
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 We practiced DRY programming by wrapping our resued methods, variables, etc in functions.

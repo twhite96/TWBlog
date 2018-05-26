@@ -1,5 +1,5 @@
 :mod:`simplejson` --- JSON encoder and decoder
-==============================================
+====
 
 .. module:: simplejson
    :synopsis: Encode and decode the JSON format.
@@ -341,7 +341,7 @@ Encoders and decoders
 
    +---------------+-------------------+
    | JSON          | Python            |
-   +===============+===================+
+   +=+=====+
    | object        | dict              |
    +---------------+-------------------+
    | array         | list              |
@@ -438,7 +438,7 @@ Encoders and decoders
 
    +-------------------+---------------+
    | Python            | JSON          |
-   +===================+===============+
+   +=====+=+
    | dict, namedtuple  | object        |
    +-------------------+---------------+
    | list, tuple       | array         |

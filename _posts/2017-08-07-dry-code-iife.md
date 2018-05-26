@@ -1,7 +1,7 @@
 ---
 ID: 2220
-post_title: 'DRY Code: Using IIFEs to Clean Up Code'
-post_name: dry-code-iife
+title: 'DRY Code: Using IIFEs to Clean Up Code'
+# dry-code-iife
 author: Tiffany White
 post_date: 2017-08-07 19:39:18
 post_excerpt: |
@@ -16,7 +16,8 @@ categories:
   - App Updates
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 ## DRY: Don’t Repeat Yourself
 
 As you may have seen in my last post, I have some *ridiculous* conditional statement blocks going on to show/hide the Skycons and for switching up the background photos based on your current weather conditions.
@@ -100,7 +101,9 @@ let icons = new Skycons({ color: &quot;#fff&quot; });
 ```
 So I am looking around for solutions.
 
-=======
+
+
+
 ## DRY: Don’t Repeat Yourself
 
 As you may have seen in my last post, I have some *ridiculous* conditional statement blocks going on to show/hide the Skycons and for switching up the background photos based on your current weather conditions.
@@ -184,5 +187,8 @@ let icons = new Skycons({ color: &quot;#fff&quot; });
 ```
 So I am looking around for solutions.
 
->>>>>>> Stashed changes
+
+
+
+
 [^1]: This isn’t ideal either and I am currently asking around about it.

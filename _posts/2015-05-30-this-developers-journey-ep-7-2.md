@@ -1,7 +1,7 @@
 ---
 ID: 277
-post_title: 'This Developer&#8217;s Journey ep. 7'
-post_name: this-developers-journey-ep-7-2
+title: 'This Developer&#8217;s Journey ep. 7'
+# this-developers-journey-ep-7-2
 author: Tiffany White
 post_date: 2015-05-30 13:30:31
 layout: post
@@ -16,7 +16,8 @@ tags:
 categories:
   - Uncategorized
 ---
-<<<<<<< Updated upstream
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo3.png" alt="Dev" width="433" height="433" />
 
 Show notes:
@@ -37,7 +38,9 @@ Do you have perfectionitis? I do. Here is a book I'm reading on the topic:
 
 Are you getting outside?? GET OUTSIDE!! It’s summertime! Go for a stroll, go to the gym, go biking or running but get out. Here is a song I love to listen to in the summer, when it is warm and there is a cool wind blowing:
 
-=======
+
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo3.png" alt="Dev" width="433" height="433" />
 
 Show notes:
@@ -58,5 +61,8 @@ Do you have perfectionitis? I do. Here is a book I'm reading on the topic:
 
 Are you getting outside?? GET OUTSIDE!! It’s summertime! Go for a stroll, go to the gym, go biking or running but get out. Here is a song I love to listen to in the summer, when it is warm and there is a cool wind blowing:
 
->>>>>>> Stashed changes
+
+
+
+
 https://www.youtube.com/watch?v=1O1fcYyIWU4

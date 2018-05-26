@@ -23,22 +23,22 @@
    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
    OTHER DEALINGS IN THE SOFTWARE.
    ----------------------------------------------------------------------- */
-/*====================================================================*/
+/*=====*/
 /*                          Includes                                  */
 /*                          --------                                  */
-/*====================================================================*/
+/*=====*/
 
 #include <ffi.h>
 #include <ffi_common.h>
 #include <stdint.h>
 #include "internal.h"
 
-/*====================== End of Includes =============================*/
+/*= End of Includes =*/
 
-/*====================================================================*/
+/*=====*/
 /*                           Defines                                  */
 /*                           -------                                  */
-/*====================================================================*/
+/*=====*/
 
 /* Maximum number of GPRs available for argument passing.  */
 #define MAX_GPRARGS 5
@@ -53,12 +53,12 @@
 /* Round to multiple of 16.  */
 #define ROUND_SIZE(size) (((size) + 15) & ~15)
 
-/*===================== End of Defines ===============================*/
+/* End of Defines ===*/
 
-/*====================================================================*/
+/*=====*/
 /*                          Externals                                 */
 /*                          ---------                                 */
-/*====================================================================*/
+/*=====*/
 
 struct call_frame
 {
@@ -75,16 +75,16 @@ extern void FFI_HIDDEN ffi_call_SYSV(struct call_frame *, unsigned, void *,
 extern void ffi_closure_SYSV(void);
 extern void ffi_go_closure_SYSV(void);
 
-/*====================== End of Externals ============================*/
+/*= End of Externals */
 
-/*====================================================================*/
+/*=====*/
 /*                                                                    */
 /* Name     - ffi_check_struct_type.                                  */
 /*                                                                    */
 /* Function - Determine if a structure can be passed within a         */
 /*            general purpose or floating point register.             */
 /*                                                                    */
-/*====================================================================*/
+/*=====*/
 
 static int
 ffi_check_struct_type (ffi_type *arg)
@@ -127,15 +127,15 @@ ffi_check_struct_type (ffi_type *arg)
   return FFI_TYPE_POINTER;
 }
 
-/*======================== End of Routine ============================*/
+/*=== End of Routine */
 
-/*====================================================================*/
+/*=====*/
 /*                                                                    */
 /* Name     - ffi_prep_cif_machdep.                                   */
 /*                                                                    */
 /* Function - Perform machine dependent CIF processing.               */
 /*                                                                    */
-/*====================================================================*/
+/*=====*/
 
 ffi_status FFI_HIDDEN
 ffi_prep_cif_machdep(ffi_cif *cif)
@@ -292,15 +292,15 @@ ffi_prep_cif_machdep(ffi_cif *cif)
   return FFI_OK;
 }
 
-/*======================== End of Routine ============================*/
+/*=== End of Routine */
 
-/*====================================================================*/
+/*=====*/
 /*                                                                    */
 /* Name     - ffi_call.                                               */
 /*                                                                    */
 /* Function - Call the FFI routine.                                   */
 /*                                                                    */
-/*====================================================================*/
+/*=====*/
 
 static void
 ffi_call_int(ffi_cif *cif,
@@ -490,15 +490,15 @@ ffi_call_go (ffi_cif *cif, void (*fn)(void), void *rvalue,
   ffi_call_int(cif, fn, rvalue, avalue, closure);
 }
 
-/*======================== End of Routine ============================*/
+/*=== End of Routine */
 
-/*====================================================================*/
+/*=====*/
 /*                                                                    */
 /* Name     - ffi_closure_helper_SYSV.                                */
 /*                                                                    */
 /* Function - Call a FFI closure target function.                     */
 /*                                                                    */
-/*====================================================================*/
+/*=====*/
 
 void FFI_HIDDEN
 ffi_closure_helper_SYSV (ffi_cif *cif,
@@ -694,15 +694,15 @@ ffi_closure_helper_SYSV (ffi_cif *cif,
     }
 }
 
-/*======================== End of Routine ============================*/
+/*=== End of Routine */
 
-/*====================================================================*/
+/*=====*/
 /*                                                                    */
 /* Name     - ffi_prep_closure_loc.                                   */
 /*                                                                    */
 /* Function - Prepare a FFI closure.                                  */
 /*                                                                    */
-/*====================================================================*/
+/*=====*/
 
 ffi_status
 ffi_prep_closure_loc (ffi_closure *closure,
@@ -737,7 +737,7 @@ ffi_prep_closure_loc (ffi_closure *closure,
   return FFI_OK;
 }
 
-/*======================== End of Routine ============================*/
+/*=== End of Routine */
 
 /* Build a Go language closure.  */
 

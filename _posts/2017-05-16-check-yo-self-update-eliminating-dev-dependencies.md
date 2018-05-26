@@ -1,8 +1,6 @@
 ---
 ID: 1909
-post_title: 'Check Yo Self Update: Eliminating Dev Dependencies'
-post_name: >
-  check-yo-self-update-eliminating-dev-dependencies
+title: 'Check Yo Self Update: Eliminating Dev Dependencies'
 author: Tiffany White
 post_date: 2017-05-16 22:55:32
 post_excerpt: |
@@ -20,7 +18,8 @@ tags:
 categories:
   - App Updates
 ---
-<<<<<<< Updated upstream
+
+
 I worked like a fiend over the weekend on Check Yo Self, reading documentation, implementing features, and taking some away.
 
 Going over the `write-good` issues on GitHub to see how if it could parse extra characters [^1].
@@ -149,7 +148,9 @@ Here is a nifty video of my getting the vertical fabs working.
 [^1]: Those lovely markdown characters. I ❤️ markdown.
 [^2]: This utility crashed someone’s browser so be careful.
 [^3]: There are some users who really don’t pay attention or care.
-=======
+
+
+
 I worked like a fiend over the weekend on Check Yo Self, reading documentation, implementing features, and taking some away.
 
 Going over the `write-good` issues on GitHub to see how if it could parse extra characters [^1].
@@ -278,5 +279,8 @@ Here is a nifty video of my getting the vertical fabs working.
 [^1]: Those lovely markdown characters. I ❤️ markdown.
 [^2]: This utility crashed someone’s browser so be careful.
 [^3]: There are some users who really don’t pay attention or care.
->>>>>>> Stashed changes
+
+
+
+
 [^4]: Steel City? Not much anymore. More like, up-and-coming tech hub.

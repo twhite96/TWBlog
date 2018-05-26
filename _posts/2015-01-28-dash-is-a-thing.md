@@ -1,7 +1,7 @@
 ---
 ID: 75
-post_title: Dash Is a Thing
-post_name: dash-is-a-thing
+title: Dash Is a Thing
+# dash-is-a-thing
 author: Tiffany White
 post_date: 2015-01-28 14:03:32
 layout: post

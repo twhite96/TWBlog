@@ -1,7 +1,7 @@
 ---
 ID: 1874
-post_title: 'CRUD: My New App, Check Yo Self'
-post_name: crud-my-new-app-check-yo-self
+title: 'CRUD: My New App, Check Yo Self'
+# crud-my-new-app-check-yo-self
 author: Tiffany White
 post_date: 2017-04-22 22:41:47
 layout: post
@@ -16,7 +16,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
+
+
 I have taken a bit of a break from the coding/learning thing as I suffer from a bit of depression every now and again, outside of the usual. It's a woman's thing, as they say.
 
 So while I was a bit down and cantankerous I took a break to tweak a few of my sites and read some documentation. After the bout of depression subsided, I dove into SQL.
@@ -72,7 +73,9 @@ I never know how to end these things. Let me know what you're hacking on in the 
 
 [^1]: *Create:* `INSERT INTO`, *Read:*, `SELECT * FROM`, *Update:* `UPDATE SET`, and, *Delete:* `DELETE FROM`. So that's why they call database apps that are simple *CRUD* apps, which I understand finally.
 [^2]: Check out [sequelize.js](http://docs.sequelizejs.com/en/v3/)
-=======
+
+
+
 I have taken a bit of a break from the coding/learning thing as I suffer from a bit of depression every now and again, outside of the usual. It's a woman's thing, as they say.
 
 So while I was a bit down and cantankerous I took a break to tweak a few of my sites and read some documentation. After the bout of depression subsided, I dove into SQL.
@@ -128,5 +131,8 @@ I never know how to end these things. Let me know what you're hacking on in the 
 
 [^1]: *Create:* `INSERT INTO`, *Read:*, `SELECT * FROM`, *Update:* `UPDATE SET`, and, *Delete:* `DELETE FROM`. So that's why they call database apps that are simple *CRUD* apps, which I understand finally.
 [^2]: Check out [sequelize.js](http://docs.sequelizejs.com/en/v3/)
->>>>>>> Stashed changes
+
+
+
+
 [^3]: Code Newbie field general, 1000XP

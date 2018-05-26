@@ -141,7 +141,7 @@ EOF
   file 'CONTRIBUTERS' do
     puts "Generating CONTRIBUTERS file"
     `echo "  Count Name" > CONTRIBUTERS`
-    `echo "======= ====" >> CONTRIBUTERS`
+    `echo " ====" >> CONTRIBUTERS`
     `git log | grep ^Author: | sed 's/^Author: //' | sort | uniq -c | sort -nr >> CONTRIBUTERS`
   end
 

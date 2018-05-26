@@ -1,7 +1,7 @@
 ---
 ID: 448
-post_title: 'This Developer&#8217;s Journey ep.13'
-post_name: this-developers-journey-ep-13
+title: 'This Developer&#8217;s Journey ep.13'
+# this-developers-journey-ep-13
 author: Tiffany White
 post_date: 2015-08-03 21:08:42
 layout: post
@@ -15,7 +15,8 @@ tags:
 categories:
   - Uncategorized
 ---
-<<<<<<< Updated upstream
+
+
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-TWW_movil_20.jpg" alt="Dev_desk" width="671" height="671" />
 <h2>Show Notes</h2>
 <a href="http://teamtreehouse.com">Treehouse– learn how to code.</a>
@@ -45,7 +46,9 @@ categories:
 
 <a href="http://joequery.me/code/the-self-hating-web-developer">The Self-Hating Web Developer</a>
 
-=======
+
+
+
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-TWW_movil_20.jpg" alt="Dev_desk" width="671" height="671" />
 <h2>Show Notes</h2>
 <a href="http://teamtreehouse.com">Treehouse– learn how to code.</a>
@@ -75,5 +78,8 @@ categories:
 
 <a href="http://joequery.me/code/the-self-hating-web-developer">The Self-Hating Web Developer</a>
 
->>>>>>> Stashed changes
+
+
+
+
 <a href="http://www.renfei.org/snippets-lab/">SnippetsLab for Mac</a>

@@ -1,10 +1,6 @@
 ---
 ID: 183
-post_title: >
-  Going through Python and Ruby with Zed
-  Shaw
-post_name: >
-  going-through-python-and-ruby-with-zed-shaw
+title: 'Going through Python and Ruby with Zed Shaw'
 author: Tiffany White
 post_date: 2015-04-09 17:54:03
 layout: post
@@ -25,7 +21,8 @@ So I remembered fro Code Newbie Podcast <a href="http://twitter.com/zedshaw">Zed
 
 So what made it great? Study Drills. Enforcing the fact that you should <strong>type</strong> everything on the screen, use a text editor and not an IDE (which I was really tempted to do) and the questions he answers from previous students. You get to practice what you learn, to, by building little scripts on your own. Here is an example of a form script I wrote using Python, from exercise 11 Study Drill:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:python decode:1 " >
 print “What is your occupation?”,
 occupation = raw_input()
@@ -38,7 +35,9 @@ stack_overflow = raw_input()
 
 print “So you do %r, own %r kids, %r cats, have a reputation of %r on Stack Overflow.” % (
 occupation, kids, cats, stack_overflow)
-=======
+
+
+
 <pre class="lang:python decode:1 " >
 print “What is your occupation?”,
 occupation = raw_input()
@@ -51,14 +50,18 @@ stack_overflow = raw_input()
 
 print “So you do %r, own %r kids, %r cats, have a reputation of %r on Stack Overflow.” % (
 occupation, kids, cats, stack_overflow)
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 Learned so far:
 
 Format variables like %r can input data within a string. You can call format variables later in a string, by using:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:python decode:1 " >
 Name = ‘Zed A. Shaw’
 age = 35 # not a lie
@@ -84,7 +87,9 @@ print “In England my height %d and weight %d are %f and %f.” % (height, weig
 metric_height, metric_weight)
 print “If I add %d, %d, %f and %f I get %f.” % (height, weight, metric_weight, metric_height,
 height + weight + metric_weight + metric_height)
-=======
+
+
+
 <pre class="lang:python decode:1 " >
 Name = ‘Zed A. Shaw’
 age = 35 # not a lie
@@ -110,7 +115,10 @@ print “In England my height %d and weight %d are %f and %f.” % (height, weig
 metric_height, metric_weight)
 print “If I add %d, %d, %f and %f I get %f.” % (height, weight, metric_weight, metric_height,
 height + weight + metric_weight + metric_height)
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 As you can see, I assigned a variable before using the print command, called those same variables later in subsequent strings by using format variables.

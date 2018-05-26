@@ -1,7 +1,7 @@
 ---
 ID: 230
-post_title: 'Off-Topic: Nerves, College Admissions, and More Nerves'
-post_name: college-admissions
+title: 'Off-Topic: Nerves, College Admissions, and More Nerves'
+# college-admissions
 author: Tiffany White
 post_date: 2015-04-28 17:21:25
 layout: post

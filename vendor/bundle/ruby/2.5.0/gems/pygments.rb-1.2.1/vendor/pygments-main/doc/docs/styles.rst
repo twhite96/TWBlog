@@ -37,7 +37,7 @@ Or you can also import your own style (which must be a subclass of
 
 
 Creating Own Styles
-===================
+=====
 
 So, how to create a style? All you have to do is to subclass `Style` and
 define some styles:
@@ -80,7 +80,7 @@ To make the style usable for Pygments, you must
 
 
 Style Rules
-===========
+====
 
 Here a small overview of all allowed styles:
 
@@ -118,7 +118,7 @@ Furthermore, not all lexers might support every style.
 
 
 Builtin Styles
-==============
+
 
 Pygments ships some builtin styles which are maintained by the Pygments team.
 
@@ -132,7 +132,7 @@ To get a list of known styles you can use this snippet:
 
 
 Getting a list of available styles
-==================================
+======
 
 .. versionadded:: 0.6
 
@@ -148,7 +148,7 @@ a way to iterate over all styles:
 .. _AnsiTerminalStyle:
 
 Terminal Styles
-===============
+=
 
 .. versionadded:: 2.2
 

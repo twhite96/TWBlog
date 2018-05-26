@@ -1,10 +1,6 @@
 ---
 ID: 2020
-post_title: >
-  JavaScript vs Java Pass by Value and
-  Reference
-post_name: >
-  javascript-vs-java-pass-by-value-and-reference-2
+title: 'JavaScript vs Java Pass by Value and Reference'
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post
@@ -15,7 +11,8 @@ tags: [ ]
 categories:
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 ## Different Languages, Different Paradigms
 
 When you are working with different languages at the same time, it is important to note that while most languages are based on C, each langauge has its own set of rules and paradigms associated with it that makes similar conventions different.
@@ -213,7 +210,9 @@ Sorry about the length! If you have anything to add, leave a comment down below.
 [^3]: Technically, in Java, you can use method and function interchangeably but I really don't like doing that. See [this answer](http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function).
 [^4]: Eric Elliott [has talked about this](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.szfiambhu) a lot. Check it out for the differences inheritance between the two languages.
 [^5]: This is creating an object using a JavaScript constructor and the `new` keyword, mimicking OOP inheritance in JavaScript. Douglas Crockford [recommends that you avoid it.](https://youtu.be/bo36MrBfTk4?t=28m50s)
-=======
+
+
+
 ## Different Languages, Different Paradigms
 
 When you are working with different languages at the same time, it is important to note that while most languages are based on C, each langauge has its own set of rules and paradigms associated with it that makes similar conventions different.
@@ -411,5 +410,8 @@ Sorry about the length! If you have anything to add, leave a comment down below.
 [^3]: Technically, in Java, you can use method and function interchangeably but I really don't like doing that. See [this answer](http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function).
 [^4]: Eric Elliott [has talked about this](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.szfiambhu) a lot. Check it out for the differences inheritance between the two languages.
 [^5]: This is creating an object using a JavaScript constructor and the `new` keyword, mimicking OOP inheritance in JavaScript. Douglas Crockford [recommends that you avoid it.](https://youtu.be/bo36MrBfTk4?t=28m50s)
->>>>>>> Stashed changes
+
+
+
+
 [^6]: More in another post.

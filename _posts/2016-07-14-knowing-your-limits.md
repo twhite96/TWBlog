@@ -1,7 +1,7 @@
 ---
 ID: 1211
-post_title: Knowing Your Limits
-post_name: knowing-your-limits
+title: Knowing Your Limits
+# knowing-your-limits
 author: Tiffany White
 post_date: 2016-07-14 06:30:52
 layout: post
@@ -14,7 +14,8 @@ categories:
   - Free Code Camp
   - Programming
 ---
-<<<<<<< Updated upstream
+
+
 <img class="aligncenter size-large wp-image-1205" src="http://helloburgh.me/wp-content/uploads/2016/07/limits-1024x683.jpeg" alt="limits" width="700" height="467" />
 
 I had to give up on my Random Quote Generator design.
@@ -43,7 +44,9 @@ I need to understand callback functions, specifically jQuery callbacks.
 
 So I am going over the jQuery and AJAX courses at Treehouse again. This way, I can take better notes and learn about the code I forked from the example that Free Code Camp gives for this assignment. Then I will come up with a simpler design in Sketch and work to use it with a quote API somewhere.
 
-=======
+
+
+
 <img class="aligncenter size-large wp-image-1205" src="http://helloburgh.me/wp-content/uploads/2016/07/limits-1024x683.jpeg" alt="limits" width="700" height="467" />
 
 I had to give up on my Random Quote Generator design.
@@ -72,5 +75,8 @@ I need to understand callback functions, specifically jQuery callbacks.
 
 So I am going over the jQuery and AJAX courses at Treehouse again. This way, I can take better notes and learn about the code I forked from the example that Free Code Camp gives for this assignment. Then I will come up with a simpler design in Sketch and work to use it with a quote API somewhere.
 
->>>>>>> Stashed changes
+
+
+
+
 Time to work.

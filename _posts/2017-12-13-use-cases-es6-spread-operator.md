@@ -1,7 +1,7 @@
 ---
 ID: 2736
-post_title: Use Cases for the Spread Operator
-post_name: use-cases-es6-spread-operator
+title: Use Cases for the Spread Operator
+# use-cases-es6-spread-operator
 author: Tiffany White
 post_date: 2017-12-13 11:30:30
 post_excerpt: >
@@ -70,4 +70,8 @@ arr2.push(10); // Will return a deep copy of the array with 10 appended to the e
 //of the values
 ```
 ## More At the MDN
+
 You can find more uses for the spread operator at the [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread\_operator)
+
+You can find more uses for the spread operator at the [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread\_operator)
+

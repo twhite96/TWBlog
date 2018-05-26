@@ -1,7 +1,7 @@
 ---
 ID: 1350
-post_title: 100 Days of Code Days 3 and 4
-post_name: 100-days-of-code-days-3-and-4
+title: 100 Days of Code Days 3 and 4
+# 100-days-of-code-days-3-and-4
 author: Tiffany White
 post_date: 2016-10-05 03:51:01
 layout: post
@@ -15,7 +15,8 @@ tags:
 categories:
   - 100 Days of Code
 ---
-<<<<<<< Updated upstream
+
+
 ## Day 4: 4 October 2016
 
 <img class="size-full wp-image-1345 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png" alt="" width="256" height="256" />
@@ -42,7 +43,9 @@ I finally figured it out with some trial and error.
 
 Like I said, I've driving pretty hard. Check out my productivity pulse on RescueTime:
 
-=======
+
+
+
 ## Day 4: 4 October 2016
 
 <img class="size-full wp-image-1345 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png" alt="" width="256" height="256" />
@@ -69,5 +72,8 @@ I finally figured it out with some trial and error.
 
 Like I said, I've driving pretty hard. Check out my productivity pulse on RescueTime:
 
->>>>>>> Stashed changes
+
+
+
+
 <img class="size-full wp-image-1349 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/Image-10-5-16-3-40-AM.jpeg" width="2048" height="2732" />

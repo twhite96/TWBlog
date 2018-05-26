@@ -2,9 +2,9 @@
 
 .. highlight:: python
 
-====================
+======
 Write your own lexer
-====================
+======
 
 If a lexer for your favorite language is missing in the Pygments package, you
 can easily write your own and extend Pygments.
@@ -22,7 +22,7 @@ you can subclass.
 
 
 RegexLexer
-==========
+===
 
 The lexer base class used by almost all of Pygments' lexers is the
 :class:`RegexLexer`.  This class allows you to define lexing rules in terms of
@@ -86,7 +86,7 @@ one.
 
 
 Adding and testing a new lexer
-==============================
+==
 
 The easiest way to use a new lexer is to use Pygments' support for loading
 the lexer from a file relative to your current directory.
@@ -188,7 +188,7 @@ such as that the concatenation of all token text is the same as the input text.
 
 
 Regex Flags
-===========
+====
 
 You can either define regex flags locally in the regex (``r'(?x)foo bar'``) or
 globally by adding a `flags` attribute to your lexer class.  If no attribute is
@@ -200,7 +200,7 @@ documentation.
 
 
 Scanning multiple tokens at once
-================================
+====
 
 So far, the `action` element in the rule tuple of regex, action and state has
 been a single token type.  Now we look at the first of several other possible
@@ -249,7 +249,7 @@ function and that group will be skipped in the output.
 
 
 Changing states
-===============
+=
 
 Many lexers need multiple states to work as expected.  For example, some
 languages allow multiline comments to be nested.  Since this is a recursive
@@ -307,7 +307,7 @@ single-line string is not closed.
 
 
 Advanced state tricks
-=====================
+
 
 There are a few more things you can do with states:
 
@@ -417,7 +417,7 @@ There are a few more things you can do with states:
 
 
 Subclassing lexers derived from RegexLexer
-==========================================
+
 
 .. versionadded:: 1.6
 
@@ -474,7 +474,7 @@ of the base lexer:
 
 
 Using multiple lexers
-=====================
+
 
 Using multiple lexers for the same input can be tricky.  One of the easiest
 combination techniques is shown here: You can replace the action entry in a rule
@@ -538,7 +538,7 @@ arguments used to create the lexer.
 
 
 Delegating Lexer
-================
+==
 
 Another approach for nested lexers is the `DelegatingLexer` which is for example
 used for the template engine lexers.  It takes two lexers as arguments on
@@ -567,7 +567,7 @@ the lexer another token type as the third parameter::
 
 
 Callbacks
-=========
+==
 
 Sometimes the grammar of a language is so complex that a lexer would be unable
 to process it just by using regular expressions and stacks.
@@ -615,7 +615,7 @@ them in action e.g. in the `SMLLexer` class in `ml.py`_.
 
 
 The ExtendedRegexLexer class
-============================
+
 
 The `RegexLexer`, even with callbacks, unfortunately isn't powerful enough for
 the funky syntax rules of languages such as Ruby.
@@ -671,7 +671,7 @@ example look at the Ruby lexer in `ruby.py`_.
 
 
 Handling Lists of Keywords
-==========================
+=====
 
 For a relatively short list (hundreds) you can construct an optimized regular
 expression directly using ``words()`` (longer lists, see next section).  This
@@ -699,7 +699,7 @@ regex.
 
 
 Modifying Token Streams
-=======================
+==
 
 Some languages ship a lot of builtin functions (for example PHP).  The total
 amount of those functions differs from system to system because not everybody

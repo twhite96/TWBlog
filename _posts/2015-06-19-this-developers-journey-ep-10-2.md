@@ -1,7 +1,7 @@
 ---
 ID: 344
-post_title: 'This Developer&#8217;s Journey ep.10'
-post_name: this-developers-journey-ep-10-2
+title: 'This Developer&#8217;s Journey ep.10'
+# this-developers-journey-ep-10-2
 author: Tiffany White
 post_date: 2015-06-19 21:48:41
 layout: post
@@ -17,7 +17,8 @@ tags:
 categories:
   - Uncategorized
 ---
-<<<<<<< Updated upstream
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo2.png" alt="Dev" width="426" height="426" />
 
 ## Show Notes:
@@ -48,7 +49,9 @@ Books in my Reading List (not all of them because, well, there are **too many to
 
 <a href="http://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1434764117&amp;sr=1-4&amp;keywords=rest+api&amp;pebp=1434764122040&amp;perid=1DAEVRR2CB7EX9DSVKMY">REST API Design Rulebook</a>
 
-=======
+
+
+
 <img class=" aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo2.png" alt="Dev" width="426" height="426" />
 
 ## Show Notes:
@@ -79,5 +82,8 @@ Books in my Reading List (not all of them because, well, there are **too many to
 
 <a href="http://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1434764117&amp;sr=1-4&amp;keywords=rest+api&amp;pebp=1434764122040&amp;perid=1DAEVRR2CB7EX9DSVKMY">REST API Design Rulebook</a>
 
->>>>>>> Stashed changes
+
+
+
+
 <a href="http://www.amazon.com/Work-Smarter-Not-Harder-Productivity-ebook/dp/B00V8ALKN2/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1434764164&amp;sr=1-1&amp;keywords=work+smarter+not+harder&amp;pebp=1434764168733&amp;perid=1K7AAX9NWMN9M5YVW9X4">Work Smarter, Not Harder</a>

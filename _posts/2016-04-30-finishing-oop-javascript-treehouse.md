@@ -1,7 +1,7 @@
 ---
 ID: 1090
-post_title: Finishing OOP JavaScript at Treehouse
-post_name: finishing-oop-javascript-treehouse
+title: Finishing OOP JavaScript at Treehouse
+# finishing-oop-javascript-treehouse
 author: Tiffany White
 post_date: 2016-04-30 19:17:50
 layout: post
@@ -13,7 +13,8 @@ categories:
   - Daily Updates
   - Programming
 ---
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/OOP-JavaScript.jpeg"><img src="http://helloburgh.me/wp-content/uploads/2016/04/OOP-JavaScript.jpeg" alt="OOP JavaScript" width="1000" height="666" class="alignleft size-full wp-image-1093" /></a>
 
 <p>We learned a bit about constructors and prototypal inheritance in OOP JavaScript in this final section. We also went over prototype chaining which I found interesting.</p>
@@ -30,7 +31,7 @@ categories:
 
 function Media() {
 
-  this.title = title;
+  this.title: = title:;
 
   this.duration = duration;
 
@@ -58,7 +59,7 @@ Media.prototype.stop = function() {
 
 function Movie() {
 
-  Media.call(this, title, duration);
+  Media.call(this, title:, duration);
 
   this.year = year;
 
@@ -84,7 +85,7 @@ Movie.prototype.stop = function() {
 
 function Movie() {
 
-  Media.call(this, title, duration);
+  Media.call(this, title:, duration);
 
   this.year = year;
 
@@ -100,7 +101,9 @@ function Movie() {
 
 https://gist.github.com/twhite96/42aaf04d874630e4c733236392dc23f7
 
-=======
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/OOP-JavaScript.jpeg"><img src="http://helloburgh.me/wp-content/uploads/2016/04/OOP-JavaScript.jpeg" alt="OOP JavaScript" width="1000" height="666" class="alignleft size-full wp-image-1093" /></a>
 
 <p>We learned a bit about constructors and prototypal inheritance in OOP JavaScript in this final section. We also went over prototype chaining which I found interesting.</p>
@@ -117,7 +120,7 @@ https://gist.github.com/twhite96/42aaf04d874630e4c733236392dc23f7
 
 function Media() {
 
-  this.title = title;
+  this.title: = title:;
 
   this.duration = duration;
 
@@ -145,7 +148,7 @@ Media.prototype.stop = function() {
 
 function Movie() {
 
-  Media.call(this, title, duration);
+  Media.call(this, title:, duration);
 
   this.year = year;
 
@@ -171,7 +174,7 @@ Movie.prototype.stop = function() {
 
 function Movie() {
 
-  Media.call(this, title, duration);
+  Media.call(this, title:, duration);
 
   this.year = year;
 
@@ -187,5 +190,8 @@ function Movie() {
 
 https://gist.github.com/twhite96/42aaf04d874630e4c733236392dc23f7
 
->>>>>>> Stashed changes
+
+
+
+
 <p>See what I mean? We didn’t learn half this stuff. I love Treehouse and this was a hard course for Andrew to teach. But I felt it sorely lacking in practice.</p>

@@ -1,7 +1,7 @@
 ---
 ID: 2647
-post_title: I Am Now Doing This Thing For Real
-post_name: i-am-doing-this-thing
+title: I Am Now Doing This Thing For Real
+# i-am-doing-this-thing
 author: Tiffany White
 post_date: 2017-11-15 20:03:55
 post_excerpt: >
@@ -18,7 +18,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
+
+
 I have recently joined the [The Practical Dev](https://dev.to) as an apprentice software developer.
 
 Remember when I said that good things were happening? That was one of the things.
@@ -86,7 +87,9 @@ I mean, really. You two have taken a chance on an old lady who doesn’t have a 
 ## Well
 Everyone has a story. I am glad mine is ending up like this. I hope for happiness and success for anyone who is on the outside looking in in tech. You got this. ???
 
-=======
+
+
+
 I have recently joined the [The Practical Dev](https://dev.to) as an apprentice software developer.
 
 Remember when I said that good things were happening? That was one of the things.
@@ -154,5 +157,8 @@ I mean, really. You two have taken a chance on an old lady who doesn’t have a 
 ## Well
 Everyone has a story. I am glad mine is ending up like this. I hope for happiness and success for anyone who is on the outside looking in in tech. You got this. ???
 
->>>>>>> Stashed changes
+
+
+
+
 [^1]: I am old. I am the oldest person on the team. Haha. I am young at heart though. Goes to show someone pushing 40 can break into the industry if they work their asses off.

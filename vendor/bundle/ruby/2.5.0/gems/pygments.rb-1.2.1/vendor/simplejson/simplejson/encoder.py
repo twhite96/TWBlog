@@ -79,7 +79,7 @@ class JSONEncoder(object):
 
     +-------------------+---------------+
     | Python            | JSON          |
-    +===================+===============+
+    +=====+=+
     | dict, namedtuple  | object        |
     +-------------------+---------------+
     | list, tuple       | array         |

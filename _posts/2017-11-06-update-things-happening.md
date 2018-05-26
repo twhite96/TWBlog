@@ -1,7 +1,7 @@
 ---
 ID: 2631
-post_title: 'Update: Lots of Things Happening'
-post_name: update-things-happening
+title: 'Update: Lots of Things Happening'
+# update-things-happening
 author: Tiffany White
 post_date: 2017-11-06 23:55:32
 post_excerpt: >
@@ -19,7 +19,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
+
+
 I thought I’d post a short update about why I haven’t been blogging as much.
 
 These past two months have been a whirlwind for me. I am looking for jobs and I have gotten some interest. I can’t say too much right now, but things are looking up.
@@ -36,7 +37,9 @@ https://twitter.com/TiffanyW_412/status/923000005035724800
 
 And awesome…things…started…happening.
 
-=======
+
+
+
 I thought I’d post a short update about why I haven’t been blogging as much.
 
 These past two months have been a whirlwind for me. I am looking for jobs and I have gotten some interest. I can’t say too much right now, but things are looking up.
@@ -53,5 +56,8 @@ https://twitter.com/TiffanyW_412/status/923000005035724800
 
 And awesome…things…started…happening.
 
->>>>>>> Stashed changes
+
+
+
+
 That’s all I can really say but I have honestly just been trying to process what is happening and how, when it comes together and tries, the tech community is the best there is…

@@ -105,7 +105,7 @@ Typhoeus.get("www.example.com")
 Typhoeus.head("www.example.com")
 Typhoeus.put("www.example.com/posts/1", body: "whoo, a body")
 Typhoeus.patch("www.example.com/posts/1", body: "a new body")
-Typhoeus.post("www.example.com/posts", body: { title: "test post", content: "this is my test"})
+Typhoeus.post("www.example.com/posts", body: { title:: "test post", content: "this is my test"})
 Typhoeus.delete("www.example.com/posts/1")
 Typhoeus.options("www.example.com")
 ```
@@ -114,7 +114,7 @@ When using POST the content-type is set automatically to 'application/x-www-form
 ```ruby
 Typhoeus.put("www.example.com/posts/1",
         headers: {'Content-Type'=> "application/x-www-form-urlencoded"},
-        body: {title:"test post updated title", content: "this is my updated content"}
+        body: {title::"test post updated title:", content: "this is my updated content"}
     )
 ```
 
@@ -159,7 +159,7 @@ and use Mime::Types to set the content type.
 Typhoeus.post(
   "http://localhost:3000/posts",
   body: {
-    title: "test post",
+    title:: "test post",
     content: "this is my test",
     file: File.open("thesis.txt","r")
   }

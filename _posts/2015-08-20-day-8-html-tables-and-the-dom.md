@@ -1,7 +1,7 @@
 ---
 ID: 574
-post_title: 'Day 8: HTML Tables and The DOM'
-post_name: day-8-html-tables-and-the-dom
+title: 'Day 8: HTML Tables and The DOM'
+# day-8-html-tables-and-the-dom
 author: Tiffany White
 post_date: 2015-08-20 21:21:54
 layout: post
@@ -41,20 +41,27 @@ The DOM is basically the HTML document, arranged in a tree, with nodes that you 
 
 Self-explanatory really. So you have a few
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:html decode:1 " >
 &amp;lt;table&amp;gt;&amp;lt;/table&amp;gt;
 
-=======
+
 <pre class="lang:html decode:1 " >
 &amp;lt;table&amp;gt;&amp;lt;/table&amp;gt;
 
->>>>>>> Stashed changes
+
+
+<pre class="lang:html decode:1 " >
+&amp;lt;table&amp;gt;&amp;lt;/table&amp;gt;
+
+
 </pre>
 
 tags under which you can have this:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:html decode:1 " >
 &amp;lt;table&amp;gt;
 
@@ -78,7 +85,9 @@ tags under which you can have this:
 
 &amp;lt;/table&amp;gt;
 
-=======
+
+
+
 <pre class="lang:html decode:1 " >
 &amp;lt;table&amp;gt;
 
@@ -102,7 +111,10 @@ tags under which you can have this:
 
 &amp;lt;/table&amp;gt;
 
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 <a href="http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-20.jpg"><img class="aligncenter size-full wp-image-572" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-20.jpg" alt="wpid-Screenshot-2015-08-20.jpg" width="329" height="280" /></a> <a href="http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-20-1.jpg"><img class="aligncenter size-full wp-image-573" src="http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-20-1.jpg" alt="wpid-Screenshot-2015-08-20-1.jpg" width="332" height="270" /></a></pre>

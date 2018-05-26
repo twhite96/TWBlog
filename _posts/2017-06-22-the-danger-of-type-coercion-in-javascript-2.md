@@ -1,10 +1,6 @@
 ---
 ID: 2028
-post_title: >
-  The Danger of Type Coercion in
-  JavaScript
-post_name: >
-  the-danger-of-type-coercion-in-javascript-2
+title: 'The Danger of Type Coercion in JavaScript'
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post

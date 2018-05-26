@@ -4,9 +4,9 @@ highlighter:      rouge
 
 # Setup
 title:            Tiffany R. White Blog
-tagline:          'A Jekyll theme'
+tagline:          'Software dev. Pittsburgher. Herder of cats and general contrarian.'
 description:      'A Technical Blog by <a href="https://twitter.com/TiffanyW_412" target="_blank">Tiffany White</a>'
-url:              https://twhite96.surge.sh
+url:              'https://tiffanywhite.tech'
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -18,13 +18,26 @@ author:
   url:            https://twitter.com/TiffanyW_412
 
 paginate:         5
-# paginate_path:    '/page:num'
+paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
+disqus:
+  shortname: helloburgh
 
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-cloudinary
+
+cloudinary:
+  cloud_name: twhiteblog
+  presets:
+    default:
+      min_width: 320
+      max_width: 1600
+      fallback_max_width: 800
+      steps: 5
+      sizes: "(min-width: 50rem) 50rem, 90vw"
 
 # Custom vars
 version:            3.6.0

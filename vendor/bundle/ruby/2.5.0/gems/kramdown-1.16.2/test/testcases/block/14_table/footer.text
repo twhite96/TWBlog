@@ -7,13 +7,13 @@ Simple footer
 Full footer
 
 | cell1 | cell2
-|=======|=======|
+|||
 | cell3 | cell4
 
 Footer with separator lines
 
 | cell1 | cell2
-|=======|=======|
+|||
 | cell3 | cell4
 |---
 | cell5 | cell6

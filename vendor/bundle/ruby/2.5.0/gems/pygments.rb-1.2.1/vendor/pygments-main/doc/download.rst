@@ -1,5 +1,5 @@
 Download and installation
-=========================
+====
 
 The current release is version |version|.
 

@@ -1,7 +1,7 @@
 ---
 ID: 491
-post_title: 'Day 3: Event Handlers and Animations'
-post_name: day-3-event-handlers-and-animations
+title: 'Day 3: Event Handlers and Animations'
+# day-3-event-handlers-and-animations
 author: Tiffany White
 post_date: 2015-08-09 23:05:45
 layout: post
@@ -41,13 +41,18 @@ with passing an anonymous function in order to do something when the button we m
 
 So in the code block with the button selector with the [jquery].click(function() {});[/jquery] you can <strong>do</strong> nifty things. So inside this code block we used
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >$(this).show();
 $(this).remove();
-=======
+
 <pre class="lang:javascript decode:1 " >$(this).show();
 $(this).remove();
->>>>>>> Stashed changes
+
+
+<pre class="lang:javascript decode:1 " >$(this).show();
+$(this).remove();
+
 </pre>
 
 I hadn’t really gotten my head around [jquery]$(this)[/jquery] until he explained that since we had two
@@ -56,17 +61,23 @@ I hadn’t really gotten my head around [jquery]$(this)[/jquery] until he explai
 
 elements under the
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:html decode:1 " >
 &lt;div class= &quot;spoiler&quot;&lt;/div&gt;
 
 
-=======
+
+
+
 <pre class="lang:html decode:1 " >
 &lt;div class= &quot;spoiler&quot;&lt;/div&gt;
 
 
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 we needed to specify which button the

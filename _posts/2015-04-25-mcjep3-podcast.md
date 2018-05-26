@@ -1,7 +1,7 @@
 ---
 ID: 196
-post_title: Podcast! MCJep3
-post_name: mcjep3-podcast
+title: Podcast! MCJep3
+# mcjep3-podcast
 author: Tiffany White
 post_date: 2015-04-25 17:36:00
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 1109
-post_title: Contacts App Update
-post_name: contacts-app-update
+title: Contacts App Update
+# contacts-app-update
 author: Tiffany White
 post_date: 2016-05-20 01:30:56
 layout: post
@@ -13,7 +13,8 @@ categories:
   - Daily Updates
   - Programming
 ---
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-itunes-session.jpg"><img class="alignleft size-full wp-image-1112" src="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-itunes-session.jpg" alt="working_on_contacts_app" width="1000" height="666" /></a>
 
 &nbsp;
@@ -113,7 +114,9 @@ You can find my updated docs <a href="https://twhite96.github.io/contacts-app/in
 <h2>On the Grind</h2>
 Some video fun.
 
-=======
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-itunes-session.jpg"><img class="alignleft size-full wp-image-1112" src="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-itunes-session.jpg" alt="working_on_contacts_app" width="1000" height="666" /></a>
 
 &nbsp;
@@ -213,5 +216,8 @@ You can find my updated docs <a href="https://twhite96.github.io/contacts-app/in
 <h2>On the Grind</h2>
 Some video fun.
 
->>>>>>> Stashed changes
+
+
+
+
 https://www.instagram.com/p/BFm9gRoPHd9/?taken-by=twhitedev412&hl=en

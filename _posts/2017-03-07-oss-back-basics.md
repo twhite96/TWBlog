@@ -1,7 +1,7 @@
 ---
 ID: 1621
-post_title: OSS and Back to Basics
-post_name: oss-back-basics
+title: OSS and Back to Basics
+# oss-back-basics
 author: Tiffany White
 post_date: 2017-03-07 15:46:37
 layout: post
@@ -12,7 +12,8 @@ tags: [ ]
 categories:
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 So I essentially said, “School is not for me. Plus, I don’t have the money to finish anyway. Time to hang up the Pitt hoodie”.
 
 So that’s what I did. No mental health issues this time, just a real sense that I could be learning and doing so much more than what I was on my own.
@@ -48,7 +49,9 @@ I am also looking forward to understanding *how* to build a library in any langu
 Back working on it. Not much else to report about it though. Still struggling a bit.
 
 [^1]: I did my first pull request in Java. It was very easy.
-=======
+
+
+
 So I essentially said, “School is not for me. Plus, I don’t have the money to finish anyway. Time to hang up the Pitt hoodie”.
 
 So that’s what I did. No mental health issues this time, just a real sense that I could be learning and doing so much more than what I was on my own.
@@ -84,4 +87,7 @@ I am also looking forward to understanding *how* to build a library in any langu
 Back working on it. Not much else to report about it though. Still struggling a bit.
 
 [^1]: I did my first pull request in Java. It was very easy.
->>>>>>> Stashed changes
+
+
+
+

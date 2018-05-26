@@ -1,7 +1,7 @@
 ---
 ID: 1578
-post_title: Breaking Things
-post_name: breaking-things
+title: Breaking Things
+# breaking-things
 author: Tiffany White
 post_date: 2017-01-17 20:40:43
 layout: post
@@ -15,7 +15,8 @@ tags:
 categories:
   - Semester Updates
 ---
-<<<<<<< Updated upstream
+
+
 This semester, this whole year even, has seen a dramatic increase in productivity and a conscious effort for self-care-- making necessary doctors appointments, going to bed around 9 or 10 and getting up at 8 or 9 am.
 
 Taking care of myself helps me think clearer, helps me get more done.
@@ -81,7 +82,9 @@ These are just some of the changes this semester. I *want* to be a software engi
 
 ## Good News!
 
-=======
+
+
+
 This semester, this whole year even, has seen a dramatic increase in productivity and a conscious effort for self-care-- making necessary doctors appointments, going to bed around 9 or 10 and getting up at 8 or 9 am.
 
 Taking care of myself helps me think clearer, helps me get more done.
@@ -147,5 +150,8 @@ These are just some of the changes this semester. I *want* to be a software engi
 
 ## Good News!
 
->>>>>>> Stashed changes
+
+
+
+
 I have transferred within Pitt, going from the College of General Studies to the Dietrich School of Arts &amp; Sciences! I'm thrilled that I can finally be a true Computer Science major. ????????‍????????????

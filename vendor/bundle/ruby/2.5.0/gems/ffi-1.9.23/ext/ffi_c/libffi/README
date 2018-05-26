@@ -6,7 +6,7 @@ page for updates: <URL:http://sourceware.org/libffi/>.
 
 
 What is libffi?
-===============
+=
 
 Compilers for high level languages generate code that follow certain
 conventions. These conventions are necessary, in part, for separate
@@ -37,7 +37,7 @@ between the two languages.
 
 
 Supported Platforms
-===================
+=====
 
 Libffi has been ported to many different platforms.
 For specific configuration details and testing status, please
@@ -122,7 +122,7 @@ libffi-discuss@sourceware.org and feel free to update the wiki page
 above.
 
 Installing libffi
-=================
+===
 
 First you must configure the distribution for your particular
 system. Go to the directory you wish to build libffi in and run the
@@ -182,7 +182,7 @@ To install the library and header files, type "make install".
 
 
 History
-=======
+
 
 See the git log for details at http://github.com/libffi/libffi.
 
@@ -386,7 +386,7 @@ See the git log for details at http://github.com/libffi/libffi.
 
 
 Authors & Credits
-=================
+===
 
 libffi was originally written by Anthony Green <green@moxielogic.com>.
 

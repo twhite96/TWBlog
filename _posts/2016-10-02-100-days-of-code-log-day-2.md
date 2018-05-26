@@ -1,7 +1,7 @@
 ---
 ID: 1346
-post_title: 100 Days of Code Log, Day 2
-post_name: 100-days-of-code-log-day-2
+title: 100 Days of Code Log, Day 2
+# 100-days-of-code-log-day-2
 author: Tiffany White
 post_date: 2016-10-02 00:10:37
 layout: post
@@ -16,7 +16,8 @@ categories:
   - "Tiffany's Posts"
   - Web Development
 ---
-<<<<<<< Updated upstream
+
+
 <img src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png" alt="" width="256" height="256" class="aligncenter size-full wp-image-1345" />
 
 ## Day 2: 1 October 2016
@@ -37,7 +38,9 @@ As  I said up top, that I need to recreate Shepherd functions in a separate js f
 
 I'll be coding on day three but I may not get too much in. There are domestic things to do and errands to run so I don’t know how much code I’ll write. 
 
-=======
+
+
+
 <img src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png" alt="" width="256" height="256" class="aligncenter size-full wp-image-1345" />
 
 ## Day 2: 1 October 2016
@@ -58,5 +61,8 @@ As  I said up top, that I need to recreate Shepherd functions in a separate js f
 
 I'll be coding on day three but I may not get too much in. There are domestic things to do and errands to run so I don’t know how much code I’ll write. 
 
->>>>>>> Stashed changes
+
+
+
+
 We will have a checkin in CS 0134 to see where we are in the project. I have a skeleton but I am wanting to have more.

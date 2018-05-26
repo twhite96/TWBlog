@@ -1,7 +1,7 @@
 ---
 ID: 1010
-post_title: Expanding and Diving Into Small Apps
-post_name: diving-into-small-apps
+title: Expanding and Diving Into Small Apps
+# diving-into-small-apps
 author: Tiffany White
 post_date: 2016-03-28 01:49:21
 layout: post
@@ -13,7 +13,8 @@ categories:
   - General Updates
   - Programming
 ---
-<<<<<<< Updated upstream
+
+
 <figure><a href="http://helloburgh.me/wp-content/uploads/2016/03/app.jpeg" rel="attachment wp-att-1014"><img class="aligncenter size-large wp-image-1014" src="http://helloburgh.me/wp-content/uploads/2016/03/app-1024x683.jpeg" alt="apps" width="700" height="467" /></a></figure>I have completed both front-end projects for Free Code Camp and I have taken a longer than usual break from programming for personal reasons <em>but</em> I miss it and am raring to get back to regularity.
 
 I am going to be going back to Free Code Camp to finish out the JavaScript track since they have added <em>even more</em> content— feels like I can’t keep up, which is frustrating but it’s good for the community.
@@ -68,7 +69,7 @@ return posts
 def search_key_for_post(post):
 &quot;&quot;&quot;Generate a string search key for a post&quot;&quot;&quot;
 elements = []
-elements.append(post['description']) # title of post
+elements.append(post['description']) # title: of post
 elements.append(post['tags']) # post tags
 elements.append(post['extended']) # description
 return u' '.join(elements)
@@ -134,7 +135,7 @@ posts = wf.filter(query, posts, key=search_key_for_post, min_score=20)
 # Loop through the returned posts and add a item for each to
 # the list of results for Alfred
 for post in posts:
-wf.add_item(title=post['description'],
+wf.add_item(title:=post['description'],
 subtitle=post['href'],
 arg=post['href'],
 valid=True,
@@ -153,7 +154,9 @@ I need to build up my portfolio. I have a few freelance projects lined up (one i
 
 I need to finish up some loose ends at Free Code Camp and I want to start Code Clinic Python with Lynda.com and Treehouse Python course refreshers. Need to manage my time better. This past week was awful for me.
 <h2>Thoughts</h2>
-=======
+
+
+
 <figure><a href="http://helloburgh.me/wp-content/uploads/2016/03/app.jpeg" rel="attachment wp-att-1014"><img class="aligncenter size-large wp-image-1014" src="http://helloburgh.me/wp-content/uploads/2016/03/app-1024x683.jpeg" alt="apps" width="700" height="467" /></a></figure>I have completed both front-end projects for Free Code Camp and I have taken a longer than usual break from programming for personal reasons <em>but</em> I miss it and am raring to get back to regularity.
 
 I am going to be going back to Free Code Camp to finish out the JavaScript track since they have added <em>even more</em> content— feels like I can’t keep up, which is frustrating but it’s good for the community.
@@ -208,7 +211,7 @@ return posts
 def search_key_for_post(post):
 &quot;&quot;&quot;Generate a string search key for a post&quot;&quot;&quot;
 elements = []
-elements.append(post['description']) # title of post
+elements.append(post['description']) # title: of post
 elements.append(post['tags']) # post tags
 elements.append(post['extended']) # description
 return u' '.join(elements)
@@ -274,7 +277,7 @@ posts = wf.filter(query, posts, key=search_key_for_post, min_score=20)
 # Loop through the returned posts and add a item for each to
 # the list of results for Alfred
 for post in posts:
-wf.add_item(title=post['description'],
+wf.add_item(title:=post['description'],
 subtitle=post['href'],
 arg=post['href'],
 valid=True,
@@ -293,5 +296,8 @@ I need to build up my portfolio. I have a few freelance projects lined up (one i
 
 I need to finish up some loose ends at Free Code Camp and I want to start Code Clinic Python with Lynda.com and Treehouse Python course refreshers. Need to manage my time better. This past week was awful for me.
 <h2>Thoughts</h2>
->>>>>>> Stashed changes
+
+
+
+
 I am super busy. I started another blog for making. You can find it <a href="http://tiffanyrwhite.tech" target="_blank">here</a>. So there’s a lot going on but I need to put programming first.

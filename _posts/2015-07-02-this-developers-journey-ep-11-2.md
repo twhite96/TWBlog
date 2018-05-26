@@ -1,7 +1,7 @@
 ---
 ID: 398
-post_title: 'This Developer&#8217;s Journey ep.11'
-post_name: this-developers-journey-ep-11-2
+title: 'This Developer&#8217;s Journey ep.11'
+# this-developers-journey-ep-11-2
 author: Tiffany White
 post_date: 2015-07-02 01:21:52
 layout: post
@@ -17,7 +17,8 @@ tags:
 categories:
   - Uncategorized
 ---
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg"><img class="  wp-image-397 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg" alt="TDJ.jpg" width="553" height="553" /></a>
 
 This Developer's Journey ep.11 is out.
@@ -40,7 +41,9 @@ This Developer's Journey ep.11 is out.
 
 Yeoman
 
-=======
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg"><img class="  wp-image-397 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg" alt="TDJ.jpg" width="553" height="553" /></a>
 
 This Developer's Journey ep.11 is out.
@@ -63,5 +66,8 @@ This Developer's Journey ep.11 is out.
 
 Yeoman
 
->>>>>>> Stashed changes
+
+
+
+
 [Music](http://applemusic.tumblr.com/)

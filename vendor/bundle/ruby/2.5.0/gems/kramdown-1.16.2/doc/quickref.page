@@ -72,7 +72,7 @@ blank line except at the beginning of the document:
 
 {kdexample::}
 First level header
-==================
+====
 
 Second level header
 -------------------

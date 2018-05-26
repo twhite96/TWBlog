@@ -1,8 +1,6 @@
 ---
 ID: 672
-post_title: 'Day 9: Finishing Intermediate JavaScript on Treehouse Plus: New Contributor'
-post_name: >
-  day-9-finishing-intermediate-javascript-on-treehouse-plus-new-contributor
+title: 'Day 9: Finishing Intermediate JavaScript on Treehouse Plus: New Contributor'
 author: Tiffany White
 post_date: 2015-10-18 00:16:53
 layout: post
@@ -33,19 +31,25 @@ event handler to traverse a certain part of the DOM (when something is clicked) 
 
 to listen for a click on an element specified as the argument to the method. For instance here:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:javascript decode:1 " >
 addButton.onclick = addTask;
 //Set the click handler to the addTask function
 addButton.addEventListener(&amp;quot;click&amp;quot;, addTask);
 addButton.addEventListener(&amp;quot;click&amp;quot;, ajaxRequest);
-=======
+
+
+
 <pre class="lang:javascript decode:1 " >
 addButton.onclick = addTask;
 //Set the click handler to the addTask function
 addButton.addEventListener(&amp;quot;click&amp;quot;, addTask);
 addButton.addEventListener(&amp;quot;click&amp;quot;, ajaxRequest);
->>>>>>> Stashed changes
+
+
+
+
 </pre>
 
 This is much faster and easier than traversiing each element with the

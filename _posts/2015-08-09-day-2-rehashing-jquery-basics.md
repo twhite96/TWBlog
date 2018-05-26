@@ -1,7 +1,7 @@
 ---
 ID: 475
-post_title: 'Day 2: Rehashing jQuery Basics'
-post_name: day-2-rehashing-jquery-basics
+title: 'Day 2: Rehashing jQuery Basics'
+# day-2-rehashing-jquery-basics
 author: Tiffany White
 post_date: 2015-08-09 00:31:40
 layout: post

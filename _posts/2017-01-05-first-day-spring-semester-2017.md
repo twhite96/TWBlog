@@ -1,7 +1,7 @@
 ---
 ID: 1570
-post_title: First Day of the Spring Semester 2017
-post_name: first-day-spring-semester-2017
+title: First Day of the Spring Semester 2017
+# first-day-spring-semester-2017
 author: Tiffany White
 post_date: 2017-01-05 14:15:54
 layout: post
@@ -15,7 +15,8 @@ tags:
 categories:
   - Semester Updates
 ---
-<<<<<<< Updated upstream
+
+
 *You'll have to forgive my cover photo indulgence. I gave my mom my iPad Air 2 and bought her some things like a keyboard, a case, styli (she has long fingernails and needs those), a 6 ft charging cable. She was so thrilled that I was thrilled. I wanted a picture and she said, "Yo, bitches I got my iPad". Ha!*
 
 So I started the spring semester yesterday. Both my professors are cool. Both are behind the technological times, opting for some convoluted systems where I needed to install anti-virus and VPNs to submit homework. Most other profs use GitHub. And I was super annoyed about this. I don't install certain anti-virus software on my Mac. I have a special app for managing threats and it wasn't listed for the required anti-virus. *Bullcrap*. But it was required.
@@ -36,7 +37,9 @@ I don't know how many apps you can have on Heroku with the free plan but I'm hop
 
 ## Looking Forward to the Challenge
 
-=======
+
+
+
 *You'll have to forgive my cover photo indulgence. I gave my mom my iPad Air 2 and bought her some things like a keyboard, a case, styli (she has long fingernails and needs those), a 6 ft charging cable. She was so thrilled that I was thrilled. I wanted a picture and she said, "Yo, bitches I got my iPad". Ha!*
 
 So I started the spring semester yesterday. Both my professors are cool. Both are behind the technological times, opting for some convoluted systems where I needed to install anti-virus and VPNs to submit homework. Most other profs use GitHub. And I was super annoyed about this. I don't install certain anti-virus software on my Mac. I have a special app for managing threats and it wasn't listed for the required anti-virus. *Bullcrap*. But it was required.
@@ -57,5 +60,8 @@ I don't know how many apps you can have on Heroku with the free plan but I'm hop
 
 ## Looking Forward to the Challenge
 
->>>>>>> Stashed changes
+
+
+
+
 Last spring I had a nervous breakdown right a the beginning of the semester. I am much better now and things are getting better and better all the time. I am up for the challenge and with Tim Hoffman as my guide, this semester should be a success.

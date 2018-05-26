@@ -1,8 +1,6 @@
 ---
 ID: 1839
-post_title: 'Hacking on a Project: Getting Out of the Tutorial Loop'
-post_name: >
-  hacking-project-getting-out-tutorial-loop
+title: 'Hacking on a Project: Getting Out of the Tutorial Loop'
 author: Tiffany White
 post_date: 2017-04-10 14:51:26
 layout: post
@@ -16,7 +14,8 @@ tags:
 categories:
   - Daily Progress
 ---
-<<<<<<< Updated upstream
+
+
 For a long time now, I have been increasingly bothered by my lack of Open Source contributions on GitHub [^1] and of *real world projects* to put on my portfolio and resume.
 
 Everyday, practically, for the past two months, I have been irritated, by my lack of *production*. I have the skill to build projects but all I was doing, am doing, is learning, being stuck in the *tutorial loop* my buddy [Alex Gwartney](https://twitter.com/AlexGwartney) and [Nick Queen](https://twitter.com/nickqueen) talked about on [Developer Soup](https://www.youtube.com/watch?v=L66GVCEsKC0) [^2].
@@ -74,7 +73,9 @@ Building things makes me extremely happy and want to get out of bed and work. I 
 It’s a good time to be alive, that’s for sure. :-D
 
 [^1]: My first *real* pull request was closed because someone else took it up. I also went out of the scope of the issue.
-=======
+
+
+
 For a long time now, I have been increasingly bothered by my lack of Open Source contributions on GitHub [^1] and of *real world projects* to put on my portfolio and resume.
 
 Everyday, practically, for the past two months, I have been irritated, by my lack of *production*. I have the skill to build projects but all I was doing, am doing, is learning, being stuck in the *tutorial loop* my buddy [Alex Gwartney](https://twitter.com/AlexGwartney) and [Nick Queen](https://twitter.com/nickqueen) talked about on [Developer Soup](https://www.youtube.com/watch?v=L66GVCEsKC0) [^2].
@@ -132,5 +133,8 @@ Building things makes me extremely happy and want to get out of bed and work. I 
 It’s a good time to be alive, that’s for sure. :-D
 
 [^1]: My first *real* pull request was closed because someone else took it up. I also went out of the scope of the issue.
->>>>>>> Stashed changes
+
+
+
+
 [^2]: Couldn’t find the episode I was on. The show is on permanent hiatus.

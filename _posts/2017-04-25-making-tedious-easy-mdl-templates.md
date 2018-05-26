@@ -1,9 +1,9 @@
 ---
 ID: 1889
-post_title: >
+title: >
   Making The Tedious Easy With MDL
   Templates
-post_name: making-tedious-easy-mdl-templates
+# making-tedious-easy-mdl-templates
 author: Tiffany White
 post_date: 2017-04-25 07:20:47
 layout: post
@@ -18,7 +18,8 @@ tags:
 categories:
   - General Updates
 ---
-<<<<<<< Updated upstream
+
+
 Wanting to just get the app up and running [^1] , I sat down yesterday and paged through some of the Material Design Lite Docs.
 
 For some reason I never noticed the tab that said, *Templates*. I about cried.
@@ -34,7 +35,9 @@ Good guy Google!
 <iframe src="//giphy.com/embed/RIuHHNa7UgFKo" width="480" height="324" frameborder="0"></iframe>
 
 [^1]: Actually working on it, you know.
-=======
+
+
+
 Wanting to just get the app up and running [^1] , I sat down yesterday and paged through some of the Material Design Lite Docs.
 
 For some reason I never noticed the tab that said, *Templates*. I about cried.
@@ -50,5 +53,8 @@ Good guy Google!
 <iframe src="//giphy.com/embed/RIuHHNa7UgFKo" width="480" height="324" frameborder="0"></iframe>
 
 [^1]: Actually working on it, you know.
->>>>>>> Stashed changes
+
+
+
+
 [^2]: This is just boilerplate; I have *a lot* of HTML and CSS to write as I add more components.

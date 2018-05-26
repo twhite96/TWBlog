@@ -1,9 +1,9 @@
 ---
 ID: 645
-post_title: >
+title: >
   First Java Challenge and Getting to Know
   Variable Scope
-post_name: first-java-challenge
+# first-java-challenge
 author: Tiffany White
 post_date: 2015-10-07 19:03:28
 layout: post
@@ -23,7 +23,8 @@ categories:
 
 So I have stumbled a bit in the intro class, but not too badly. When working with opening text files, writing text to those text files, and then reading the text back into the program, I got stuck with scope. And I knew it. It wasn’t like I was flying blind without knowing my problem which, after a year of doing this, I am pretty proud of. I still couldn’t figure out where my issue was. I went to Stack Overflow, I asked around. For one, this is what my code looked like prior to getting it corrected:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:java decode:1 " >import java.util.Scanner;
 import java.io.*;
 
@@ -57,7 +58,9 @@ public class White
     file.close();
   }
 
-=======
+
+
+
 <pre class="lang:java decode:1 " >import java.util.Scanner;
 import java.io.*;
 
@@ -91,7 +94,10 @@ public class White
     file.close();
   }
 
->>>>>>> Stashed changes
+
+
+
+
 }</pre>
 
 As you can see I was trying to access a variable outside it’s scope
@@ -106,7 +112,8 @@ As you can see I was trying to access a variable outside it’s scope
 
 So frustrated, I jumped on the Code Newbie Slack general channel and just threw it out there. Most are web developers but someone helped. Cory. He told me to initialize it with empty single quotes. The compiler didn’t understand the empty single quotes so I changed them to an empty string with double quotes. Here is the final program, which isn’t elegant, but I still got a 100 anyway, as it was just for participation:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:java decode:1 " >import java.util.Scanner;
 import java.io.*;
 
@@ -143,7 +150,9 @@ public class White
     file.close();
   }
 
-=======
+
+
+
 <pre class="lang:java decode:1 " >import java.util.Scanner;
 import java.io.*;
 
@@ -180,7 +189,10 @@ public class White
     file.close();
   }
 
->>>>>>> Stashed changes
+
+
+
+
 }</pre>
 
 <em>Fin.</em> <em>Whew</em>.

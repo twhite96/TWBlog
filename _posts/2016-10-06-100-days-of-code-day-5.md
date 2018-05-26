@@ -1,7 +1,7 @@
 ---
 ID: 1354
-post_title: 100 Days of Code Day 5
-post_name: 100-days-of-code-day-5
+title: 100 Days of Code Day 5
+# 100-days-of-code-day-5
 author: Tiffany White
 post_date: 2016-10-06 01:02:05
 layout: post
@@ -13,7 +13,8 @@ tags:
 categories:
   - 100 Days of Code
 ---
-<<<<<<< Updated upstream
+
+
 <img class="size-full wp-image-1353 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-1.png" width="256" height="256" />
 
 ## Day 5: 5 October 2016
@@ -81,7 +82,9 @@ padding-top: 4.5rem;
 
 **Thoughts:** While I still need to hustle, I have plenty of time left to build out the other pages. I was really pushing it, so I am glad I have time left. We will be learning about tables and audio/video in HTML this coming week. We will need to have a table somewhere in the site.
 
-=======
+
+
+
 <img class="size-full wp-image-1353 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-1.png" width="256" height="256" />
 
 ## Day 5: 5 October 2016
@@ -149,5 +152,8 @@ padding-top: 4.5rem;
 
 **Thoughts:** While I still need to hustle, I have plenty of time left to build out the other pages. I was really pushing it, so I am glad I have time left. We will be learning about tables and audio/video in HTML this coming week. We will need to have a table somewhere in the site.
 
->>>>>>> Stashed changes
+
+
+
+
 **Link to work:** As always, you can find the improved site at [The Lens Cap](https://twhite96.github.io/The-Lens-Cap/)

@@ -1,7 +1,7 @@
 ---
 ID: 2029
-post_title: Primitive Data Types in Java
-post_name: primitive-data-types-in-java-2
+title: Primitive Data Types in Java
+# primitive-data-types-in-java-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post
@@ -12,7 +12,8 @@ tags: [ ]
 categories:
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 Variables in Java need to be declared before they can be used in Java because it is a *statically-typed* language. Because of this, you need to state the type of variable you are declaring. 
 
 A variable's data type tells Java what type of data the variable contains. For instance, an `int` contains an integer value. You can perform operations on the `int` data type like any other value number value.
@@ -45,7 +46,9 @@ Note: You need to use single quotes in the initialization of a Unicode character
 
 Java primitive data types are different than JavaScript data types. I will post more on JavaScript data types soon.
 
-=======
+
+
+
 Variables in Java need to be declared before they can be used in Java because it is a *statically-typed* language. Because of this, you need to state the type of variable you are declaring. 
 
 A variable's data type tells Java what type of data the variable contains. For instance, an `int` contains an integer value. You can perform operations on the `int` data type like any other value number value.
@@ -78,5 +81,8 @@ Note: You need to use single quotes in the initialization of a Unicode character
 
 Java primitive data types are different than JavaScript data types. I will post more on JavaScript data types soon.
 
->>>>>>> Stashed changes
+
+
+
+
 [^1]: For instance, you cannot write `String int = "Integer";` which is a convulted example but it stresses the point I'm trying to make.

@@ -1,7 +1,7 @@
 ---
 ID: 1487
-post_title: Recommended Software
-post_name: recommended-software
+title: Recommended Software
+# recommended-software
 author: Tiffany White
 post_date: 2016-12-14 01:08:51
 layout: page

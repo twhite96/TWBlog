@@ -1,7 +1,7 @@
 ---
 ID: 98
-post_title: 'Sketch Mockup to&#8230;Code?'
-post_name: sketch-mockup-to-code
+title: 'Sketch Mockup to&#8230;Code?'
+# sketch-mockup-to-code
 author: Tiffany White
 post_date: 2015-02-18 20:49:28
 layout: post

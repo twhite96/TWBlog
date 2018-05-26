@@ -1,6 +1,6 @@
-=====================
+
 Unicode and Encodings
-=====================
+
 
 Since Pygments 0.6, all lexers use unicode strings internally. Because of that
 you might encounter the occasional :exc:`UnicodeDecodeError` if you pass strings

@@ -1,9 +1,9 @@
 ---
 ID: 809
-post_title: >
+title: >
   First Semester at Pitt. Not What I
   Wanted to End Up With.
-post_name: gpa-blues-at-pitt
+# gpa-blues-at-pitt
 author: Tiffany White
 post_date: 2015-12-20 20:21:36
 layout: post
@@ -18,7 +18,8 @@ categories:
   - General Updates
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/GPA.jpeg" alt="GPA" /></h2>
 <blockquote>
 <blockquote>“Failure should be our teacher, not our undertaker. Failure is delay, not defeat. It is a temporary detour, not a dead end. Failure is something we can avoid only by saying nothing, doing nothing, and being nothing.” - Denis Waitley</blockquote>
@@ -45,7 +46,9 @@ So I stopped crying and thought about what I could do better.
 
 BigRigg told me the day of the final she knew what my issue was. She told me to get working on Project 3 over the break and we’d sit down and work on it together next semester.
 
-=======
+
+
+
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/GPA.jpeg" alt="GPA" /></h2>
 <blockquote>
 <blockquote>“Failure should be our teacher, not our undertaker. Failure is delay, not defeat. It is a temporary detour, not a dead end. Failure is something we can avoid only by saying nothing, doing nothing, and being nothing.” - Denis Waitley</blockquote>
@@ -72,5 +75,8 @@ So I stopped crying and thought about what I could do better.
 
 BigRigg told me the day of the final she knew what my issue was. She told me to get working on Project 3 over the break and we’d sit down and work on it together next semester.
 
->>>>>>> Stashed changes
+
+
+
+
 While it sucks, I am better equipped to tackle this problem. I’ll need to if I am going into CS 0401, the Intermediate Programming class at Pitt.

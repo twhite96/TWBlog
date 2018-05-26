@@ -1,7 +1,7 @@
 ---
 ID: 879
-post_title: Confidence Through Self-Talk
-post_name: confidence-self-talk
+title: Confidence Through Self-Talk
+# confidence-self-talk
 author: Tiffany White
 post_date: 2016-02-05 23:43:43
 layout: post
@@ -14,7 +14,8 @@ categories:
   - Semester Updates
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 <h2>Confidence Through Self-Talk</h2>
 <img src="http://helloburgh.me/wp-content/uploads/2016/02/Elevate.jpeg" alt="self_talk" />
 
@@ -36,7 +37,9 @@ I almost finished the project on time. I couldn’t get it running or compiling 
 
 I turned it in any way. It is probably not going to be a passing grade as a late project gets –15 off automatically. But I did a <strong>damn good job</strong>. I created a Class, used methods, all when I was just supposed to put nested loops in main. It made me crazy to do that as there was so much to this first assignment. Considering I was thinking about throwing in the towel and just learning web dev on my own instead of going the CS route, I think I did okay.
 
-=======
+
+
+
 <h2>Confidence Through Self-Talk</h2>
 <img src="http://helloburgh.me/wp-content/uploads/2016/02/Elevate.jpeg" alt="self_talk" />
 
@@ -58,5 +61,8 @@ I almost finished the project on time. I couldn’t get it running or compiling 
 
 I turned it in any way. It is probably not going to be a passing grade as a late project gets –15 off automatically. But I did a <strong>damn good job</strong>. I created a Class, used methods, all when I was just supposed to put nested loops in main. It made me crazy to do that as there was so much to this first assignment. Considering I was thinking about throwing in the towel and just learning web dev on my own instead of going the CS route, I think I did okay.
 
->>>>>>> Stashed changes
+
+
+
+
 https://www.instagram.com/p/BBL-xI2vHY9/?taken-by=twhitedev412

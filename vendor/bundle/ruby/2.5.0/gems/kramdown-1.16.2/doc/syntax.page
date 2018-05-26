@@ -216,7 +216,7 @@ is enough but more may look better. The equal signs or dashes have to begin at t
 example:
 
     First level header
-    ==================
+    ====
 
     Second level header
     ------
@@ -839,7 +839,7 @@ There are four different line types that can be used in a table:
 
       |====+====|
       +====|====+
-      |=========|
+      |==|
       |=
 
 Trailing spaces or tabs are ignored in all cases. To simplify table creation and maintenance,
@@ -882,7 +882,7 @@ row:
     |-----------------+------------+-----------------+----------------|
     | Second body     |            |                 |                |
     | 2 line          |            |                 |                |
-    |=================+============+=================+================|
+    |===+=====+===+==|
     | Footer row      |            |                 |                |
     |-----------------+------------+-----------------+----------------|
 

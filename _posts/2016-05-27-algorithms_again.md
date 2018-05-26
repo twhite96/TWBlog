@@ -1,7 +1,7 @@
 ---
 ID: 1122
-post_title: Algorithms…Again
-post_name: algorithms_again
+title: Algorithms…Again
+# algorithms_again
 author: Tiffany White
 post_date: 2016-05-27 01:48:11
 layout: post
@@ -13,7 +13,8 @@ categories:
   - Daily Progress
   - Programming
 ---
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-algorithms_again.jpeg"><img src="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-algorithms_again-1024x683.jpeg" alt="algorithms" width="700" height="467" class="aligncenter size-large wp-image-1125" /></a>
 
 <p>I am working on Free Code Camp Algorithms again. Things are going much better than they were…if you consider struggling through a simple algorithm for two days.</p>
@@ -94,7 +95,9 @@ truncateString(&quot;A-tisket a-tasket A green and yellow basket&quot;, 11);
 
 <p>I honestly don’t know what I’d do without the Free Code Camp forums. I lamented on there about the <em>Truncate String</em> algorithm and got private messages willing to help me figure it out, without giving me the answers.</p>
 
-=======
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-algorithms_again.jpeg"><img src="http://helloburgh.me/wp-content/uploads/2016/05/Optimized-algorithms_again-1024x683.jpeg" alt="algorithms" width="700" height="467" class="aligncenter size-large wp-image-1125" /></a>
 
 <p>I am working on Free Code Camp Algorithms again. Things are going much better than they were…if you consider struggling through a simple algorithm for two days.</p>
@@ -175,5 +178,8 @@ truncateString(&quot;A-tisket a-tasket A green and yellow basket&quot;, 11);
 
 <p>I honestly don’t know what I’d do without the Free Code Camp forums. I lamented on there about the <em>Truncate String</em> algorithm and got private messages willing to help me figure it out, without giving me the answers.</p>
 
->>>>>>> Stashed changes
+
+
+
+
 <p>Seeing people struggle as well is so damn helpful. It may suck for them but I know I am not along and I am not stupid. That is priceless.</p>

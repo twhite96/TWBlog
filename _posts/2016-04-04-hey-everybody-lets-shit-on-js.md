@@ -1,7 +1,7 @@
 ---
 ID: 1032
-post_title: Hey Everybody! Let’s Shit on JS!
-post_name: hey-everybody-lets-shit-on-js
+title: Hey Everybody! Let’s Shit on JS!
+# hey-everybody-lets-shit-on-js
 author: Tiffany White
 post_date: 2016-04-04 01:52:28
 layout: post
@@ -13,7 +13,8 @@ categories:
   - General Updates
   - Rants
 ---
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/shitonjs.jpeg" rel="attachment wp-att-1035"><img class="aligncenter size-large wp-image-1035" src="http://helloburgh.me/wp-content/uploads/2016/04/shitonjs-1024x683.jpeg" alt="shit_on_javascript_mmkay" width="700" height="467" /></a>
 
 &nbsp;
@@ -39,7 +40,9 @@ Micro-dependencies to hide complexity isn’t something we should be doing. Mayb
 <strong>Strive to have as few dependencies as possible, where possible</strong>. This isn’t a JavaScript thing. Less gems, less npm modules, less swift packages. Just <strong>write good code</strong>. If you’re a shitty developer, you probably couldn’t care less about any of this. This type of laziness isn’t quarantined to the JavaScript community so let’s stop pretending that is.
 <ol id="footnotes">
 	<li id="fn1">I am not totally clear on what left-pad does <a href="#ffn1">↩︎</a></li>
-=======
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2016/04/shitonjs.jpeg" rel="attachment wp-att-1035"><img class="aligncenter size-large wp-image-1035" src="http://helloburgh.me/wp-content/uploads/2016/04/shitonjs-1024x683.jpeg" alt="shit_on_javascript_mmkay" width="700" height="467" /></a>
 
 &nbsp;
@@ -65,5 +68,8 @@ Micro-dependencies to hide complexity isn’t something we should be doing. Mayb
 <strong>Strive to have as few dependencies as possible, where possible</strong>. This isn’t a JavaScript thing. Less gems, less npm modules, less swift packages. Just <strong>write good code</strong>. If you’re a shitty developer, you probably couldn’t care less about any of this. This type of laziness isn’t quarantined to the JavaScript community so let’s stop pretending that is.
 <ol id="footnotes">
 	<li id="fn1">I am not totally clear on what left-pad does <a href="#ffn1">↩︎</a></li>
->>>>>>> Stashed changes
+
+
+
+
 </ol>

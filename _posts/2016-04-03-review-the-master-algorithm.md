@@ -1,7 +1,7 @@
 ---
 ID: 1027
-post_title: 'Review: The Master Algorithm'
-post_name: review-the-master-algorithm
+title: 'Review: The Master Algorithm'
+# review-the-master-algorithm
 author: Tiffany White
 post_date: 2016-04-03 18:22:39
 layout: post
@@ -12,7 +12,8 @@ tags: [ ]
 categories:
   - Book Reviews
 ---
-<<<<<<< Updated upstream
+
+
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/25703680"><img src="http://d.gr-assets.com/books/1443169433m/25703680.jpg" alt="The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World" border="0" /></a>
 <a href="http://www.goodreads.com/book/show/25703680">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a> by <a href="http://www.goodreads.com/author/show/3242685">Pedro Domingos</a>
 My rating: <a href="http://www.goodreads.com/review/show/1535488112">2 of 5 stars</a>
@@ -26,7 +27,9 @@ But for years we've been excited by AI and machine learning, much like the resur
 Will we find a way to replace those lost jobs for the people it will affect? Who knows. The fact that it doesn't cross Domingos mind to give this dilemma more than a cursory mention gives this book an air of arrogance that I find distasteful. 2 stars.
 
 
-=======
+
+
+
 <a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/25703680"><img src="http://d.gr-assets.com/books/1443169433m/25703680.jpg" alt="The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World" border="0" /></a>
 <a href="http://www.goodreads.com/book/show/25703680">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a> by <a href="http://www.goodreads.com/author/show/3242685">Pedro Domingos</a>
 My rating: <a href="http://www.goodreads.com/review/show/1535488112">2 of 5 stars</a>
@@ -40,5 +43,8 @@ But for years we've been excited by AI and machine learning, much like the resur
 Will we find a way to replace those lost jobs for the people it will affect? Who knows. The fact that it doesn't cross Domingos mind to give this dilemma more than a cursory mention gives this book an air of arrogance that I find distasteful. 2 stars.
 
 
->>>>>>> Stashed changes
+
+
+
+
 <a href="http://www.goodreads.com/review/show/1535488112">View all my reviews</a>

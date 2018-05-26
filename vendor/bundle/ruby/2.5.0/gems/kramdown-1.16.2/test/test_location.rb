@@ -79,7 +79,7 @@ describe 'location' do
       {:.line-7}
 
       header4
-      =======
+      
       {:.line-10}
 
       ^

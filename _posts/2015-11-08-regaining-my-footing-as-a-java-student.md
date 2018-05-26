@@ -1,7 +1,7 @@
 ---
 ID: 697
-post_title: Regaining My Footing as a Java Student
-post_name: regaining-my-footing-as-a-java-student
+title: Regaining My Footing as a Java Student
+# regaining-my-footing-as-a-java-student
 author: Tiffany White
 post_date: 2015-11-08 10:00:02
 layout: post
@@ -71,7 +71,8 @@ So I spent a whole month dreading this assignment. I had, evenutally, a block of
 
 Someone in their Slack room helped tremendously. He said, “You have these complicated instructions and this big block of code. When things are complicated we need to break them down into pieces.” I knew he meant methods, something I asked my TA about. He rearranged my code and we went through the process, what was happening, what methods were being called where. He eventually had to feed his kids and I was left to figure out how to get the program to keep running when certain conditions were met. I figured it out myself. Here is the end result:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:java decode:1 " >/* Tiffany White
 Dice Rolling program, Rockymon, creating different methods to determine if the game is won, lost
 or the user should roll again.
@@ -149,7 +150,9 @@ printResult(bigStartRoll);
   }
  }
 }
-=======
+
+
+
 <pre class="lang:java decode:1 " >/* Tiffany White
 Dice Rolling program, Rockymon, creating different methods to determine if the game is won, lost
 or the user should roll again.
@@ -227,5 +230,8 @@ printResult(bigStartRoll);
   }
  }
 }
->>>>>>> Stashed changes
+
+
+
+
 </pre>

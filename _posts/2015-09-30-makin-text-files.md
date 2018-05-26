@@ -1,7 +1,7 @@
 ---
 ID: 623
-post_title: 'Fifth Week of Class and Makin&#8217; Text Files'
-post_name: makin-text-files
+title: 'Fifth Week of Class and Makin&#8217; Text Files'
+# makin-text-files
 author: Tiffany White
 post_date: 2015-09-30 20:03:36
 layout: post
@@ -27,7 +27,8 @@ So I am in my fifth week and I have homework like mad. Ha. I am excited to do it
 
 We are doing file input and output in Java. We are writing to a text file with FileWriter. You can also <em>append</em> text to a file doing PrintWriter. Here is an example I found at the University of Texas website:
 
-<<<<<<< Updated upstream
+
+
 <pre class="lang:java decode:1 " >import java.io
  public class WriteTextFile
  {
@@ -40,7 +41,9 @@ We are doing file input and output in Java. We are writing to a text file with F
  pWriter.println (&amp;amp;quot;This is another line.&amp;amp;quot;);
  pWriter.close();
  }
-=======
+
+
+
 <pre class="lang:java decode:1 " >import java.io
  public class WriteTextFile
  {
@@ -53,7 +56,10 @@ We are doing file input and output in Java. We are writing to a text file with F
  pWriter.println (&amp;amp;quot;This is another line.&amp;amp;quot;);
  pWriter.close();
  }
->>>>>>> Stashed changes
+
+
+
+
 }</pre>
 
 Here in the header you are importing the I/O package for Java and creating and writing text to a new file called “output.txt”, using

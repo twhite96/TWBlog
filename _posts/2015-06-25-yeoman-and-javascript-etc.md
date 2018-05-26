@@ -1,7 +1,7 @@
 ---
 ID: 363
-post_title: Yeoman and JavaScript, etc
-post_name: yeoman-and-javascript-etc
+title: Yeoman and JavaScript, etc
+# yeoman-and-javascript-etc
 author: Tiffany White
 post_date: 2015-06-25 23:35:23
 layout: post
@@ -17,7 +17,8 @@ categories:
   - General Updates
   - Programming
 ---
-<<<<<<< Updated upstream
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg"><img class="  wp-image-365 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg" alt="Yeoman.jpg" width="293" height="293" /></a>
 
 &nbsp;
@@ -51,7 +52,9 @@ Cool.
 
 So I'm sharing, again, what I'm listening to on Spotify. On the Code Newbie Discourse we talked about music to code by and I found some awesome wub wub dubstep to kill code by. I'll share my favorite here (NSFW):
 
-=======
+
+
+
 <a href="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg"><img class="  wp-image-365 aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg" alt="Yeoman.jpg" width="293" height="293" /></a>
 
 &nbsp;
@@ -85,5 +88,8 @@ Cool.
 
 So I'm sharing, again, what I'm listening to on Spotify. On the Code Newbie Discourse we talked about music to code by and I found some awesome wub wub dubstep to kill code by. I'll share my favorite here (NSFW):
 
->>>>>>> Stashed changes
+
+
+
+
 https://open.spotify.com/user/thetruckert/playlist/2TY4Y6Cg3R2i3UPS2WkvYa

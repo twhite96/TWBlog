@@ -1,7 +1,7 @@
 ---
 ID: 2750
-post_title: JavaScript Template Literals
-post_name: javascript-template-literals
+title: JavaScript Template Literals
+# javascript-template-literals
 author: Tiffany White
 post_date: 2017-12-15 20:30:56
 post_excerpt: >
@@ -94,7 +94,7 @@ I’m a string on another line`);
 Tagged Templates can be used for powerful string transformations. You create a Tagged Template by placing a function name before the template string. Here’s an example of auto escaping an HTML function such that:
 
 ```javascript
-html`<p title="${title}">Hello ${name}!</p>`
+html`<p title:="${title:}">Hello ${name}!</p>`
 ```
 
 returns a string with the appropriate variables substituted but with all the unsafe characters replaced.
@@ -102,4 +102,8 @@ returns a string with the appropriate variables substituted but with all the uns
 Nicholas Zakas goes over this in detail in his book [Understanding ES6](https://leanpub.com/understandinges6/read#leanpub-auto-multiline-strings).
 
 ## Summary
+
 Template Literals or Template Strings are a powerful addition to the JavaScript language that brings it much needed string interpolation and transformation.
+
+Template Literals or Template Strings are a powerful addition to the JavaScript language that brings it much needed string interpolation and transformation.
+

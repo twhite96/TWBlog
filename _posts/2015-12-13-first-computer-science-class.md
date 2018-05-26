@@ -1,9 +1,9 @@
 ---
 ID: 769
-post_title: >
+title: >
   Thoughts on My First Computer Science
   Class and Great News
-post_name: first-computer-science-class
+# first-computer-science-class
 author: Tiffany White
 post_date: 2015-12-13 00:05:10
 layout: post
@@ -21,7 +21,8 @@ categories:
   - General Updates
   - Programming
 ---
-<<<<<<< Updated upstream
+
+
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/Class.jpeg" alt="CS_classes" /></h2>
 <blockquote>
 <blockquote>“People are always blaming their circumstances for what they are. I don’t believe in circumstances. The people who get on in this world are the people who get up and look for the circumstances they want, and if they can’t find them, make them.” ― George Bernard Shaw, <em>Mrs. Warren’s Profession</em></blockquote>
@@ -136,7 +137,9 @@ return letter1;
 //Incorrect guesses get a tick
 //Player can only accumulate 6 ticks or he loses game and bomb goes off
 //Each incorrect guess gets a color that is printed to the screen using System.out.println, based on how many ticks the player gets
-=======
+
+
+
 <h2><img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2015/12/Class.jpeg" alt="CS_classes" /></h2>
 <blockquote>
 <blockquote>“People are always blaming their circumstances for what they are. I don’t believe in circumstances. The people who get on in this world are the people who get up and look for the circumstances they want, and if they can’t find them, make them.” ― George Bernard Shaw, <em>Mrs. Warren’s Profession</em></blockquote>
@@ -251,5 +254,8 @@ return letter1;
 //Incorrect guesses get a tick
 //Player can only accumulate 6 ticks or he loses game and bomb goes off
 //Each incorrect guess gets a color that is printed to the screen using System.out.println, based on how many ticks the player gets
->>>>>>> Stashed changes
+
+
+
+
 //Player wins by guessing the word. Print to the console whe</pre>

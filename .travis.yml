@@ -18,7 +18,7 @@ branches:
 deploy:
   provider: surge
   project: ./_site
-  domain: https://tiffanywhite.tech
+  skip_cleanup: true
 
 env:
   global:

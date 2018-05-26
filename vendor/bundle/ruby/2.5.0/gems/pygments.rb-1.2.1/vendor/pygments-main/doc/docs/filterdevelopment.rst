@@ -1,8 +1,8 @@
 .. -*- mode: rst -*-
 
-=====================
+
 Write your own filter
-=====================
+
 
 .. versionadded:: 0.7
 
@@ -13,7 +13,7 @@ adjust the behavior of your filter.
 
 
 Subclassing Filters
-===================
+=====
 
 As an example, we write a filter that converts all `Name.Function` tokens
 to normal `Name` tokens to make the output less colorful.
@@ -46,7 +46,7 @@ to check for that case if you access it.
 
 
 Using a decorator
-=================
+===
 
 You can also use the `simplefilter` decorator from the `pygments.filter` module:
 

@@ -1,7 +1,7 @@
 ---
 ID: 125
-post_title: '@%$(*&#038;^%$@! .gitmodules'
-post_name: gitmodules
+title: '@%$(*&#038;^%$@! .gitmodules'
+# gitmodules
 author: Tiffany White
 post_date: 2015-03-09 17:50:15
 layout: post

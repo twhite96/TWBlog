@@ -1,7 +1,7 @@
 ---
 ID: 2021
-post_title: Exploring Algorithms
-post_name: exploring-algorithms-2
+title: Exploring Algorithms
+# exploring-algorithms-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post
@@ -12,7 +12,8 @@ tags: [ ]
 categories:
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 <h2 id="&quot;what-is-meant-by-an-algorithm&quot;">What Is Meant by an Algorithm?</h2>
 Algorithms are simple: they are a set of instructions broken down into simple steps in order to complete a larger task.
 
@@ -175,7 +176,9 @@ This a simple algorithm yet if you’re new to algorithms and programming in gen
 
 To see the implementation in java:
 
-=======
+
+
+
 <h2 id="&quot;what-is-meant-by-an-algorithm&quot;">What Is Meant by an Algorithm?</h2>
 Algorithms are simple: they are a set of instructions broken down into simple steps in order to complete a larger task.
 
@@ -338,5 +341,8 @@ This a simple algorithm yet if you’re new to algorithms and programming in gen
 
 To see the implementation in java:
 
->>>>>>> Stashed changes
+
+
+
+
 https://www.youtube.com/embed/RqfWvIsYmsc

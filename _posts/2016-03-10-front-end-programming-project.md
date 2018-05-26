@@ -1,7 +1,7 @@
 ---
 ID: 944
-post_title: FCC Front-End Programming Project
-post_name: front-end-programming-project
+title: FCC Front-End Programming Project
+# front-end-programming-project
 author: Tiffany White
 post_date: 2016-03-10 22:47:41
 layout: post
@@ -18,7 +18,8 @@ categories:
   - "Tiffany's Posts"
   - Web Development
 ---
-<<<<<<< Updated upstream
+
+
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/03/front-end.jpeg" alt="front-end_programming" />
 
 So I started the second front-end programming project for Free Code Camp which is the portfolio. I shared a Pen from a former Free Code Camp alum who built an interesting portfolio, which is what Free Code Camp uses as their example, which is high-praise.
@@ -56,7 +57,9 @@ color: #fff;
 </pre>
 I also found a stray div with my navigation. Now it’s starting to look good.
 
-=======
+
+
+
 <img class="aligncenter" src="http://helloburgh.me/wp-content/uploads/2016/03/front-end.jpeg" alt="front-end_programming" />
 
 So I started the second front-end programming project for Free Code Camp which is the portfolio. I shared a Pen from a former Free Code Camp alum who built an interesting portfolio, which is what Free Code Camp uses as their example, which is high-praise.
@@ -94,5 +97,8 @@ color: #fff;
 </pre>
 I also found a stray div with my navigation. Now it’s starting to look good.
 
->>>>>>> Stashed changes
+
+
+
+
 http://codepen.io/twhite96/pen/dMbwyM

@@ -1,7 +1,7 @@
 ---
 ID: 2034
-post_title: Scope for Beginners
-post_name: scope-for-beginners-2
+title: Scope for Beginners
+# scope-for-beginners-2
 author: Tiffany White
 post_date: 2017-06-22 21:06:48
 layout: post
@@ -12,7 +12,8 @@ tags: [ ]
 categories:
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 <p>In JavaScript, lexical scope deals with where your variables are defined, and how they will be accessible — or not accessible — to the rest of your code.</p>
 
 <p>There are two terms to think about when talking about scope: local and global. These two terms are important to understand, because one can be more dangerous than the other when declaring variables and executing your code.</p>
@@ -70,7 +71,9 @@ yourFunction();
 
 <p>When adding nested conditionals, scope gets even more hairy. But I’ll leave that for another time.</p>
 
-=======
+
+
+
 <p>In JavaScript, lexical scope deals with where your variables are defined, and how they will be accessible — or not accessible — to the rest of your code.</p>
 
 <p>There are two terms to think about when talking about scope: local and global. These two terms are important to understand, because one can be more dangerous than the other when declaring variables and executing your code.</p>
@@ -128,5 +131,8 @@ yourFunction();
 
 <p>When adding nested conditionals, scope gets even more hairy. But I’ll leave that for another time.</p>
 
->>>>>>> Stashed changes
+
+
+
+
 <p>But for now, remember the difference between global scope and local scope. And the next time you get a <em>“is not defined”</em> error, check the variable’s scope.</p>

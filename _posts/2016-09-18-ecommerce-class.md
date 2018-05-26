@@ -1,7 +1,7 @@
 ---
 ID: 1325
-post_title: Working on the E-commerce Site for Class
-post_name: ecommerce-class
+title: Working on the E-commerce Site for Class
+# ecommerce-class
 author: Tiffany White
 post_date: 2016-09-18 19:02:23
 layout: post
@@ -17,7 +17,8 @@ categories:
   - "Tiffany's Posts"
   - Web Development
 ---
-<<<<<<< Updated upstream
+
+
 <img class="alignnone size-large wp-image-1327" src="https://helloburgh.me/wp-content/uploads/2016/09/commerce-min-1024x683.jpeg" alt="commerce-min" width="700" height="467" />
 
 &nbsp;
@@ -63,7 +64,9 @@ https://gist.github.com/twhite96/1304641fa177eca3befce67a1dee9f11
 
 https://gist.github.com/twhite96/a7eff91fda64dd80a20d6ac454b80718
 
-=======
+
+
+
 <img class="alignnone size-large wp-image-1327" src="https://helloburgh.me/wp-content/uploads/2016/09/commerce-min-1024x683.jpeg" alt="commerce-min" width="700" height="467" />
 
 &nbsp;
@@ -109,5 +112,8 @@ https://gist.github.com/twhite96/1304641fa177eca3befce67a1dee9f11
 
 https://gist.github.com/twhite96/a7eff91fda64dd80a20d6ac454b80718
 
->>>>>>> Stashed changes
+
+
+
+
 My site is [The Lens Cap](https://thelenscap.herokuapp.com/) which is just a text file for now.

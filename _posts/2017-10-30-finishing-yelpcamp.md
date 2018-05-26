@@ -1,7 +1,7 @@
 ---
 ID: 2624
-post_title: Finishing YelpCamp and Lessons Learned
-post_name: finishing-yelpcamp
+title: Finishing YelpCamp and Lessons Learned
+# finishing-yelpcamp
 author: Tiffany White
 post_date: 2017-10-30 12:30:48
 post_excerpt: 'So I have finished The Web Developer Bootcamp and the final project, YelpCamp, a full-stack Yelp clone built  with Node, Express, Mongo, Mongoose, Passport.js, and Bootstrap.'
@@ -16,7 +16,8 @@ tags:
 categories:
   - Web Development
 ---
-<<<<<<< Updated upstream
+
+
 So I have finished The Web Developer Bootcamp and the final project, YelpCamp, a full-stack Yelp clone built  with Node, Express, Mongo, Mongoose, Passport.js, and Bootstrap.
 
 It took me four months and some change to completely go through the 45 hour course and finish YelpCamp. Here are some of my thoughts on the process.
@@ -82,7 +83,9 @@ My mission in all this was to learn the basics of full-stack web dev in a pace a
 
 [^1]: Some people think you can learn libraries right away without learning the basics. This is erroneous thinking. If you are a junior, like I am, learning the basics will get you hired. There are concepts you need to fully understand before calling yourself a professional JavaScript developer. It’s that simple.
 [^2]: His newest course, The Advanced Web Developer Bootcamp has a similarly high rating though it isn’t as well-thought out, and it shows in ratings from his previous course’s students.  The course uses several teachers but is more up to date and uses React, ES6 and so much more. I plan on buying it when it is on sale again.
-=======
+
+
+
 So I have finished The Web Developer Bootcamp and the final project, YelpCamp, a full-stack Yelp clone built  with Node, Express, Mongo, Mongoose, Passport.js, and Bootstrap.
 
 It took me four months and some change to completely go through the 45 hour course and finish YelpCamp. Here are some of my thoughts on the process.
@@ -148,5 +151,8 @@ My mission in all this was to learn the basics of full-stack web dev in a pace a
 
 [^1]: Some people think you can learn libraries right away without learning the basics. This is erroneous thinking. If you are a junior, like I am, learning the basics will get you hired. There are concepts you need to fully understand before calling yourself a professional JavaScript developer. It’s that simple.
 [^2]: His newest course, The Advanced Web Developer Bootcamp has a similarly high rating though it isn’t as well-thought out, and it shows in ratings from his previous course’s students.  The course uses several teachers but is more up to date and uses React, ES6 and so much more. I plan on buying it when it is on sale again.
->>>>>>> Stashed changes
+
+
+
+
 [^3]: And shouldn’t

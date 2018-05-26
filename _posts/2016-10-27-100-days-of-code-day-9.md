@@ -1,7 +1,7 @@
 ---
 ID: 1373
-post_title: 100 Days of Code Day 9
-post_name: 100-days-of-code-day-9
+title: 100 Days of Code Day 9
+# 100-days-of-code-day-9
 author: Tiffany White
 post_date: 2016-10-27 23:35:31
 layout: post
@@ -16,7 +16,8 @@ tags:
 categories:
   - 100 Days of Code
 ---
-<<<<<<< Updated upstream
+
+
 ### Day 9: 27 October 2016
 
 <img class="size-full wp-image-1372 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-3.png" width="256" height="256" />
@@ -32,7 +33,9 @@ In any case, I didn’t code today but I did sporadically for the past week or s
 I have never been more in the zone in anything than when I was building this site. I want to start HackerRank challenges and CodeWars challenges to get better with algorithms. My thinking is much better but I think my algorithm muscles are getting flabby.
 
 **Link to work:**
-=======
+
+
+
 ### Day 9: 27 October 2016
 
 <img class="size-full wp-image-1372 aligncenter" src="https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-3.png" width="256" height="256" />
@@ -48,5 +51,8 @@ In any case, I didn’t code today but I did sporadically for the past week or s
 I have never been more in the zone in anything than when I was building this site. I want to start HackerRank challenges and CodeWars challenges to get better with algorithms. My thinking is much better but I think my algorithm muscles are getting flabby.
 
 **Link to work:**
->>>>>>> Stashed changes
+
+
+
+
 All the code is on [GitHub](https://github.com/twhite96/The-Lens-Cap) and the site is up at [The Lens Cap](https://twhite96.github.io/The-Lens-Cap/)

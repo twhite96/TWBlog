@@ -1,9 +1,9 @@
 ---
 ID: 1252
-post_title: >
+title: >
   Function vs. Block Level Scoping with
   let and const
-post_name: block-level-scoping-let-const
+# block-level-scoping-let-const
 author: Tiffany White
 post_date: 2016-08-25 21:54:04
 layout: post
@@ -16,7 +16,8 @@ categories:
   - JavaScript
   - "Tiffany's Posts"
 ---
-<<<<<<< Updated upstream
+
+
 <img class="alignnone size-full wp-image-1251" src="http://helloburgh.me/wp-content/uploads/2016/08/const_shrink.jpg" width="3000" height="2143" />
 
 This is an exposè on the difference between function and block level scope using <code>let</code> and <code>const</code> in JavaScript. The following explanation is how I’ve come to understand them so far <sup><a id="ffn1" href="#fn1" class="footnote">1</a></sup>.
@@ -145,7 +146,9 @@ What do you think? Are you taking advantage of ES6’s <code>let</code> and <cod
 	<li id="fn1">StackOverflow ftw <a href="#ffn1">&#8617;</a></li>
 	<li id="fn2">An aside: In JavaScript, the interpreter will hoist variable declarations but not initializations.  <a href="#ffn2">&#8617;</a></li>
 	<li id="fn3">Immediately Invoked Function Expression <a href="#ffn3">&#8617;</a></li>
-=======
+
+
+
 <img class="alignnone size-full wp-image-1251" src="http://helloburgh.me/wp-content/uploads/2016/08/const_shrink.jpg" width="3000" height="2143" />
 
 This is an exposè on the difference between function and block level scope using <code>let</code> and <code>const</code> in JavaScript. The following explanation is how I’ve come to understand them so far <sup><a id="ffn1" href="#fn1" class="footnote">1</a></sup>.
@@ -274,5 +277,8 @@ What do you think? Are you taking advantage of ES6’s <code>let</code> and <cod
 	<li id="fn1">StackOverflow ftw <a href="#ffn1">&#8617;</a></li>
 	<li id="fn2">An aside: In JavaScript, the interpreter will hoist variable declarations but not initializations.  <a href="#ffn2">&#8617;</a></li>
 	<li id="fn3">Immediately Invoked Function Expression <a href="#ffn3">&#8617;</a></li>
->>>>>>> Stashed changes
+
+
+
+
 </ol>
