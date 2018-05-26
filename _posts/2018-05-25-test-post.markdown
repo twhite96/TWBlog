@@ -1,18 +1,15 @@
 ---
 layout: post
-title: Test Post
+title: Test post
 date: 2018-05-25
 author: Tiffany White
 tags:
-  - Da burgh
+  - drafts 5
+  - workflow
 category:
 - Test
 ---
 
-Test
-Test
-Test
+This post is a test.
 
-This is only a Pittsburgh test
-
-Pittsburgh bitches!!!
+I'm testing writing to this blog in Drafts 5 and Workflow on iPhone and iPad.
