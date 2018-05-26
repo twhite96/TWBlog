@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Tiffany R. White Blog
-tagline:          'Software dev, Pittsburgher, contrarian, and herder of cats.'
+tagline:          'Software dev. Pittsburgher. Herder of cats and general contrarian.'
 description:      'A Technical Blog by <a href="https://twitter.com/TiffanyW_412" target="_blank">Tiffany White</a>'
 url:              'https://tiffanywhite.tech'
 baseurl:          # the optional subpath of your site, e.g. "/blog"
