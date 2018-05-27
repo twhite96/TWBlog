@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Danger of Type Coercion in JavaScript"
 modified:
 categories: JavaScript

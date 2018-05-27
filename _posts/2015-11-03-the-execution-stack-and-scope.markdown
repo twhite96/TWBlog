@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "The Execution Stack and Scope"
 modified:
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Technical Posts?"
 comments: true
 modified:
