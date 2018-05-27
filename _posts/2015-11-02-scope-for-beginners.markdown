@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Scope for Beginners"
 comments: true
 modified:

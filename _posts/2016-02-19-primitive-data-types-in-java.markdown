@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Primitive Data Types in Java"
 modified:
 categories: Java

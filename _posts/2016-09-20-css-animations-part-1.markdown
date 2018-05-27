@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: CSS Animations, Part 1
 modified:
 categories: CSS
