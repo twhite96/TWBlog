@@ -28,7 +28,7 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
-
+*.plist
 # Komodo
 *.komodoproject
 .komodotools
