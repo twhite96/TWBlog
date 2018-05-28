@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem 'pygments.rb'
   gem "html-proofer"
   gem 'jekyll-cloudinary'
+  gem 'jekyll-seo-tag'
 end
