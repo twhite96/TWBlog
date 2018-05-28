@@ -28,6 +28,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-cloudinary
+  - jekyll-seo-tag
 
 cloudinary:
   cloud_name: twhiteblog
@@ -39,6 +40,15 @@ cloudinary:
       steps: 5
       sizes: "(min-width: 50rem) 50rem, 90vw"
 
+twitter:
+  username: TiffanyW_412
+  card: summary
+
+facebook:
+  app_id: 345024175945415
+  admins: 10213908832409124
+
+logo: "/assets/images/default_img.png"
 # Custom vars
 version:            3.6.0
 sidebar_home_link:  true
