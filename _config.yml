@@ -13,6 +13,8 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
+permalink: /:year/:month/:day/:title/
+
 author:
   name:           'Tiffany White'
   url:            https://twitter.com/TiffanyW_412
@@ -40,13 +42,13 @@ cloudinary:
       steps: 5
       sizes: "(min-width: 50rem) 50rem, 90vw"
 
-twitter:
-  username: TiffanyW_412
-  card: summary
+# twitter:
+#   username: TiffanyW_412
+#   card: summary
 
-facebook:
-  app_id: 345024175945415
-  admins: 10213908832409124
+# facebook:
+#   app_id: 345024175945415
+#   admins: 10213908832409124
 
 logo: /assets/images/default_img.png
 # Custom vars
