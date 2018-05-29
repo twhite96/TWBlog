@@ -48,7 +48,7 @@ facebook:
   app_id: 345024175945415
   admins: 10213908832409124
 
-logo: "/assets/images/default_img.png"
+logo: /assets/images/default_img.png
 # Custom vars
 version:            3.6.0
 sidebar_home_link:  true
