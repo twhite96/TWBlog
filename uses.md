@@ -14,7 +14,7 @@ categories: [ ]
 
 &nbsp;
 
-[caption id="attachment_3024" align="aligncenter" width="3942"]<a href="https://tiffanywhite.tech/wp-content/uploads/2018/04/IMG_1441.jpg"><img class="wp-image-3024 size-full" src="https://tiffanywhite.tech/wp-content/uploads/2018/04/IMG_1441.jpg" alt="" width="3942" height="2958" /></a> Cables, cables, everywhere...[/caption]
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527846876/IMG_1538_mnf04p.jpg" />
 
 Seems that a lot of developers are creating these `/uses` pages after discovering [Wes Bos’s](https://twitter.com/wesbos) [/uses page](http://wesbos.com/uses).
 
@@ -52,7 +52,7 @@ Let’s start with my gear.
 - [Heil PR 40 mic kit](https://www.amazon.com/gp/product/B00U1SG5SW/ref=oh_aui_detailpage_o07_s02?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- I bought this when I thought I was serious about pod and screencasting. Heh. I still do a short show for Productivity in Tech.
 
-<del datetime="2018-04-22T02:27:20+00:00">## Next Gen gear
+<del datetime="2018-04-22T02:27:20+00:00">Next Gen gear
 |Since I am moving and I have the money I decided to *upgrade* my desk setup. So here are some of the things I've purchased to get that rad *YouTuber setup* I so desperately envy.|</del>
 
 As you can see I finally moved into my new place. My cable management game is all off and I haven't yet put the whole ALEX drawer together[^3] but soon. Soon.
@@ -77,7 +77,7 @@ As you can see I finally moved into my new place. My cable management game is al
 - [MAKETECH Swivel Under-the-Desk USB 3.0 Hub](https://www.amazon.com/gp/product/B01LWIIAOR/ref=oh_aui_detailpage_o05_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- Finally got a new hub.
 -  [Choetech Wireless Charging Stand](https://www.amazon.com/gp/product/B010B6PSMC/ref=oh_aui_detailpage_o05_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
-- [FORSÅ Work Lamp from IKEA](http://www.ikea.com/us/en/catalog/products/70321427/)
+-  [FORSÅ Work Lamp from IKEA](http://www.ikea.com/us/en/catalog/products/70321427/)
 -  [Amazon Echo Dot 2nd Gen](https://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-Black/dp/B01DFKC2SO/ref=sr_1_1_sspa?sr=8-1-spons&ie=UTF8&tag=thatmacnerd-20&keywords=Amazon%2BEcho%2BDots%2B%25282nd%2BGen&psc=1&qid=1519870529)
 	- I got this as a companion to my Echo 1st Gen which you can find below. I wanted one for my room so I got the cheapest Echo I could find.
 	- [Amazon Echo 1st Gen](http://www.amazon.com/dp/product/B076PSZL29/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=thatmacnerd-20)
@@ -133,7 +133,7 @@ As you can see I finally moved into my new place. My cable management game is al
 	- Starting to manage snippets with Alfred and GitHub gists but this is a great way to organize snippets with a keystroke.
 - [Quiver](https://itunes.apple.com/us/app/quiver-the-programmers-notebook/id866773894?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is a programmers notebook to take notes with syntax highlighting and markdown support. Supports many languages [^4].
 - Twitter on the desktop using a cool little npm utility called [nativefier](https://github.com/jiahaog/nativefier). In order to get Twitter with 2FA to work follow [these instructions](https://github.com/jiahaog/nativefier/issues/420#issuecomment-325625125) and you have a sort of native Twitter client on your Mac or Windows computer.
-		 <a href="https://tiffanywhite.tech/wp-content/uploads/2018/04/Screenshot-2018-04-21_10-30-31_PM.png"><img src="https://tiffanywhite.tech/wp-content/uploads/2018/04/Screenshot-2018-04-21_10-30-31_PM-1024x677.png" alt="" width="730" height="483" class="aligncenter size-large wp-image-3026" /></a>
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527851251/Screenshot-2018-04-21_10-30-31_PM_isae1w.png" />
 - [Franz](https://meetfranz.com/). This is a chat aggregator. Open source and wayyyyyy better looking than Rambox.
 - [OmniFocus](https://www.omnigroup.com/applications/omnifocus/) for tasks.
 - Trello for Project management.
@@ -146,11 +146,13 @@ As you can see I finally moved into my new place. My cable management game is al
 
 But I use ALL OF IT.
 
-So this is my setup and what I am currently using. Leave a comment about your setup below if you’re so inclined.
+So this is my setup and what I am currently using. You can show me your dev setup on [Twitter](https://twitter.com/TiffanyW_412).
+
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527846963/IMG_1392_mnjfyh.jpg"/>
 
 
 [^1]: Ordered the iPhone 8 Plus. Put away some money and with T-Mobile JUMP! I was able to get it for less than it would be outright. Got it in Space Gray, 256gb.
 [^2]: Used Byword for the Jekyll Blog however I sunset the Jekyll blog. Never wrote there and didn't want people to get confused.
-[^3]: I just moved here over last weekend, April 7th, 2018. Been crazy busy and I am really tired.
+[^3]: Done and done.
 [^4]: Even brainfuck!
 [^5]: Offline docs ftw! Plus much more.
