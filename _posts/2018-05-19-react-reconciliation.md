@@ -9,8 +9,6 @@ post_excerpt: >
   is, it only needs to update the parts of
   the DOM that need it.
 layout: post
-link: >
-  https://tiffanywhite.tech/react-reconciliation/
 published: true
 tags:
   - DOM
@@ -19,6 +17,9 @@ tags:
 categories:
   - Web Development
 ---
+
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527285926/react_redux_trpz1i.jpg" alt="react_redux"/>
+
 *Photo by Anthony DELANOIX on Unsplash*
 
 In order for React to be as fast as it is, it only needs to update the parts of the DOM that need it. You really don't need to worry about doing this yourself, but understanding how `setState()` in React works could be beneficial.
