@@ -1,7 +1,6 @@
 ---
 ID: 3127
 title: What Is React Reconciliation?
-# react-reconciliation
 author: Tiffany White
 post_date: 2018-05-19 23:04:01
 post_excerpt: >
