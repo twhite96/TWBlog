@@ -10,6 +10,7 @@ post_excerpt: >
   the DOM that need it.
 layout: post
 published: true
+comments: true
 tags:
   - DOM
   - react
