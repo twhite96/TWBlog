@@ -33,7 +33,7 @@ The `render()` function in React creates a tree of React elements. When you pass
 
 ## The React Tree of Elements
 
-This tree of elements is called the *tree of elements* and when a component's state changes, React uses a diffing algorithm to compare both the DOM and tree of elements. The tree of elements will contain the new state of a component.
+What was once called the Virtual DOM is now called the *tree of elements* and when a component's state changes, React uses a diffing algorithm to compare both the DOM and tree of elements. The tree of elements will contain the new state of a component.
 
 Take this code from CSS-Tricks:
 
