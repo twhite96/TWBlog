@@ -23,15 +23,17 @@ categories:
 
 *Photo by Anthony DELANOIX on Unsplash*
 
+> This is an update to this article because of input by Dan Abramov. Thanks Dan!
+
 In order for React to be as fast as it is, it only needs to update the parts of the DOM that need it. You really don't need to worry about doing this yourself, but understanding how `setState()` in React works could be beneficial.
 
 ## The `render()` Function
 
 The `render()` function in React creates a tree of React elements. When you pass props down and those props update, the `render()` function returns a different tree of elements. React would need to figure out how to accomplish this, and, while doing so, make it efficient and fast.
 
-## The Virtual DOM
+## The React Tree of Elements
 
-This tree of elements is called the *virtual DOM* and when a component's state changes, React uses a diffing algorithm to compare both the DOM and virtual DOM. The virtual DOM will contain the new state of a component.
+This tree of elements is called the *tree of elements* and when a component's state changes, React uses a diffing algorithm to compare both the DOM and tree of elements. The tree of elements will contain the new state of a component.
 
 Take this code from CSS-Tricks:
 
@@ -86,13 +88,13 @@ class App extends React.Component {
 }
 ```
 
-We set up the initial state to an object which will expect some input. This is the `App` component. When an input is captured in the entry field, React will create a new tree to which the *virtual DOM* and will contain the new state for `entry1`. React will look at both the virtual DOM and the browser DOM and with comparison determine what the differences are and update only the different element in the tree.
+We set up the initial state to an object which will expect some input. This is the `App` component. When an input is captured in the entry field, React will create a new tree to which the *tree of elements* and will contain the new state for `entry1`. React will compare the new tree of elements with the old one and determine what the differences are and update only the different element in the tree.
 
-A new tree/virtual DOM is created each time state changes in the `App` component.
+A new tree/tree of elements is created each time state changes in the `App` component.
 
 ## Mounting/Unmounting on State Change
 
-When state in a component changes, React will unmount the component and tear the whole tree down and then builds a new one from scratch. Every node in this tree will be destroyed.
+React will attempt to preserve the existing DOM tree so input state would not get destroyed. State changes trigger reconciliation. During reconciliation, React compares the trees to decide what to keep or mount and unmount.
 
 To get an example of this, check out this pen I forked below:
 
