@@ -10,9 +10,21 @@ published: true
 tags: [ ]
 categories: [ ]
 ---
+
+<img src ="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2220/v1528082182/IMG_1506_pnkesu.jpg" />
+
+
 Things I'm reading this week/month.
 
-<a href="https://leanpub.com/understandinges6/read"><img src="https://tiffanywhite.tech/wp-content/uploads/2018/04/understanding_excmascript_6.png" alt="" width="600" height="831" /></a><a href="https://frontendmasters.com/books/front-end-handbook/2018/">
-</a><a href="https://www.syncfusion.com/ebooks/datastructurespart1"><img src="https://tiffanywhite.tech/wp-content/uploads/2018/04/Data_Structures_Part1.jpg" alt="" width="600" height="774" /></a>
 
-<a href="https://www.syncfusion.com/ebooks/datastructurespart2"><img src="https://tiffanywhite.tech/wp-content/uploads/2018/04/Data_Structures_Part2.jpg" alt="" width="600" height="774" /></a><a href="https://frontendmasters.com/books/front-end-handbook/2018/"><img src="https://tiffanywhite.tech/wp-content/uploads/2018/04/Front-end-Developer-Handbook-2018.jpeg" alt="" width="527" height="682" /></a>
+<a href="https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?s=books&ie=UTF8&qid=1528082642&sr=1-1&keywords=cracking+the+coding+interview"><img src="https://res.cloudinary.com/twhiteblog/image/upload/v1528082690/cracking_the_coding_interview_tkvy1h.jpg"/></a>
+
+
+<a href="https://frontendmasters.com/books/front-end-handbook/2018/"><img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_383/v1528082857/Front-end_Developer_Handbook_2018_lxcdsi.jpg"/>
+</a>
+
+
+<a href="https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1449331815/ref=sr_1_4?s=books&ie=UTF8&qid=1528082625&sr=1-4&keywords=javascript+design+patterns"><img src="https://res.cloudinary.com/twhiteblog/image/upload/v1528082690/jsdesignpatterns_ganmg2.jpg" /></a>
+
+
+<a href="https://www.amazon.com/JavaScript-Patterns-Better-Applications-Coding/dp/0596806752/ref=sr_1_3?ie=UTF8&qid=1528082490&sr=8-3&keywords=javascript+patterns"><img src="https://res.cloudinary.com/twhiteblog/image/upload/v1528082690/jspatterns_uf7dcl.jpg" /></a>

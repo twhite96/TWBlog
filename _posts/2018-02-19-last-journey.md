@@ -14,6 +14,9 @@ tags:
 categories:
   - General Updates
 ---
+
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/v1528083886/josh-wilburne-75113-unsplash_akqxml.jpg" />
+
 This post will the last of its kind.
 
 I am not a newbie anymore. I've taken on an internship and have built some [decent](https://blog-app96.herokuapp.com/), [unfinished](https://check-yoself.herokuapp.com/)[^1], and [pretty cool apps](https://yelpcamp96.herokuapp.com/).

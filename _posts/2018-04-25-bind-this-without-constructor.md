@@ -20,6 +20,9 @@ tags:
 categories:
   - Web Development
 ---
+
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1894/v1528082268/eva-blue-42498-unsplash_y7lcwn.jpg" />
+
 `this` in React is a reference to the current component. Usually `this` in React is bound to its built-in methods so that when you want to update state or use an event handler on a form, you could do something like this:
 
 ```javascript

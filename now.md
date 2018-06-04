@@ -40,17 +40,23 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_474/v1527815658/JPEG_image_l9jk7h.jpg" />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_537/v1528072739/iPhone_now.jpg" />
     <figcaption>My homescreen reflects what I am trying to do with technology: work, fun, and productivity</figcaption>
 </figure>
 
 
+<figure>
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_920/v1528072740/iPad_june_18.png" />
+    <figcaption>Going fully mobile during the holidays. Sold my ailing MacBook Pro. Coda for iOS, Textastic, GoCoEdit, Working Copy, Affinity Photo, and Luma Fusion will make this a full on workstation.</figcaption>
+</figure>
 
-[caption id="attachment_3010" align="aligncenter" width="730"]<a href="https://tiffanywhite.tech/wp-content/uploads/2018/04/B7232F02-6DA5-408D-81EA-8D8B3D76136E.png"><img class="wp-image-3010 size-large" src="https://tiffanywhite.tech/wp-content/uploads/2018/04/B7232F02-6DA5-408D-81EA-8D8B3D76136E-1024x741.png" alt="" width="730" height="528" /></a> Going fully mobile during the holidays. Sold my ailing MacBook Pro. Coda for iOS, Textastic, GoCoEdit, Working Copy, Affinity Photo, and Luma Fusion will make this a full on workstation.[/caption]
 
-&nbsp;
+<figure>
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_326/v1528072739/apple_watch_june_18.jpg" />
+    <figcaption>My Apple Watch is minimal on notifications (except Slack, which I will fix tonight) and closing most of my rings keeps me motivated. I can triage tasks and reply to messages without picking up my phone. Win.</figcaption>
+</figure>
 
-[caption id="attachment_3022" align="aligncenter" width="217"]<a href="https://tiffanywhite.tech/wp-content/uploads/2018/04/JPEG-image-2.jpeg"><img class="wp-image-3022" src="https://tiffanywhite.tech/wp-content/uploads/2018/04/JPEG-image-2.jpeg" alt="" width="217" height="390" /></a> My Apple Watch is minimal on notifications (except Slack, which I will fix tonight) and closing most of my rings keeps me motivated. I can triage tasks and reply to messages without picking up my phone. Win.[/caption]
+
 
 &nbsp;
 

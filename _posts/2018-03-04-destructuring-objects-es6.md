@@ -17,6 +17,9 @@ tags:
 categories:
   - ES6
 ---
+
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2827/v1527286051/adrian-tormo-316868-unsplash_tugcsv.jpg"/>
+
 What is destructuring?
 
 > Destructuring is a way to extract values from nested arrays and objects.
