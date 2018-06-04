@@ -112,8 +112,4 @@ There are a few things I didn't go over in this article but I suggest you read t
 
 If you like the blog, you'll *love* the newsletter: little letters *to you*.
 
-<iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/tiffanywhite?as_embed=true"
-></iframe>
+<iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/tiffanywhite?as_embed=true"></iframe>
