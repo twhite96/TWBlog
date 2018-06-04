@@ -75,7 +75,7 @@ Instead, we can bind `this` to custom React methods by declaring a method and as
 class SomeCompenent extends React.Component {
 
   someInput = React.createRef();
-    renderSomeInput = (event) =&gt;  {
+    renderSomeInput = (event) =>;  {
     event.preventDefault();
     const someFunction = this.someInput.value.value;
     console.log(this);
