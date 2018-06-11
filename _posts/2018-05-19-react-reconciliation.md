@@ -28,11 +28,7 @@ In order for React to be as fast as it is, it only needs to update the parts of 
 
 ## The `render()` Function
 
-The `render()` function in React creates a tree of React elements. When you pass props down and those props update, the `render()` function returns a different tree of elements. React would need to figure out how to accomplish this, and, while doing so, make it efficient and fast.
-
-## The React Tree of Elements
-
-What was once called the Virtual DOM is now called the *tree of elements* and when a component's state changes, React uses a diffing algorithm to compare both the DOM and tree of elements. The tree of elements will contain the new state of a component.
+The `render()` function in React creates a tree of React elements. When you pass props down and those props update, the `render()` function returns a different tree of elements. When a component’s state changes, React calls the component's render method to get a tree of elements it wants to render. This tree is sometimes called the "virtual DOM". React also remembers the previous rendered element tree, so it can compare the new and the old version to figure out what needs to change in the actual DOM, and performs these changes.
 
 Take this code from CSS-Tricks:
 
@@ -87,9 +83,9 @@ class App extends React.Component {
 }
 ```
 
-We set up the initial state to an object which will expect some input. This is the `App` component. When an input is captured in the entry field, React will create a new tree to which the *tree of elements* and will contain the new state for `entry1`. React will compare the new tree of elements with the old one and determine what the differences are and update only the different element in the tree.
+We set up the initial state to an object which will expect some input. This is the `App` component. When an input is captured in the entry field, React will create a new *tree of elements* that will contain the new state for `entry1`. React will compare the new tree of elements with the old one to figure out what needs to change in the actual DOM, and performs these changes.
 
-A new tree/tree of elements is created each time state changes in the `App` component.
+A new tree of elements is created each time state changes in the `App` component.
 
 ## Mounting/Unmounting on State Change
 
