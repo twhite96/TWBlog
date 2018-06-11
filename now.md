@@ -40,7 +40,7 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_333/v1528691443/JPEG_image_4_yd754x.jpg" />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_467/v1528759886/iPhone_June.jpg" />
     <figcaption>My homescreen reflects what I am trying to do with technology: work, fun, and productivity</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ This may seem like a lot and it is. I don't know if I'll get everything done, bu
 
 What are you doing? I’m curious by nature. Leave a comment. Or don’t. 🤷🏾‍♀️
 
-<i>Last Updated: 2018-06-04 16.31.13</i>
+<i>Last Updated: 2018-06-11 19.35.38</i>
 
 &nbsp;
 
