@@ -55,7 +55,7 @@ Let’s start with my gear.
 <del datetime="2018-04-22T02:27:20+00:00">Next Gen gear
 |Since I am moving and I have the money I decided to *upgrade* my desk setup. So here are some of the things I've purchased to get that rad *YouTuber setup* I so desperately envy.|</del>
 
-As you can see I finally moved into my new place. My cable management game is all off and I haven't yet put the whole ALEX drawer together[^3] but soon. Soon.
+As you can see I finally moved into my new place. My cable management game is all off and I haven't yet put the whole ALEX drawer together[^2] but soon. Soon.
 
 - [IKEA LINNMON/ALEX Desk](http://www.ikea.com/us/en/catalog/products/S99932696/)
 	- Every programmer needs a good desk. This one is relatively inexpensive.
@@ -93,7 +93,7 @@ As you can see I finally moved into my new place. My cable management game is al
 ## Software
 
 - [VS Code](https://code.visualstudio.com/) 
-	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code and couldn’t be happier.
+	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code and couldn’t be happier. [^3]
 - [Hyper.js](https://hyper.is/)
 	- My new terminal of choice. Beautiful as hell and has gotten faster. Not as many bells and whistles as iTerm but good enough for me.
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
@@ -101,8 +101,6 @@ As you can see I finally moved into my new place. My cable management game is al
 - [Mac CLI](https://github.com/guarinogabriel/Mac-CLI)
 	- Control pretty much every function your Mac can do, plus updating all packages across package managers, ssh, MySQL etc, right from your command line. Excellent tool.
 - [Sketch](https://www.sketchapp.com/) for UI design
-- [Ulysses](https://itunes.apple.com/us/app/ulysses/id623795237?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS)
-	- Write all my blog posts in here. [^2]
 - [Boom 3D](http://www.globaldelight.com/boom3d/index.php)
 	- This makes everything sound *amazing*.
 - [Timing 2](https://timingapp.com/)
@@ -135,12 +133,12 @@ As you can see I finally moved into my new place. My cable management game is al
 - Twitter on the desktop using a cool little npm utility called [nativefier](https://github.com/jiahaog/nativefier). In order to get Twitter with 2FA to work follow [these instructions](https://github.com/jiahaog/nativefier/issues/420#issuecomment-325625125) and you have a sort of native Twitter client on your Mac or Windows computer.
     <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527851251/Screenshot-2018-04-21_10-30-31_PM_isae1w.png" />
 - [Franz](https://meetfranz.com/). This is a chat aggregator. Open source and wayyyyyy better looking than Rambox.
-- [OmniFocus](https://www.omnigroup.com/applications/omnifocus/) for tasks.
+- [Todoist](https://todoist.com/) for tasks.
 - Trello for Project management.
 - [Fantastical 2](https://flexibits.com/fantastical) for scheduling
 - [Dash 4](https://kapeli.com/dash). [^5]
-- Gitify for GitHub notifs
-- Sip for a color picker
+- [Ship - Native Issue Tracking for GitHub](https://www.realartists.com/)
+- [Sip for Mac](https://sipapp.io/) for a color picker
 
 ## I Use a lot of software, I admit
 
@@ -152,7 +150,7 @@ So this is my setup and what I am currently using. You can show me your dev setu
 
 
 [^1]: Ordered the iPhone 8 Plus. Put away some money and with T-Mobile JUMP! I was able to get it for less than it would be outright. Got it in Space Gray, 256gb.
-[^2]: Used Byword for the Jekyll Blog however I sunset the Jekyll blog. Never wrote there and didn't want people to get confused.
-[^3]: Done and done.
+[^2]: Done and done
+[^3]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
 [^4]: Even brainfuck!
 [^5]: Offline docs ftw! Plus much more.
