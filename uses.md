@@ -93,7 +93,7 @@ As you can see I finally moved into my new place. My cable management game is al
 ## Software
 
 - [VS Code](https://code.visualstudio.com/) 
-	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code and couldn’t be happier.[^3]
+	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code [^3] and couldn’t be happier.
 - [Hyper.js](https://hyper.is/)
 	- My new terminal of choice. Beautiful as hell and has gotten faster. Not as many bells and whistles as iTerm but good enough for me.
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
