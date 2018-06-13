@@ -44,7 +44,7 @@ cloudinary:
 
 twitter:
   username: TiffanyW_412
-  card: summary_large_image
+  card: summary
 
 # facebook:
 #   app_id: 345024175945415
