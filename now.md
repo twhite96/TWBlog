@@ -11,7 +11,7 @@ tags: [ ]
 categories: [ ]
 ---
 
-<img src"https://res.cloudinary.com/twhiteblog/image/upload/v1527285606/Now%20Page%20Screenshots/now_opt.compressed_oq4s1x.jpg"/>
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527285606/Now%20Page%20Screenshots/now_opt.compressed_oq4s1x.jpg"/>
 
 Derek Sivers set up a website called [nownownow.com](http://nownownow.com/about) to help people understand what a now page is, why you’d want one, and to [showcase other now pages](http://nownownow.com/). Maybe you should build one, too.
 
@@ -63,7 +63,7 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 <figure>
     <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2165/v1528888555/Now%20Page%20Screenshots/Mac/Screenshot-2018-06-13_07-10-38_AM.png" />
-    <figcaption>My man focus on my Mac is the Check Yo Self and the CLI library I am building off of it.</figcaption>
+    <figcaption>My main focus on my Mac is the Check Yo Self and the CLI library I am building off of it.</figcaption>
 </figure>
 
 <figure>
