@@ -10,6 +10,7 @@ post_excerpt: >
 layout: post
 published: true
 comments: true
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1527285926/react_redux_trpz1i.jpg
 tags:
   - DOM
   - react
