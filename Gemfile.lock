@@ -40,6 +40,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
+    jekyll-archives (2.1.1)
+      jekyll (>= 2.4)
     jekyll-cloudinary (1.11.0)
       fastimage (>= 2.0, < 3.0)
       jekyll (>= 3.0, < 4.0)
@@ -109,6 +111,7 @@ PLATFORMS
 DEPENDENCIES
   html-proofer
   jekyll (~> 3.6.0)
+  jekyll-archives
   jekyll-cloudinary
   jekyll-gist
   jekyll-paginate

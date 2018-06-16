@@ -13,7 +13,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 
 author:
   name:           'Tiffany White'
@@ -31,6 +31,12 @@ plugins:
   - jekyll-paginate
   - jekyll-cloudinary
   - jekyll-seo-tag
+
+# jekyll-archives:
+#   enabled:
+#     - layout: 'default'
+#     - permalinks:
+#         year: '/archives/year/:year/'
 
 cloudinary:
   cloud_name: twhiteblog

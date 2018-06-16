@@ -12,4 +12,5 @@ group :jekyll_plugins do
   gem "html-proofer"
   gem 'jekyll-cloudinary'
   gem 'jekyll-seo-tag'
+  gem 'jekyll-archives'
 end
