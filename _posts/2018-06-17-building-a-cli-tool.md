@@ -19,7 +19,7 @@ image: https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_3424/v152956
 
 <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_3424/v1529564722/goran-ivos-245581-unsplash_lcfk25.jpg" />
 
-I am currently building a small CLI tool to based on my current React project, [Check Yo Self](https://checkyoself.surge.sh/).
+I am currently building a small CLI tool based on my current React project, [Check Yo Self](https://checkyoself.surge.sh/).
 
 The app is a web interface for checking the spelling and grammar of your markdown blog posts. Currently, the app is text input only and using localStorage to keep text data. I plan to use Firebase for text storage and data persistence.
 
