@@ -31,7 +31,8 @@ plugins:
   - jekyll-paginate
   - jekyll-cloudinary
   - jekyll-seo-tag
-
+exclude:
+  - vendor
 # jekyll-archives:
 #   enabled:
 #     - layout: 'default'
