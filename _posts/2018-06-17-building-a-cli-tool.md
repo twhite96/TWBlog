@@ -14,7 +14,7 @@ tags:
   - open source
   - libraries
   - javascript
-image: https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_3424/v1529564722/goran-ivos-245581-unsplash_lcfk25.jpg"
+image: https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_3424/v1529564722/goran-ivos-245581-unsplash_lcfk25.jpg
 ---
 
 <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_3424/v1529564722/goran-ivos-245581-unsplash_lcfk25.jpg" />
