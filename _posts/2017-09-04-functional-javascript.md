@@ -38,7 +38,7 @@ Why can we do this? Because, like in most functional programming languages [^1],
 
 Take this code:
 
-```
+```js
 // Named function or
 // function declaration
 function double(x) {
@@ -69,7 +69,7 @@ The `.filter()` function is an array function that takes a callback that it uses
 
 Take this array of objects:
 
-```
+```js
 let animals = [
   { name: ‘Catticus Finch’, species: ‘cat’ },
   { name: ‘Peaches’ species: ‘fish’ },
@@ -81,7 +81,7 @@ let animals = [
 ```
 Say I wanted to filter out all this cats in this array. We could use the trusty `for` loop:
 
-```
+```js
 let cats = []
 
 for (let i = 0; i &lt; animals.length; i++) {
@@ -99,7 +99,7 @@ Filter accepts a callback and loops through each item in the array and passes it
 
 In ES5:
 
-```
+```js
 let cats = animals.filter(function(animal) {
   return animal.species === ‘cat’;
 });
@@ -107,7 +107,7 @@ let cats = animals.filter(function(animal) {
 
 In ES6
 
-```
+```js
 let cats = animals.filter(animal =&gt; animal.species === ‘cat’);
 ```
 
@@ -115,7 +115,7 @@ Here, if the value of the `species` property in the `animals` array is a `cat` i
 
 We could also write an anonymous function and add a filter function inside of it, much like this:
 
-```
+```js
 let isCat = function(animal){
   return animal.species === ‘cats’;
 });
@@ -150,7 +150,7 @@ Why can we do this? Because, like in most functional programming languages [^1],
 
 Take this code:
 
-```
+```js
 // Named function or
 // function declaration
 function double(x) {
@@ -181,7 +181,7 @@ The `.filter()` function is an array function that takes a callback that it uses
 
 Take this array of objects:
 
-```
+```js
 let animals = [
   { name: ‘Catticus Finch’, species: ‘cat’ },
   { name: ‘Peaches’ species: ‘fish’ },
@@ -193,7 +193,7 @@ let animals = [
 ```
 Say I wanted to filter out all this cats in this array. We could use the trusty `for` loop:
 
-```
+```js
 let cats = []
 
 for (let i = 0; i &lt; animals.length; i++) {
@@ -211,7 +211,7 @@ Filter accepts a callback and loops through each item in the array and passes it
 
 In ES5:
 
-```
+```js
 let cats = animals.filter(function(animal) {
   return animal.species === ‘cat’;
 });
@@ -219,7 +219,7 @@ let cats = animals.filter(function(animal) {
 
 In ES6
 
-```
+```js
 let cats = animals.filter(animal =&gt; animal.species === ‘cat’);
 ```
 
@@ -227,7 +227,7 @@ Here, if the value of the `species` property in the `animals` array is a `cat` i
 
 We could also write an anonymous function and add a filter function inside of it, much like this:
 
-```
+```js
 let isCat = function(animal){
   return animal.species === ‘cats’;
 });
