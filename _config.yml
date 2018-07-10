@@ -18,6 +18,7 @@ permalink: /:title/
 author:
   name:           'Tiffany White'
   url:            https://twitter.com/TiffanyW_412
+  # email:          'tiffany@tiffanywhite.tech'
 
 paginate:         5
 paginate_path:    '/page:num'
@@ -59,7 +60,7 @@ twitter:
 
 logo: /assets/images/default_img.png
 # Custom vars
-version:            3.6.0
+version:            5.0
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
