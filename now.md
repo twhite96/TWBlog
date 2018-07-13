@@ -26,12 +26,12 @@ I am working on two blogs:
 
 This one, Tiffany R. White Blog
 
-[That Mac Nerd](https://thatmacnerd.com/blog/)
+[That Mac Nerd](https://thatmacnerd.com/)
 …and…
 
 I am building a markdown grammar checker called [Check Yo Self](https://github.com/twhite96/checkyoself).
 
-I am working on launching a new podcast called [DevBytes](https://devbytes.tech/home/).
+I am working on launching a new podcast called [DevBytes](https://devbytes.tech/).
 
 I also have Evernote and Programming [^1] books in the works.
 
@@ -43,32 +43,36 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_410/v1528889063/Now%20Page%20Screenshots/iPhone/JPEG_image-3EF7F53318C5-1.jpg" />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531430722/Now Page Screenshots/iPhone/july_now.png" />
     <figcaption>My homescreen reflects what I am trying to do with technology: work, fun, and productivity</figcaption>
 </figure>
 
+---
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1036/v1528072740/Now Page Screenshots/iPad/iPad_june_18.png" />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531443904/Now%20Page%20Screenshots/iPad/ipad_july_now.png" />
     <figcaption>Going fully mobile during the holidays. Sold my ailing MacBook Pro. Coda for iOS, Textastic, GoCoEdit, Working Copy, Affinity Photo, and Luma Fusion will make this a full on workstation.</figcaption>
 </figure>
 
+---
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_307/v1528072739/Now Page Screenshots/Apple Watch/apple_watch_june_18.jpg" />
-    <figcaption>My Apple Watch is minimal on notifications (except Slack, which I will fix tonight) and closing most of my rings keeps me motivated. I can triage tasks and reply to messages without picking up my phone. Win.</figcaption>
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531444181/Now%20Page%20Screenshots/Apple%20Watch/apple_watch_july.png" />
+    <figcaption>My Apple Watch is minimal on notifications and closing most of my rings keeps me motivated. I can triage tasks and reply to messages without picking up my phone. Win.</figcaption>
 </figure>
+
+---
 
 ## What's On My Mac?
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2165/v1528888555/Now%20Page%20Screenshots/Mac/Screenshot-2018-06-13_07-10-38_AM.png" />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531441475/Now%20Page%20Screenshots/Mac/Screenshot-2018-07-12_08-21-45_PM.png" />
     <figcaption>My main focus on my Mac is the Check Yo Self and the CLI library I am building off of it.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2718/v1528888547/Now Page Screenshots/Mac/Screenshot-2018-06-13_07-13-07_AM.png" />
-    <figcaption>Hyper is my term of choice and Franz is a chat aggregator. Check out <a href="https://spectrum.chat">Spectrum Chat</a>. It's full of really great, kind, communities.</figcaption>
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531441478/Now%20Page%20Screenshots/Mac/Screenshot-2018-07-12_08-23-07_PM.png" />
+    <figcaption>Hyper again while I decide how to build a documentation site with CRA and React Stylist. Also <a href="https://itunes.apple.com/us/app/things-3/id904280696?mt=12&uo=4&at=1001lnT5">Things 3</a> which is by far the best task manager I've ever used. I usually never look at my task managers but I do this. Excellent, albeit expensive, software.</figcaption>
 </figure>
 
 
@@ -81,7 +85,7 @@ This may seem like a lot and it is. I don't know if I'll get everything done, bu
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/TiffanyW_412) Or don’t. 🤷🏿
 
-<i>Last Updated: 2018-06-13 07.31.24</i>
+<i>Last Updated: 2018-07-12 21.21.24</i>
 
 &nbsp;
 
