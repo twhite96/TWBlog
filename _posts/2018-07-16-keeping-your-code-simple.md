@@ -63,7 +63,7 @@ This is as clean as it gets.
 
 A friend of mine and mentor DM'd me on Twitter about this and the solutions people offered me on Twitter. He said that one solution was a mess and that if he had written anything like that he would have gotten chewed out by his boss.
 
-My immediate response was to chuckle at the guy who have me the nested ternary.
+My immediate response was to chuckle at the guy who gave me the nested ternary.
 
 *But he wasn't talking about that. He was talking about my clever two liner*. Well...
 
@@ -72,10 +72,10 @@ My immediate response was to chuckle at the guy who have me the nested ternary.
 My friend and I talked at length about cleverness and writing code for other humans to read. The variables I use in the two line solution don't have any context. Instead, I should have broken them out into something like this:
 
 ```js
-let lenX = x.length;
-let lenY = y.length;
+let lenX = str1.length;
+let lenY = str2.length;
 
-const longest = strs.reduce((x, y) => lenX >= lenY ? x : y, '');
+const longest = strs.reduce((str1, str2) => lenX >= lenY ? str1 : str2, '');
 ```
 
 This is still terse but more readable and easier to understand.
