@@ -11,8 +11,14 @@ layout: default
   <div class="post-body">
     {{ content }}
     {% include post-tags.html post=page %}
-  </div>
+  </div><br />
 
-  <!-- {% include comments.html %} -->
+  <div class="pad">
+    {% include share-buttons.html %}
+  </div><br />
+
+  <div class="pad">
+    {% include large-button-followers.html %}
+  </div><br />
   {% include related_posts.html %}
 </div>
