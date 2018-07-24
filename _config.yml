@@ -32,6 +32,7 @@ plugins:
   - jekyll-paginate
   - jekyll-cloudinary
   - jekyll-seo-tag
+  - octopress-social
 exclude:
   - vendor
 # jekyll-archives:
@@ -57,6 +58,19 @@ twitter:
 # facebook:
 #   app_id: 345024175945415
 #   admins: 10213908832409124
+
+twitter:
+  username:            TiffanyW_412                   # Add your Twitter handle
+  tweet_count:         false              # Show number of shares on Twitter
+  size:                normal             # Or large
+  # embedded_link_color:                    # Set link color for embedded tweets
+
+  follow_count:        true              # Show number of followers
+  tweet_message:       ":title by :username :hashtags - :url" # With Tweet button Twitter add the URL last
+  tweet_link_text:     Twitter            # Configure the link text
+  tweet_link_title:    Share on Twitter   # Share link title
+  profile_link_text:   Follow :username
+  profile_link_title:  Follow :username on Twitter  # Profile link title text # Profile link title text
 
 logo: /assets/images/default_img.png
 # Custom vars

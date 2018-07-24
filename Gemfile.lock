@@ -77,6 +77,8 @@ GEM
       mini_portile2 (~> 2.3.0)
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
+    octopress-social (1.4.5)
+      jekyll (>= 2.0)
     parallel (1.12.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
@@ -118,6 +120,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-theme-hydeout (~> 3.4)
   json
+  octopress-social
   pygments.rb
   redcarpet
 
