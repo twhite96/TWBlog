@@ -74,6 +74,8 @@ twitter:
   profile_link_title:  Follow :username on Twitter  # Profile link title text # Profile link title text
 
 logo: /assets/images/default_img.png
+
+google_analytics: UA-61294063-1
 # Custom vars
 version:            5.0
 sidebar_home_link:  true
