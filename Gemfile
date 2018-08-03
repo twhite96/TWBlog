@@ -14,4 +14,5 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
   gem 'jekyll-archives'
   gem 'octopress-social'
+  gem 'jekyll-algolia', '~> 1.0'
 end
