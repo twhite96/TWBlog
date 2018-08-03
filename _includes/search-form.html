@@ -1,17 +1,14 @@
-<form action="https://google.com/search" class="search-form">
-  <div class="search-row">
-    <input id="search-bar" type="search" name="q" />
-
-    {% comment %}
-      Hacky strip of protocol to the sitesearch value we pass to Google
-    {% endcomment %}
-    {% assign url = site.url | replace_first: 'https://', '' %}
-    {% assign url = url | replace_first: 'http://', '' %}
-    {% assign url = url | replace_first: 'spdy://', '' %}
-    {% assign url = url | replace_first: '//', '' %}
-    <input name="sitesearch" type="hidden"
-           value="{{ url }}{{ site.baseurl }}" />
-
-    <input type="submit" value="Search" />
-  </div>
-</form>
+<div class="inner">
+  {% if site.search %}
+    {%- assign search_provider = site.search_provider | default: "lunr" -%}
+    {%- case search_provider -%}
+      {%- when "lunr" -%}
+        <label class="visually-hidden" for="search">{{ site.data.theme.t.site_search | default: 'Site Search' }}</label>
+        <input type="text" id="search" class="search-input" aria-describedby="results-count" tabindex="-1" placeholder="{{ site.data.theme.t.menu.search_placeholder_text | default: 'Enter your search term...' }}" />
+        <div id="results" class="results"></div>
+      {%- when "algolia" -%}
+        <div tabindex="-1" class="search-searchbar"></div>
+        <div class="search-hits"></div>
+    {%- endcase -%}
+  {% endif %}
+</div>

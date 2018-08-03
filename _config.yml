@@ -33,6 +33,7 @@ plugins:
   - jekyll-cloudinary
   - jekyll-seo-tag
   - octopress-social
+  - jekyll-algolia
 exclude:
   - vendor
 # jekyll-archives:
@@ -80,5 +81,15 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+search: true
+search_full_content: true # true, false (default)
+search_provider: algolia
+algolia:
+  application_id: VVKLD2O8OY
+  index_name: thatmacnerd
+  search_only_api_key: ce7660039cd338fcfa54fbce856ddd0a
+  powered_by: true
+
+
 github:
   repo:             https://github.com/twhite96/

@@ -13,7 +13,7 @@ $cyan: #75b5aa !default;
 $blue: #268bd2 !default;
 $brown: #8f5536 !default;
 
-$root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif !default;
+$root-font-family: -apple-system, BlinkMacSystemFont, "PT Sans", Arial, sans-serif !default;
 $root-font-size: 1rem !default;
 $root-line-height: 1.5 !default;
 
@@ -49,3 +49,22 @@ $sidebar-bg-color: #202020 !default;
 $sidebar-title-color: #ffffff !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
+
+// /* Fluid type */
+
+// $base-font-size: 16px !default;
+// $min-vw: $small !default;
+// $max-vw: $xlarge !default;
+// $min-font-size: 14px !default;
+// $max-font-size: 18px !default;
+
+// /* Navicon */
+
+// $navicon-width: 1.75em !default;
+// $navicon-height: 0.25em !default;
+// $navicon-duration: 0.5s !default;
+// $navicon-toggled-size: 1 !default;
+// $navicon-nav-bg-close: transparent !default;
+// $navicon-nav-bg-open: transparent !default;
+// $navicon-content-bg: $text-color !default;
+
