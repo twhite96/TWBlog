@@ -73,7 +73,7 @@ twitter:
   profile_link_text:   Follow :username
   profile_link_title:  Follow :username on Twitter  # Profile link title text # Profile link title text
 
-image: /assets/images/default_img.png
+
 # Custom vars
 version:            5.0
 sidebar_home_link:  true
