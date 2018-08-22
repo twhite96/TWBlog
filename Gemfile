@@ -15,4 +15,8 @@ group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'octopress-social'
   gem 'jekyll-algolia', '~> 1.0'
+  gem 'jekyll-font-awesome-sass'
+  gem 'sassc'
+  gem 'rake'
+  gem 'font-awesome-sass', '~> 5.2.0'
 end
