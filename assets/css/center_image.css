@@ -4,7 +4,35 @@
 }
 
 .pad {
-  display: inline;
+  display: flex;
+  flex-direction: row;
   padding-top: 3px;
   padding-bottom: 5px;
+}
+
+
+.turq-button, a.turq-button {
+  color: #fff;
+  border: 1px solid #06D7D9;
+  background: #06D7D9;
+}
+
+.button, [type=button], [type=reset], [type=submit], a.button, button {
+  -webkit-appearance: none;
+  display: inline-block;
+  border: 1px solid #06D7D9;
+  border-radius: 0;
+  background: #06D7D9;
+  color: #fff;
+  font-weight: 600;
+  font-family: Nunito,-apple-system,BlinkMacSystemFont,Nunito Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size: 1rem;
+  text-transform: none;
+  padding: .75rem 1.25rem;
+  margin: 0 0 .5rem;
+  vertical-align: middle;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  line-height: 1;
 }
