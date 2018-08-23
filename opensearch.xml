@@ -5,5 +5,5 @@ Technical blog posts on web development
 </Description>
 <InputEncoding>UTF-8</InputEncoding>
 <Image width="16" height="16" type="image/x-icon">favicon.ico</Image>
-<Url type="text/html" method="get" template="https://tiffanywhite.tech/search/?query={searchTerms}"/>
+<Url type="text/html" method="get" template="https://tiffanywhite.tech/search/?q={searchTerms}"/>
 </OpenSearchDescription>
