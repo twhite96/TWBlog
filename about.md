@@ -18,3 +18,12 @@ My toolbox contains JavaScript, React, some Rails, and CSS Grid and Flexbox.
 Besides programming and writing for this blog, I enjoy photography, lifting weights when I can, and learning about AI, Machine Learning, and programming in Go.
 
 Questions? Hit me up on [Twitter](https://twitter.com/TiffanyW_412).
+
+## Where To Find Me
+
+
+Tweets: <a href="https://twitter.com/TiffanyW_412" rel="me">@TiffanyW_412 on Twitter</a>
+
+Code: <a href="https://github.com/twhite96" rel="me">Github</a>
+
+Email: <a href="mailto:tiffany@tiffanywhite.tech" rel="me">tiffany@tiffanywhite.tech</a>
