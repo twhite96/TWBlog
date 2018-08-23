@@ -19,4 +19,5 @@ group :jekyll_plugins do
   gem 'sassc'
   gem 'rake'
   gem 'font-awesome-sass', '~> 5.2.0'
+  gem 'jekyll-webmention_io'
 end
