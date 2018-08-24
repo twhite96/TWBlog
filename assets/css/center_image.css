@@ -13,16 +13,16 @@
 
 .turq-button, a.turq-button {
   color: #fff;
-  border: 1px solid #06D7D9;
-  background: #06D7D9;
+  border: 1px solid #AE1B75;
+  background: #AE1B75;
 }
 
 .button, [type=button], [type=reset], [type=submit], a.button, button {
   -webkit-appearance: none;
   display: inline-block;
-  border: 1px solid #06D7D9;
+  border: 1px solid #AE1B75;
   border-radius: 0;
-  background: #06D7D9;
+  background: #AE1B75;
   color: #fff;
   font-weight: 600;
   font-family: Nunito,-apple-system,BlinkMacSystemFont,Nunito Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
