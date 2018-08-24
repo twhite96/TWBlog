@@ -17,14 +17,17 @@ layout: default
     {% include share-buttons.html %}
   </div><br />
 
+  <div class="pad">
+      {% include notice-info.html %}
+  </div><br />
+
   <div class="pad flex-left">
-    {% include coffee.html %}
+      {% include coffee.html %}
   </div><br />
 
   <div class="pad flex-right">
     {% include large-button-followers.html %}
   </div><br />
-
+  {% include webmentions.html %}
   {% include related_posts.html %}
-  {% webmentions %}
 </div>

@@ -26,6 +26,9 @@ paginate_path:    '/page:num'
 # disqus:
 #   shortname: helloburgh
 
+webmentions:
+  username: tiffanywhite.tech
+
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -35,6 +38,7 @@ plugins:
   - octopress-social
   - jekyll-algolia
   - jekyll-font-awesome-sass
+  - jekyll-webmention_io
 exclude:
   - vendor
 # jekyll-archives:

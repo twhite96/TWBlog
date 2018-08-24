@@ -929,3 +929,6 @@ http://0.0.0.0:4000/keeping-your-code-simple/:
   https://twitter.com/TiffanyW_412/status/1011075530022621184?ref_src=twsrc%5Etfw: false
   https://platform.twitter.com/widgets.js: false
   https://twitter.com/i/moments/1018709673107746816: false
+http://0.0.0.0:4000/test-mentions/:
+  https://webmention.rocks/test/1: false
+  https://webmention.rocks/test/2: false
