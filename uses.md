@@ -14,7 +14,7 @@ categories: [ ]
 
 &nbsp;
 
-<img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527846876/IMG_1538_mnf04p.jpg" />
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/v1535073671/IMG_2536_xqvmsx.jpg" />
 
 Seems that a lot of developers are creating these `/uses` pages after discovering [Wes Bos’s](https://twitter.com/wesbos) [/uses page](http://wesbos.com/uses).
 
@@ -146,7 +146,7 @@ But I use ALL OF IT.
 
 So this is my setup and what I am currently using. You can show me your dev setup on [Twitter](https://twitter.com/TiffanyW_412).
 
-<img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527846963/IMG_1392_mnjfyh.jpg"/>
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/v1535073893/desk_notion_ezofpk.jpg"/>
 
 
 [^1]: Ordered the iPhone 8 Plus. Put away some money and with T-Mobile JUMP! I was able to get it for less than it would be outright. Got it in Space Gray, 256gb.
