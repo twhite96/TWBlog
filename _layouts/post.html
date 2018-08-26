@@ -9,12 +9,13 @@ layout: default
   {% include post-meta.html post=page %}
 
   <div class="post-body">
+    {% include read_time.html %}
     {{ content }}
     {% include post-tags.html post=page %}
   </div><br />
 
   <div class="pad">
-    {% include share-buttons.html %}
+    <span>{% include social-share.html %}</span>
   </div><br />
 
   <div class="pad">

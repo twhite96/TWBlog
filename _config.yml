@@ -28,6 +28,13 @@ paginate_path:    '/page:num'
 
 webmentions:
   username: tiffanywhite.tech
+  # templates:
+  #   _includes/webmentions.html
+  throttle_lookups:
+    last_week: daily
+    last_month: weekly
+    last_year: every 2 weeks
+    older: monthly
 
 plugins:
   - jekyll-feed
@@ -132,6 +139,6 @@ exclude:
   - vendor/ruby/
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
-  
+
 github:
   repo:             https://github.com/twhite96/
