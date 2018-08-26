@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'json'
 gem "jekyll", "~> 3.6.0"
 gem "jekyll-theme-hydeout", "~> 3.4"
+gem 'compass-yiq-color-contrast'
 
 group :jekyll_plugins do
   gem 'jekyll-gist'

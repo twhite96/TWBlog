@@ -39,3 +39,108 @@
 .fa-coffee {
   padding-right: 1rem;
 }
+
+.fa-clock {
+  padding-right: .1rem;
+}
+.btn--twitter {
+  background-color: #55acee;
+  color: #fff;
+}
+
+.btn--facebook {
+  background-color: #FF6600;
+  color: #fff;
+}
+/* .devto-logo {
+  fill: white;
+} */
+
+.btn--linkedin {
+  background-color: #007bb6;
+  color: #fff;
+}
+
+.page__share {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid;
+}
+.btn {
+  /* default */
+  display: inline-block;
+  margin-bottom: 0.25em;
+  padding: 0.5em 1em;
+  font-family: "Helvetica Neue";
+  font-size: 0.75em;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  border-width: 0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.icon {
+  margin-right: 0.5em;
+}
+
+.icon + .hidden {
+  margin-left: -0.5em; /* override for hidden text*/
+}
+
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) {
+    .btn span {
+      border: 0;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+  }
+
+
+  @media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) {
+    .btn span {
+      border: 0;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+  }
+
+  @media only screen
+  and (min-device-width: 1024px)
+  and (max-device-width: 1366px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .btn span {
+      border: 0;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+  }
+
+  .page__share-title {
+    margin-bottom: 10px;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+  }
