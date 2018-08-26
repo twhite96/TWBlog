@@ -133,10 +133,10 @@ As you can see I finally moved into my new place. My cable management game is al
 - Twitter on the desktop using a cool little npm utility called [nativefier](https://github.com/jiahaog/nativefier). In order to get Twitter with 2FA to work follow [these instructions](https://github.com/jiahaog/nativefier/issues/420#issuecomment-325625125) and you have a sort of native Twitter client on your Mac or Windows computer.
     <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527851251/Screenshot-2018-04-21_10-30-31_PM_isae1w.png" />
 - [Franz](https://meetfranz.com/). This is a chat aggregator. Open source and wayyyyyy better looking than Rambox.
-- [Todoist](https://todoist.com/) for tasks.
-- Trello for Project management.
+- [Things 3](https://culturedcode.com/things/) for tasks.[^5]
+- [Notion](https://www.notion.so) for Project management.[^6]
 - [Fantastical 2](https://flexibits.com/fantastical) for scheduling
-- [Dash 4](https://kapeli.com/dash). [^5]
+- [Dash 4](https://kapeli.com/dash). [^7]
 - [Ship - Native Issue Tracking for GitHub](https://www.realartists.com/)
 - [Sip for Mac](https://sipapp.io/) for a color picker
 
@@ -153,4 +153,6 @@ So this is my setup and what I am currently using. You can show me your dev setu
 [^2]: Done and done
 [^3]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
 [^4]: Even brainfuck!
-[^5]: Offline docs ftw! Plus much more.
+[^5]: This is the only task manager that I actually look at and use. It is *that* beautiful, simple, and it has impressed me far more than any task manager in recent memory.
+[^6]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/c5cb08d6ba57/Screenshot-2018-08-26_12-11-49_AM.png).
+[^7]: Offline docs ftw! Plus much more.
