@@ -932,3 +932,41 @@ http://0.0.0.0:4000/keeping-your-code-simple/:
 http://0.0.0.0:4000/test-mentions/:
   https://webmention.rocks/test/1: false
   https://webmention.rocks/test/2: false
+http://0.0.0.0:4000/my-vscode-setup/:
+  https://zen-of-programming.com/vs-code-setup: false
+  https://dev.to/nickytonline/my-visual-studio-code-setup-2ima: false
+  https://github.com/agirton/gloom: false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/v1535424698/My%20VSCode%20Setup/Main%20Interface/Screenshot-2018-08-27_10-44-30_PM.png
+  : false
+  https://github.com/wesbos/cobalt2/: false
+  https://github.com/sdras/night-owl-vscode-theme: false
+  https://github.com/leveluptuts/level-up-vscode-theme: false
+  https://res.cloudinary.com/twhiteblog/image/upload/v1535578739/My%20VSCode%20Setup/Extensions/extensions_vscode.png: false
+  https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer: false
+  https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash: false
+  https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils: false
+  https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify: false
+  https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime: false
+  https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense: false
+  https://marketplace.visualstudio.com/items?itemName=discountry.react-redux-react-router-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=infeng.vscode-react-typescript: false
+  https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=angryobject.react-pure-to-class-vscode: false
+  https://marketplace.visualstudio.com/items?itemName=nickytonline.vscode-gatsby-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=lXSPandora.vscode-styled-components-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=bierner.color-info: false
+  https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight: false
+  https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss: false
+  https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion: false
+  https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster: false
+  https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor: false
+  https://marketplace.visualstudio.com/items?itemName=progre.promise-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack: false
+  https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist: false
+  https://marketplace.visualstudio.com/items?itemName=iZDT.javascript-unit-test-snippet: false
+  https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest: false
+  https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode: false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2737/v1535424698/My%20VSCode%20Setup/Main%20Interface/Screenshot-2018-08-27_10-44-30_PM.png
+  : false
+http://0.0.0.0:4000/my-iterm-setup/:
+  https://iterm2.com/: false
