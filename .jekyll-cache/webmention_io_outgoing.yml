@@ -970,3 +970,4 @@ http://0.0.0.0:4000/my-vscode-setup/:
   : false
 http://0.0.0.0:4000/my-iterm-setup/:
   https://iterm2.com/: false
+  https://iterm2.com/features.html: false
