@@ -14,14 +14,8 @@ tags:
     - reduce
     - javascript
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1531721262/bench-accounting-49909-unsplash_s1yasn.jpg
+description: Clever one-liners are all the rage but do we really need them to display how well we can code?
 ---
-
-<figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531721262/bench-accounting-49909-unsplash_s1yasn.jpg" />
-    <figcaption>
-       <em>Photo by Bench Accounting on Unsplash</em>
-    </figcaption>
-</figure>
 
 
 One of the biggest lessons I am trying to learn as a mid-level dev is *keeping my code simple*.

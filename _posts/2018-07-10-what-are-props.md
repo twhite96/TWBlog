@@ -15,14 +15,8 @@ tags:
   - react components
   - component props
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1531190202/chuttersnap-710335-unsplash_tsxgat.jpg
+description: Components and props are the lifeblood of a React app. What are they and how do they work?
 ---
-
-<figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531190202/chuttersnap-710335-unsplash_tsxgat.jpg" />
-    <figcaption>
-       <em>Photo by chuttersnap on Unsplash</em>
-    </figcaption>
-</figure>
 
 In order to understand how React renders the UI, we need to understand two crucial elements to a React application: *components* and *props*. Each of these elements allow you to reuse pieces of your application and think about each piece in isolation of the others. 
 
