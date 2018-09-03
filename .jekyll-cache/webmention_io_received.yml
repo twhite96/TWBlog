@@ -787,4 +787,66 @@
     type: repost
     content: <p><a href="https://github.com/patrickkettner">Patrick Kettner</a> retweeted
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
-"/my-iterm-setup/": {}
+"/my-iterm-setup/":
+  '546035':
+    id: '546035'
+    uri: https://twitter.com/TiffanyW_412/status/1036636183118405632#favorited-by-9696792
+    source: twitter
+    pubdate: 2018-09-03 15:48:30.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/TiffanyW_412/1036636183118405632/9696792
+      verified: true
+      verified_date: '2018-09-03T15:48:30+00:00'
+      id: 546035
+      private: false
+      data:
+        author: &19
+          name: Scott
+          url: https://twitter.com/scottaw
+          photo: https://webmention.io/avatar/pbs.twimg.com/30a275aa155c313aa303de027f48dd94444f20dadda19189dfb0fc7bdae105c4.jpg
+        url: https://twitter.com/TiffanyW_412/status/1036636183118405632#favorited-by-9696792
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Scott favorited a tweet https://tiffanywhite.tech/my-iterm-setup/
+        sentence_html: <a href="https://twitter.com/scottaw">Scott</a> favorited a
+          tweet <a href="https://tiffanywhite.tech/my-iterm-setup/">https://tiffanywhite.tech/my-iterm-setup/</a>
+      target: https://tiffanywhite.tech/my-iterm-setup/
+    author: *19
+    type: like
+    content: <p><a href="https://twitter.com/scottaw">Scott</a> favorited a tweet
+      <a href="https://tiffanywhite.tech/my-iterm-setup/">https://tiffanywhite.tech/my-iterm-setup/</a></p>
+  '546069':
+    id: '546069'
+    uri: https://twitter.com/TiffanyW_412/status/1036636183118405632#favorited-by-630169387
+    source: twitter
+    pubdate: 2018-09-03 17:25:43.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/TiffanyW_412/1036636183118405632/630169387
+      verified: true
+      verified_date: '2018-09-03T17:25:43+00:00'
+      id: 546069
+      private: false
+      data:
+        author: &20
+          name: Michelle Janosi
+          url: https://twitter.com/MichelleJanosi
+          photo: https://webmention.io/avatar/pbs.twimg.com/11ff828b6e6b2b3affcd388f1b6717babb29ca5abc0aeb4063e5f5c66282e20a.jpg
+        url: https://twitter.com/TiffanyW_412/status/1036636183118405632#favorited-by-630169387
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Michelle Janosi favorited a tweet https://tiffanywhite.tech/my-iterm-setup/
+        sentence_html: <a href="https://twitter.com/MichelleJanosi">Michelle Janosi</a>
+          favorited a tweet <a href="https://tiffanywhite.tech/my-iterm-setup/">https://tiffanywhite.tech/my-iterm-setup/</a>
+      target: https://tiffanywhite.tech/my-iterm-setup/
+    author: *20
+    type: like
+    content: <p><a href="https://twitter.com/MichelleJanosi">Michelle Janosi</a> favorited
+      a tweet <a href="https://tiffanywhite.tech/my-iterm-setup/">https://tiffanywhite.tech/my-iterm-setup/</a></p>
