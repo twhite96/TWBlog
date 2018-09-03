@@ -90,9 +90,9 @@ I also learned how to open different panes in one iTerm window reading that post
 
 I wanted to use other iconography than the default spaceship icons because for whatever reason I couldn't get them to work.
 
-As I read the issues for spaceship, I found an [issue](https://github.com/denysdovhan/spaceship-prompt/issues/401) about changing the glyphs to [Nerd Fonts](https://nerdfonts.com/). After reading their [You’re Missing Out on a Better Mac Terminal Experience](https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7) I figured out how to get them to work.
+As I read the issues for spaceship, I found an [issue](https://github.com/denysdovhan/spaceship-prompt/issues/401) about changing the glyphs to [Nerd Fonts](https://nerdfonts.com/). After reading [You’re Missing Out on a Better Mac Terminal Experience](https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7) on Medium I figured out how to get them to work.
 
-Using spaceships customizations I ended up with the headphone and flash glyphs instead of my machine name for the terminal prefix.
+Using spaceship's customizations I ended up with the headphone and flash glyphs instead of my machine name for the terminal prefix.
 
 Here are some of the customizations I made:
 
