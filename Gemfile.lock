@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.1)
+    activesupport (5.2.0)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -61,7 +61,7 @@ GEM
     httparty (0.15.7)
       multi_xml (>= 0.5.2)
     httpclient (2.8.3)
-    i18n (1.1.0)
+    i18n (1.0.1)
       concurrent-ruby (~> 1.0)
     jekyll (3.6.2)
       addressable (~> 2.4)
@@ -85,7 +85,7 @@ GEM
       verbal_expressions (~> 0.1.5)
     jekyll-archives (2.1.1)
       jekyll (>= 2.4)
-    jekyll-cloudinary (1.13.0)
+    jekyll-cloudinary (1.12.4)
       fastimage (~> 2.0)
       jekyll (~> 3.6)
     jekyll-feed (0.10.0)
@@ -95,21 +95,19 @@ GEM
       jekyll (>= 2.5, < 4.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
-    jekyll-include-cache (0.1.0)
-      jekyll (~> 3.3)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.5.0)
       jekyll (~> 3.3)
-    jekyll-theme-hydeout (3.7.1)
+    jekyll-theme-hydeout (3.7.0)
       jekyll (~> 3.4)
       jekyll-feed (~> 0.6)
       jekyll-gist (~> 1.4)
       jekyll-paginate (~> 1.1)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    jekyll-webmention_io (2.9.6)
+    jekyll-webmention_io (2.9.3)
       htmlbeautifier (~> 1.1)
       http (~> 2.0)
       jekyll (>= 2.0, < 4.0)
@@ -134,7 +132,7 @@ GEM
     multipart-post (2.0.0)
     nokogiri (1.8.4)
       mini_portile2 (~> 2.3.0)
-    octokit (4.11.0)
+    octokit (4.9.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     octopress-social (1.4.5)
       jekyll (>= 2.0)
@@ -142,8 +140,8 @@ GEM
     parallel (1.12.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
-    progressbar (1.10.0)
-    public_suffix (3.0.3)
+    progressbar (1.9.0)
+    public_suffix (3.0.2)
     pygments.rb (1.2.1)
       multi_json (>= 1.0.0)
     rake (12.3.1)
@@ -197,7 +195,6 @@ DEPENDENCIES
   jekyll-cloudinary
   jekyll-font-awesome-sass
   jekyll-gist
-  jekyll-include-cache
   jekyll-paginate
   jekyll-seo-tag
   jekyll-theme-hydeout (~> 3.4)
