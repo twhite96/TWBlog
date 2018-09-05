@@ -43,14 +43,14 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531430722/Now Page Screenshots/iPhone/july_now.png" />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1536120260/Now%20Page%20Screenshots/iPhone/august_now.png />
     <figcaption>My homescreen reflects what I am trying to do with technology: work, fun, and productivity</figcaption>
 </figure>
 
 ---
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531443904/Now%20Page%20Screenshots/iPad/ipad_july_now.png" />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1536120809/Now%20Page%20Screenshots/iPad/august_now_ipad.png" />
     <figcaption>Going fully mobile during the holidays. Sold my ailing MacBook Pro. Coda for iOS, Textastic, GoCoEdit, Working Copy, Affinity Photo, and Luma Fusion will make this a full on workstation.</figcaption>
 </figure>
 
