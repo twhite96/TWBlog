@@ -85,7 +85,7 @@ This may seem like a lot and it is. I don't know if I'll get everything done, bu
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/TiffanyW_412) Or don’t. 🤷🏿
 
-<i>Last Updated: 2018-07-12 21.21.24</i>
+*Last Updated: 2018-09-05 00.34.48*
 
 &nbsp;
 
