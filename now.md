@@ -66,13 +66,13 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 ## What's On My Mac?
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531441475/Now%20Page%20Screenshots/Mac/Screenshot-2018-07-12_08-21-45_PM.png" />
-    <figcaption>My main focus on my Mac is the Check Yo Self and the CLI library I am building off of it.</figcaption>
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1536122421/Now%20Page%20Screenshots/Mac/Screenshot-2018-09-05_12-38-46_AM.png" />
+    <figcaption>Übersicht is a pretty nifty alternative to GeekTool</figcaption>
 </figure>
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531441478/Now%20Page%20Screenshots/Mac/Screenshot-2018-07-12_08-23-07_PM.png" />
-    <figcaption>Hyper again while I decide how to build a documentation site with CRA and React Stylist. Also <a href="https://itunes.apple.com/us/app/things-3/id904280696?mt=12&uo=4&at=1001lnT5">Things 3</a> which is by far the best task manager I've ever used. I usually never look at my task managers but I do this. Excellent, albeit expensive, software.</figcaption>
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1536122421/Now%20Page%20Screenshots/Mac/Screenshot-2018-09-05_12-38-18_AM.png" />
+    <figcaption>Übersicht on the second monitor.</figcaption>
 </figure>
 
 
@@ -85,7 +85,7 @@ This may seem like a lot and it is. I don't know if I'll get everything done, bu
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/TiffanyW_412) Or don’t. 🤷🏿
 
-*Last Updated: 2018-09-05 00.34.48*
+*Last Updated: 2018-09-05 00.43.15*
 
 &nbsp;
 
