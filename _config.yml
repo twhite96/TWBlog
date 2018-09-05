@@ -29,10 +29,10 @@ paginate_path:    '/page:num'
 webmentions:
   username: tiffanywhite.tech
   # templates:
-  #   _includes/webmentions/webmentions.html
-  #   _includes/webmentions/count.html
-  #   _includes/webmentions/reposts.html
-  #   _includes/webmentions/likes.html
+  #   _includes/webmentions.html
+  #   _includes/count.html
+  #   _includes/reposts.html
+  #   _includes/likes.html
   # throttle_lookups:
   #   last_week: daily
   #   last_month: weekly
