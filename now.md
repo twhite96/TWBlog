@@ -33,6 +33,7 @@ This one, Tiffany R. White Blog
 I am building a markdown grammar checker called [Check Yo Self](https://github.com/twhite96/checkyoself).
 
 I am working on launching a new podcast called [DevBytes](https://devbytes.tech/).
+
 ---
 
 ## What's On My Pocket Computer?
