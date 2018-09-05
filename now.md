@@ -43,7 +43,7 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1536120260/Now%20Page%20Screenshots/iPhone/august_now.png />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1536121909/Now%20Page%20Screenshots/iPhone/iphone_august.png" />
     <figcaption>My homescreen reflects what I am trying to do with technology: work, fun, and productivity</figcaption>
 </figure>
 
