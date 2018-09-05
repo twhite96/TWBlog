@@ -17,11 +17,12 @@ Derek Sivers set up a website called [nownownow.com](http://nownownow.com/about)
 
 ## What Am I Doing *Now*?
 
-I live on the outskirts of Pittsburgh, PA and I am currently learning at a breakneck pace full-stack web development with [Wes Bos Courses](https://wesbos.com/courses/), [freeCodeCamp](https://www.freecodecamp.org/), and [Udemy](https://www.udemy.com/).
+I live in Central PA and I am currently learning at a breakneck pace full-stack web development with [Wes Bos Courses](https://wesbos.com/courses/), [freeCodeCamp](https://www.freecodecamp.org/), and [Udemy](https://www.udemy.com/).
 
 I am trying to get into better shape and am doing well at it.
 
-I am currently waiting to hear back from another internsh
+I am currently waiting to get things set up to freelance for CivicMapper.
+
 I am working on two blogs:
 
 This one, Tiffany R. White Blog
@@ -32,9 +33,6 @@ This one, Tiffany R. White Blog
 I am building a markdown grammar checker called [Check Yo Self](https://github.com/twhite96/checkyoself).
 
 I am working on launching a new podcast called [DevBytes](https://devbytes.tech/).
-
-I also have Evernote and Programming [^1] books in the works.
-
 ---
 
 ## What's On My Pocket Computer?
@@ -85,8 +83,5 @@ This may seem like a lot and it is. I don't know if I'll get everything done, bu
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/TiffanyW_412) Or don’t. 🤷🏿
 
-*Last Updated: 2018-09-05 00.43.15*
+*Last Updated: 2018-09-05 00.46.19*
 
-&nbsp;
-
-[^1]: Not sure what about yet.
