@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/ecommerce-class/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Front-End
   - General Updates

@@ -7,7 +7,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/avoid-javascript-fatigue-make-a-learning-map/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Learning
   - Programming

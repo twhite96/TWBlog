@@ -10,7 +10,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/fear-loathing-anxiety-pittsburgh/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
   - Semester Updates

@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/objects-and-json-2/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - "Tiffany's Posts"
 ---

@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/diving-into-small-apps/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
   - Programming

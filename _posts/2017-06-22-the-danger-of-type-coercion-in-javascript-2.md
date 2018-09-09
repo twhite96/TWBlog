@@ -7,7 +7,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/the-danger-of-type-coercion-in-javascript-2/
 published: true
-tags: [ ]
+tags: uncategorized
 categories: [ ]
 ---
 <h2 id=&quot;what-is-type-coercion&quot;>What is Type Coercion</h2>

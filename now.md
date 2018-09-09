@@ -7,7 +7,7 @@ post_date: 2017-06-12 22:07:31
 layout: page
 sidebar_link: true
 published: true
-tags: [ ]
+tags: uncategorized
 categories: [ ]
 ---
 

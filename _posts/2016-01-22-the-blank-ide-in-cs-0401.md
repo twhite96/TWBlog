@@ -10,7 +10,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/the-blank-ide-in-cs-0401/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Programming
   - Semester Updates

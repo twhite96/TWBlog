@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/array-methods-in-javascript-2/
 published: true
-tags: [ ]
+tags: uncategorized
 categories: [ ]
 ---
 <p><img src=&quot;/images/Methods.jpeg&quot; alt=&quot;Methods&quot; /></p>

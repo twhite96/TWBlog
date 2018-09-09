@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/using-trello-to-track-learning/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
   - Ideas

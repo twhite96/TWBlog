@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/confidence-self-talk/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Programming
   - Semester Updates

@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/digging-into-oop-javascript/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Progress
   - Programming
