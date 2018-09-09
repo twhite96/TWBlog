@@ -11,7 +11,7 @@ sidebar_link: true
 ---
 
 
-<img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,q_auto:good,w_942/v1536476002/Profile%20Photos/IMG_4148.jpg"> Hi. I'm&nbsp;Tiffany. I am an front-end dev in Pennsylvania. I have been programming as an autodidact and university student for three years. I attended the University of Pittsburgh for two years after a stint in a few junior colleges here in PA.
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,q_auto:good,w_942/v1536476002/Profile%20Photos/IMG_4148.jpg"> Hi. I'm Tiffany. I am a front-end dev in Pennsylvania. I have been programming as an autodidact and university student for three years. I attended the University of Pittsburgh for two years after a stint in a few junior colleges here in PA.
 
 My toolbox contains JavaScript, React, some Rails, and CSS Grid and Flexbox.
 
