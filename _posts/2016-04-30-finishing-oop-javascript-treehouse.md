@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/finishing-oop-javascript-treehouse/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Updates
   - Programming

@@ -5,7 +5,7 @@ author: Tiffany White
 post_date: 2015-01-12 01:13:59
 layout: page
 published: true
-tags: [ ]
+tags: uncategorized
 categories: [ ]
 sidebar_link: true
 ---

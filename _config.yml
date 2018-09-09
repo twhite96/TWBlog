@@ -28,11 +28,18 @@ paginate_path:    '/page:num'
 
 webmentions:
   username: tiffanywhite.tech
-  # templates:
-  #   _includes/webmentions.html
-  #   _includes/count.html
-  #   _includes/reposts.html
-  #   _includes/likes.html
+  legacy_domains:
+   - http://helloburgh.me
+   - https://helloburgh.me
+   - https://twhite96.github.io
+   - http://twhite96.github.io
+  cache_bad_uris_for: 365
+  templates:
+    count: _includes/webmentions/count.html
+    likes: _includes/webmentions/likes.html
+    webmentions: _includes/webmentions/webmentions.html
+    reposts: _includes/webmentions/reposts.html
+  # debug: true
   # throttle_lookups:
   #   last_week: daily
   #   last_month: weekly
@@ -96,14 +103,14 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
-search: true
-search_full_content: true # true, false (default)
-search_provider: algolia
-algolia:
-  application_id: VVKLD2O8OY
-  index_name: thatmacnerd
-  search_only_api_key: ce7660039cd338fcfa54fbce856ddd0a
-  powered_by: true
+# search: true
+# search_full_content: true # true, false (default)
+# search_provider: algolia
+# algolia:
+#   application_id: VVKLD2O8OY
+#   index_name: thatmacnerd
+#   search_only_api_key: ce7660039cd338fcfa54fbce856ddd0a
+#   powered_by: true
 
 font-awesome:
   assets: true

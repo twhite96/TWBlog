@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/oss-back-basics/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - "Tiffany's Posts"
 ---

@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/leveling-up-as-a-programmer/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
 ---

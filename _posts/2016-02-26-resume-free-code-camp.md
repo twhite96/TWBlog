@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/resume-free-code-camp/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Progress
   - Productivity

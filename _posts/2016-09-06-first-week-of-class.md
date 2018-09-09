@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/first-week-of-class/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Pitt
   - Semester Updates

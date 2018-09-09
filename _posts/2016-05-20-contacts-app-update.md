@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/contacts-app-update/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Updates
   - Programming

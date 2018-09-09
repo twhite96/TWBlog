@@ -7,7 +7,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/javascript-vs-java-pass-by-value-and-reference-2/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - "Tiffany's Posts"
 ---

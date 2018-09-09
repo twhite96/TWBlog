@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/rainbow-explosion-hangman/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Ideas
   - Programming

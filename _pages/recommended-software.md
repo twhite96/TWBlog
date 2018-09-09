@@ -8,7 +8,7 @@ layout: page
 link: >
   https://tiffanywhite.tech/recommended-software/
 published: true
-tags: [ ]
+tags: uncategorized
 categories: [ ]
 ---
 I am writing a piece over at <a href="https://dev.to/">https://dev.to</a> on my MacBook Pro development setup. Thought I'd make a page on the blog to give you actual links to the software I am using.

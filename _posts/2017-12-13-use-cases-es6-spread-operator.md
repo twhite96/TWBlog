@@ -30,7 +30,7 @@ console.log(b);
 
 This will give us:
 
-https://i.imgur.com/JbUw3T7.gif
+![](https://i.imgur.com/JbUw3T7.gif)
 
 The spread operator replaces the `concat` function in ES5:
 
@@ -52,8 +52,8 @@ You can use the spread operator to combine arrays:
 
 ```javascript
 let test = () =&gt; {
-  let arr1 = [&#039;foo&#039;, &#039;bar&#039;, &#039;baz&#039;];
-  let arr2 = [&#039;fizz&#039;, &#039;buzz&#039;];
+  let arr1 = ['foo', 'bar','baz'];
+  let arr2 = ['fizz', 'buzz'];
   arr1.push(...arr2); // Will append the contents of arr2 to arr1
 };
 
