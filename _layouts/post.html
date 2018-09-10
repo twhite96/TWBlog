@@ -29,9 +29,16 @@ layout: default
   <div class="pad flex-right">
     {% include large-button-followers.html %}
   </div><br />
+  
+  {% webmention_count page.url %}
+  {% webmention_likes page.url %}
+  {% webmentions page.url %}
+  {% webmention_reposts page.url %}
+
+  {% comment %}
   {% include webmentions/count.html %}
   {% include webmentions/likes.html %}
   {% include webmentions/webmentions.html %}
   {% include webmentions/reposts.html %}
-  {% include related_posts.html %}
+  {% endcomment %}
 </div>
