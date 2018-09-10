@@ -1,6 +1,5 @@
 {% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
 <div class="webmentions"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}>
-  <h2>Webmentions</h2>
   {% if webmentions.size > 0 %}
     <ol class="webmentions__list">
       {% for webmention in webmentions %}
@@ -79,4 +78,4 @@
   {% else %}
     <p class="webmentions__not-found">No webmentions were found.</p>
   {% endif %}
-</divtwhiteblog
+  </div>
