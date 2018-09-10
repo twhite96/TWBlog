@@ -36,9 +36,9 @@ webmentions:
   cache_bad_uris_for: 365
   templates:
     count: _includes/webmentions/count.html
-    likes: _includes/webmentions/likes.html
+    # likes: _includes/webmentions/likes.html
     # webmentions: _includes/webmentions/webmentions.html
-    reposts: _includes/webmentions/reposts.html
+    # reposts: _includes/webmentions/reposts.html
   # debug: true
   # throttle_lookups:
   #   last_week: daily
