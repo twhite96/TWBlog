@@ -23,7 +23,7 @@ I also have the standard Monokai, [Cobalt2](https://github.com/wesbos/cobalt2/),
 
 ## Extensions
 
-I have *a lot* of extensions. Let's just get that out of the way[^1]:
+I have *a lot* of extensions. Let's just get that out of the way. I know I should delete a lot of them and I have. Just need to go *a little further*.[^1]:
 
 <figure>
     <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1535578739/My%20VSCode%20Setup/Extensions/extensions_vscode.png" />
