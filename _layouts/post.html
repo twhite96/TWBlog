@@ -33,6 +33,10 @@ layout: default
   {% webmention_count page.url %}
   {% webmentions page.url %}
 
+  <div class="pad">
+      {% include related_posts.html %}
+  </div><br />
+
   {% comment %}
   {% include webmentions/count.html %}
   {% include webmentions/webmentions.html %}
