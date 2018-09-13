@@ -5,7 +5,36 @@
 "/design-woes-and-look-at-that-css-2/": {}
 "/return-to-google/": {}
 "/design-book/": {}
-"/javascript-machine/": {}
+"/javascript-machine/":
+  '1037739465358364672':
+    id: '1037739465358364672'
+    uri: https://twitter.com/DominikTo/status/1037739465358364672
+    source: twitter
+    pubdate: 2018-09-06 12:29:03.000000000 -04:00
+    raw:
+      source: https://brid-gy.appspot.com/repost/twitter/evertp/1037705105598861312/1037739465358364672
+      verified: true
+      verified_date: '2018-09-06T16:31:36+00:00'
+      id: 546771
+      private: false
+      data:
+        author: &1
+          name: Dominik Tobschall
+          url: http://tobschall.de
+          photo: https://webmention.io/avatar/pbs.twimg.com/bd2479e8ad4524dc6602bcb5291500141062cebf19f25bb2566fc53c2ab030f9.png
+        url: https://twitter.com/DominikTo/status/1037739465358364672
+        name: 
+        content: 
+        published: '2018-09-06T16:29:03+00:00'
+        published_ts: 1536251343
+      activity:
+        type: repost
+        sentence: 
+        sentence_html: 
+      target: https://evertpot.com/curveball-typescript-framework/
+    author: *1
+    type: repost
+    content: ''
 "/tech/": {}
 "/code-newbie-smackdown-ides/": {}
 "/dash-is-a-thing/": {}
@@ -229,7 +258,7 @@
       id: 544907
       private: false
       data:
-        author: &1
+        author: &2
           name: F Ξ R Λ L
           url: https://twitter.com/feralCode
           photo: https://webmention.io/avatar/pbs.twimg.com/a0d903cce19e7823d24d076bd9e57e068181052fd18910cf2cc5a4057db20647.jpg
@@ -244,7 +273,7 @@
         sentence_html: <a href="https://twitter.com/feralCode">F Ξ R Λ L</a> favorited
           a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *1
+    author: *2
     type: like
     content: <p><a href="https://twitter.com/feralCode">F Ξ R Λ L</a> favorited a
       tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -260,7 +289,7 @@
       id: 544906
       private: false
       data:
-        author: &2
+        author: &3
           name: "((( ¯\\_(ಠ_ಠ)_/¯ ))) @ waiting for ElixirConf"
           url: https://twitter.com/_kmwhite
           photo: https://webmention.io/avatar/pbs.twimg.com/18bd7be8dc3c81a28991d0af3b81a1a15eb740edcade0e992126a4af5fc773fd.jpg
@@ -276,7 +305,7 @@
         sentence_html: <a href="https://twitter.com/_kmwhite">((( ¯\_(ಠ_ಠ)_/¯ )))
           @ waiting for ElixirConf</a> favorited a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *2
+    author: *3
     type: like
     content: <p><a href="https://twitter.com/_kmwhite">((( ¯_(ಠ_ಠ)_/¯ ))) @ waiting
       for ElixirConf</a> favorited a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -292,7 +321,7 @@
       id: 544910
       private: false
       data:
-        author: &3
+        author: &4
           name: Hannan Ali
           url: https://twitter.com/computistic
           photo: https://webmention.io/avatar/pbs.twimg.com/7ee4f9786c26b0e136c81063287bb2a3efcd407290c83e25a65ac8be16efedef.jpg
@@ -307,7 +336,7 @@
         sentence_html: <a href="https://twitter.com/computistic">Hannan Ali</a> favorited
           a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *3
+    author: *4
     type: like
     content: <p><a href="https://twitter.com/computistic">Hannan Ali</a> favorited
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -323,7 +352,7 @@
       id: 544930
       private: false
       data:
-        author: &4
+        author: &5
           name: Bruce_Adams
           url: https://twitter.com/Bruce_Adams
           photo: https://webmention.io/avatar/pbs.twimg.com/a53eea84ac81aed55ba0005cbadd3b1e695be6e83bf4cbd7ed2e09a167162d58.jpg
@@ -338,7 +367,7 @@
         sentence_html: <a href="https://twitter.com/Bruce_Adams">Bruce_Adams</a> favorited
           a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *4
+    author: *5
     type: like
     content: <p><a href="https://twitter.com/Bruce_Adams">Bruce_Adams</a> favorited
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -354,7 +383,7 @@
       id: 544998
       private: false
       data:
-        author: &5
+        author: &6
           name: "Frederik \U0001F920 Creemers"
           url: https://twitter.com/_bigblind
           photo: https://webmention.io/avatar/pbs.twimg.com/d263b90ef41f7ec91e23815545832fe8a7e10174e48d7f2dadb1ee8a83773d7f.jpg
@@ -369,7 +398,7 @@
         sentence_html: "<a href=\"https://twitter.com/_bigblind\">Frederik \U0001F920
           Creemers</a> favorited a tweet <a href=\"https://tiffanywhite.tech/my-vscode-setup/\">https://tiffanywhite.tech/my-vscode-setup/</a>"
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *5
+    author: *6
     type: like
     content: "<p><a href=\"https://twitter.com/_bigblind\">Frederik \U0001F920 Creemers</a>
       favorited a tweet <a href=\"https://tiffanywhite.tech/my-vscode-setup/\">https://tiffanywhite.tech/my-vscode-setup/</a></p>"
@@ -385,7 +414,7 @@
       id: 545012
       private: false
       data:
-        author: &6
+        author: &7
           name: Raymond Sanchez
           url: https://twitter.com/agileraymond
           photo: https://webmention.io/avatar/pbs.twimg.com/f4b4cf499180b6752aa8d170d05145b16b9f2ce26aeb45c7725497f346e0c8ab.png
@@ -400,7 +429,7 @@
         sentence_html: <a href="https://twitter.com/agileraymond">Raymond Sanchez</a>
           favorited a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *6
+    author: *7
     type: like
     content: <p><a href="https://twitter.com/agileraymond">Raymond Sanchez</a> favorited
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -416,7 +445,7 @@
       id: 545102
       private: false
       data:
-        author: &7
+        author: &8
           name: Brian Clark
           url: https://twitter.com/_clarkio
           photo: https://webmention.io/avatar/pbs.twimg.com/c6518bffeb2244f9e675fbbb04ca18c41da23572bf55c639ec16cabcdec6b543.jpg
@@ -431,7 +460,7 @@
         sentence_html: <a href="https://twitter.com/_clarkio">Brian Clark</a> favorited
           a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *7
+    author: *8
     type: like
     content: <p><a href="https://twitter.com/_clarkio">Brian Clark</a> favorited a
       tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -447,7 +476,7 @@
       id: 545166
       private: false
       data:
-        author: &8
+        author: &9
           name: Kenneth John
           url: https://twitter.com/ken_wheeler
           photo: https://webmention.io/avatar/pbs.twimg.com/025c45bc3fea0172a6b83abaa5cdf927b19d0bb7d34530b96a3f26f1ef3e6858.jpg
@@ -462,7 +491,7 @@
         sentence_html: <a href="https://twitter.com/ken_wheeler">Kenneth John</a>
           favorited a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *8
+    author: *9
     type: like
     content: <p><a href="https://twitter.com/ken_wheeler">Kenneth John</a> favorited
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -478,7 +507,7 @@
       id: 545184
       private: false
       data:
-        author: &9
+        author: &10
           name: Jason Wattier
           url: https://twitter.com/jmwatt3
           photo: https://webmention.io/avatar/pbs.twimg.com/efb2ba13fbc3537e20c8d3f81da875e8e154df69fc42131885b4a65684d1055c.jpg
@@ -493,7 +522,7 @@
         sentence_html: <a href="https://twitter.com/jmwatt3">Jason Wattier</a> favorited
           a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *9
+    author: *10
     type: like
     content: <p><a href="https://twitter.com/jmwatt3">Jason Wattier</a> favorited
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -509,7 +538,7 @@
       id: 545195
       private: false
       data:
-        author: &10
+        author: &11
           name: Alexis Menard
           url: https://twitter.com/darktears
           photo: https://webmention.io/avatar/pbs.twimg.com/9b2721bccdea4b04dc3fbc6f60dc4ce4567857afa1e8579b986338a2a147c8f7.jpg
@@ -524,7 +553,7 @@
         sentence_html: <a href="https://twitter.com/darktears">Alexis Menard</a> favorited
           a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *10
+    author: *11
     type: like
     content: <p><a href="https://twitter.com/darktears">Alexis Menard</a> favorited
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -540,7 +569,7 @@
       id: 545197
       private: false
       data:
-        author: &11
+        author: &12
           name: Matías Olivera
           url: https://twitter.com/_matiasolivera
           photo: https://webmention.io/avatar/pbs.twimg.com/6c0b2dd7f2aa0a91aa53b9fed0b3a63e5aa2347bbf7d63a1db022a302e733413.jpg
@@ -555,7 +584,7 @@
         sentence_html: <a href="https://twitter.com/_matiasolivera">Matías Olivera</a>
           favorited a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *11
+    author: *12
     type: like
     content: <p><a href="https://twitter.com/_matiasolivera">Matías Olivera</a> favorited
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -571,7 +600,7 @@
       id: 545234
       private: false
       data:
-        author: &12
+        author: &13
           name: Vitalii Bobrov
           url: https://twitter.com/bobrov1989
           photo: https://webmention.io/avatar/pbs.twimg.com/0ef7730f90b5f224abc346d43f0789fa148be12f1fa70ec332ce0ff277854172.jpg
@@ -586,7 +615,7 @@
         sentence_html: <a href="https://twitter.com/bobrov1989">Vitalii Bobrov</a>
           favorited a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *12
+    author: *13
     type: like
     content: <p><a href="https://twitter.com/bobrov1989">Vitalii Bobrov</a> favorited
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -602,7 +631,7 @@
       id: 545235
       private: false
       data:
-        author: &13
+        author: &14
           name: Gunnar Grosch
           url: https://twitter.com/GunnarGrosch
           photo: https://webmention.io/avatar/pbs.twimg.com/9c9a1bf5cddbdd8f3e54b5af1cdfaa30525dbe25a0cf1ea37c81478e2827e89c.jpg
@@ -617,7 +646,7 @@
         sentence_html: <a href="https://twitter.com/GunnarGrosch">Gunnar Grosch</a>
           favorited a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *13
+    author: *14
     type: like
     content: <p><a href="https://twitter.com/GunnarGrosch">Gunnar Grosch</a> favorited
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -633,7 +662,7 @@
       id: 545716
       private: false
       data:
-        author: &14
+        author: &15
           name: Hannan Ali
           url: https://twitter.com/computistic
           photo: https://webmention.io/avatar/pbs.twimg.com/7ee4f9786c26b0e136c81063287bb2a3efcd407290c83e25a65ac8be16efedef.jpg
@@ -652,7 +681,7 @@
           'Pretty good setup and of course thumbnail! One of my favorite is marketplace.vis...'
           to a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *14
+    author: *15
     type: reply
     content: <p>Pretty good setup and of course thumbnail! One of my favorite is <a
       href="https://marketplace.visualstudio.com/items?itemName=rafaelmaiolla.remote-vscode">marketplace.visualstudio.com/items?itemName…</a>
@@ -669,7 +698,7 @@
       id: 544909
       private: false
       data:
-        author: &15
+        author: &16
           name: Hannan Ali
           url: https://twitter.com/computistic
           photo: https://webmention.io/avatar/pbs.twimg.com/7ee4f9786c26b0e136c81063287bb2a3efcd407290c83e25a65ac8be16efedef.jpg
@@ -684,7 +713,7 @@
         sentence_html: <a href="https://twitter.com/computistic">Hannan Ali</a> retweeted
           a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *15
+    author: *16
     type: repost
     content: <p><a href="https://twitter.com/computistic">Hannan Ali</a> retweeted
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -700,7 +729,7 @@
       id: 544908
       private: false
       data:
-        author: &16
+        author: &17
           name: F Ξ R Λ L
           url: http://MKTR.AI
           photo: https://webmention.io/avatar/pbs.twimg.com/a0d903cce19e7823d24d076bd9e57e068181052fd18910cf2cc5a4057db20647.jpg
@@ -715,7 +744,7 @@
         sentence_html: <a href="http://MKTR.AI">F Ξ R Λ L</a> replied '' to a tweet
           <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *16
+    author: *17
     type: reply
     content: ''
   '1035302147125137414':
@@ -730,7 +759,7 @@
       id: 545168
       private: false
       data:
-        author: &17
+        author: &18
           name: Brian Clark
           url: https://www.clarkio.com
           photo: https://webmention.io/avatar/pbs.twimg.com/c6518bffeb2244f9e675fbbb04ca18c41da23572bf55c639ec16cabcdec6b543.jpg
@@ -750,7 +779,7 @@
           shared a nice write up on her VS Code setup. Check it out for some inspi...'
           linking to <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *17
+    author: *18
     type: link
     content: |-
       <p>Tiffany shared a nice write up on her VS Code setup. Check it out for some inspiration to tweak your own
@@ -768,7 +797,7 @@
       id: 545167
       private: false
       data:
-        author: &18
+        author: &19
           name: Patrick Kettner
           url: https://github.com/patrickkettner
           photo: https://webmention.io/avatar/pbs.twimg.com/43f94cb16c90da0325665b0c0cc1cb5734771742377a6512c209ca60dcf8066f.jpeg
@@ -783,7 +812,7 @@
         sentence_html: <a href="https://github.com/patrickkettner">Patrick Kettner</a>
           retweeted a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a>
       target: https://tiffanywhite.tech/my-vscode-setup/
-    author: *18
+    author: *19
     type: repost
     content: <p><a href="https://github.com/patrickkettner">Patrick Kettner</a> retweeted
       a tweet <a href="https://tiffanywhite.tech/my-vscode-setup/">https://tiffanywhite.tech/my-vscode-setup/</a></p>
@@ -800,7 +829,7 @@
       id: 546035
       private: false
       data:
-        author: &19
+        author: &20
           name: Scott
           url: https://twitter.com/scottaw
           photo: https://webmention.io/avatar/pbs.twimg.com/30a275aa155c313aa303de027f48dd94444f20dadda19189dfb0fc7bdae105c4.jpg
@@ -815,7 +844,7 @@
         sentence_html: <a href="https://twitter.com/scottaw">Scott</a> favorited a
           tweet <a href="https://tiffanywhite.tech/my-iterm-setup/">https://tiffanywhite.tech/my-iterm-setup/</a>
       target: https://tiffanywhite.tech/my-iterm-setup/
-    author: *19
+    author: *20
     type: like
     content: <p><a href="https://twitter.com/scottaw">Scott</a> favorited a tweet
       <a href="https://tiffanywhite.tech/my-iterm-setup/">https://tiffanywhite.tech/my-iterm-setup/</a></p>
@@ -831,7 +860,7 @@
       id: 546069
       private: false
       data:
-        author: &20
+        author: &21
           name: Michelle Janosi
           url: https://twitter.com/MichelleJanosi
           photo: https://webmention.io/avatar/pbs.twimg.com/11ff828b6e6b2b3affcd388f1b6717babb29ca5abc0aeb4063e5f5c66282e20a.jpg
@@ -846,8 +875,39 @@
         sentence_html: <a href="https://twitter.com/MichelleJanosi">Michelle Janosi</a>
           favorited a tweet <a href="https://tiffanywhite.tech/my-iterm-setup/">https://tiffanywhite.tech/my-iterm-setup/</a>
       target: https://tiffanywhite.tech/my-iterm-setup/
-    author: *20
+    author: *21
     type: like
     content: <p><a href="https://twitter.com/MichelleJanosi">Michelle Janosi</a> favorited
       a tweet <a href="https://tiffanywhite.tech/my-iterm-setup/">https://tiffanywhite.tech/my-iterm-setup/</a></p>
-"/mvp/": {}
+"/mvp/":
+  '548389':
+    id: '548389'
+    uri: https://twitter.com/TiffanyW_412/status/1040238671402741765#favorited-by-8034452
+    source: twitter
+    pubdate: 2018-09-13 16:12:46.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/TiffanyW_412/1040238671402741765/8034452
+      verified: true
+      verified_date: '2018-09-13T16:12:46+00:00'
+      id: 548389
+      private: false
+      data:
+        author: &22
+          name: Lee Stetson
+          url: https://twitter.com/stetsonthree
+          photo: https://webmention.io/avatar/pbs.twimg.com/b1887114b0b9c8c5ed8b1bda7ae4e8c5e154df4ca0cd7462fe501e06222222c1.jpg
+        url: https://twitter.com/TiffanyW_412/status/1040238671402741765#favorited-by-8034452
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Lee Stetson favorited a tweet https://tiffanywhite.tech/mvp/
+        sentence_html: <a href="https://twitter.com/stetsonthree">Lee Stetson</a>
+          favorited a tweet <a href="https://tiffanywhite.tech/mvp/">https://tiffanywhite.tech/mvp/</a>
+      target: https://tiffanywhite.tech/mvp/
+    author: *22
+    type: like
+    content: <p><a href="https://twitter.com/stetsonthree">Lee Stetson</a> favorited
+      a tweet <a href="https://tiffanywhite.tech/mvp/">https://tiffanywhite.tech/mvp/</a></p>
