@@ -911,3 +911,67 @@
     type: like
     content: <p><a href="https://twitter.com/stetsonthree">Lee Stetson</a> favorited
       a tweet <a href="https://tiffanywhite.tech/mvp/">https://tiffanywhite.tech/mvp/</a></p>
+  '548437':
+    id: '548437'
+    uri: https://twitter.com/TiffanyW_412/status/1040238671402741765#favorited-by-1230994442
+    source: twitter
+    pubdate: 2018-09-13 20:52:01.000000000 +00:00
+    raw:
+      source: https://brid-gy.appspot.com/like/twitter/TiffanyW_412/1040238671402741765/1230994442
+      verified: true
+      verified_date: '2018-09-13T20:52:01+00:00'
+      id: 548437
+      private: false
+      data:
+        author: &23
+          name: Raymond Sanchez
+          url: https://twitter.com/agileraymond
+          photo: https://webmention.io/avatar/pbs.twimg.com/f4b4cf499180b6752aa8d170d05145b16b9f2ce26aeb45c7725497f346e0c8ab.png
+        url: https://twitter.com/TiffanyW_412/status/1040238671402741765#favorited-by-1230994442
+        name: 
+        content: 
+        published: 
+        published_ts: 
+      activity:
+        type: like
+        sentence: Raymond Sanchez favorited a tweet https://tiffanywhite.tech/mvp/
+        sentence_html: <a href="https://twitter.com/agileraymond">Raymond Sanchez</a>
+          favorited a tweet <a href="https://tiffanywhite.tech/mvp/">https://tiffanywhite.tech/mvp/</a>
+      target: https://tiffanywhite.tech/mvp/
+    author: *23
+    type: like
+    content: <p><a href="https://twitter.com/agileraymond">Raymond Sanchez</a> favorited
+      a tweet <a href="https://tiffanywhite.tech/mvp/">https://tiffanywhite.tech/mvp/</a></p>
+  '1040295751811776512':
+    id: '1040295751811776512'
+    uri: https://twitter.com/agileraymond/status/1040295751811776512
+    source: twitter
+    pubdate: 2018-09-13 13:46:49.000000000 -04:00
+    raw:
+      source: https://brid-gy.appspot.com/repost/twitter/TiffanyW_412/1040238671402741765/1040295751811776512
+      verified: true
+      verified_date: '2018-09-13T20:52:06+00:00'
+      id: 548436
+      private: false
+      data:
+        author: &24
+          name: Raymond Sanchez
+          url: http://www.solutionsByRaymond.com
+          photo: https://webmention.io/avatar/pbs.twimg.com/f4b4cf499180b6752aa8d170d05145b16b9f2ce26aeb45c7725497f346e0c8ab.png
+        url: https://twitter.com/agileraymond/status/1040295751811776512
+        name: 
+        content: |-
+          New blog post: MVPs and Iterating Your Way to a Finished Product<br />
+          trw.im/mvp
+        published: '2018-09-13T17:46:49+00:00'
+        published_ts: 1536860809
+      activity:
+        type: repost
+        sentence: Raymond Sanchez retweeted a tweet https://tiffanywhite.tech/mvp/
+        sentence_html: <a href="http://www.solutionsByRaymond.com">Raymond Sanchez</a>
+          retweeted a tweet <a href="https://tiffanywhite.tech/mvp/">https://tiffanywhite.tech/mvp/</a>
+      target: https://tiffanywhite.tech/mvp/
+    author: *24
+    type: repost
+    content: <p><a href="http://www.solutionsByRaymond.com">Raymond Sanchez</a> retweeted
+      a tweet <a href="https://tiffanywhite.tech/mvp/">https://tiffanywhite.tech/mvp/</a></p>
