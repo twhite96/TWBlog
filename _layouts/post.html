@@ -9,7 +9,9 @@ layout: default
   {% include post-meta.html post=page %}
 
   <div class="post-body">
-    {% include read_time.html %}
+    <div class="pad-up">
+      {% include read_time.html %}
+    </div>
     {{ content }}
     {% include post-tags.html post=page %}
   </div><br />
