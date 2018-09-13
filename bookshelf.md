@@ -11,7 +11,7 @@ tags: uncategorized
 categories: [ ]
 ---
 
-<img src ="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2220/v1528082182/IMG_1506_pnkesu.jpg" />
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/v1536815361/Header%20Images/B9C7987A-0077-447B-870F-1E680C896E94-3443-00000676C7FD1A29.jpg"/>
 
 
 Things I'm reading this week/month.
