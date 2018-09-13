@@ -1997,3 +1997,5 @@ http://0.0.0.0:4000/mvp/:
   https://github.com/: false
   https://help.github.com/articles/create-a-repo/: false
   https://www.youtube.com/embed/nLF0n9SACd4': false
+  https://giphy.com/embed/3oz8xRXOGEacAXIUKI: false
+  https://giphy.com/gifs/nfl-football-celebration-3oz8xRXOGEacAXIUKI: false
