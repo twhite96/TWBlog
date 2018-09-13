@@ -9,6 +9,12 @@
   padding-top: 3px;
   padding-bottom: 5px;
 }
+.pad-up {
+  display: flex;
+  flex-direction: row;
+  padding-top: 4vh;
+  padding-bottom: 4vh;
+}
 
 
 .turq-button, a.turq-button {

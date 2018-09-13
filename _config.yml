@@ -46,6 +46,8 @@ webmentions:
   #   last_year: every 2 weeks
   #   older: monthly
 
+google_analytics: UA-61294063-1
+
 plugins:
   - jekyll-feed
   - jekyll-gist
