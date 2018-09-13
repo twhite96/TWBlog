@@ -12,15 +12,20 @@
 .pad-up {
   display: flex;
   flex-direction: row;
-  padding-top: 4vh;
-  padding-bottom: 4vh;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
 }
 
 
-.turq-button, a.turq-button {
+.purp-button, a.purp-button {
   color: #fff;
   border: 1px solid #AE1B75;
   background: #AE1B75;
+}
+
+a.purp-button:hover {
+  background-color: rgba(174,27,117, 0.8);
+  color: #fff;
 }
 
 .button, [type=button], [type=reset], [type=submit], a.button, button {
@@ -46,6 +51,25 @@
   padding-right: 1rem;
 }
 
+a.btn--twitter:hover {
+  background-color: rgb(0, 182, 241);
+  text-decoration: none;
+  cursor: pointer;
+  color: #fff;
+}
+a.btn--linkedin:hover {
+  background-color: rgb(4, 102, 154);
+  text-decoration: none;
+  cursor: pointer;
+  color: #fff;
+}
+a.btn--hacker-news:hover {
+  background-color: rgb(255, 87, 0);
+  text-decoration: none;
+  cursor: pointer;
+  color: #fff;
+}
+
 .fa-clock {
   padding-right: .1rem;
 }
@@ -54,7 +78,7 @@
   color: #fff;
 }
 
-.btn--facebook {
+.btn--hacker-news {
   background-color: #FF6600;
   color: #fff;
 }
