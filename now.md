@@ -32,8 +32,6 @@ This one, Tiffany R. White Blog
 
 I am building a markdown grammar checker called [Check Yo Self](https://github.com/twhite96/checkyoself).
 
-I am working on launching a new podcast called [DevBytes](https://devbytes.tech/).
-
 ---
 
 ## What's On My Pocket Computer?
@@ -42,14 +40,14 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1536121909/Now%20Page%20Screenshots/iPhone/iphone_august.png" />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1537934927/Now%20Page%20Screenshots/iPhone/iphone_now_sept.png" />
     <figcaption>My homescreen reflects what I am trying to do with technology: work, fun, and productivity</figcaption>
 </figure>
 
 ---
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1536120809/Now%20Page%20Screenshots/iPad/august_now_ipad.png" />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1537568761/Now%20Page%20Screenshots/iPad/ipad_pro_now_sept.png" />
     <figcaption>Going fully mobile during the holidays. Sold my ailing MacBook Pro. Coda for iOS, Textastic, GoCoEdit, Working Copy, Affinity Photo, and Luma Fusion will make this a full on workstation.</figcaption>
 </figure>
 
@@ -84,5 +82,5 @@ This may seem like a lot and it is. I don't know if I'll get everything done, bu
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/TiffanyW_412) Or don’t. 🤷🏿
 
-*Last Updated: 2018-09-05 00.46.19*
+*Last Updated: 2018-09-26 00.09.16*
 
