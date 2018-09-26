@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/scope-for-beginners-2/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - "Tiffany's Posts"
 ---

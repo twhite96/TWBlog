@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/preparing-for-free-code-camp-bonfires/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
   - Programming

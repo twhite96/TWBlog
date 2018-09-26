@@ -9,10 +9,39 @@ layout: default
   {% include post-meta.html post=page %}
 
   <div class="post-body">
+    <div class="pad-up">
+      {% include read_time.html %}
+    </div>
     {{ content }}
     {% include post-tags.html post=page %}
-  </div>
+  </div><br />
 
-  {% include comments.html %}
-  {% include related_posts.html %}
+  <div class="pad">
+    <span>{% include social-share.html %}</span>
+  </div><br />
+
+  <div class="pad">
+      {% include notice-info.html %}
+  </div><br />
+
+  <div class="pad flex-left">
+      {% include coffee.html %}
+  </div><br />
+
+  <div class="pad flex-right">
+    {% include large-button-followers.html %}
+  </div><br />
+
+  {% webmention_count page.url %}
+  {% webmentions page.url %}
+
+  <div class="pad">
+      {% include related_posts.html %}
+  </div><br />
+
+  {% comment %}
+  {% include webmentions/count.html %}
+  {% include webmentions/webmentions.html %}
+  {% include webmentions/reposts.html %}
+  {% endcomment %}
 </div>

@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/algorithms_again/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Progress
   - Programming

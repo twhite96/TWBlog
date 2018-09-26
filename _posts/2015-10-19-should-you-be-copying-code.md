@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/should-you-be-copying-code/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - "Nick's Posts"
   - Tips

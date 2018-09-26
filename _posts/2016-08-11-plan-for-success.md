@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/plan-for-success/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Progress
   - Pitt

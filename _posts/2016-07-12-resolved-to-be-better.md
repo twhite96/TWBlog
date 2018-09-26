@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/resolved-to-be-better/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
   - Pitt

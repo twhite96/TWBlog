@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/hey-everybody-lets-shit-on-js/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
   - Rants

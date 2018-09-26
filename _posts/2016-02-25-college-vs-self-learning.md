@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/college-vs-self-learning/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Uncategorized
 ---

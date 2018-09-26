@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/random-quote-generator-woes/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Progress
   - Free Code Camp

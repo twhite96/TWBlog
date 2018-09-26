@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/new-years-goals-follow/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
   - New Years Reflections

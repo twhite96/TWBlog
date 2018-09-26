@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/review-hackers/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Book Reviews
 ---

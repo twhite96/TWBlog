@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/css-animations-part-1/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - css
   - css animations
