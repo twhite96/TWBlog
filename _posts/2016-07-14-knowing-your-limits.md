@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/knowing-your-limits/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Progress
   - Free Code Camp

@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/upping-my-game-with-books-on-algorithms/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Progress
   - Semester Updates

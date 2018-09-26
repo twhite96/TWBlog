@@ -8,7 +8,7 @@ layout: page
 link: >
   https://tiffanywhite.tech/cs-self-study-plan/
 published: true
-tags: [ ]
+tags: uncategorized
 categories: [ ]
 ---
 As you're probably aware, the whole CS self-study movement got a huge boost when a guy named [John Washam](https://twitter.com/startupnextdoor), or, as his blog was called, *googleyasheck* set out on an 8 month, rigorous CS self-study plan in order to become a software engineer[^1] at Google.

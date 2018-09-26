@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/recruiting-news/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - School
   - Thoughts

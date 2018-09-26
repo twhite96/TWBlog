@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/crawling-before-you-walk/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
   - Programming

@@ -5,11 +5,14 @@
        href="{{ site.github.repo }}">
       {% include svg/github.svg %}
     </a>
-    <!-- <a id="github-download-link"
-       class="icon" title="Download" aria-label="Download"
-       href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
-      {% include svg/download.svg %}
-    </a> -->
+    <a id="github-download-link"
+       class="icon" title="Contact" aria-label="Contact"
+       href="mailto:tiffany@tiffanywhite.tech">
+      {% include svg/email.svg %}
+    </a>
+    <a href="https://dev.to/twhite" class="icon" aria-label="dev-to">
+      {% include svg/devto.svg %}
+    </a>
   {% endif %}
 
   <a id="subscribe-link"
@@ -31,14 +34,14 @@
     {% endif %}
   {% endfor %}
 
-  {% if tags_page %}
+  <!-- {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
        title="Tags" aria-label="Tags"
        href="{{ site.baseurl }}{{ tags_page.url }}">
       {% include svg/tags.svg %}
     </a>
-  {% endif %}
+  {% endif %} -->
 
   {% if search_page %}
     <a id="search-link"

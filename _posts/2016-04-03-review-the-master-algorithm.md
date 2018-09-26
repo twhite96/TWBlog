@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/review-the-master-algorithm/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Book Reviews
 ---

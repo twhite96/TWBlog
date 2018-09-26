@@ -1,0 +1,2021 @@
+---
+http://0.0.0.0:4000/alice/:
+  http://helloburgh.me/wp-content/uploads/2015/01/wpid-2015-01-12-15-13-29.png: false
+http://0.0.0.0:4000/alice-first-look/:
+  http://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2628.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2631.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2632.jpg: false
+http://0.0.0.0:4000/first-assignment-laughs-2/: {}
+http://0.0.0.0:4000/design-woes-and-look-at-that-css-2/: {}
+http://0.0.0.0:4000/return-to-google/: {}
+http://0.0.0.0:4000/design-book/: {}
+http://0.0.0.0:4000/javascript-machine/: {}
+http://0.0.0.0:4000/tech/: {}
+http://0.0.0.0:4000/code-newbie-smackdown-ides/: {}
+http://0.0.0.0:4000/dash-is-a-thing/: {}
+http://0.0.0.0:4000/animation-with-alice/: {}
+http://0.0.0.0:4000/messed-up-gems/: {}
+http://0.0.0.0:4000/my-go-woes/: {}
+http://0.0.0.0:4000/sketch-mockup-to-code/: {}
+http://0.0.0.0:4000/responsive-grid-system/:
+  http://helloburgh.me/wp-content/uploads/2015/02/wpid-footer.png: false
+http://0.0.0.0:4000/css-and-stack-overflow/:
+  http://helloburgh.me/wp-content/uploads/2015/02/wpid-6a0120a85dcdae970b012877705432970c-pi.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/02/wpid-6a0120a85dcdae970b012877705432970c-pi.jpg?w=300: false
+  https://www.behance.net/twhite412photo&quot;&gt;&lt;i: false
+  https://www.linkedin.com/in/tiffanyrwhite/&quot;&gt;&lt;i: false
+  https://twitter.com/TiffanyW_412&quot;&gt;&lt;i: false
+  https://github.com/twhite96&quot;&gt;&lt;i: false
+  https://plus.google.com/+TiffanyWhiteWriter&quot;&gt;&lt;i: false
+http://0.0.0.0:4000/programming-conditionals/: {}
+http://0.0.0.0:4000/gitmodules/: {}
+http://0.0.0.0:4000/first-episode-is-live/:
+  ? https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197062542&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true
+  : false
+http://0.0.0.0:4000/jekyll-hyde/: {}
+http://0.0.0.0:4000/pitt-and-computer-science-4/:
+  http://helloburgh.me/wp-content/uploads/2015/03/wpid-2014-09-08-15.49.47.gif: false
+http://0.0.0.0:4000/finding-tutorial-sites-and-sticking-to-them/:
+  http://helloburgh.me/wp-content/uploads/2015/04/wpid-codecademy-logo.png: false
+  https://open.spotify.com/user/carvingcarver/playlist/4DO1h8k7p3T5StFC9yuNMn: false
+http://0.0.0.0:4000/python-python-and-more-python-ep-2-is-live/:
+  http://helloburgh.me/2015/04/01/finding-tutorial-sites-and-sticking-to-them/: false
+  ? https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/199159883&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true
+  : false
+http://0.0.0.0:4000/going-through-python-and-ruby-with-zed-shaw/:
+  http://twitter.com/zedshaw: false
+  ? http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914/ref=sr_1_1?ie=UTF8&amp;qid=1428558596&amp;sr=8-1&amp;keywords=learn+python+the+hard+way
+  : false
+  http://learnpythonthehardway.org/book/: false
+  http://helloburgh.me/wp-content/uploads/2015/04/wpid-python_form.gif: false
+http://0.0.0.0:4000/argument-variables-in-python/:
+  http://helloburgh.me/wp-content/uploads/2015/04/wpid-python_argv.gif: false
+http://0.0.0.0:4000/episode-3-is-live-with-some-oddness/:
+  http://helloburgh.me: false
+  ? https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201335339&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true
+  : false
+http://0.0.0.0:4000/opening-files-in-python/:
+  http://helloburgh.me/wp-content/uploads/2015/04/wpid-reading_text_files_in_python.gif: false
+http://0.0.0.0:4000/mcjep3-podcast/:
+  http://helloburgh.me/wp-content/uploads/2015/04/51a5f6c0ae6e280917.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/04/51a5f6c0ae6e280917-300x169.jpg: false
+  http://twhite96.github.io/episode-3-is-live-with-some-oddness/: false
+  https://api.soundcloud.com/tracks/201335339: false
+http://0.0.0.0:4000/college-admissions/:
+  http://helloburgh.me/wp-content/uploads/2015/04/wpid-2014-09-08-15.49.47.gif: false
+http://0.0.0.0:4000/i-am-now-a-pitt-panther/:
+  https://helloburgh.me/wp-content/uploads/2015/05/IMG_0297.jpg: false
+http://0.0.0.0:4000/this-developers-journey-ep-4/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo.png: false
+http://0.0.0.0:4000/this-developers-journey-ep-5/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo1.png: false
+  https://codenewbie.typeform.com/to/uwsWlZ: false
+  http://meta.stackexchange.com/questions/66377/what-is-the-xy-problem: false
+  http://mywiki.wooledge.org/XyProblem: false
+  http://heroku.com: false
+http://0.0.0.0:4000/free-code-camp-rocks/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-camper-image-placeholder.png: false
+http://0.0.0.0:4000/this-developers-journey-ep-6/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo2.png: false
+  https://twitter.com/marcusp619: false
+  http://marcusp619.github.io: false
+  https://www.youtube.com/user/colbycheeze: false
+  https://kanbanflow.com: false
+  http://happenapps.com: false
+http://0.0.0.0:4000/coding-regularly/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-IMG_0413.jpg: false
+http://0.0.0.0:4000/this-developers-journey-ep-7-2/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo3.png: false
+  https://github.com/ajose01/newbie-todo: false
+  http://www.writemoretests.com/2011/09/test-driven-development-give-me-break.html: false
+  ? http://www.amazon.com/gp/product/B00UMG535Y/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00UMG535Y&amp;linkCode=as2&amp;tag=dghemailimperfectionist-20&amp;linkId=SPFLWHIELI2533YD
+  : false
+  https://www.youtube.com/watch?v=1O1fcYyIWU4: false
+http://0.0.0.0:4000/trello-for-kanban/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-Trello.png: false
+  http://blog.kanbanize.com/kanban-101-the-kanban-board/: false
+  http://www.trello.com: false
+  https://vimeo.com/129059451: false
+http://0.0.0.0:4000/all-the-pretty-languages/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-Help-button.jpg: false
+  https://www.girldevelopit.com/chapters/pittsburgh: false
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-IMG_0497.jpg: false
+  http://codepen.io/twhite96/pen/GJrdoq: false
+  http://codepen.io/twhite96/pen/GJrdoq/'&gt;GJrdoq&lt;/a&gt;: false
+  http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;: false
+  http://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]: false
+http://0.0.0.0:4000/this-developers-journey-ep-8-2/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo.png: false
+  http://simpleprogrammer.com/: false
+  ? http://www.amazon.com/gp/product/1617292397/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1617292397&amp;linkCode=as2&amp;tag=makithecompsi-20&amp;linkId=YNX4566EEVSNF3IL
+  : false
+http://0.0.0.0:4000/killing-this-code-like-a-boss/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-technology-science_520996.jpg: false
+  https://justgetflux.com/: false
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-Screenshot-2015-06-06-19.10.23.png: false
+http://0.0.0.0:4000/this-developers-journey-ep-9-2/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo1.png: false
+  http://www.ere.net/2014/01/29/looking-for-women-it-professionals-stand-in-line/: false
+  http://www.forbes.com/sites/adrianalopez/2015/03/06/making-the-technology-field-more-open-to-women/2/: false
+  http://www.codeandsupply.co/: false
+http://0.0.0.0:4000/javascript-javascript-javascript/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-js-logo-badge-256.png: false
+  https://itunes.apple.com/us/app/quiver-programmers-notebook/id866773894?mt=12: false
+http://0.0.0.0:4000/this-developers-journey-ep-10-2/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo2.png: false
+  http://codepen.io/: false
+  http://jsfiddle.net/: false
+  ? http://www.amazon.com/Introduction-JavaScript-Object-Notation--point/dp/1500650404/ref=sr_1_2?s=digital-text&amp;ie=UTF8&amp;qid=1434763675&amp;sr=8-2&amp;keywords=Introduction+to+javascript+object+notation&amp;pebp=1434763680880&amp;perid=0W5WD3H51H58YNG8FCQ7
+  : false
+  ? http://www.amazon.com/Becoming-Steve-Jobs-Evolution-Visionary/dp/0385347405/ref=sr_1_1?ie=UTF8&amp;qid=1434763756&amp;sr=8-1&amp;keywords=becoming+steve+jobs&amp;pebp=1434763762133&amp;perid=1QQVZFAZM27XF2S2Y41A
+  : false
+  https://pragprog.com/magazines: false
+  ? http://www.amazon.com/Entropy-Its-Physical-Meaning-2nd-ebook/dp/B000P0JMN6/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=8-1&amp;qid=1434763870
+  : false
+  ? http://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544227751/ref=sr_1_1?ie=UTF8&amp;qid=1434763936&amp;sr=8-1&amp;keywords=Big+Data&amp;pebp=1434763941489&amp;perid=1KKSBYM4N97SHF583Z1S
+  : false
+  ? http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_sc_1?ie=UTF8&amp;qid=1434763971&amp;sr=8-1-spell&amp;keywords=pragamatic+programmer&amp;pebp=1434763974720&amp;perid=1ESEFFY45B56CSVF0G46
+  : false
+  ? http://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1434764013&amp;sr=1-1&amp;keywords=passionate+programmer&amp;pebp=1434764018398&amp;perid=07JD6BSH22NG2N8E142Z
+  : false
+  ? http://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1434764071&amp;sr=1-1&amp;keywords=97+things+every+programmer+should+know&amp;pebp=1434764075766&amp;perid=19S22JZWS1KB78BEY7V1
+  : false
+  ? http://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1434764117&amp;sr=1-4&amp;keywords=rest+api&amp;pebp=1434764122040&amp;perid=1DAEVRR2CB7EX9DSVKMY
+  : false
+  ? http://www.amazon.com/Work-Smarter-Not-Harder-Productivity-ebook/dp/B00V8ALKN2/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1434764164&amp;sr=1-1&amp;keywords=work+smarter+not+harder&amp;pebp=1434764168733&amp;perid=1K7AAX9NWMN9M5YVW9X4
+  : false
+http://0.0.0.0:4000/yeoman-and-javascript-etc/:
+  http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg: false
+  https://appsto.re/us/UqWkO.i: false
+  https://twitter.com/marcusp619: false
+  http://yeoman.io/: false
+  https://en.m.wikipedia.org/wiki/Boilerplate_code: false
+  https://youtube.com/watch?v=gKiaLSJW5xI: false
+  https://open.spotify.com/user/thetruckert/playlist/2TY4Y6Cg3R2i3UPS2WkvYa: false
+http://0.0.0.0:4000/i-need-to-do-better/:
+  http://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/06/BusyCal.jpg: false
+  http://www.codeandsupply.co/podcast/monthly-check-in-with-new-developer-tiffany-white: false
+http://0.0.0.0:4000/moving-on-up-while-feeling-stupid/:
+  http://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg: false
+http://0.0.0.0:4000/this-developers-journey-ep-11-2/:
+  http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg: false
+  http://helloburgh.me/2015/06/25/yeoman-and-javascript-etc/: false
+  http://stackoverflow.com/questions/3992199/what-is-boilerplate-code: false
+  http://programmers.stackexchange.com/questions/148602/a-defense-for-boilerplate: false
+  http://www.oreilly.com/pub/au/4853: false
+  http://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397: false
+  http://applemusic.tumblr.com/: false
+http://0.0.0.0:4000/in-a-rut/:
+  https://www.iterm2.com/: false
+  http://helloburgh.me/wp-content/uploads/2015/07/iterm.jpg: false
+  https://mobile.twitter.com/saronyitbarek: false
+  http://www.codenewbie.org/: false
+  http://codepen.io/twhite96/pen/KpRBzd/'&gt;Address: false
+  http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;: false
+  http://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]: false
+http://0.0.0.0:4000/heroku-woes/:
+  https://helloburgh.me/wp-content/uploads/2015/07/Heroku.jpg: false
+  https://youtube.com/watch?v=uLF_hmtxAsY: false
+  https://gist.github.com/twhite96/010c6fcb268c29c554d7: false
+http://0.0.0.0:4000/this-developers-journey-ep-12-2/:
+  http://helloburgh.me/wp-content/uploads/2015/07/wpid-Dev-Logo.png: false
+  http://codepen.io/twhite96/pen/KpRBzd: false
+  http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE/ref=mt_kindle?_encoding=UTF8&amp;me=: false
+  ? http://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering-ebook/dp/B00B8USS14/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1437107146&amp;sr=1-1&amp;keywords=mythical+man+month
+  : false
+  ? http://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1437107182&amp;sr=1-1&amp;keywords=passionate+programmer
+  : false
+  ? http://www.amazon.com/REST-Design-Rulebook-Mark-Masse-ebook/dp/B005XE5A7Q/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1437107220&amp;sr=1-1&amp;keywords=rest+api+design+rulebook
+  : false
+  https://leanpub.com/build-apis-you-wont-hate: false
+  https://itunes.apple.com/us/podcast/developer-tea/id955596067?mt=2: false
+http://0.0.0.0:4000/fcc-to-treehouse/:
+  http://helloburgh.me/wp-content/uploads/2015/07/TT.jpg: false
+  https://twitter.com/nickqueen: false
+  http://nickqueen.com/: false
+  https://teamtreehouse.com/: false
+http://0.0.0.0:4000/treehouse-is-some-kind-of-special/:
+  http://helloburgh.me/wp-content/uploads/2015/07/wpid-Computer-design-elements-flat-vector-material.jpg: false
+  http://codepen.io/twhite96/pen/oXadEd/'&gt;Literary: false
+  http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;: false
+  http://codepen.io'&gt;CodePen&lt;/a&gt;.: false
+http://0.0.0.0:4000/this-developers-journey-ep-13/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-TWW_movil_20.jpg: false
+  http://teamtreehouse.com: false
+  ? http://www.amazon.com/So-Youve-Been-Publicly-Shamed-ebook/dp/B00L9B7IRC/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1438649230&amp;sr=1-1&amp;keywords=so+you%27ve+been+publicly+shamed
+  : false
+  ? http://www.amazon.com/Quick-JavaScript-Interview-Questions-Frequently-ebook/dp/B00Z06S0BK/ref=sr_1_1?ie=UTF8&amp;qid=1438649293&amp;sr=8-1&amp;keywords=quick+javascript+interview+questions
+  : false
+  ? http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1438649341&amp;sr=1-1&amp;keywords=cracking+the+coding+interview
+  : false
+  ? http://www.amazon.com/Rock-Your-Portfolio-Website-Photographers-ebook/dp/B00D8K7LRE/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1438649395&amp;sr=1-1&amp;keywords=Rock+Your+portfolio+website
+  : false
+  ? http://www.amazon.com/David-Sawyer-McFarland-JavaScript-jQuery/dp/B00RWSAMUQ/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1438649432&amp;sr=1-2&amp;keywords=javascript+%26+jquery+the+missing+manual+3rd+edition
+  : false
+  https://itunes.apple.com/us/app/affinity-photo/id824183456?mt=12: false
+  http://bohemiancoding.com/sketch/: false
+  https://raindrop.io/app: false
+  http://joequery.me/code/the-self-hating-web-developer: false
+  http://www.renfei.org/snippets-lab/: false
+http://0.0.0.0:4000/daily-bi-daily-updates/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-4978.png: false
+  http://nickqueen.com/blog/: false
+  http://nickqueen.com/: false
+  https://itunes.apple.com/us/app/snippetslab/id1006087419?mt=12: false
+  http://www.tiffanyrwhite.com: false
+http://0.0.0.0:4000/day-1-java-with-multiple-strings-formatters-and-conditionals/:
+  http://helloburgh.me/wp-content/uploads/2015/08/Screenshot-2015-08-08-01.14.53.png: false
+http://0.0.0.0:4000/day-2-rehashing-jquery-basics/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-08-22.55.03.png: false
+http://0.0.0.0:4000/day-3-event-handlers-and-animations/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-09-20.08.12.png: false
+  https://kapeli.com/dash: false
+http://0.0.0.0:4000/day-4-lightbox/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-10-22.40.45.png: false
+  "//Capture": false
+  "//Update": false
+  "//Show": false
+  "//Get": false
+  "//When": false
+  "//Hide": false
+http://0.0.0.0:4000/day-5-mobile-dropdown-menu/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-12-17.55.12.png: false
+  "//Go": false
+http://0.0.0.0:4000/day-6-password-forms-tooltips/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-15.png: false
+  "//Problem:": false
+  "//Solution:": false
+  "//Hide": false
+  "//Find": false
+  "//else": false
+http://0.0.0.0:4000/this-developers-journey-ep-14/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Dev-Logo.png: false
+  https://teamtreehouse.com/tracks/learn-java: false
+  https://affinity.serif.com/en-us/designer/: false
+  http://www.keyboardmaestro.com/main/: false
+http://0.0.0.0:4000/day-7-drawing-app/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-19.jpg: false
+  http://codepen.io/twhite96/pen/bdPrvw/'&gt;bdPrvw&lt;/a&gt;: false
+  http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;: false
+  http://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]: false
+http://0.0.0.0:4000/day-8-html-tables-and-the-dom/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-20-2.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-20.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-20-1.jpg: false
+http://0.0.0.0:4000/starting-the-university-of-pittsburgh/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-1024px-University_of_Pittsburgh_Seal_official.png: false
+http://0.0.0.0:4000/first-week-of-pitt/:
+  http://helloburgh.me/wp-content/uploads/2015/09/wpid-WeBelievePittPanthers.jpg: false
+  http://thisdevsjourney.com: false
+http://0.0.0.0:4000/cs-intro-to-programming-java/:
+  http://helloburgh.me/wp-content/uploads/2015/09/wpid-mac-textwrangler-code-type.png: false
+  https://twitter.com/BillLaboon: false
+http://0.0.0.0:4000/outdated-java-tech-at-uni/:
+  http://helloburgh.me/wp-content/uploads/2015/09/wpid-java-logo.jpg: false
+  https://twitter.com/AlexGwartney: false
+  https://twitter.com/nickqueen: false
+  https://twitter.com/joedayvie: false
+  http://developersoup.com/index.php/2015/09/04/episode-6-alex-and-nick-welcome-fellow-developers-joe-and-tiffany/: false
+  http://javapapers.com/core-java/java-string-concatenation/: false
+  http://www.codeandsupply.co/podcast/monthly-check-in-with-tiffany-white: false
+http://0.0.0.0:4000/first-java-program/:
+  http://helloburgh.me/wp-content/uploads/2015/09/wpid-Screenshot-2015-09-26.jpg: false
+  "//This": false
+  https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css&amp;quot;&amp;gt;: false
+  https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css&amp;quot;&amp;gt;: false
+  https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;: false
+http://0.0.0.0:4000/makin-text-files/:
+  http://helloburgh.me/wp-content/uploads/2015/09/wpid-BufferedReader-in-Java.jpg: false
+http://0.0.0.0:4000/first-java-challenge/:
+  http://helloburgh.me/wp-content/uploads/2015/10/wpid-headdesk.jpg: false
+  http://www.atypicallyrelevant.com/return-to-school-post-haste/headdesk-2[/caption]: false
+  "//Gets": false
+http://0.0.0.0:4000/nanowrimo-or-nacowrimo/:
+  http://helloburgh.me/wp-content/uploads/2015/10/wpid-winner-2014-web-banner.jpg: false
+http://0.0.0.0:4000/day-9-finishing-intermediate-javascript-on-treehouse-plus-new-contributor/:
+  http://helloburgh.me/wp-content/uploads/2015/10/wpid-Screenshot-2015-10-17.jpg: false
+  "//Set": false
+  http://thisdevsjourney.com/: false
+  https://twitter.com/NicholasLash: false
+http://0.0.0.0:4000/should-you-be-copying-code/:
+  http://helloburgh.me/wp-content/uploads/2015/10/Copy.jpeg: false
+http://0.0.0.0:4000/day-10-ajax/:
+  http://helloburgh.me/wp-content/uploads/2015/10/wpid-Screenshot-2015-10-26.jpg: false
+http://0.0.0.0:4000/technical-posts/: {}
+http://0.0.0.0:4000/scope-for-beginners/:
+  "//global": false
+  "//local": false
+http://0.0.0.0:4000/the-execution-stack-and-scope/:
+  http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/: false
+http://0.0.0.0:4000/productivity-script-from-marco-arment/:
+  http://helloburgh.me/wp-content/uploads/2015/11/22359007740_b6c033c237_k.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/11/22359007740_b6c033c237_k-1024x683.jpg: false
+  https://twitter.com/marcoarment?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor: false
+  https://daringfireball.net/thetalkshow/: false
+  http://www.marco.org/2015/10/30/automatic-social-discipline: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-Screenshot.jpg: false
+http://0.0.0.0:4000/regaining-my-footing-as-a-java-student/:
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-16A9B86780.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-4O94P417GK.jpg: false
+  "//calls": false
+http://0.0.0.0:4000/new-routine-or-do-you-have-the-hustle-2/:
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-IW1IXLIOY5.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-ASJL0UIGOR.jpg: false
+http://0.0.0.0:4000/free-code-camp-bonfires/:
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-0G7N1L3G2F.jpg: false
+  https://www.twitter.com/marcusp619: false
+  https://chrome.google.com/webstore/detail/scratch-js/alploljligeomonipppgaahpkenfnfkn?hl=en-US: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-X8I9SUI6DZ.jpg: false
+  https://gist.github.com/twhite96/d093f42db2954b8a84a7: false
+http://0.0.0.0:4000/iterating-over-an-array-in-java-and-javascript-3/:
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-FSPLFPQBCZ_1.jpg: false
+  https://codenewbie.typeform.com/to/uwsWlZ: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-11068139233_3a67bc9431_k.jpg: false
+http://0.0.0.0:4000/bonfire-tears-free-code-camp-edition/:
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-XB78WQK09O.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-headdesk.gif: false
+  "//&quot;Never": false
+  "//dees": false
+  "//'abcdefghijklmn'.substr(0,": false
+  "//&quot;grab": false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-Aha.gif: false
+http://0.0.0.0:4000/working-with-arrays-part-1/: {}
+http://0.0.0.0:4000/first-computer-science-class/:
+  http://helloburgh.me/wp-content/uploads/2015/12/Class.jpeg: false
+  https://twhite96.github.io/: false
+  ? http://helloburgh.me/wp-content/uploads/2015/12/public-domain-images-free-stock-photos-woman-earth-globe-white-short-outdoors-water-reflection.jpg
+  : false
+  http://helloburgh.me/wp-content/uploads/2015/12/IMG_0369.png: false
+  http://helloburgh.me/wp-content/uploads/2015/12/IMG_0380.png: false
+  "//Use": false
+  "//Secret": false
+  "//Player": false
+  "//If": false
+  "//Can": false
+  "//Incorrect": false
+  "//Each": false
+http://0.0.0.0:4000/gpa-blues-at-pitt/:
+  http://helloburgh.me/wp-content/uploads/2015/12/GPA.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2015/12/IMG_0408.jpg: false
+http://0.0.0.0:4000/working-with-arrays-part-2/: {}
+http://0.0.0.0:4000/5-things-learned-semester/:
+  http://helloburgh.me/wp-content/uploads/2015/12/IMG_0406.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/12/IMG_0400.jpg: false
+http://0.0.0.0:4000/new-years-to-dos/:
+  https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0410.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0410-1024x1024.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0435.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0435-1024x680.jpg: false
+http://0.0.0.0:4000/new-semester-excitement/:
+  http://helloburgh.me/wp-content/uploads/2016/01/IMG3_20160108_172912.jpeg: false
+  https://twitter.com/BillLaboon: false
+  https://education.github.com/pack: false
+  http://helloburgh.me/wp-content/uploads/2016/01/oh-my-zsh.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/01/Screenshot2016-01-08_10-26-37_PM.jpg: false
+  https://snippetsearch.herokuapp.com/: false
+http://0.0.0.0:4000/upping-my-game-with-books-on-algorithms/:
+  http://helloburgh.me/wp-content/uploads/2016/01/Algorithms_for_days.jpeg: false
+  http://www.amazon.com/Structures-Algorithms-JavaScript-Michael-McMillan/dp/1449364934: false
+  ? http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&amp;qid=1452650581&amp;sr=8-1&amp;keywords=clean+code
+  : false
+  http://helloburgh.me/wp-content/uploads/2016/01/Fast.jpeg: false
+http://0.0.0.0:4000/rainbow-explosion-hangman/:
+  http://helloburgh.me/wp-content/uploads/2016/01/kickass_rainbow.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/01/DeathtoStock_NotStock7.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/01/Screenshot2016-01-13_09-49-47_PM-1.jpg: false
+http://0.0.0.0:4000/the-blank-ide-in-cs-0401/:
+  http://helloburgh.me/wp-content/uploads/2016/01/JPEG-image-A22950F8B471-1.jpeg: false
+  https://twitter.com/billlaboon: false
+  http://helloburgh.me/wp-content/uploads/2016/01/Screenshot2016-01-22_12-31-00_AM.jpg: false
+http://0.0.0.0:4000/confidence-self-talk/:
+  http://helloburgh.me/wp-content/uploads/2016/02/Elevate.jpeg: false
+  https://www.instagram.com/p/BBL-xI2vHY9/?taken-by=twhitedev412: false
+http://0.0.0.0:4000/array-methods-in-JavaScript/:
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration: false
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array: false
+http://0.0.0.0:4000/preparing-for-free-code-camp-bonfires/:
+  http://helloburgh.me/wp-content/uploads/2016/02/Tears.jpeg: false
+  http://www.amazon.com/Structures-Algorithms-JavaScript-Michael-McMillan/dp/1449364934: false
+  https://www.youtube.com/playlist?list=PLyBGKxys5xmeOTt1280DfSlM1HFhrPn-e: false
+  https://twhite96.github.io/array-methods-in-JavaScript/: false
+http://0.0.0.0:4000/fear-loathing-anxiety-pittsburgh/:
+  http://helloburgh.me/wp-content/uploads/2016/02/webdev.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/02/bigger_picture.jpg: false
+http://0.0.0.0:4000/primitive-data-types-in-java/: {}
+http://0.0.0.0:4000/college-vs-self-learning/:
+  http://helloburgh.me/wp-content/uploads/2016/02/55C1968ACE.jpg: false
+  https://medium.freecodecamp.com/a-look-back-my-year-of-traditional-computer-science-learning-and-self-teaching-9176dfd9651c: false
+http://0.0.0.0:4000/resume-free-code-camp/:
+  http://helloburgh.me/wp-content/uploads/2016/02/Free-Code-Camp.png: false
+  http://helloburgh.me/wp-content/uploads/2016/02/animated.gif: false
+  https://www.udemy.com/understand-javascript/learn/: false
+  https://twhite96.github.io/javascript/the-danger-of-type-coercion-in-javascript/: false
+http://0.0.0.0:4000/the-danger-of-type-coercion-in-javascript/:
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence: false
+http://0.0.0.0:4000/completed-first-front-end-project/:
+  http://helloburgh.me/wp-content/uploads/2016/02/front-end_masters.jpeg: false
+http://0.0.0.0:4000/front-end-programming-project-free-code-camp/:
+  http://helloburgh.me/wp-content/uploads/2016/02/carl_sagan.jpg: false
+  http://codepen.io/twhite96/pen/dMbwyM: false
+http://0.0.0.0:4000/front-end-programming-project/:
+  http://helloburgh.me/wp-content/uploads/2016/03/front-end.jpeg: false
+  https://4.bp.blogspot.com/-pigPfRWS3Sw/VWX-feGd7II/AAAAAAABjLE/K3JemRkjclI/s0/Coding_with_Style_wallpaper.jpg: false
+  https://4.bp.blogspot.com/-pigPfRWS3Sw/VWX-feGd7II/AAAAAAABjLE/K3JemRkjclI/s0/Coding_with_Style_wallpaper.jpg”: false
+  http://codepen.io/twhite96/pen/dMbwyM: false
+http://0.0.0.0:4000/new-years-goals-follow/:
+  http://helloburgh.me/wp-content/uploads/2016/03/Goals.jpeg: false
+http://0.0.0.0:4000/portfolio-unlocked/:
+  http://helloburgh.me/wp-content/uploads/2016/03/JPEG-image-573A94AF296B-1-1.jpeg: false
+  http://codepen.io/twhite96/pen/GZJRJz: false
+http://0.0.0.0:4000/review-hackers/:
+  http://www.goodreads.com/book/show/8646752: false
+  http://d.gr-assets.com/books/1328343027m/8646752.jpg: false
+  http://www.goodreads.com/author/show/32131: false
+  http://www.goodreads.com/review/show/1576869358: false
+http://0.0.0.0:4000/review-the-charge/:
+  http://www.goodreads.com/book/show/13573685: false
+  http://d.gr-assets.com/books/1350302188m/13573685.jpg: false
+  http://www.goodreads.com/author/show/588158: false
+  http://www.goodreads.com/review/show/1576871522: false
+http://0.0.0.0:4000/diving-into-small-apps/:
+  http://helloburgh.me/wp-content/uploads/2016/03/app.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/03/app-1024x683.jpeg: false
+  https://github.com/HappenApps/Quiver/issues/92: false
+  https://api.pinboard.in/v1/posts/recent': false
+  http://tiffanyrwhite.tech: false
+http://0.0.0.0:4000/review-deep-work/:
+  http://www.goodreads.com/book/show/25904506: false
+  http://d.gr-assets.com/books/1449422525m/25904506.jpg: false
+  http://www.goodreads.com/author/show/147891: false
+  http://www.goodreads.com/review/show/1576872102: false
+http://0.0.0.0:4000/review-keynote/:
+  http://www.goodreads.com/book/show/28419314: false
+  http://d.gr-assets.com/books/1451611692m/28419314.jpg: false
+  http://www.goodreads.com/author/show/14823298: false
+  http://www.goodreads.com/review/show/1579146369: false
+http://0.0.0.0:4000/review-the-master-algorithm/:
+  http://www.goodreads.com/book/show/25703680: false
+  http://d.gr-assets.com/books/1443169433m/25703680.jpg: false
+  http://www.goodreads.com/author/show/3242685: false
+  http://www.goodreads.com/review/show/1535488112: false
+http://0.0.0.0:4000/hey-everybody-lets-shit-on-js/:
+  http://helloburgh.me/wp-content/uploads/2016/04/shitonjs.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/shitonjs-1024x683.jpeg: false
+http://0.0.0.0:4000/crawling-before-you-walk/:
+  http://helloburgh.me/wp-content/uploads/2016/04/Sad.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Sad-1024x577.jpg: false
+  "//this.get": false
+  http://helloburgh.me/wp-content/uploads/2016/04/Deal-With-It.gif: false
+http://0.0.0.0:4000/using-trello-to-track-learning/:
+  http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-18_09-41-31_PM.png: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-18_09-41-31_PM-1024x586.png: false
+  http://www.thatamazingprogrammer.com/blog/: false
+  https://trello.com/b/iMkh9HVu/asp-net-mvc-mastery: false
+  https://trello.com/b/g8EsIwnV/full-stack-javascript-mastery: false
+http://0.0.0.0:4000/trying-harder/:
+  http://helloburgh.me/wp-content/uploads/2016/04/Optimized-Learning.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Optimized-Learning-1024x682.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Optimized-IMG_1149.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Optimized-IMG_1149-1024x768.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Optimized-Optimized-Image-23.jpg: false
+  "//end": false
+  http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-19_08-40-58_PM.png: false
+http://0.0.0.0:4000/digging-into-oop-javascript/:
+  http://helloburgh.me/wp-content/uploads/2016/04/Digging.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Digging-1024x683.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-23_11-22-55_PM.png: false
+  http://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical: false
+  https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a: false
+http://0.0.0.0:4000/review-object-oriented-javascript/:
+  https://www.goodreads.com/book/show/18492393-object-oriented-javascript: false
+  https://d.gr-assets.com/books/1383046647m/18492393.jpg: false
+  https://www.goodreads.com/author/show/25509.Nicholas_C_Zakas: false
+  https://www.goodreads.com/review/show/1519932501: false
+  https://www.goodreads.com/review/list/1940314-tiffany: false
+http://0.0.0.0:4000/finishing-oop-javascript-treehouse/:
+  http://helloburgh.me/wp-content/uploads/2016/04/OOP-JavaScript.jpeg: false
+  https://gist.github.com/twhite96/42aaf04d874630e4c733236392dc23f7: false
+http://0.0.0.0:4000/thinking-like-programmer/:
+  http://helloburgh.me/wp-content/uploads/2016/05/thinking-like-a-programmer.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/05/thinking-like-a-programmer-1024x685.jpeg: false
+  https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms: false
+  https://kapeli.com/dash: false
+http://0.0.0.0:4000/pitt/:
+  https://twhite96.github.io/contacts-app: false
+http://0.0.0.0:4000/objects-and-json/: {}
+http://0.0.0.0:4000/contacts-app-update/:
+  http://helloburgh.me/wp-content/uploads/2016/05/Optimized-itunes-session.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/05/Screenshot2016-05-20_12-57-54_AM.png: false
+  http://helloburgh.me/wp-content/uploads/2016/05/Screenshot2016-05-20_12-57-54_AM-1024x620.png: false
+  "//your": false
+  https://twhite96.github.io/contacts-app/index.html: false
+  https://www.instagram.com/p/BFm9gRoPHd9/?taken-by=twhitedev412&hl=en: false
+http://0.0.0.0:4000/algorithms_again/:
+  http://helloburgh.me/wp-content/uploads/2016/05/Optimized-algorithms_again.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/05/Optimized-algorithms_again-1024x683.jpeg: false
+  "//string.": false
+http://0.0.0.0:4000/completing-algorithms/:
+  http://helloburgh.me/wp-content/uploads/2016/06/completing_an_algorithm.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/06/completing_an_algorithm-1024x683.jpg: false
+  http://helloburgh.me/2016/05/27/algorithms_again/: false
+  http://andrewchar.github.io/portfolio/: false
+http://0.0.0.0:4000/avoid-javascript-fatigue-make-a-learning-map/:
+  https://twitter.com/CindyPtn: false
+  http://blog.cindypotvin.com/taking-control-learning-by-mapping-out-your-skills/: false
+  http://helloburgh.me/wp-content/uploads/2016/06/2016-04-24-Core-and-Satellite-Skills-to-Be-a-Web-Dev-1024x944.png: false
+http://0.0.0.0:4000/algorithm-solutions/:
+  http://helloburgh.me/wp-content/uploads/2016/06/algorithm_solutions-1024x703.jpg: false
+  https://www.freecodecamp.com/wiki/en/: false
+http://0.0.0.0:4000/fcc-random-quote-generator/:
+  http://helloburgh.me/wp-content/uploads/2016/06/Rando-Quote_2-1024x713.jpg: false
+  http://codepen.io/twhite96/pen/aZmrXO: false
+http://0.0.0.0:4000/random-quote-generator-woes/:
+  http://helloburgh.me/wp-content/uploads/2016/07/Optimized-frustrated_shrink.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/07/Screenshot2016-06-26_09-42-56_PM_shrink-1024x640.png: false
+  https://crossorigin.me/http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&amp;filter[posts_per_page]=40&amp;callback=: false
+  http://twitter.com/home/?status=: false
+http://0.0.0.0:4000/resolved-to-be-better/:
+  http://helloburgh.me/wp-content/uploads/2016/07/logo_-university-of-pittsburgh-panthers-pitt-paw_shrink.png: false
+  http://helloburgh.me/2016/04/18/using-trello-to-track-learning/: false
+  https://trello.com/b/20fetKMI/computer-science-mastery-b-sc: false
+  http://helloburgh.me/wp-content/uploads/2016/07/Screenshot2016-07-12_10-45-06_PM_shrink-1024x581.png: false
+  https://trello.com/b/6hbpStI7/mathematics-mastery: false
+  http://helloburgh.me/wp-content/uploads/2016/07/Screenshot2016-07-12_10-44-50_PM_shrink-1024x581.png: false
+http://0.0.0.0:4000/knowing-your-limits/:
+  http://helloburgh.me/wp-content/uploads/2016/07/limits-1024x683.jpeg: false
+http://0.0.0.0:4000/random-quote-generator-finale/:
+  http://helloburgh.me/wp-content/uploads/2016/07/celebrate-1-1024x683.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/07/Screenshot2016-07-24_08-12-22_PM-1024x834.png: false
+  http://codepen.io/twhite96/pen/XKqrJX: false
+http://0.0.0.0:4000/leveling-up-as-a-programmer/:
+  http://helloburgh.me/wp-content/uploads/2016/07/laptop-cellphone.png: false
+  https://twhite96.github.io/RandQuoteGen/: false
+  https://twhite96.github.io/CarlSaganTribute/: false
+http://0.0.0.0:4000/plan-for-success/:
+  http://helloburgh.me/wp-content/uploads/2016/08/Success.jpeg: false
+  https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ: false
+  https://twitter.com/tomfrankly: false
+http://0.0.0.0:4000/es6-and-lambdas/:
+  https://teamtreehouse.com/library/introducing-es2015: false
+http://0.0.0.0:4000/block-level-scoping-let-const/:
+  http://helloburgh.me/wp-content/uploads/2016/08/const_shrink.jpg: false
+  https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75: false
+http://0.0.0.0:4000/recruiting-news/:
+  http://insights.dice.com/2014/09/16/recruitings-dirty-little-secrets/: false
+http://0.0.0.0:4000/first-week-of-class/:
+  https://helloburgh.me/wp-content/uploads/2016/09/people-coffee-tea-meeting-1.jpg: false
+  https://gist.github.com/twhite96/88882d73339e79583705fe9484846a64: false
+http://0.0.0.0:4000/understanding-hoisting-in-javascript/:
+  https://helloburgh.me/wp-content/uploads/2016/09/JS-5.png: false
+  https://davidwalsh.name/for-and-against-let: false
+  https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md: false
+  https://helloburgh.me/2016/08/25/block-level-scoping-let-const/: false
+  http://www.dictionary.com/browse/hoist?s=t: false
+  https://twitter.com/getify: false
+  http://shop.oreilly.com/category/get/kyle-simpson-kit.do: false
+  https://github.com/getify/You-Dont-Know-JS: false
+http://0.0.0.0:4000/ecommerce-class/:
+  https://helloburgh.me/wp-content/uploads/2016/09/commerce-min-1024x683.jpeg: false
+  https://w3layouts.com/preview/?l=/watches-flat-ecommerce-bootstrap-responsive-web-template/: false
+  https://helloburgh.me/wp-content/uploads/2016/09/Static-Page_shrink-4.png: false
+  https://medium.com/@Gwartney: false
+  https://helloburgh.me/2015/07/15/heroku-woes/: false
+  https://gist.github.com/twhite96/398ad15d7139c42391048176c7131b82: false
+  https://gist.github.com/twhite96/1304641fa177eca3befce67a1dee9f11: false
+  https://gist.github.com/twhite96/a7eff91fda64dd80a20d6ac454b80718: false
+  https://thelenscap.herokuapp.com/: false
+http://0.0.0.0:4000/css-animations-part-1/:
+  https://davidwalsh.name/css-js-animation: false
+  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties: false
+  http://leaverou.github.io/animatable/: false
+  http://lea.verou.me/: false
+http://0.0.0.0:4000/100-days-of-code-log-day-2/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png: false
+  http://kenwheeler.github.io/slick/: false
+  https://thelenscap.herokuapp.com/: false
+http://0.0.0.0:4000/100-days-of-code-days-3-and-4/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png: false
+  https://twhite96.github.io/The-Lens-Cap/: false
+  https://helloburgh.me/wp-content/uploads/2016/10/Image-10-5-16-3-40-AM.jpeg: false
+http://0.0.0.0:4000/100-days-of-code-day-5/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-1.png: false
+  https://twhite96.github.io/The-Lens-Cap/: false
+http://0.0.0.0:4000/100-days-of-code-day-8/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-2.png: false
+  http://kenwheeler.github.io/slick/: false
+  https://codepen.io/twhite96/pen/XjEgvq: false
+  https://twhite96.github.io/The-Lens-Cap/: false
+http://0.0.0.0:4000/100-days-of-code-day-9/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-3.png: false
+  https://github.com/twhite96/The-Lens-Cap: false
+  https://twhite96.github.io/The-Lens-Cap/: false
+http://0.0.0.0:4000/css-animations-part-2/:
+  https://davidwalsh.name/css-js-animation: false
+  "//</span>": false
+http://0.0.0.0:4000/let-and-const-for-block-scope/:
+  https://twitter.com/getify: false
+http://0.0.0.0:4000/100-days-of-code-day-10/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-4.png: false
+  https://github.com/twhite96/address-book-demo: false
+http://0.0.0.0:4000/100-days-of-code-day-11/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-5.png: false
+  https://twitter.com/TiffanyW_412/status/784917100422758400: false
+  https://twitter.com/TiffanyW_412/status/784917245805735936: false
+  https://twitter.com/TiffanyW_412/status/784917476391854080: false
+  https://codepen.io/twhite96/pen/yamOrq: false
+http://0.0.0.0:4000/java-virtual-machine/:
+  https://helloburgh.me/wp-content/uploads/2016/11/coding_in_java.jpeg: false
+  https://gist.github.com/twhite96/64a9446a18c1aa188b7c9118cb85908f: false
+  https://gist.github.com/twhite96/fc16f748768bc62e3fc7dae5676a0c65: false
+http://0.0.0.0:4000/ux-testing-results-for-the-lens-cap-mock-e-commerce-site/:
+  ? https://docs.google.com/presentation/d/e/2PACX-1vQM6YytnYBlXnyhNWWpB_AJx2DJ8xGP-mEODsqF_TqbO-r4ZPdXZyGwr08xhlaUqUv0SVLk8hAvB_Td/embed?start=false&loop=false&delayms=3000
+  : false
+  https://blog.kissmetrics.com/speed-is-a-killer/: false
+http://0.0.0.0:4000/two-years-code-newbie-pittsburgh/:
+  https://helloburgh.me/wp-content/uploads/2016/12/Image-12-9-16-1-56-PM.jpeg: false
+  https://twhite96.github.io: false
+  https://trello.com/b/20fetKMI/: false
+http://0.0.0.0:4000/100-days-code-day-12/:
+  https://helloburgh.me/wp-content/uploads/2016/12/Image-12-11-16-9-23-PM.png: false
+http://0.0.0.0:4000/working-free-code-camp-weather-app/:
+  https://api.darksky.net/forecast/<API_KEY>/: false
+  "//Do": false
+http://0.0.0.0:4000/javascript-resources-for-learning/:
+  https://www.freecodecamp.com/: false
+  https://medium.freecodecamp.com/: false
+  https://medium.com/javascript-scene: false
+  http://shop.oreilly.com/category/get/kyle-simpson-kit.do: false
+  https://twitter.com/getify: false
+http://0.0.0.0:4000/first-day-spring-semester-2017/:
+  https://devcenter.heroku.com/articles/getting-started-with-php: false
+  https://devcenter.heroku.com/articles/cleardb: false
+http://0.0.0.0:4000/breaking-things/: {}
+http://0.0.0.0:4000/first-100-java-program/: {}
+http://0.0.0.0:4000/web-development-software-engineering/: {}
+http://0.0.0.0:4000/exploring-algorithms/:
+  https://www.youtube.com/embed/XSLj46Lfpfk?autoplay=0: false
+  https://en.wikipedia.org/wiki/Bubble_sort: false
+  https://www.youtube.com/embed/RqfWvIsYmsc?autoplay=0: false
+http://0.0.0.0:4000/hacking-java-algorithms/:
+  https://gist.github.com/twhite96/a066072cd9194d249caa: false
+  https://gist.github.com/twhite96/288ed40c2d7bb9d1482a7ece3f1be164: false
+http://0.0.0.0:4000/oss-back-basics/:
+  https://helloburgh.me/wp-content/uploads/2017/03/Screenshot2017-03-07_02-46-39_PM.jpg: false
+  http://www.academypgh.com/: false
+  http://www.firsttimersonly.com/: false
+  https://github.com/search?q=label%3Afirst-timers-only&state=open&type=Issues: false
+  https://www.udemy.com/understand-javascript/learn/v4: false
+http://0.0.0.0:4000/javascript-vs-java-pass-by-value-reference/:
+  https://twitter.com/jonskeet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor: false
+  https://tiffanywhite.tech/primitive-data-types-in-java/: false
+  http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function: false
+  https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a: false
+  https://youtu.be/bo36MrBfTk4?t=28m50s: false
+http://0.0.0.0:4000/concise-modular-javascript/:
+  https://gist.github.com/twhite96/3425ef36ca75c93d6ce189a4899ccf40: false
+  https://gist.github.com/twhite96/a019b42192599e43ebddbc608ad4df37: false
+  https://gist.github.com/twhite96/d70aacf2562357393a70431573410efc: false
+  https://gist.github.com/twhite96/35879ad5ae14df31d25aaf8b0891737e: false
+  "//giphy.com/embed/l3q2zVr6cu95nF6O4": false
+  https://helloburgh.me/2016/08/13/es6-and-lambdas/: false
+  https://twitter.com/unclebobmartin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor: false
+http://0.0.0.0:4000/hacking-project-getting-out-tutorial-loop/:
+  https://twitter.com/AlexGwartney: false
+  https://twitter.com/nickqueen: false
+  https://www.youtube.com/watch?v=L66GVCEsKC0: false
+http://0.0.0.0:4000/crud-my-new-app-check-yo-self/:
+  http://ineedaresu.me/: false
+  http://docs.sequelizejs.com/en/v3/: false
+http://0.0.0.0:4000/making-tedious-easy-mdl-templates/:
+  "//giphy.com/embed/RIuHHNa7UgFKo": false
+http://0.0.0.0:4000/open-source-github-stars/:
+  https://twitter.com/ThePracticalDev: false
+  https://github.com/twhite96/checkyoself: false
+  https://helloburgh.me/wp-content/uploads/2017/05/Image-5-9-17-6-36-PM.png: false
+http://0.0.0.0:4000/check-yo-self-update-eliminating-dev-dependencies/:
+  https://arty.name/localstorage.html: false
+  http://materializecss.com/: false
+  https://helloburgh.me/wp-content/uploads/2017/05/Fabs.mov: false
+  https://helloburgh.me/wp-content/uploads/2017/02/cropped-coding.png: false
+http://0.0.0.0:4000/event-handlers-check-yo-self/:
+  https://helloburgh.me/wp-content/uploads/2017/05/whiteboard_opt.compressed.jpeg: false
+http://0.0.0.0:4000/web-developer-bootcamp/:
+  https://www.linkedin.com/in/coltsteele/: false
+http://0.0.0.0:4000/array-methods-in-javascript-2/:
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration: false
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array&quot;>docs</a>.</p>: false
+http://0.0.0.0:4000/css-animations-part-1-2/:
+  https://davidwalsh.name/css-js-animation: false
+  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties: false
+  http://leaverou.github.io/animatable/: false
+  http://lea.verou.me/: false
+http://0.0.0.0:4000/css-animations-part-2-2/:
+  https://davidwalsh.name/css-js-animation: false
+http://0.0.0.0:4000/exploring-algorithms-2/:
+  https://www.youtube.com/embed/XSLj46Lfpfk: false
+  https://en.wikipedia.org/wiki/Bubble_sort&quot;: false
+  https://www.youtube.com/embed/RqfWvIsYmsc: false
+http://0.0.0.0:4000/javascript-resources-for-learning-2/:
+  https://www.freecodecamp.com/&quot;>Free: false
+  https://medium.freecodecamp.com/&quot;>Free: false
+  https://medium.com/javascript-scene&quot;>JavaScript: false
+  'http://shop.oreilly.com/category/get/kyle-simpson-kit.do&quot;>YDKJS</a>:': false
+  https://twitter.com/getify&quot;>Kyle: false
+http://0.0.0.0:4000/javascript-vs-java-pass-by-value-and-reference-2/:
+  https://twitter.com/jonskeet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor: false
+  https://tiffanywhite.tech/primitive-data-types-in-java/: false
+  http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function: false
+  https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a: false
+  https://youtu.be/bo36MrBfTk4?t=28m50s: false
+http://0.0.0.0:4000/let-and-const-for-block-scope-2/:
+  https://twitter.com/getify&quot;: false
+http://0.0.0.0:4000/objects-and-json-2/: {}
+http://0.0.0.0:4000/primitive-data-types-in-java-2/: {}
+http://0.0.0.0:4000/scope-for-beginners-2/:
+  "//global": false
+  "//local": false
+http://0.0.0.0:4000/the-danger-of-type-coercion-in-javascript-2/:
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence&quot;>MDN</a>: false
+http://0.0.0.0:4000/the-execution-stack-and-scope-2/:
+  http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/&quot;: false
+http://0.0.0.0:4000/ux-testing-results-for-the-lens-cap-mock-e-commerce-site-2/:
+  ? https://docs.google.com/presentation/d/1SRtpSm1GsnTg1R1kzhkNbSW82e_2aBXNv75YmtUf0fg/embed?start=false&amp;loop=false&amp;delayms=3000
+  : false
+  https://blog.kissmetrics.com/speed-is-a-killer/&quot;: false
+http://0.0.0.0:4000/working-with-arrays-part-1-2/: {}
+http://0.0.0.0:4000/working-with-arrays-part-2-2/: {}
+http://0.0.0.0:4000/gauging-my-progress/:
+  "//Print": false
+  "//Movie": false
+http://0.0.0.0:4000/tech-ladies-job-search/:
+  https://tiffanywhite.tech/wp-content/uploads/2017/07/19598810_1390576897685008_6305171492942368993_n.png: false
+http://0.0.0.0:4000/working-chrome-devtools/:
+  https://i.imgur.com/DZMZiDRundefined.gif: false
+  https://d.pr/i/sL9Hco+: false
+  https://i.imgur.com/DZMZiDR.gifv: false
+  https://i.imgur.com/5MJDBLd.gifv[/embed]: false
+http://0.0.0.0:4000/background-image-hacks-css/:
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/Image-8-3-17-1-48-PM.jpeg: false
+  https://i.imgur.com/voece1h.jpg: false
+  https://i.imgur.com/r8haFIj.jpg: false
+  https://i.imgur.com/K6Bazrl.jpg: false
+  https://i.imgur.com/dUS9u9b.jpg: false
+  https://i.imgur.com/Kx3ku27.jpg: false
+  https://i.imgur.com/g4afvja.jpg: false
+  https://i.imgur.com/pjq3VPO.jpg: false
+  https://i.imgur.com/vH9cyKD.jpg: false
+  https://i.imgur.com/ZtSl66b.jpg: false
+  https://i.imgur.com/5z0CXkZ.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/fill.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/cover.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/contain.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/scaled_down.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/none.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/IMG_3816.png: false
+  https://twhite96.github.io/Weather\_App](https://twhite96.github.io/Weather_App: false
+http://0.0.0.0:4000/dry-code-iife/:
+  https://i.imgur.com/voece1h.jpg: false
+  https://i.imgur.com/r8haFIj.jpg: false
+  https://i.imgur.com/K6Bazrl.jpg: false
+  https://i.imgur.com/dUS9u9b.jpg: false
+  https://i.imgur.com/Kx3ku27.jpg: false
+  https://i.imgur.com/g4afvja.jpg: false
+  https://i.imgur.com/pjq3VPO.jpg: false
+  https://i.imgur.com/vH9cyKD.jpg: false
+  https://i.imgur.com/ZtSl66b.jpg: false
+  https://i.imgur.com/5z0CXkZ.jpg: false
+http://0.0.0.0:4000/mission-dry-accomplished/:
+  https://i.imgur.com/voece1h.jpg: false
+  https://i.imgur.com/r8haFIj.jpg: false
+  https://i.imgur.com/K6Bazrl.jpg: false
+  https://i.imgur.com/dUS9u9b.jpg: false
+  https://i.imgur.com/Kx3ku27.jpg: false
+  https://i.imgur.com/g4afvja.jpg: false
+  https://i.imgur.com/pjq3VPO.jpg: false
+  https://i.imgur.com/vH9cyKD.jpg: false
+  https://i.imgur.com/ZtSl66b.jpg: false
+  https://i.imgur.com/5z0CXkZ.jpg: false
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map: false
+  https://linkedin.com/in/adamrecvlohe: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/sunny.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/fineas-anton-136459+copy.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/sam-mcjunkin-38078.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/jeff-nafura-294909.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/jonatan-pie-260835.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/3opt\_rain.jpeg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/jonatan-pie-190398.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/snow.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/jon-flobrant-2845.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/elaine-li-416.jpg: false
+  https://twitter.com/josephrexme: false
+  "//Assign": false
+  "//represent": false
+  "//iconName": false
+  "//and": false
+  https://medium.com/100-days-of-code/100-days-of-code-day-17-7b04669c68c6: false
+http://0.0.0.0:4000/functional-javascript/:
+  http://funkyjavascript.com/: false
+http://0.0.0.0:4000/map/:
+  https://cl.ly/3D472P333D09/Screen%20Recording%202018-03-19%20at%2002.53%20PM.gif: false
+  https://cl.ly/3s111R402r2C/Screen%20Recording%202018-03-19%20at%2002.55%20PM.gif: false
+  http://eloquentjavascript.net/05_higher_order.html: false
+http://0.0.0.0:4000/open-source-goals/:
+  https://twitter.com/una: false
+  https://github.com/una/personal-goals: false
+  https://github.com/twhite96/personal-goals: false
+  https://thatmacnerd.com/blog/: false
+http://0.0.0.0:4000/productivity-devs/:
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2500/v1528784017/opt_work_cnd4km.jpg: false
+  https://dev.to: false
+  https://dev.to/sobolevn/instant-100-command-line-productivity-boost: false
+  https://syntax.fm/show/011/our-favourite-productivity-hacks: false
+  https://www.omnigroup.com/applications/omnifocus/: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1684/v1528783631/Screenshot2017-09-30_04-18-13_PM_vlkgzl.jpg: false
+  https://iterm2.com/: false
+  https://wesbos.com/: false
+  https://github.com/wesbos/Cobalt2-iterm: false
+  https://code.visualstudio.com/: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1617/v1528783656/Screenshot2017-09-30_04-41-56_PM_wirw2j.jpg: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1879/v1528784012/Alfred_Cobalt_Wes_Bos_evjpys.jpg: false
+  https://github.com/powerline/fonts: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1457/v1528783637/Screenshot2017-09-20_08-50-23_PM_zdzere.jpg: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1434/v1528844109/Screenshot2017-09-30_04-37-52_PM_a8sfqz.jpg: false
+  https://github.com/zsh-users/zsh-syntax-highlighting: false
+  https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/docs/highlighters.md: false
+  https://github.com/rupa/z/: false
+  https://github.com/ogham/exa: false
+  https://res.cloudinary.com/twhiteblog/image/upload/v1528844391/Screenshot2017-09-30_06-28-20_PM_n6tuq6.jpg: false
+  https://www.alfredapp.com/: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1820/v1528783997/Product_hunt_gjeypg.jpg: false
+  https://github.com/wesbos/Cobalt2-Alfred-Theme: false
+  https://www.gofuckingwork.com/: false
+  https://chrome.google.com/webstore/detail/go-fucking-work/hibmkkpfegfiinilnlabbfnjcopdiiig: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1715/v1528783607/Screenshot2017-09-30_06-36-55_PM_zqshpn.jpg: false
+  https://support.omnigroup.com/windows-or-android/: false
+  https://play.google.com/store/apps/details?id=com.burgstaller.android.focusgtd&amp;hl=en: false
+http://0.0.0.0:4000/es6-modules/: {}
+http://0.0.0.0:4000/first-interview/: {}
+http://0.0.0.0:4000/finishing-yelpcamp/:
+  "//INDEX": false
+  https://yelpcamp96.herokuapp.com/: false
+http://0.0.0.0:4000/update-things-happening/:
+  https://twitter.com/TiffanyW_412/status/922997615230357505: false
+  https://twitter.com/sehurlburt: false
+  https://twitter.com/TiffanyW_412/status/923000005035724800: false
+http://0.0.0.0:4000/i-am-doing-this-thing/:
+  https://dev.to: false
+  https://tiffanywhite.tech/starting-the-university-of-pittsburgh/: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/11/Screenshot-2017-11-15_06-26-56_PM.png: false
+http://0.0.0.0:4000/simplicity-ruby/:
+  https://codeandsupply.co/: false
+  https://www.instagram.com/p/Bb0GHGygllG/?taken-by=twhitedev412: false
+http://0.0.0.0:4000/first-feature-pull-request/:
+  https://dev.to/twhite/changelog-codepen-liquid-tags-now-live-amj: false
+  https://dev.to/maestromac: false
+  https://dev.to/ben: false
+  https://media.giphy.com/media/MQlekpXmGIfFm/giphy.gif: false
+http://0.0.0.0:4000/things-i-cooking-up/:
+  http://developeronfire.com/: false
+http://0.0.0.0:4000/use-cases-es6-spread-operator/:
+  https://i.imgur.com/JbUw3T7.gif: false
+  "//of": false
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread\_operator: false
+http://0.0.0.0:4000/javascript-template-literals/:
+  https://www.hongkiat.com/blog/ecmascript-6-template-literals/: false
+  "//Method": false
+  https://leanpub.com/understandinges6/read: false
+http://0.0.0.0:4000/2017-wrap-up-and-2018-goals/:
+  https://dev.to/: false
+  https://yelpcamp96.herokuapp.com/: false
+  https://check-yoself.herokuapp.com/: false
+  http://developeronfire.com/podcast/episode-296-tiffany-white-shared-learning: false
+  https://twitter.com/cmlang42: false
+  https://twitter.com/pryelluw: false
+  https://blog-app96.herokuapp.com/: false
+http://0.0.0.0:4000/last-journey/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1528083886/josh-wilburne-75113-unsplash_akqxml.jpg: false
+  https://blog-app96.herokuapp.com/: false
+  https://check-yoself.herokuapp.com/: false
+  https://yelpcamp96.herokuapp.com/: false
+  https://www.youtube.com/watch?v=Ef07Hhoc5KE: false
+http://0.0.0.0:4000/setapp/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1530617368/Setapp/SetappLogoLightBG.png: false
+  https://setapp.com/: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1779/v1528074542/Screenshot-2018-02-20_02-04-31_AM_ooro0r.png: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1704/v1528074544/Screenshot-2018-02-20_02-05-29_AM_u4q7yo.png: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1789/v1528074539/Screenshot-2018-02-20_02-05-48_AM_rhgxjd.png: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1687/v1528074544/Screenshot-2018-02-20_02-11-12_AM_z7bvcr.png: false
+http://0.0.0.0:4000/destructuring-objects-es6/:
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2827/v1527286051/adrian-tormo-316868-unsplash_tugcsv.jpg: false
+http://0.0.0.0:4000/bind-this-without-constructor/:
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1894/v1528082268/eva-blue-42498-unsplash_y7lcwn.jpg: false
+http://0.0.0.0:4000/react-reconciliation/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1527285926/react_redux_trpz1i.jpg: false
+  https://codepen.io/twhite96/pen/WJPeME/: false
+  https://codepen.io/twhite96: false
+  https://codepen.io: false
+  https://static.codepen.io/assets/embed/ei.js: false
+  https://reactjs.org/docs/reconciliation.html: false
+  https://buttondown.email/tiffanywhite?as_embed=true: false
+http://0.0.0.0:4000/building-a-cli-tool/:
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_3424/v1529564722/goran-ivos-245581-unsplash_lcfk25.jpg: false
+  https://checkyoself.surge.sh/: false
+http://0.0.0.0:4000/what-are-props/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1531190202/chuttersnap-710335-unsplash_tsxgat.jpg: false
+http://0.0.0.0:4000/keeping-your-code-simple/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1531721262/bench-accounting-49909-unsplash_s1yasn.jpg: false
+  https://t.co/5sALYO4cjN: false
+  https://twitter.com/TiffanyW_412/status/1011075530022621184?ref_src=twsrc%5Etfw: false
+  https://platform.twitter.com/widgets.js: false
+  https://twitter.com/i/moments/1018709673107746816: false
+http://0.0.0.0:4000/test-mentions/:
+  https://webmention.rocks/test/1: false
+  https://webmention.rocks/test/2: false
+http://0.0.0.0:4000/my-vscode-setup/:
+  https://zen-of-programming.com/vs-code-setup: false
+  https://dev.to/nickytonline/my-visual-studio-code-setup-2ima: false
+  https://github.com/agirton/gloom: false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/v1535424698/My%20VSCode%20Setup/Main%20Interface/Screenshot-2018-08-27_10-44-30_PM.png
+  : false
+  https://github.com/wesbos/cobalt2/: false
+  https://github.com/sdras/night-owl-vscode-theme: false
+  https://github.com/leveluptuts/level-up-vscode-theme: false
+  https://res.cloudinary.com/twhiteblog/image/upload/v1535578739/My%20VSCode%20Setup/Extensions/extensions_vscode.png: false
+  https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer: false
+  https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash: false
+  https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils: false
+  https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify: false
+  https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime: false
+  https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense: false
+  https://marketplace.visualstudio.com/items?itemName=discountry.react-redux-react-router-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=infeng.vscode-react-typescript: false
+  https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=angryobject.react-pure-to-class-vscode: false
+  https://marketplace.visualstudio.com/items?itemName=nickytonline.vscode-gatsby-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=lXSPandora.vscode-styled-components-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=bierner.color-info: false
+  https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight: false
+  https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss: false
+  https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion: false
+  https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster: false
+  https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor: false
+  https://marketplace.visualstudio.com/items?itemName=progre.promise-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack: false
+  https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist: false
+  https://marketplace.visualstudio.com/items?itemName=iZDT.javascript-unit-test-snippet: false
+  https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest: false
+  https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode: false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2737/v1535424698/My%20VSCode%20Setup/Main%20Interface/Screenshot-2018-08-27_10-44-30_PM.png
+  : false
+http://0.0.0.0:4000/my-iterm-setup/:
+  https://iterm2.com/: false
+  https://iterm2.com/features.html: false
+  https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH: false
+  https://github.com/Homebrew/brew: false
+  https://github.com/robbyrussell/oh-my-zsh: false
+  https://res.cloudinary.com/twhiteblog/image/upload/v1535934513/My%20Terminal%20Setup%20Post/Screenshot2017-09-30_06-28-20_PM.jpg: false
+  https://github.com/wesbos/Cobalt2-iterm: false
+  https://github.com/powerline/fonts: false
+  https://zen-of-programming.com/terminal-setup/: false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/v1535424037/My%20Terminal%20Setup%20Post/Screenshot-2018-08-27_06-44-35_PM.png
+  : false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/v1535424076/My%20Terminal%20Setup%20Post/Screenshot-2018-08-27_10-41-01_PM.png
+  : false
+  https://github.com/denysdovhan/spaceship-prompt/issues/401: false
+  https://nerdfonts.com/: false
+  https://github.com/ryanoasis/nerd-fonts: false
+  https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7: false
+  https://github.com/athityakumar/colorls: false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/v1535424038/My%20Terminal%20Setup%20Post/Screenshot-2018-08-27_06-58-43_PM.png
+  : false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/v1535424037/My%20Terminal%20Setup%20Post/Screenshot-2018-08-27_06-48-58_PM.png
+  : false
+  https://github.com/zsh-users/zsh-syntax-highlighting: false
+  https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/docs/highlighters.md: false
+  https://github.com/rupa/z/: false
+  https://github.com/ogham/exa: false
+  https://twitter.com/TiffanyW_412: false
+https://tiffanywhite.tech/alice/:
+  http://helloburgh.me/wp-content/uploads/2015/01/wpid-2015-01-12-15-13-29.png: false
+https://tiffanywhite.tech/alice-first-look/:
+  http://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2628.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2631.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/01/wpid-img_2632.jpg: false
+https://tiffanywhite.tech/first-assignment-laughs-2/: {}
+https://tiffanywhite.tech/design-woes-and-look-at-that-css-2/: {}
+https://tiffanywhite.tech/return-to-google/: {}
+https://tiffanywhite.tech/design-book/: {}
+https://tiffanywhite.tech/javascript-machine/: {}
+https://tiffanywhite.tech/tech/: {}
+https://tiffanywhite.tech/code-newbie-smackdown-ides/: {}
+https://tiffanywhite.tech/dash-is-a-thing/: {}
+https://tiffanywhite.tech/animation-with-alice/: {}
+https://tiffanywhite.tech/messed-up-gems/: {}
+https://tiffanywhite.tech/my-go-woes/: {}
+https://tiffanywhite.tech/sketch-mockup-to-code/: {}
+https://tiffanywhite.tech/responsive-grid-system/:
+  http://helloburgh.me/wp-content/uploads/2015/02/wpid-footer.png: false
+https://tiffanywhite.tech/css-and-stack-overflow/:
+  http://helloburgh.me/wp-content/uploads/2015/02/wpid-6a0120a85dcdae970b012877705432970c-pi.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/02/wpid-6a0120a85dcdae970b012877705432970c-pi.jpg?w=300: false
+  https://www.behance.net/twhite412photo&quot;&gt;&lt;i: false
+  https://www.linkedin.com/in/tiffanyrwhite/&quot;&gt;&lt;i: false
+  https://twitter.com/TiffanyW_412&quot;&gt;&lt;i: false
+  https://github.com/twhite96&quot;&gt;&lt;i: false
+  https://plus.google.com/+TiffanyWhiteWriter&quot;&gt;&lt;i: false
+https://tiffanywhite.tech/programming-conditionals/: {}
+https://tiffanywhite.tech/gitmodules/: {}
+https://tiffanywhite.tech/first-episode-is-live/:
+  ? https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197062542&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true
+  : false
+https://tiffanywhite.tech/jekyll-hyde/: {}
+https://tiffanywhite.tech/pitt-and-computer-science-4/:
+  http://helloburgh.me/wp-content/uploads/2015/03/wpid-2014-09-08-15.49.47.gif: false
+https://tiffanywhite.tech/finding-tutorial-sites-and-sticking-to-them/:
+  http://helloburgh.me/wp-content/uploads/2015/04/wpid-codecademy-logo.png: false
+  https://open.spotify.com/user/carvingcarver/playlist/4DO1h8k7p3T5StFC9yuNMn: false
+https://tiffanywhite.tech/python-python-and-more-python-ep-2-is-live/:
+  http://helloburgh.me/2015/04/01/finding-tutorial-sites-and-sticking-to-them/: false
+  ? https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/199159883&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true
+  : false
+https://tiffanywhite.tech/going-through-python-and-ruby-with-zed-shaw/:
+  http://twitter.com/zedshaw: false
+  ? http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914/ref=sr_1_1?ie=UTF8&amp;qid=1428558596&amp;sr=8-1&amp;keywords=learn+python+the+hard+way
+  : false
+  http://learnpythonthehardway.org/book/: false
+  http://helloburgh.me/wp-content/uploads/2015/04/wpid-python_form.gif: false
+https://tiffanywhite.tech/argument-variables-in-python/:
+  http://helloburgh.me/wp-content/uploads/2015/04/wpid-python_argv.gif: false
+https://tiffanywhite.tech/episode-3-is-live-with-some-oddness/:
+  http://helloburgh.me: false
+  ? https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201335339&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true
+  : false
+https://tiffanywhite.tech/opening-files-in-python/:
+  http://helloburgh.me/wp-content/uploads/2015/04/wpid-reading_text_files_in_python.gif: false
+https://tiffanywhite.tech/mcjep3-podcast/:
+  http://helloburgh.me/wp-content/uploads/2015/04/51a5f6c0ae6e280917.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/04/51a5f6c0ae6e280917-300x169.jpg: false
+  http://twhite96.github.io/episode-3-is-live-with-some-oddness/: false
+  https://api.soundcloud.com/tracks/201335339: false
+https://tiffanywhite.tech/college-admissions/:
+  http://helloburgh.me/wp-content/uploads/2015/04/wpid-2014-09-08-15.49.47.gif: false
+https://tiffanywhite.tech/i-am-now-a-pitt-panther/:
+  https://helloburgh.me/wp-content/uploads/2015/05/IMG_0297.jpg: false
+https://tiffanywhite.tech/this-developers-journey-ep-4/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo.png: false
+https://tiffanywhite.tech/this-developers-journey-ep-5/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo1.png: false
+  https://codenewbie.typeform.com/to/uwsWlZ: false
+  http://meta.stackexchange.com/questions/66377/what-is-the-xy-problem: false
+  http://mywiki.wooledge.org/XyProblem: false
+  http://heroku.com: false
+https://tiffanywhite.tech/free-code-camp-rocks/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-camper-image-placeholder.png: false
+https://tiffanywhite.tech/this-developers-journey-ep-6/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo2.png: false
+  https://twitter.com/marcusp619: false
+  http://marcusp619.github.io: false
+  https://www.youtube.com/user/colbycheeze: false
+  https://kanbanflow.com: false
+  http://happenapps.com: false
+https://tiffanywhite.tech/coding-regularly/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-IMG_0413.jpg: false
+https://tiffanywhite.tech/this-developers-journey-ep-7-2/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-Dev-Logo3.png: false
+  https://github.com/ajose01/newbie-todo: false
+  http://www.writemoretests.com/2011/09/test-driven-development-give-me-break.html: false
+  ? http://www.amazon.com/gp/product/B00UMG535Y/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00UMG535Y&amp;linkCode=as2&amp;tag=dghemailimperfectionist-20&amp;linkId=SPFLWHIELI2533YD
+  : false
+  https://www.youtube.com/watch?v=1O1fcYyIWU4: false
+https://tiffanywhite.tech/trello-for-kanban/:
+  http://helloburgh.me/wp-content/uploads/2015/05/wpid-Trello.png: false
+  http://blog.kanbanize.com/kanban-101-the-kanban-board/: false
+  http://www.trello.com: false
+  https://vimeo.com/129059451: false
+https://tiffanywhite.tech/all-the-pretty-languages/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-Help-button.jpg: false
+  https://www.girldevelopit.com/chapters/pittsburgh: false
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-IMG_0497.jpg: false
+  http://codepen.io/twhite96/pen/GJrdoq: false
+  http://codepen.io/twhite96/pen/GJrdoq/'&gt;GJrdoq&lt;/a&gt;: false
+  http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;: false
+  http://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]: false
+https://tiffanywhite.tech/this-developers-journey-ep-8-2/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo.png: false
+  http://simpleprogrammer.com/: false
+  ? http://www.amazon.com/gp/product/1617292397/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1617292397&amp;linkCode=as2&amp;tag=makithecompsi-20&amp;linkId=YNX4566EEVSNF3IL
+  : false
+https://tiffanywhite.tech/killing-this-code-like-a-boss/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-technology-science_520996.jpg: false
+  https://justgetflux.com/: false
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-Screenshot-2015-06-06-19.10.23.png: false
+https://tiffanywhite.tech/this-developers-journey-ep-9-2/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo1.png: false
+  http://www.ere.net/2014/01/29/looking-for-women-it-professionals-stand-in-line/: false
+  http://www.forbes.com/sites/adrianalopez/2015/03/06/making-the-technology-field-more-open-to-women/2/: false
+  http://www.codeandsupply.co/: false
+https://tiffanywhite.tech/javascript-javascript-javascript/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-js-logo-badge-256.png: false
+  https://itunes.apple.com/us/app/quiver-programmers-notebook/id866773894?mt=12: false
+https://tiffanywhite.tech/this-developers-journey-ep-10-2/:
+  http://helloburgh.me/wp-content/uploads/2015/06/wpid-Dev-Logo2.png: false
+  http://codepen.io/: false
+  http://jsfiddle.net/: false
+  ? http://www.amazon.com/Introduction-JavaScript-Object-Notation--point/dp/1500650404/ref=sr_1_2?s=digital-text&amp;ie=UTF8&amp;qid=1434763675&amp;sr=8-2&amp;keywords=Introduction+to+javascript+object+notation&amp;pebp=1434763680880&amp;perid=0W5WD3H51H58YNG8FCQ7
+  : false
+  ? http://www.amazon.com/Becoming-Steve-Jobs-Evolution-Visionary/dp/0385347405/ref=sr_1_1?ie=UTF8&amp;qid=1434763756&amp;sr=8-1&amp;keywords=becoming+steve+jobs&amp;pebp=1434763762133&amp;perid=1QQVZFAZM27XF2S2Y41A
+  : false
+  https://pragprog.com/magazines: false
+  ? http://www.amazon.com/Entropy-Its-Physical-Meaning-2nd-ebook/dp/B000P0JMN6/ref=tmm_kin_title_0?_encoding=UTF8&amp;sr=8-1&amp;qid=1434763870
+  : false
+  ? http://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544227751/ref=sr_1_1?ie=UTF8&amp;qid=1434763936&amp;sr=8-1&amp;keywords=Big+Data&amp;pebp=1434763941489&amp;perid=1KKSBYM4N97SHF583Z1S
+  : false
+  ? http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_sc_1?ie=UTF8&amp;qid=1434763971&amp;sr=8-1-spell&amp;keywords=pragamatic+programmer&amp;pebp=1434763974720&amp;perid=1ESEFFY45B56CSVF0G46
+  : false
+  ? http://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1434764013&amp;sr=1-1&amp;keywords=passionate+programmer&amp;pebp=1434764018398&amp;perid=07JD6BSH22NG2N8E142Z
+  : false
+  ? http://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1434764071&amp;sr=1-1&amp;keywords=97+things+every+programmer+should+know&amp;pebp=1434764075766&amp;perid=19S22JZWS1KB78BEY7V1
+  : false
+  ? http://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1434764117&amp;sr=1-4&amp;keywords=rest+api&amp;pebp=1434764122040&amp;perid=1DAEVRR2CB7EX9DSVKMY
+  : false
+  ? http://www.amazon.com/Work-Smarter-Not-Harder-Productivity-ebook/dp/B00V8ALKN2/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1434764164&amp;sr=1-1&amp;keywords=work+smarter+not+harder&amp;pebp=1434764168733&amp;perid=1K7AAX9NWMN9M5YVW9X4
+  : false
+https://tiffanywhite.tech/yeoman-and-javascript-etc/:
+  http://helloburgh.me/wp-content/uploads/2015/06/Yeoman.jpg: false
+  https://appsto.re/us/UqWkO.i: false
+  https://twitter.com/marcusp619: false
+  http://yeoman.io/: false
+  https://en.m.wikipedia.org/wiki/Boilerplate_code: false
+  https://youtube.com/watch?v=gKiaLSJW5xI: false
+  https://open.spotify.com/user/thetruckert/playlist/2TY4Y6Cg3R2i3UPS2WkvYa: false
+https://tiffanywhite.tech/i-need-to-do-better/:
+  http://helloburgh.me/wp-content/uploads/2015/06/Desktop-e1435544858453.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/06/BusyCal.jpg: false
+  http://www.codeandsupply.co/podcast/monthly-check-in-with-new-developer-tiffany-white: false
+https://tiffanywhite.tech/moving-on-up-while-feeling-stupid/:
+  http://helloburgh.me/wp-content/uploads/2015/06/Fake-Mac.jpg: false
+https://tiffanywhite.tech/this-developers-journey-ep-11-2/:
+  http://helloburgh.me/wp-content/uploads/2015/07/TDJ.jpg: false
+  http://helloburgh.me/2015/06/25/yeoman-and-javascript-etc/: false
+  http://stackoverflow.com/questions/3992199/what-is-boilerplate-code: false
+  http://programmers.stackexchange.com/questions/148602/a-defense-for-boilerplate: false
+  http://www.oreilly.com/pub/au/4853: false
+  http://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397: false
+  http://applemusic.tumblr.com/: false
+https://tiffanywhite.tech/in-a-rut/:
+  https://www.iterm2.com/: false
+  http://helloburgh.me/wp-content/uploads/2015/07/iterm.jpg: false
+  https://mobile.twitter.com/saronyitbarek: false
+  http://www.codenewbie.org/: false
+  http://codepen.io/twhite96/pen/KpRBzd/'&gt;Address: false
+  http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;: false
+  http://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]: false
+https://tiffanywhite.tech/heroku-woes/:
+  https://helloburgh.me/wp-content/uploads/2015/07/Heroku.jpg: false
+  https://youtube.com/watch?v=uLF_hmtxAsY: false
+  https://gist.github.com/twhite96/010c6fcb268c29c554d7: false
+https://tiffanywhite.tech/this-developers-journey-ep-12-2/:
+  http://helloburgh.me/wp-content/uploads/2015/07/wpid-Dev-Logo.png: false
+  http://codepen.io/twhite96/pen/KpRBzd: false
+  http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master-ebook/dp/B003GCTQAE/ref=mt_kindle?_encoding=UTF8&amp;me=: false
+  ? http://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering-ebook/dp/B00B8USS14/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1437107146&amp;sr=1-1&amp;keywords=mythical+man+month
+  : false
+  ? http://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1437107182&amp;sr=1-1&amp;keywords=passionate+programmer
+  : false
+  ? http://www.amazon.com/REST-Design-Rulebook-Mark-Masse-ebook/dp/B005XE5A7Q/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1437107220&amp;sr=1-1&amp;keywords=rest+api+design+rulebook
+  : false
+  https://leanpub.com/build-apis-you-wont-hate: false
+  https://itunes.apple.com/us/podcast/developer-tea/id955596067?mt=2: false
+https://tiffanywhite.tech/fcc-to-treehouse/:
+  http://helloburgh.me/wp-content/uploads/2015/07/TT.jpg: false
+  https://twitter.com/nickqueen: false
+  http://nickqueen.com/: false
+  https://teamtreehouse.com/: false
+https://tiffanywhite.tech/treehouse-is-some-kind-of-special/:
+  http://helloburgh.me/wp-content/uploads/2015/07/wpid-Computer-design-elements-flat-vector-material.jpg: false
+  http://codepen.io/twhite96/pen/oXadEd/'&gt;Literary: false
+  http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;: false
+  http://codepen.io'&gt;CodePen&lt;/a&gt;.: false
+https://tiffanywhite.tech/this-developers-journey-ep-13/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-TWW_movil_20.jpg: false
+  http://teamtreehouse.com: false
+  ? http://www.amazon.com/So-Youve-Been-Publicly-Shamed-ebook/dp/B00L9B7IRC/ref=sr_1_1?s=digital-text&amp;ie=UTF8&amp;qid=1438649230&amp;sr=1-1&amp;keywords=so+you%27ve+been+publicly+shamed
+  : false
+  ? http://www.amazon.com/Quick-JavaScript-Interview-Questions-Frequently-ebook/dp/B00Z06S0BK/ref=sr_1_1?ie=UTF8&amp;qid=1438649293&amp;sr=8-1&amp;keywords=quick+javascript+interview+questions
+  : false
+  ? http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1438649341&amp;sr=1-1&amp;keywords=cracking+the+coding+interview
+  : false
+  ? http://www.amazon.com/Rock-Your-Portfolio-Website-Photographers-ebook/dp/B00D8K7LRE/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1438649395&amp;sr=1-1&amp;keywords=Rock+Your+portfolio+website
+  : false
+  ? http://www.amazon.com/David-Sawyer-McFarland-JavaScript-jQuery/dp/B00RWSAMUQ/ref=sr_1_2?s=books&amp;ie=UTF8&amp;qid=1438649432&amp;sr=1-2&amp;keywords=javascript+%26+jquery+the+missing+manual+3rd+edition
+  : false
+  https://itunes.apple.com/us/app/affinity-photo/id824183456?mt=12: false
+  http://bohemiancoding.com/sketch/: false
+  https://raindrop.io/app: false
+  http://joequery.me/code/the-self-hating-web-developer: false
+  http://www.renfei.org/snippets-lab/: false
+https://tiffanywhite.tech/daily-bi-daily-updates/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-4978.png: false
+  http://nickqueen.com/blog/: false
+  http://nickqueen.com/: false
+  https://itunes.apple.com/us/app/snippetslab/id1006087419?mt=12: false
+  http://www.tiffanyrwhite.com: false
+https://tiffanywhite.tech/day-1-java-with-multiple-strings-formatters-and-conditionals/:
+  http://helloburgh.me/wp-content/uploads/2015/08/Screenshot-2015-08-08-01.14.53.png: false
+https://tiffanywhite.tech/day-2-rehashing-jquery-basics/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-08-22.55.03.png: false
+https://tiffanywhite.tech/day-3-event-handlers-and-animations/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-09-20.08.12.png: false
+  https://kapeli.com/dash: false
+https://tiffanywhite.tech/day-4-lightbox/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-10-22.40.45.png: false
+  "//Capture": false
+  "//Update": false
+  "//Show": false
+  "//Get": false
+  "//When": false
+  "//Hide": false
+https://tiffanywhite.tech/day-5-mobile-dropdown-menu/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-12-17.55.12.png: false
+  "//Go": false
+https://tiffanywhite.tech/day-6-password-forms-tooltips/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-15.png: false
+  "//Problem:": false
+  "//Solution:": false
+  "//Hide": false
+  "//Find": false
+  "//else": false
+https://tiffanywhite.tech/this-developers-journey-ep-14/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Dev-Logo.png: false
+  https://teamtreehouse.com/tracks/learn-java: false
+  https://affinity.serif.com/en-us/designer/: false
+  http://www.keyboardmaestro.com/main/: false
+https://tiffanywhite.tech/day-7-drawing-app/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-19.jpg: false
+  http://codepen.io/twhite96/pen/bdPrvw/'&gt;bdPrvw&lt;/a&gt;: false
+  http://codepen.io/twhite96'&gt;@twhite96&lt;/a&gt;: false
+  http://codepen.io'&gt;CodePen&lt;/a&gt;.[/codepen_embed]: false
+https://tiffanywhite.tech/day-8-html-tables-and-the-dom/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-20-2.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-20.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-Screenshot-2015-08-20-1.jpg: false
+https://tiffanywhite.tech/starting-the-university-of-pittsburgh/:
+  http://helloburgh.me/wp-content/uploads/2015/08/wpid-1024px-University_of_Pittsburgh_Seal_official.png: false
+https://tiffanywhite.tech/first-week-of-pitt/:
+  http://helloburgh.me/wp-content/uploads/2015/09/wpid-WeBelievePittPanthers.jpg: false
+  http://thisdevsjourney.com: false
+https://tiffanywhite.tech/cs-intro-to-programming-java/:
+  http://helloburgh.me/wp-content/uploads/2015/09/wpid-mac-textwrangler-code-type.png: false
+  https://twitter.com/BillLaboon: false
+https://tiffanywhite.tech/outdated-java-tech-at-uni/:
+  http://helloburgh.me/wp-content/uploads/2015/09/wpid-java-logo.jpg: false
+  https://twitter.com/AlexGwartney: false
+  https://twitter.com/nickqueen: false
+  https://twitter.com/joedayvie: false
+  http://developersoup.com/index.php/2015/09/04/episode-6-alex-and-nick-welcome-fellow-developers-joe-and-tiffany/: false
+  http://javapapers.com/core-java/java-string-concatenation/: false
+  http://www.codeandsupply.co/podcast/monthly-check-in-with-tiffany-white: false
+https://tiffanywhite.tech/first-java-program/:
+  http://helloburgh.me/wp-content/uploads/2015/09/wpid-Screenshot-2015-09-26.jpg: false
+  "//This": false
+  https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css&amp;quot;&amp;gt;: false
+  https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css&amp;quot;&amp;gt;: false
+  https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;: false
+https://tiffanywhite.tech/makin-text-files/:
+  http://helloburgh.me/wp-content/uploads/2015/09/wpid-BufferedReader-in-Java.jpg: false
+https://tiffanywhite.tech/first-java-challenge/:
+  http://helloburgh.me/wp-content/uploads/2015/10/wpid-headdesk.jpg: false
+  http://www.atypicallyrelevant.com/return-to-school-post-haste/headdesk-2[/caption]: false
+  "//Gets": false
+https://tiffanywhite.tech/nanowrimo-or-nacowrimo/:
+  http://helloburgh.me/wp-content/uploads/2015/10/wpid-winner-2014-web-banner.jpg: false
+https://tiffanywhite.tech/day-9-finishing-intermediate-javascript-on-treehouse-plus-new-contributor/:
+  http://helloburgh.me/wp-content/uploads/2015/10/wpid-Screenshot-2015-10-17.jpg: false
+  "//Set": false
+  http://thisdevsjourney.com/: false
+  https://twitter.com/NicholasLash: false
+https://tiffanywhite.tech/should-you-be-copying-code/:
+  http://helloburgh.me/wp-content/uploads/2015/10/Copy.jpeg: false
+https://tiffanywhite.tech/day-10-ajax/:
+  http://helloburgh.me/wp-content/uploads/2015/10/wpid-Screenshot-2015-10-26.jpg: false
+https://tiffanywhite.tech/technical-posts/: {}
+https://tiffanywhite.tech/scope-for-beginners/:
+  "//global": false
+  "//local": false
+https://tiffanywhite.tech/the-execution-stack-and-scope/:
+  http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/: false
+https://tiffanywhite.tech/productivity-script-from-marco-arment/:
+  http://helloburgh.me/wp-content/uploads/2015/11/22359007740_b6c033c237_k.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/11/22359007740_b6c033c237_k-1024x683.jpg: false
+  https://twitter.com/marcoarment?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor: false
+  https://daringfireball.net/thetalkshow/: false
+  http://www.marco.org/2015/10/30/automatic-social-discipline: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-Screenshot.jpg: false
+https://tiffanywhite.tech/regaining-my-footing-as-a-java-student/:
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-16A9B86780.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-4O94P417GK.jpg: false
+  "//calls": false
+https://tiffanywhite.tech/new-routine-or-do-you-have-the-hustle-2/:
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-IW1IXLIOY5.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-ASJL0UIGOR.jpg: false
+https://tiffanywhite.tech/free-code-camp-bonfires/:
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-0G7N1L3G2F.jpg: false
+  https://www.twitter.com/marcusp619: false
+  https://chrome.google.com/webstore/detail/scratch-js/alploljligeomonipppgaahpkenfnfkn?hl=en-US: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-X8I9SUI6DZ.jpg: false
+  https://gist.github.com/twhite96/d093f42db2954b8a84a7: false
+https://tiffanywhite.tech/iterating-over-an-array-in-java-and-javascript-3/:
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-FSPLFPQBCZ_1.jpg: false
+  https://codenewbie.typeform.com/to/uwsWlZ: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-11068139233_3a67bc9431_k.jpg: false
+https://tiffanywhite.tech/bonfire-tears-free-code-camp-edition/:
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-XB78WQK09O.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-headdesk.gif: false
+  "//&quot;Never": false
+  "//dees": false
+  "//'abcdefghijklmn'.substr(0,": false
+  "//&quot;grab": false
+  http://helloburgh.me/wp-content/uploads/2015/11/wpid-Aha.gif: false
+https://tiffanywhite.tech/working-with-arrays-part-1/: {}
+https://tiffanywhite.tech/first-computer-science-class/:
+  http://helloburgh.me/wp-content/uploads/2015/12/Class.jpeg: false
+  https://twhite96.github.io/: false
+  ? http://helloburgh.me/wp-content/uploads/2015/12/public-domain-images-free-stock-photos-woman-earth-globe-white-short-outdoors-water-reflection.jpg
+  : false
+  http://helloburgh.me/wp-content/uploads/2015/12/IMG_0369.png: false
+  http://helloburgh.me/wp-content/uploads/2015/12/IMG_0380.png: false
+  "//Use": false
+  "//Secret": false
+  "//Player": false
+  "//If": false
+  "//Can": false
+  "//Incorrect": false
+  "//Each": false
+https://tiffanywhite.tech/gpa-blues-at-pitt/:
+  http://helloburgh.me/wp-content/uploads/2015/12/GPA.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2015/12/IMG_0408.jpg: false
+https://tiffanywhite.tech/working-with-arrays-part-2/: {}
+https://tiffanywhite.tech/5-things-learned-semester/:
+  http://helloburgh.me/wp-content/uploads/2015/12/IMG_0406.jpg: false
+  http://helloburgh.me/wp-content/uploads/2015/12/IMG_0400.jpg: false
+https://tiffanywhite.tech/new-years-to-dos/:
+  https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0410.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0410-1024x1024.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0435.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2015/12/IMG_0435-1024x680.jpg: false
+https://tiffanywhite.tech/new-semester-excitement/:
+  http://helloburgh.me/wp-content/uploads/2016/01/IMG3_20160108_172912.jpeg: false
+  https://twitter.com/BillLaboon: false
+  https://education.github.com/pack: false
+  http://helloburgh.me/wp-content/uploads/2016/01/oh-my-zsh.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/01/Screenshot2016-01-08_10-26-37_PM.jpg: false
+  https://snippetsearch.herokuapp.com/: false
+https://tiffanywhite.tech/upping-my-game-with-books-on-algorithms/:
+  http://helloburgh.me/wp-content/uploads/2016/01/Algorithms_for_days.jpeg: false
+  http://www.amazon.com/Structures-Algorithms-JavaScript-Michael-McMillan/dp/1449364934: false
+  ? http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&amp;qid=1452650581&amp;sr=8-1&amp;keywords=clean+code
+  : false
+  http://helloburgh.me/wp-content/uploads/2016/01/Fast.jpeg: false
+https://tiffanywhite.tech/rainbow-explosion-hangman/:
+  http://helloburgh.me/wp-content/uploads/2016/01/kickass_rainbow.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/01/DeathtoStock_NotStock7.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/01/Screenshot2016-01-13_09-49-47_PM-1.jpg: false
+https://tiffanywhite.tech/the-blank-ide-in-cs-0401/:
+  http://helloburgh.me/wp-content/uploads/2016/01/JPEG-image-A22950F8B471-1.jpeg: false
+  https://twitter.com/billlaboon: false
+  http://helloburgh.me/wp-content/uploads/2016/01/Screenshot2016-01-22_12-31-00_AM.jpg: false
+https://tiffanywhite.tech/confidence-self-talk/:
+  http://helloburgh.me/wp-content/uploads/2016/02/Elevate.jpeg: false
+  https://www.instagram.com/p/BBL-xI2vHY9/?taken-by=twhitedev412: false
+https://tiffanywhite.tech/array-methods-in-JavaScript/:
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration: false
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array: false
+https://tiffanywhite.tech/preparing-for-free-code-camp-bonfires/:
+  http://helloburgh.me/wp-content/uploads/2016/02/Tears.jpeg: false
+  http://www.amazon.com/Structures-Algorithms-JavaScript-Michael-McMillan/dp/1449364934: false
+  https://www.youtube.com/playlist?list=PLyBGKxys5xmeOTt1280DfSlM1HFhrPn-e: false
+  https://twhite96.github.io/array-methods-in-JavaScript/: false
+https://tiffanywhite.tech/fear-loathing-anxiety-pittsburgh/:
+  http://helloburgh.me/wp-content/uploads/2016/02/webdev.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/02/bigger_picture.jpg: false
+https://tiffanywhite.tech/primitive-data-types-in-java/: {}
+https://tiffanywhite.tech/college-vs-self-learning/:
+  http://helloburgh.me/wp-content/uploads/2016/02/55C1968ACE.jpg: false
+  https://medium.freecodecamp.com/a-look-back-my-year-of-traditional-computer-science-learning-and-self-teaching-9176dfd9651c: false
+https://tiffanywhite.tech/resume-free-code-camp/:
+  http://helloburgh.me/wp-content/uploads/2016/02/Free-Code-Camp.png: false
+  http://helloburgh.me/wp-content/uploads/2016/02/animated.gif: false
+  https://www.udemy.com/understand-javascript/learn/: false
+  https://twhite96.github.io/javascript/the-danger-of-type-coercion-in-javascript/: false
+https://tiffanywhite.tech/the-danger-of-type-coercion-in-javascript/:
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence: false
+https://tiffanywhite.tech/completed-first-front-end-project/:
+  http://helloburgh.me/wp-content/uploads/2016/02/front-end_masters.jpeg: false
+https://tiffanywhite.tech/front-end-programming-project-free-code-camp/:
+  http://helloburgh.me/wp-content/uploads/2016/02/carl_sagan.jpg: false
+  http://codepen.io/twhite96/pen/dMbwyM: false
+https://tiffanywhite.tech/front-end-programming-project/:
+  http://helloburgh.me/wp-content/uploads/2016/03/front-end.jpeg: false
+  https://4.bp.blogspot.com/-pigPfRWS3Sw/VWX-feGd7II/AAAAAAABjLE/K3JemRkjclI/s0/Coding_with_Style_wallpaper.jpg: false
+  https://4.bp.blogspot.com/-pigPfRWS3Sw/VWX-feGd7II/AAAAAAABjLE/K3JemRkjclI/s0/Coding_with_Style_wallpaper.jpg”: false
+  http://codepen.io/twhite96/pen/dMbwyM: false
+https://tiffanywhite.tech/new-years-goals-follow/:
+  http://helloburgh.me/wp-content/uploads/2016/03/Goals.jpeg: false
+https://tiffanywhite.tech/portfolio-unlocked/:
+  http://helloburgh.me/wp-content/uploads/2016/03/JPEG-image-573A94AF296B-1-1.jpeg: false
+  http://codepen.io/twhite96/pen/GZJRJz: false
+https://tiffanywhite.tech/review-hackers/:
+  http://www.goodreads.com/book/show/8646752: false
+  http://d.gr-assets.com/books/1328343027m/8646752.jpg: false
+  http://www.goodreads.com/author/show/32131: false
+  http://www.goodreads.com/review/show/1576869358: false
+https://tiffanywhite.tech/review-the-charge/:
+  http://www.goodreads.com/book/show/13573685: false
+  http://d.gr-assets.com/books/1350302188m/13573685.jpg: false
+  http://www.goodreads.com/author/show/588158: false
+  http://www.goodreads.com/review/show/1576871522: false
+https://tiffanywhite.tech/diving-into-small-apps/:
+  http://helloburgh.me/wp-content/uploads/2016/03/app.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/03/app-1024x683.jpeg: false
+  https://github.com/HappenApps/Quiver/issues/92: false
+  https://api.pinboard.in/v1/posts/recent': false
+  http://tiffanyrwhite.tech: false
+https://tiffanywhite.tech/review-deep-work/:
+  http://www.goodreads.com/book/show/25904506: false
+  http://d.gr-assets.com/books/1449422525m/25904506.jpg: false
+  http://www.goodreads.com/author/show/147891: false
+  http://www.goodreads.com/review/show/1576872102: false
+https://tiffanywhite.tech/review-keynote/:
+  http://www.goodreads.com/book/show/28419314: false
+  http://d.gr-assets.com/books/1451611692m/28419314.jpg: false
+  http://www.goodreads.com/author/show/14823298: false
+  http://www.goodreads.com/review/show/1579146369: false
+https://tiffanywhite.tech/review-the-master-algorithm/:
+  http://www.goodreads.com/book/show/25703680: false
+  http://d.gr-assets.com/books/1443169433m/25703680.jpg: false
+  http://www.goodreads.com/author/show/3242685: false
+  http://www.goodreads.com/review/show/1535488112: false
+https://tiffanywhite.tech/hey-everybody-lets-shit-on-js/:
+  http://helloburgh.me/wp-content/uploads/2016/04/shitonjs.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/shitonjs-1024x683.jpeg: false
+https://tiffanywhite.tech/crawling-before-you-walk/:
+  http://helloburgh.me/wp-content/uploads/2016/04/Sad.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Sad-1024x577.jpg: false
+  "//this.get": false
+  http://helloburgh.me/wp-content/uploads/2016/04/Deal-With-It.gif: false
+https://tiffanywhite.tech/using-trello-to-track-learning/:
+  http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-18_09-41-31_PM.png: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-18_09-41-31_PM-1024x586.png: false
+  http://www.thatamazingprogrammer.com/blog/: false
+  https://trello.com/b/iMkh9HVu/asp-net-mvc-mastery: false
+  https://trello.com/b/g8EsIwnV/full-stack-javascript-mastery: false
+https://tiffanywhite.tech/trying-harder/:
+  http://helloburgh.me/wp-content/uploads/2016/04/Optimized-Learning.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Optimized-Learning-1024x682.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Optimized-IMG_1149.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Optimized-IMG_1149-1024x768.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Optimized-Optimized-Image-23.jpg: false
+  "//end": false
+  http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-19_08-40-58_PM.png: false
+https://tiffanywhite.tech/digging-into-oop-javascript/:
+  http://helloburgh.me/wp-content/uploads/2016/04/Digging.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Digging-1024x683.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/04/Screenshot2016-04-23_11-22-55_PM.png: false
+  http://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical: false
+  https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a: false
+https://tiffanywhite.tech/review-object-oriented-javascript/:
+  https://www.goodreads.com/book/show/18492393-object-oriented-javascript: false
+  https://d.gr-assets.com/books/1383046647m/18492393.jpg: false
+  https://www.goodreads.com/author/show/25509.Nicholas_C_Zakas: false
+  https://www.goodreads.com/review/show/1519932501: false
+  https://www.goodreads.com/review/list/1940314-tiffany: false
+https://tiffanywhite.tech/finishing-oop-javascript-treehouse/:
+  http://helloburgh.me/wp-content/uploads/2016/04/OOP-JavaScript.jpeg: false
+  https://gist.github.com/twhite96/42aaf04d874630e4c733236392dc23f7: false
+https://tiffanywhite.tech/thinking-like-programmer/:
+  http://helloburgh.me/wp-content/uploads/2016/05/thinking-like-a-programmer.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/05/thinking-like-a-programmer-1024x685.jpeg: false
+  https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms: false
+  https://kapeli.com/dash: false
+https://tiffanywhite.tech/pitt/:
+  https://twhite96.github.io/contacts-app: false
+https://tiffanywhite.tech/objects-and-json/: {}
+https://tiffanywhite.tech/contacts-app-update/:
+  http://helloburgh.me/wp-content/uploads/2016/05/Optimized-itunes-session.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/05/Screenshot2016-05-20_12-57-54_AM.png: false
+  http://helloburgh.me/wp-content/uploads/2016/05/Screenshot2016-05-20_12-57-54_AM-1024x620.png: false
+  "//your": false
+  https://twhite96.github.io/contacts-app/index.html: false
+  https://www.instagram.com/p/BFm9gRoPHd9/?taken-by=twhitedev412&hl=en: false
+https://tiffanywhite.tech/algorithms_again/:
+  http://helloburgh.me/wp-content/uploads/2016/05/Optimized-algorithms_again.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/05/Optimized-algorithms_again-1024x683.jpeg: false
+  "//string.": false
+https://tiffanywhite.tech/completing-algorithms/:
+  http://helloburgh.me/wp-content/uploads/2016/06/completing_an_algorithm.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/06/completing_an_algorithm-1024x683.jpg: false
+  http://helloburgh.me/2016/05/27/algorithms_again/: false
+  http://andrewchar.github.io/portfolio/: false
+https://tiffanywhite.tech/avoid-javascript-fatigue-make-a-learning-map/:
+  https://twitter.com/CindyPtn: false
+  http://blog.cindypotvin.com/taking-control-learning-by-mapping-out-your-skills/: false
+  http://helloburgh.me/wp-content/uploads/2016/06/2016-04-24-Core-and-Satellite-Skills-to-Be-a-Web-Dev-1024x944.png: false
+https://tiffanywhite.tech/algorithm-solutions/:
+  http://helloburgh.me/wp-content/uploads/2016/06/algorithm_solutions-1024x703.jpg: false
+  https://www.freecodecamp.com/wiki/en/: false
+https://tiffanywhite.tech/fcc-random-quote-generator/:
+  http://helloburgh.me/wp-content/uploads/2016/06/Rando-Quote_2-1024x713.jpg: false
+  http://codepen.io/twhite96/pen/aZmrXO: false
+https://tiffanywhite.tech/random-quote-generator-woes/:
+  http://helloburgh.me/wp-content/uploads/2016/07/Optimized-frustrated_shrink.jpg: false
+  http://helloburgh.me/wp-content/uploads/2016/07/Screenshot2016-06-26_09-42-56_PM_shrink-1024x640.png: false
+  https://crossorigin.me/http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&amp;filter[posts_per_page]=40&amp;callback=: false
+  http://twitter.com/home/?status=: false
+https://tiffanywhite.tech/resolved-to-be-better/:
+  http://helloburgh.me/wp-content/uploads/2016/07/logo_-university-of-pittsburgh-panthers-pitt-paw_shrink.png: false
+  http://helloburgh.me/2016/04/18/using-trello-to-track-learning/: false
+  https://trello.com/b/20fetKMI/computer-science-mastery-b-sc: false
+  http://helloburgh.me/wp-content/uploads/2016/07/Screenshot2016-07-12_10-45-06_PM_shrink-1024x581.png: false
+  https://trello.com/b/6hbpStI7/mathematics-mastery: false
+  http://helloburgh.me/wp-content/uploads/2016/07/Screenshot2016-07-12_10-44-50_PM_shrink-1024x581.png: false
+https://tiffanywhite.tech/knowing-your-limits/:
+  http://helloburgh.me/wp-content/uploads/2016/07/limits-1024x683.jpeg: false
+https://tiffanywhite.tech/random-quote-generator-finale/:
+  http://helloburgh.me/wp-content/uploads/2016/07/celebrate-1-1024x683.jpeg: false
+  http://helloburgh.me/wp-content/uploads/2016/07/Screenshot2016-07-24_08-12-22_PM-1024x834.png: false
+  http://codepen.io/twhite96/pen/XKqrJX: false
+https://tiffanywhite.tech/leveling-up-as-a-programmer/:
+  http://helloburgh.me/wp-content/uploads/2016/07/laptop-cellphone.png: false
+  https://twhite96.github.io/RandQuoteGen/: false
+  https://twhite96.github.io/CarlSaganTribute/: false
+https://tiffanywhite.tech/plan-for-success/:
+  http://helloburgh.me/wp-content/uploads/2016/08/Success.jpeg: false
+  https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ: false
+  https://twitter.com/tomfrankly: false
+https://tiffanywhite.tech/es6-and-lambdas/:
+  https://teamtreehouse.com/library/introducing-es2015: false
+https://tiffanywhite.tech/block-level-scoping-let-const/:
+  http://helloburgh.me/wp-content/uploads/2016/08/const_shrink.jpg: false
+  https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75: false
+https://tiffanywhite.tech/recruiting-news/:
+  http://insights.dice.com/2014/09/16/recruitings-dirty-little-secrets/: false
+https://tiffanywhite.tech/first-week-of-class/:
+  https://helloburgh.me/wp-content/uploads/2016/09/people-coffee-tea-meeting-1.jpg: false
+  https://gist.github.com/twhite96/88882d73339e79583705fe9484846a64: false
+https://tiffanywhite.tech/understanding-hoisting-in-javascript/:
+  https://helloburgh.me/wp-content/uploads/2016/09/JS-5.png: false
+  https://davidwalsh.name/for-and-against-let: false
+  https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md: false
+  https://helloburgh.me/2016/08/25/block-level-scoping-let-const/: false
+  http://www.dictionary.com/browse/hoist?s=t: false
+  https://twitter.com/getify: false
+  http://shop.oreilly.com/category/get/kyle-simpson-kit.do: false
+  https://github.com/getify/You-Dont-Know-JS: false
+https://tiffanywhite.tech/ecommerce-class/:
+  https://helloburgh.me/wp-content/uploads/2016/09/commerce-min-1024x683.jpeg: false
+  https://w3layouts.com/preview/?l=/watches-flat-ecommerce-bootstrap-responsive-web-template/: false
+  https://helloburgh.me/wp-content/uploads/2016/09/Static-Page_shrink-4.png: false
+  https://medium.com/@Gwartney: false
+  https://helloburgh.me/2015/07/15/heroku-woes/: false
+  https://gist.github.com/twhite96/398ad15d7139c42391048176c7131b82: false
+  https://gist.github.com/twhite96/1304641fa177eca3befce67a1dee9f11: false
+  https://gist.github.com/twhite96/a7eff91fda64dd80a20d6ac454b80718: false
+  https://thelenscap.herokuapp.com/: false
+https://tiffanywhite.tech/css-animations-part-1/:
+  https://davidwalsh.name/css-js-animation: false
+  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties: false
+  http://leaverou.github.io/animatable/: false
+  http://lea.verou.me/: false
+https://tiffanywhite.tech/100-days-of-code-log-day-2/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png: false
+  http://kenwheeler.github.io/slick/: false
+  https://thelenscap.herokuapp.com/: false
+https://tiffanywhite.tech/100-days-of-code-days-3-and-4/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl.png: false
+  https://twhite96.github.io/The-Lens-Cap/: false
+  https://helloburgh.me/wp-content/uploads/2016/10/Image-10-5-16-3-40-AM.jpeg: false
+https://tiffanywhite.tech/100-days-of-code-day-5/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-1.png: false
+  https://twhite96.github.io/The-Lens-Cap/: false
+https://tiffanywhite.tech/100-days-of-code-day-8/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-2.png: false
+  http://kenwheeler.github.io/slick/: false
+  https://codepen.io/twhite96/pen/XjEgvq: false
+  https://twhite96.github.io/The-Lens-Cap/: false
+https://tiffanywhite.tech/100-days-of-code-day-9/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-3.png: false
+  https://github.com/twhite96/The-Lens-Cap: false
+  https://twhite96.github.io/The-Lens-Cap/: false
+https://tiffanywhite.tech/css-animations-part-2/:
+  https://davidwalsh.name/css-js-animation: false
+  "//</span>": false
+https://tiffanywhite.tech/let-and-const-for-block-scope/:
+  https://twitter.com/getify: false
+https://tiffanywhite.tech/100-days-of-code-day-10/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-4.png: false
+  https://github.com/twhite96/address-book-demo: false
+https://tiffanywhite.tech/100-days-of-code-day-11/:
+  https://helloburgh.me/wp-content/uploads/2016/10/code-optimization-xxl-5.png: false
+  https://twitter.com/TiffanyW_412/status/784917100422758400: false
+  https://twitter.com/TiffanyW_412/status/784917245805735936: false
+  https://twitter.com/TiffanyW_412/status/784917476391854080: false
+  https://codepen.io/twhite96/pen/yamOrq: false
+https://tiffanywhite.tech/java-virtual-machine/:
+  https://helloburgh.me/wp-content/uploads/2016/11/coding_in_java.jpeg: false
+  https://gist.github.com/twhite96/64a9446a18c1aa188b7c9118cb85908f: false
+  https://gist.github.com/twhite96/fc16f748768bc62e3fc7dae5676a0c65: false
+https://tiffanywhite.tech/ux-testing-results-for-the-lens-cap-mock-e-commerce-site/:
+  ? https://docs.google.com/presentation/d/e/2PACX-1vQM6YytnYBlXnyhNWWpB_AJx2DJ8xGP-mEODsqF_TqbO-r4ZPdXZyGwr08xhlaUqUv0SVLk8hAvB_Td/embed?start=false&loop=false&delayms=3000
+  : false
+  https://blog.kissmetrics.com/speed-is-a-killer/: false
+https://tiffanywhite.tech/two-years-code-newbie-pittsburgh/:
+  https://helloburgh.me/wp-content/uploads/2016/12/Image-12-9-16-1-56-PM.jpeg: false
+  https://twhite96.github.io: false
+  https://trello.com/b/20fetKMI/: false
+https://tiffanywhite.tech/100-days-code-day-12/:
+  https://helloburgh.me/wp-content/uploads/2016/12/Image-12-11-16-9-23-PM.png: false
+https://tiffanywhite.tech/working-free-code-camp-weather-app/:
+  https://api.darksky.net/forecast/<API_KEY>/: false
+  "//Do": false
+https://tiffanywhite.tech/javascript-resources-for-learning/:
+  https://www.freecodecamp.com/: false
+  https://medium.freecodecamp.com/: false
+  https://medium.com/javascript-scene: false
+  http://shop.oreilly.com/category/get/kyle-simpson-kit.do: false
+  https://twitter.com/getify: false
+https://tiffanywhite.tech/first-day-spring-semester-2017/:
+  https://devcenter.heroku.com/articles/getting-started-with-php: false
+  https://devcenter.heroku.com/articles/cleardb: false
+https://tiffanywhite.tech/breaking-things/: {}
+https://tiffanywhite.tech/first-100-java-program/: {}
+https://tiffanywhite.tech/web-development-software-engineering/: {}
+https://tiffanywhite.tech/exploring-algorithms/:
+  https://www.youtube.com/embed/XSLj46Lfpfk?autoplay=0: false
+  https://en.wikipedia.org/wiki/Bubble_sort: false
+  https://www.youtube.com/embed/RqfWvIsYmsc?autoplay=0: false
+https://tiffanywhite.tech/hacking-java-algorithms/:
+  https://gist.github.com/twhite96/a066072cd9194d249caa: false
+  https://gist.github.com/twhite96/288ed40c2d7bb9d1482a7ece3f1be164: false
+https://tiffanywhite.tech/oss-back-basics/:
+  https://helloburgh.me/wp-content/uploads/2017/03/Screenshot2017-03-07_02-46-39_PM.jpg: false
+  http://www.academypgh.com/: false
+  http://www.firsttimersonly.com/: false
+  https://github.com/search?q=label%3Afirst-timers-only&state=open&type=Issues: false
+  https://www.udemy.com/understand-javascript/learn/v4: false
+https://tiffanywhite.tech/javascript-vs-java-pass-by-value-reference/:
+  https://twitter.com/jonskeet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor: false
+  https://tiffanywhite.tech/primitive-data-types-in-java/: false
+  http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function: false
+  https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a: false
+  https://youtu.be/bo36MrBfTk4?t=28m50s: false
+https://tiffanywhite.tech/concise-modular-javascript/:
+  https://gist.github.com/twhite96/3425ef36ca75c93d6ce189a4899ccf40: false
+  https://gist.github.com/twhite96/a019b42192599e43ebddbc608ad4df37: false
+  https://gist.github.com/twhite96/d70aacf2562357393a70431573410efc: false
+  https://gist.github.com/twhite96/35879ad5ae14df31d25aaf8b0891737e: false
+  "//giphy.com/embed/l3q2zVr6cu95nF6O4": false
+  https://helloburgh.me/2016/08/13/es6-and-lambdas/: false
+  https://twitter.com/unclebobmartin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor: false
+https://tiffanywhite.tech/hacking-project-getting-out-tutorial-loop/:
+  https://twitter.com/AlexGwartney: false
+  https://twitter.com/nickqueen: false
+  https://www.youtube.com/watch?v=L66GVCEsKC0: false
+https://tiffanywhite.tech/crud-my-new-app-check-yo-self/:
+  http://ineedaresu.me/: false
+  http://docs.sequelizejs.com/en/v3/: false
+https://tiffanywhite.tech/making-tedious-easy-mdl-templates/:
+  "//giphy.com/embed/RIuHHNa7UgFKo": false
+https://tiffanywhite.tech/open-source-github-stars/:
+  https://twitter.com/ThePracticalDev: false
+  https://github.com/twhite96/checkyoself: false
+  https://helloburgh.me/wp-content/uploads/2017/05/Image-5-9-17-6-36-PM.png: false
+https://tiffanywhite.tech/check-yo-self-update-eliminating-dev-dependencies/:
+  https://arty.name/localstorage.html: false
+  http://materializecss.com/: false
+  https://helloburgh.me/wp-content/uploads/2017/05/Fabs.mov: false
+  https://helloburgh.me/wp-content/uploads/2017/02/cropped-coding.png: false
+https://tiffanywhite.tech/event-handlers-check-yo-self/:
+  https://helloburgh.me/wp-content/uploads/2017/05/whiteboard_opt.compressed.jpeg: false
+https://tiffanywhite.tech/web-developer-bootcamp/:
+  https://www.linkedin.com/in/coltsteele/: false
+https://tiffanywhite.tech/array-methods-in-javascript-2/:
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration: false
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array&quot;>docs</a>.</p>: false
+https://tiffanywhite.tech/css-animations-part-1-2/:
+  https://davidwalsh.name/css-js-animation: false
+  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties: false
+  http://leaverou.github.io/animatable/: false
+  http://lea.verou.me/: false
+https://tiffanywhite.tech/css-animations-part-2-2/:
+  https://davidwalsh.name/css-js-animation: false
+https://tiffanywhite.tech/exploring-algorithms-2/:
+  https://www.youtube.com/embed/XSLj46Lfpfk: false
+  https://en.wikipedia.org/wiki/Bubble_sort&quot;: false
+  https://www.youtube.com/embed/RqfWvIsYmsc: false
+https://tiffanywhite.tech/javascript-resources-for-learning-2/:
+  https://www.freecodecamp.com/&quot;>Free: false
+  https://medium.freecodecamp.com/&quot;>Free: false
+  https://medium.com/javascript-scene&quot;>JavaScript: false
+  'http://shop.oreilly.com/category/get/kyle-simpson-kit.do&quot;>YDKJS</a>:': false
+  https://twitter.com/getify&quot;>Kyle: false
+https://tiffanywhite.tech/javascript-vs-java-pass-by-value-and-reference-2/:
+  https://twitter.com/jonskeet?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor: false
+  https://tiffanywhite.tech/primitive-data-types-in-java/: false
+  http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function: false
+  https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a: false
+  https://youtu.be/bo36MrBfTk4?t=28m50s: false
+https://tiffanywhite.tech/let-and-const-for-block-scope-2/:
+  https://twitter.com/getify&quot;: false
+https://tiffanywhite.tech/objects-and-json-2/: {}
+https://tiffanywhite.tech/primitive-data-types-in-java-2/: {}
+https://tiffanywhite.tech/scope-for-beginners-2/:
+  "//global": false
+  "//local": false
+https://tiffanywhite.tech/the-danger-of-type-coercion-in-javascript-2/:
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence&quot;>MDN</a>: false
+https://tiffanywhite.tech/the-execution-stack-and-scope-2/:
+  http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/&quot;: false
+https://tiffanywhite.tech/ux-testing-results-for-the-lens-cap-mock-e-commerce-site-2/:
+  ? https://docs.google.com/presentation/d/1SRtpSm1GsnTg1R1kzhkNbSW82e_2aBXNv75YmtUf0fg/embed?start=false&amp;loop=false&amp;delayms=3000
+  : false
+  https://blog.kissmetrics.com/speed-is-a-killer/&quot;: false
+https://tiffanywhite.tech/working-with-arrays-part-1-2/: {}
+https://tiffanywhite.tech/working-with-arrays-part-2-2/: {}
+https://tiffanywhite.tech/gauging-my-progress/:
+  "//Print": false
+  "//Movie": false
+https://tiffanywhite.tech/tech-ladies-job-search/:
+  https://tiffanywhite.tech/wp-content/uploads/2017/07/19598810_1390576897685008_6305171492942368993_n.png: false
+https://tiffanywhite.tech/working-chrome-devtools/:
+  https://i.imgur.com/DZMZiDRundefined.gif: false
+  https://d.pr/i/sL9Hco+: false
+  https://i.imgur.com/DZMZiDR.gifv: false
+  https://i.imgur.com/5MJDBLd.gifv[/embed]: false
+https://tiffanywhite.tech/background-image-hacks-css/:
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/Image-8-3-17-1-48-PM.jpeg: false
+  https://i.imgur.com/voece1h.jpg: false
+  https://i.imgur.com/r8haFIj.jpg: false
+  https://i.imgur.com/K6Bazrl.jpg: false
+  https://i.imgur.com/dUS9u9b.jpg: false
+  https://i.imgur.com/Kx3ku27.jpg: false
+  https://i.imgur.com/g4afvja.jpg: false
+  https://i.imgur.com/pjq3VPO.jpg: false
+  https://i.imgur.com/vH9cyKD.jpg: false
+  https://i.imgur.com/ZtSl66b.jpg: false
+  https://i.imgur.com/5z0CXkZ.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/fill.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/cover.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/contain.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/scaled_down.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/none.jpg: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/08/IMG_3816.png: false
+  https://twhite96.github.io/Weather\_App](https://twhite96.github.io/Weather_App: false
+https://tiffanywhite.tech/dry-code-iife/:
+  https://i.imgur.com/voece1h.jpg: false
+  https://i.imgur.com/r8haFIj.jpg: false
+  https://i.imgur.com/K6Bazrl.jpg: false
+  https://i.imgur.com/dUS9u9b.jpg: false
+  https://i.imgur.com/Kx3ku27.jpg: false
+  https://i.imgur.com/g4afvja.jpg: false
+  https://i.imgur.com/pjq3VPO.jpg: false
+  https://i.imgur.com/vH9cyKD.jpg: false
+  https://i.imgur.com/ZtSl66b.jpg: false
+  https://i.imgur.com/5z0CXkZ.jpg: false
+https://tiffanywhite.tech/mission-dry-accomplished/:
+  https://i.imgur.com/voece1h.jpg: false
+  https://i.imgur.com/r8haFIj.jpg: false
+  https://i.imgur.com/K6Bazrl.jpg: false
+  https://i.imgur.com/dUS9u9b.jpg: false
+  https://i.imgur.com/Kx3ku27.jpg: false
+  https://i.imgur.com/g4afvja.jpg: false
+  https://i.imgur.com/pjq3VPO.jpg: false
+  https://i.imgur.com/vH9cyKD.jpg: false
+  https://i.imgur.com/ZtSl66b.jpg: false
+  https://i.imgur.com/5z0CXkZ.jpg: false
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map: false
+  https://linkedin.com/in/adamrecvlohe: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/sunny.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/fineas-anton-136459+copy.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/sam-mcjunkin-38078.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/jeff-nafura-294909.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/jonatan-pie-260835.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/3opt\_rain.jpeg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/jonatan-pie-190398.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/snow.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/jon-flobrant-2845.jpg: false
+  https://s3.us-east-2.amazonaws.com/weatherappfcc/elaine-li-416.jpg: false
+  https://twitter.com/josephrexme: false
+  "//Assign": false
+  "//represent": false
+  "//iconName": false
+  "//and": false
+  https://medium.com/100-days-of-code/100-days-of-code-day-17-7b04669c68c6: false
+https://tiffanywhite.tech/functional-javascript/:
+  http://funkyjavascript.com/: false
+https://tiffanywhite.tech/map/:
+  https://cl.ly/3D472P333D09/Screen%20Recording%202018-03-19%20at%2002.53%20PM.gif: false
+  https://cl.ly/3s111R402r2C/Screen%20Recording%202018-03-19%20at%2002.55%20PM.gif: false
+  http://eloquentjavascript.net/05_higher_order.html: false
+https://tiffanywhite.tech/open-source-goals/:
+  https://twitter.com/una: false
+  https://github.com/una/personal-goals: false
+  https://github.com/twhite96/personal-goals: false
+  https://thatmacnerd.com/blog/: false
+https://tiffanywhite.tech/productivity-devs/:
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2500/v1528784017/opt_work_cnd4km.jpg: false
+  https://dev.to: false
+  https://dev.to/sobolevn/instant-100-command-line-productivity-boost: false
+  https://syntax.fm/show/011/our-favourite-productivity-hacks: false
+  https://www.omnigroup.com/applications/omnifocus/: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1684/v1528783631/Screenshot2017-09-30_04-18-13_PM_vlkgzl.jpg: false
+  https://iterm2.com/: false
+  https://wesbos.com/: false
+  https://github.com/wesbos/Cobalt2-iterm: false
+  https://code.visualstudio.com/: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1617/v1528783656/Screenshot2017-09-30_04-41-56_PM_wirw2j.jpg: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1879/v1528784012/Alfred_Cobalt_Wes_Bos_evjpys.jpg: false
+  https://github.com/powerline/fonts: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1457/v1528783637/Screenshot2017-09-20_08-50-23_PM_zdzere.jpg: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1434/v1528844109/Screenshot2017-09-30_04-37-52_PM_a8sfqz.jpg: false
+  https://github.com/zsh-users/zsh-syntax-highlighting: false
+  https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/docs/highlighters.md: false
+  https://github.com/rupa/z/: false
+  https://github.com/ogham/exa: false
+  https://res.cloudinary.com/twhiteblog/image/upload/v1528844391/Screenshot2017-09-30_06-28-20_PM_n6tuq6.jpg: false
+  https://www.alfredapp.com/: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1820/v1528783997/Product_hunt_gjeypg.jpg: false
+  https://github.com/wesbos/Cobalt2-Alfred-Theme: false
+  https://www.gofuckingwork.com/: false
+  https://chrome.google.com/webstore/detail/go-fucking-work/hibmkkpfegfiinilnlabbfnjcopdiiig: false
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1715/v1528783607/Screenshot2017-09-30_06-36-55_PM_zqshpn.jpg: false
+  https://support.omnigroup.com/windows-or-android/: false
+  https://play.google.com/store/apps/details?id=com.burgstaller.android.focusgtd&amp;hl=en: false
+https://tiffanywhite.tech/es6-modules/: {}
+https://tiffanywhite.tech/first-interview/: {}
+https://tiffanywhite.tech/finishing-yelpcamp/:
+  "//INDEX": false
+  https://yelpcamp96.herokuapp.com/: false
+https://tiffanywhite.tech/update-things-happening/:
+  https://twitter.com/TiffanyW_412/status/922997615230357505: false
+  https://twitter.com/sehurlburt: false
+  https://twitter.com/TiffanyW_412/status/923000005035724800: false
+https://tiffanywhite.tech/i-am-doing-this-thing/:
+  https://dev.to: false
+  https://tiffanywhite.tech/starting-the-university-of-pittsburgh/: false
+  https://tiffanywhite.tech/wp-content/uploads/2017/11/Screenshot-2017-11-15_06-26-56_PM.png: false
+https://tiffanywhite.tech/simplicity-ruby/:
+  https://codeandsupply.co/: false
+  https://www.instagram.com/p/Bb0GHGygllG/?taken-by=twhitedev412: false
+https://tiffanywhite.tech/first-feature-pull-request/:
+  https://dev.to/twhite/changelog-codepen-liquid-tags-now-live-amj: false
+  https://dev.to/maestromac: false
+  https://dev.to/ben: false
+  https://media.giphy.com/media/MQlekpXmGIfFm/giphy.gif: false
+https://tiffanywhite.tech/things-i-cooking-up/:
+  http://developeronfire.com/: false
+https://tiffanywhite.tech/use-cases-es6-spread-operator/:
+  https://i.imgur.com/JbUw3T7.gif: false
+  "//of": false
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread\_operator: false
+https://tiffanywhite.tech/javascript-template-literals/:
+  https://www.hongkiat.com/blog/ecmascript-6-template-literals/: false
+  "//Method": false
+  https://leanpub.com/understandinges6/read: false
+https://tiffanywhite.tech/2017-wrap-up-and-2018-goals/:
+  https://dev.to/: false
+  https://yelpcamp96.herokuapp.com/: false
+  https://check-yoself.herokuapp.com/: false
+  http://developeronfire.com/podcast/episode-296-tiffany-white-shared-learning: false
+  https://twitter.com/cmlang42: false
+  https://twitter.com/pryelluw: false
+  https://blog-app96.herokuapp.com/: false
+https://tiffanywhite.tech/last-journey/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1528083886/josh-wilburne-75113-unsplash_akqxml.jpg: false
+  https://blog-app96.herokuapp.com/: false
+  https://check-yoself.herokuapp.com/: false
+  https://yelpcamp96.herokuapp.com/: false
+  https://www.youtube.com/watch?v=Ef07Hhoc5KE: false
+https://tiffanywhite.tech/destructuring-objects-es6/:
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2827/v1527286051/adrian-tormo-316868-unsplash_tugcsv.jpg: false
+https://tiffanywhite.tech/bind-this-without-constructor/:
+  https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1894/v1528082268/eva-blue-42498-unsplash_y7lcwn.jpg: false
+https://tiffanywhite.tech/react-reconciliation/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1527285926/react_redux_trpz1i.jpg: false
+  https://codepen.io/twhite96/pen/WJPeME/: false
+  https://codepen.io/twhite96: false
+  https://codepen.io: false
+  https://static.codepen.io/assets/embed/ei.js: false
+  https://reactjs.org/docs/reconciliation.html: false
+  https://buttondown.email/tiffanywhite?as_embed=true: false
+https://tiffanywhite.tech/building-a-cli-tool/:
+  https://checkyoself.surge.sh/: false
+https://tiffanywhite.tech/what-are-props/: {}
+https://tiffanywhite.tech/keeping-your-code-simple/:
+  https://t.co/5sALYO4cjN: false
+  https://twitter.com/TiffanyW_412/status/1011075530022621184?ref_src=twsrc%5Etfw: false
+  https://platform.twitter.com/widgets.js: false
+  https://twitter.com/i/moments/1018709673107746816: false
+https://tiffanywhite.tech/my-vscode-setup/:
+  https://zen-of-programming.com/vs-code-setup: false
+  https://dev.to/nickytonline/my-visual-studio-code-setup-2ima: false
+  https://github.com/agirton/gloom: false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2737/v1535424698/My%20VSCode%20Setup/Main%20Interface/Screenshot-2018-08-27_10-44-30_PM.png
+  : false
+  https://github.com/wesbos/cobalt2/: false
+  https://github.com/sdras/night-owl-vscode-theme: false
+  https://github.com/leveluptuts/level-up-vscode-theme: false
+  https://res.cloudinary.com/twhiteblog/image/upload/v1535578739/My%20VSCode%20Setup/Extensions/extensions_vscode.png: false
+  https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer: false
+  https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash: false
+  https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils: false
+  https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify: false
+  https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime: false
+  https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense: false
+  https://marketplace.visualstudio.com/items?itemName=discountry.react-redux-react-router-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=infeng.vscode-react-typescript: false
+  https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=angryobject.react-pure-to-class-vscode: false
+  https://marketplace.visualstudio.com/items?itemName=nickytonline.vscode-gatsby-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=lXSPandora.vscode-styled-components-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=bierner.color-info: false
+  https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight: false
+  https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss: false
+  https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion: false
+  https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster: false
+  https://marketplace.visualstudio.com/items?itemName=cmstead.jsrefactor: false
+  https://marketplace.visualstudio.com/items?itemName=progre.promise-snippets: false
+  https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack: false
+  https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist: false
+  https://marketplace.visualstudio.com/items?itemName=iZDT.javascript-unit-test-snippet: false
+  https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest: false
+  https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode: false
+https://tiffanywhite.tech/my-iterm-setup/:
+  https://iterm2.com/: false
+  https://iterm2.com/features.html: false
+  https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH: false
+  https://github.com/Homebrew/brew: false
+  https://github.com/robbyrussell/oh-my-zsh: false
+  https://res.cloudinary.com/twhiteblog/image/upload/v1535934513/My%20Terminal%20Setup%20Post/Screenshot2017-09-30_06-28-20_PM.jpg: false
+  https://github.com/wesbos/Cobalt2-iterm: false
+  https://github.com/powerline/fonts: false
+  https://zen-of-programming.com/terminal-setup/: false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/v1535424037/My%20Terminal%20Setup%20Post/Screenshot-2018-08-27_06-44-35_PM.png
+  : false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/v1535424076/My%20Terminal%20Setup%20Post/Screenshot-2018-08-27_10-41-01_PM.png
+  : false
+  https://github.com/denysdovhan/spaceship-prompt/issues/401: false
+  https://nerdfonts.com/: false
+  https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7: false
+  https://github.com/athityakumar/colorls: false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/v1535424038/My%20Terminal%20Setup%20Post/Screenshot-2018-08-27_06-58-43_PM.png
+  : false
+  ? https://res.cloudinary.com/twhiteblog/image/upload/v1535424037/My%20Terminal%20Setup%20Post/Screenshot-2018-08-27_06-48-58_PM.png
+  : false
+  https://github.com/zsh-users/zsh-syntax-highlighting: false
+  https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/docs/highlighters.md: false
+  https://github.com/rupa/z/: false
+  https://github.com/ogham/exa: false
+  https://twitter.com/TiffanyW_412: false
+http://0.0.0.0:4000/mvp/:
+  https://www.youtube.com/watch?v=nLF0n9SACd4: false
+  https://www.youtube.com/embed/nLF0n9SACd4?rel=0: false
+  https://twitter.com/dan_abramov/status/1036002775598092295?ref_src=twsrc%5Etfw: false
+  https://platform.twitter.com/widgets.js: false
+  https://twitter.com/dan_abramov/status/1036004805796405248?ref_src=twsrc%5Etfw: false
+  https://github.com: false
+  https://about.gitlab.com/: false
+  https://bitbucket.org/: false
+  https://twitter.com/swyx: false
+  https://t.co/RpKfRAy9Um: false
+  https://twitter.com/swyx/status/1009174159690264579?ref_src=twsrc%5Etfw: false
+  https://github.com/trending: false
+  https://giphy.com/embed/RKiOMSy7LLcA0: false
+  https://giphy.com/gifs/trap-RKiOMSy7LLcA0: false
+  https://dev.to/avalander/my-github-graveyard-172b: false
+  https://dev.to/domcorvasce/my-github-graveyard-1hdo: false
+  https://github.com/: false
+  https://help.github.com/articles/create-a-repo/: false
+  https://www.youtube.com/embed/nLF0n9SACd4': false
+  https://giphy.com/embed/3oz8xRXOGEacAXIUKI: false
+  https://giphy.com/gifs/nfl-football-celebration-3oz8xRXOGEacAXIUKI: false
+https://tiffanywhite.tech/mvp/:
+  https://www.youtube.com/embed/nLF0n9SACd4': false
+  https://twitter.com/dan_abramov/status/1036002775598092295?ref_src=twsrc%5Etfw: false
+  https://platform.twitter.com/widgets.js: false
+  https://twitter.com/dan_abramov/status/1036004805796405248?ref_src=twsrc%5Etfw: false
+  https://github.com: false
+  https://about.gitlab.com/: false
+  https://bitbucket.org/: false
+  https://github.com/trending: false
+  https://giphy.com/embed/RKiOMSy7LLcA0: false
+  https://giphy.com/gifs/trap-RKiOMSy7LLcA0: false
+  https://twitter.com/swyx: false
+  https://t.co/RpKfRAy9Um: false
+  https://twitter.com/swyx/status/1009174159690264579?ref_src=twsrc%5Etfw: false
+  https://giphy.com/embed/3oz8xRXOGEacAXIUKI: false
+  https://giphy.com/gifs/nfl-football-celebration-3oz8xRXOGEacAXIUKI: false
+  https://dev.to/avalander/my-github-graveyard-172b: false
+  https://dev.to/domcorvasce/my-github-graveyard-1hdo: false
+  https://github.com/: false
+  https://help.github.com/articles/create-a-repo/: false

@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/let-and-const-for-block-scope-2/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - "Tiffany's Posts"
 ---

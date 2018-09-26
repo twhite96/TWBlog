@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/first-episode-is-live/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - MCJep.1
   - podcast

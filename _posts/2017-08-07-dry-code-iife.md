@@ -11,7 +11,7 @@ post_excerpt: |
 layout: post
 link: https://tiffanywhite.tech/dry-code-iife/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - App Updates
   - "Tiffany's Posts"

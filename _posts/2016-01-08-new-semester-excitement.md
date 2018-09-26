@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/new-semester-excitement/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Semester Updates
   - "Tiffany's Posts"

@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/portfolio-unlocked/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Progress
   - Free Code Camp

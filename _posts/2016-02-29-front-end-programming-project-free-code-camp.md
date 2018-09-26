@@ -7,7 +7,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/front-end-programming-project-free-code-camp/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Free Code Camp
   - Front-End

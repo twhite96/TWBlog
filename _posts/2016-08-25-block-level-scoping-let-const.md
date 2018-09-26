@@ -10,7 +10,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/block-level-scoping-let-const/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
   - JavaScript

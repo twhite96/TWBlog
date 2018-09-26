@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/understanding-hoisting-in-javascript/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
   - JavaScript

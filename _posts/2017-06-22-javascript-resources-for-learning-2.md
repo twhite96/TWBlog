@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/javascript-resources-for-learning-2/
 published: true
-tags: [ ]
+tags: uncategorized
 categories: [ ]
 ---
 <p>Learning JavaScript is something every developer should do, not only because it is simple and everywhere, but because sooner or later, you’re going to need to build a website. That site should have interactivity. While CSS and CSS functions and math have cured some of the “ills” of JavaScript animations, you <em>still</em> need JavaScript for a lot of things.</p>

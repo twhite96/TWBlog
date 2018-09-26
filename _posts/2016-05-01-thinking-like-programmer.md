@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/thinking-like-programmer/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - General Updates
   - Thoughts

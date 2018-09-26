@@ -8,7 +8,7 @@ layout: post
 link: >
   https://tiffanywhite.tech/fcc-random-quote-generator/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Progress
   - Free Code Camp

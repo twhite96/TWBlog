@@ -7,7 +7,7 @@ post_date: 2016-04-20 18:01:26
 layout: post
 link: https://tiffanywhite.tech/trying-harder/
 published: true
-tags: [ ]
+tags: uncategorized
 categories:
   - Daily Progress
   - Programming
