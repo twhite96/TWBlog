@@ -34,7 +34,7 @@ Let’s start with my gear.
 
 - [27” iMac, Retina 5K, late 2015](https://www.bhphotovideo.com/c/product/1190385-REG/apple_mk462ll_a_27_imac_with_retina.html)
 	- I just bought this earlier this year and Apple updates it five months later. Oh well.
-- [iPhone 8 Plus 256gb, Space Gray](https://www.t-mobile.com/cell-phone/apple-iphone-8-plus?color=spacegray&memory=256gb) [^1]
+- [iPhone Xs Max, Gold](https://www.apple.com/shop/buy-iphone/iphone-xs/6.5-inch-display-256gb-gold-unlocked#01,20,32,41,60) [^1]
 - [iPad Pro 12.9” late 2015 128 gb](https://www.bhphotovideo.com/c/product/1185485-REG/apple_128gb_ipad_pro_wi_fi.html)
 - [Logitech Create Smart Keyboard, refurbished](https://www.amazon.com/gp/product/B01JPHE16C/ref=oh_aui_search_detailpage?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- I moved some of my writing workflow over to this iPad with this case. It is heavy and bulky but cheaper than Apple’s case.
@@ -149,7 +149,7 @@ So this is my setup and what I am currently using. You can show me your dev setu
 ![](https://res.cloudinary.com/twhiteblog/image/upload/v1535073893/Uses%20Page%20Desk%20Shots/desk_notion_ezofpk.jpg)
 
 
-[^1]: Ordered the iPhone 8 Plus. Put away some money and with T-Mobile JUMP! I was able to get it for less than it would be outright. Got it in Space Gray, 256gb.
+[^1]: My jealousy of the X this past year meant that I was upgrading but, since the phones seems less and less substantial, I probably won't upgrade next year unless it is something compelling.
 [^2]: Done and done
 [^3]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
 [^4]: Even brainfuck!
