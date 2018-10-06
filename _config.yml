@@ -25,6 +25,7 @@ paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 # disqus:
 #   shortname: helloburgh
+theme: jekyll-theme-hydeout
 
 webmentions:
   username: tiffanywhite.tech
@@ -151,6 +152,19 @@ exclude:
   - vendor/ruby/
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
+
+pwa:
+  sw_src_filepath: service-worker.js # Optional
+  sw_dest_filename: service-worker.js # Optional
+  dest_js_directory: assets/js # Required
+  precache_recent_posts_num: 5 # Optional
+  precache_glob_directory: / # Optional
+  precache_glob_patterns: # Optional
+    - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
+    - index.html
+  precache_glob_ignores: # Optional
+    - sw-register.js
+    - "fonts/**/*"
 
 github:
   repo:             https://github.com/twhite96/

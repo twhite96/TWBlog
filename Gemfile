@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'json'
 gem "jekyll", "~> 3.6.0"
-gem "jekyll-theme-hydeout", "~> 3.4"
+gem "jekyll-theme-hydeout", "~> 4.0"
 gem 'compass-yiq-color-contrast'
 gem 'hash-joiner'
 
@@ -10,7 +10,7 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
   gem 'redcarpet'
-  gem 'pygments.rb'
+  # gem 'pygments.rb'
   gem "html-proofer"
   gem 'jekyll-cloudinary'
   gem 'jekyll-seo-tag'
@@ -23,4 +23,5 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache'
   gem 'font-awesome-sass', '~> 5.2.0'
   gem 'jekyll-webmention_io'
+  gem 'jekyll-pwa-plugin'
 end
