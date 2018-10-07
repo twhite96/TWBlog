@@ -9,6 +9,7 @@ sidebar_link: true
 published: true
 tags: uncategorized
 categories: [ ]
+sidebar_sort_order: 4
 ---
 
 <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2105/v1527285606/Now%20Page%20Screenshots/now_opt.compressed_oq4s1x.jpg"/>

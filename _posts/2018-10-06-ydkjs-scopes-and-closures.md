@@ -1,5 +1,5 @@
 ---
-title: YDKJS Scopes & Closures Review
+title: "Review: YDKJS Scopes & Closures"
 date: 2018-10-06 00:48
 excerpt: JavaScript is a wild language that was written with some poor design choices. To ignore that fact is fatal; I don't think you can teach someone fundamentals without pointing out these design choices that make JavaScript sometimes hard to work with.
 layout: post    

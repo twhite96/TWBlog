@@ -28,16 +28,16 @@ layout: default
       {% include coffee.html %}
   </div><br />
 
-  <!-- <div class="pad">
-      {% include newsletter.html %}
-  </div><br /> -->
-
   <div class="pad">
     {% include large-button-followers.html %}
   </div><br />
 
   {% webmention_count page.url %}
   {% webmentions page.url %}
+
+  <div class="pad">
+    {% include newsletter.html %}
+  </div><br />
 
   <div class="pad">
       {% include related_posts.html %}
