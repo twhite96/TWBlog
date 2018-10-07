@@ -14,9 +14,9 @@ categories:
 ---
 
 
-<a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/25904506"><img src="http://d.gr-assets.com/books/1449422525m/25904506.jpg" alt="Deep Work: Rules for Focused Success in a Distracted World" border="0" /></a>
-<a href="http://www.goodreads.com/book/show/25904506">Deep Work: Rules for Focused Success in a Distracted World</a> by <a href="http://www.goodreads.com/author/show/147891">Cal Newport</a>
-My rating: <a href="http://www.goodreads.com/review/show/1576872102">5 of 5 stars</a>
+<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/25904506"><img src="http://d.gr-assets.com/books/1449422525m/25904506.jpg" alt="Deep Work: Rules for Focused Success in a Distracted World" border="0" /></a>
+<a href="https://www.goodreads.com/book/show/25904506">Deep Work: Rules for Focused Success in a Distracted World</a> by <a href="https://www.goodreads.com/author/show/147891">Cal Newport</a>
+My rating: <a href="https://www.goodreads.com/review/show/1576872102">5 of 5 stars</a>
 
 Cal Newport lays out his arguments for "going deep" — uninterrupted, long, and intense periods of focusing on the work that is going to further your goals quite well in this book.
 
@@ -32,9 +32,9 @@ The book made take a long hard look at myself and for me that's worth five stars
 
 
 
-<a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/25904506"><img src="http://d.gr-assets.com/books/1449422525m/25904506.jpg" alt="Deep Work: Rules for Focused Success in a Distracted World" border="0" /></a>
-<a href="http://www.goodreads.com/book/show/25904506">Deep Work: Rules for Focused Success in a Distracted World</a> by <a href="http://www.goodreads.com/author/show/147891">Cal Newport</a>
-My rating: <a href="http://www.goodreads.com/review/show/1576872102">5 of 5 stars</a>
+<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/25904506"><img src="http://d.gr-assets.com/books/1449422525m/25904506.jpg" alt="Deep Work: Rules for Focused Success in a Distracted World" border="0" /></a>
+<a href="https://www.goodreads.com/book/show/25904506">Deep Work: Rules for Focused Success in a Distracted World</a> by <a href="https://www.goodreads.com/author/show/147891">Cal Newport</a>
+My rating: <a href="https://www.goodreads.com/review/show/1576872102">5 of 5 stars</a>
 
 Cal Newport lays out his arguments for "going deep" — uninterrupted, long, and intense periods of focusing on the work that is going to further your goals quite well in this book.
 
@@ -51,4 +51,4 @@ The book made take a long hard look at myself and for me that's worth five stars
 
 
 
-<a href="http://www.goodreads.com/review/show/1576872102">View all my reviews</a>
+<a href="https://www.goodreads.com/review/show/1576872102">View all my reviews</a>
