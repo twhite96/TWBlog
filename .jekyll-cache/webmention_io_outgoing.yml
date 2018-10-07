@@ -2020,3 +2020,13 @@ https://tiffanywhite.tech/mvp/:
   https://github.com/: false
   https://help.github.com/articles/create-a-repo/: false
 http://0.0.0.0:4000/configuring-flowtype/: {}
+http://0.0.0.0:4000/ydkjs-scopes-and-closures/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1538880417/Header%20Images/YDKJS_S_C.png: false
+  ? https://www.amazon.com/You-Dont-Know-JS-Going-ebook/dp/B00V20DQU8/ref=sr_1_1?ie=UTF8&qid=1538881001&sr=8-1&keywords=You+don%27t+know+javascript+Up+%26+Going
+  : false
+  https://twitter.com/getify/status/1047965061459759105: false
+  https://twitter.com/getify/status/1047945482293534720?ref_src=twsrc%5Etfw: false
+  https://platform.twitter.com/widgets.js: false
+  https://twitter.com/awbjs?ref_src=twsrc%5Etfw: false
+  https://twitter.com/BenLesh/status/1047998961225617409?ref_src=twsrc%5Etfw: false
+  https://twitter.com/getify/status/1047964502329683968?ref_src=twsrc%5Etfw: false
