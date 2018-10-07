@@ -14,9 +14,9 @@ categories:
 ---
 
 
-<a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/25703680"><img src="http://d.gr-assets.com/books/1443169433m/25703680.jpg" alt="The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World" border="0" /></a>
-<a href="http://www.goodreads.com/book/show/25703680">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a> by <a href="http://www.goodreads.com/author/show/3242685">Pedro Domingos</a>
-My rating: <a href="http://www.goodreads.com/review/show/1535488112">2 of 5 stars</a>
+<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/25703680"><img src="http://d.gr-assets.com/books/1443169433m/25703680.jpg" alt="The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World" border="0" /></a>
+<a href="https://www.goodreads.com/book/show/25703680">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a> by <a href="https://www.goodreads.com/author/show/3242685">Pedro Domingos</a>
+My rating: <a href="https://www.goodreads.com/review/show/1535488112">2 of 5 stars</a>
 
 This book presupposes that there is a master algorithm to be found in the field of Artificial Intelligence. That while computers will become anything but sentient, they will essentially make half the workforce obsolete. The author's laissez faire attitude about this bothers me. He's encouraging this.
 
@@ -30,9 +30,9 @@ Will we find a way to replace those lost jobs for the people it will affect? Who
 
 
 
-<a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/25703680"><img src="http://d.gr-assets.com/books/1443169433m/25703680.jpg" alt="The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World" border="0" /></a>
-<a href="http://www.goodreads.com/book/show/25703680">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a> by <a href="http://www.goodreads.com/author/show/3242685">Pedro Domingos</a>
-My rating: <a href="http://www.goodreads.com/review/show/1535488112">2 of 5 stars</a>
+<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/25703680"><img src="http://d.gr-assets.com/books/1443169433m/25703680.jpg" alt="The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World" border="0" /></a>
+<a href="https://www.goodreads.com/book/show/25703680">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a> by <a href="https://www.goodreads.com/author/show/3242685">Pedro Domingos</a>
+My rating: <a href="https://www.goodreads.com/review/show/1535488112">2 of 5 stars</a>
 
 This book presupposes that there is a master algorithm to be found in the field of Artificial Intelligence. That while computers will become anything but sentient, they will essentially make half the workforce obsolete. The author's laissez faire attitude about this bothers me. He's encouraging this.
 
@@ -47,4 +47,4 @@ Will we find a way to replace those lost jobs for the people it will affect? Who
 
 
 
-<a href="http://www.goodreads.com/review/show/1535488112">View all my reviews</a>
+<a href="https://www.goodreads.com/review/show/1535488112">View all my reviews</a>

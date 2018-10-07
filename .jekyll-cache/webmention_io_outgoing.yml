@@ -433,11 +433,17 @@ http://0.0.0.0:4000/review-hackers/:
   http://d.gr-assets.com/books/1328343027m/8646752.jpg: false
   http://www.goodreads.com/author/show/32131: false
   http://www.goodreads.com/review/show/1576869358: false
+  https://www.goodreads.com/book/show/8646752: false
+  https://www.goodreads.com/author/show/32131: false
+  https://www.goodreads.com/review/show/1576869358: false
 http://0.0.0.0:4000/review-the-charge/:
   http://www.goodreads.com/book/show/13573685: false
   http://d.gr-assets.com/books/1350302188m/13573685.jpg: false
   http://www.goodreads.com/author/show/588158: false
   http://www.goodreads.com/review/show/1576871522: false
+  https://www.goodreads.com/book/show/13573685: false
+  https://www.goodreads.com/author/show/588158: false
+  https://www.goodreads.com/review/show/1576871522: false
 http://0.0.0.0:4000/diving-into-small-apps/:
   http://helloburgh.me/wp-content/uploads/2016/03/app.jpeg: false
   http://helloburgh.me/wp-content/uploads/2016/03/app-1024x683.jpeg: false
@@ -449,16 +455,25 @@ http://0.0.0.0:4000/review-deep-work/:
   http://d.gr-assets.com/books/1449422525m/25904506.jpg: false
   http://www.goodreads.com/author/show/147891: false
   http://www.goodreads.com/review/show/1576872102: false
+  https://www.goodreads.com/book/show/25904506: false
+  https://www.goodreads.com/review/show/1576872102: false
+  https://www.goodreads.com/author/show/147891: false
 http://0.0.0.0:4000/review-keynote/:
   http://www.goodreads.com/book/show/28419314: false
   http://d.gr-assets.com/books/1451611692m/28419314.jpg: false
   http://www.goodreads.com/author/show/14823298: false
   http://www.goodreads.com/review/show/1579146369: false
+  https://www.goodreads.com/book/show/28419314: false
+  https://www.goodreads.com/author/show/14823298: false
+  https://www.goodreads.com/review/show/1579146369: false
 http://0.0.0.0:4000/review-the-master-algorithm/:
   http://www.goodreads.com/book/show/25703680: false
   http://d.gr-assets.com/books/1443169433m/25703680.jpg: false
   http://www.goodreads.com/author/show/3242685: false
   http://www.goodreads.com/review/show/1535488112: false
+  https://www.goodreads.com/book/show/25703680: false
+  https://www.goodreads.com/author/show/3242685: false
+  https://www.goodreads.com/review/show/1535488112: false
 http://0.0.0.0:4000/hey-everybody-lets-shit-on-js/:
   http://helloburgh.me/wp-content/uploads/2016/04/shitonjs.jpeg: false
   http://helloburgh.me/wp-content/uploads/2016/04/shitonjs-1024x683.jpeg: false

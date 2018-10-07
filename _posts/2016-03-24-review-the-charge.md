@@ -14,9 +14,9 @@ categories:
 ---
 
 
-<a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/13573685"><img src="http://d.gr-assets.com/books/1350302188m/13573685.jpg" alt="The Charge: Activating the 10 Human Drives That Make You Feel Alive" border="0" /></a>
-<a href="http://www.goodreads.com/book/show/13573685">The Charge: Activating the 10 Human Drives That Make You Feel Alive</a> by <a href="http://www.goodreads.com/author/show/588158">Brendon Burchard</a>
-My rating: <a href="http://www.goodreads.com/review/show/1576871522">1 of 5 stars</a>
+<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/13573685"><img src="http://d.gr-assets.com/books/1350302188m/13573685.jpg" alt="The Charge: Activating the 10 Human Drives That Make You Feel Alive" border="0" /></a>
+<a href="https://www.goodreads.com/book/show/13573685">The Charge: Activating the 10 Human Drives That Make You Feel Alive</a> by <a href="https://www.goodreads.com/author/show/588158">Brendon Burchard</a>
+My rating: <a href="https://www.goodreads.com/review/show/1576871522">1 of 5 stars</a>
 
 I read the description of "The Charge" and had my doubts-- it was a $5.99-er from Audible which should have told me all I needed to know. I had $6 to burn so I bought it.
 
@@ -36,9 +36,9 @@ Honestly, I should have listened to my gut and saved the $6. Waste of time.
 
 
 
-<a style="float: left; padding-right: 20px;" href="http://www.goodreads.com/book/show/13573685"><img src="http://d.gr-assets.com/books/1350302188m/13573685.jpg" alt="The Charge: Activating the 10 Human Drives That Make You Feel Alive" border="0" /></a>
-<a href="http://www.goodreads.com/book/show/13573685">The Charge: Activating the 10 Human Drives That Make You Feel Alive</a> by <a href="http://www.goodreads.com/author/show/588158">Brendon Burchard</a>
-My rating: <a href="http://www.goodreads.com/review/show/1576871522">1 of 5 stars</a>
+<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/13573685"><img src="http://d.gr-assets.com/books/1350302188m/13573685.jpg" alt="The Charge: Activating the 10 Human Drives That Make You Feel Alive" border="0" /></a>
+<a href="https://www.goodreads.com/book/show/13573685">The Charge: Activating the 10 Human Drives That Make You Feel Alive</a> by <a href="https://www.goodreads.com/author/show/588158">Brendon Burchard</a>
+My rating: <a href="https://www.goodreads.com/review/show/1576871522">1 of 5 stars</a>
 
 I read the description of "The Charge" and had my doubts-- it was a $5.99-er from Audible which should have told me all I needed to know. I had $6 to burn so I bought it.
 
@@ -59,4 +59,4 @@ Honestly, I should have listened to my gut and saved the $6. Waste of time.
 
 
 
-<a href="http://www.goodreads.com/review/show/1576871522">View all my reviews</a>
+<a href="https://www.goodreads.com/review/show/1576871522">View all my reviews</a>
