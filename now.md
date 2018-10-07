@@ -11,7 +11,7 @@ tags: uncategorized
 categories: [ ]
 ---
 
-<img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527285606/Now%20Page%20Screenshots/now_opt.compressed_oq4s1x.jpg"/>
+<img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2105/v1527285606/Now%20Page%20Screenshots/now_opt.compressed_oq4s1x.jpg"/>
 
 Derek Sivers set up a website called [nownownow.com](http://nownownow.com/about) to help people understand what a now page is, why you’d want one, and to [showcase other now pages](http://nownownow.com/). Maybe you should build one, too.
 
@@ -82,5 +82,5 @@ This may seem like a lot and it is. I don't know if I'll get everything done, bu
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/TiffanyW_412) Or don’t. 🤷🏿
 
-*Last Updated: 2018-09-27 20.02.17*
+*Last Updated: 2018-10-07 00.12.18*
 
