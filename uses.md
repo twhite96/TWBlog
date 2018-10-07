@@ -83,19 +83,19 @@ As you can see I finally moved into my new place. My cable management game is al
 	- [Amazon Echo 1st Gen](http://www.amazon.com/dp/product/B076PSZL29/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=thatmacnerd-20)
 - [LIFX Z Wi-Fi Smart LED Strip Starter Kit](https://www.amazon.com/gp/product/B073168F4Y/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- Yeah. I am on the bandwagon. I am a programmer and I want my desk to feel like a rocket ship. Sue me.
-- [LIFX A19 Wi-fi Smart LED Bulb](https://www.amazon.com/gp/product/B01KY02MS8/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
+- [LIFX A19 Wi-fi Smart LED Bulb x2](https://www.amazon.com/gp/product/B01KY02MS8/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [TP-Link Smart Plug No Hub Required](https://www.amazon.com/gp/product/B0178IC734/ref=oh_aui_detailpage_o01_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- For all lights that aren't smart, *now they can be*. Win.
 - [Brainwavz Hengja - The Headphone Desk Hanger](https://www.amazon.com/dp/B012VIWG28/_encoding=UTF8?coliid=I38T2GSP88G72&colid=1DRWNUK8ZGQIY&psc=0&tag=thatmacnerd-20) 
-- [IKEA Holmo 46" Floor Lamp](https://www.amazon.com/gp/product/B0070PBVWO/ref=ox_sc_sfl_title_2?smid=A22ARMH4S21UOS&tag=thatmacnerd-20&psc=1&ie=UTF8)
-	- Where else am I going to put the LIFX Bulb?
+- [IKEA Holmo 46" Floor Lamps](https://www.amazon.com/gp/product/B0070PBVWO/ref=ox_sc_sfl_title_2?smid=A22ARMH4S21UOS&tag=thatmacnerd-20&psc=1&ie=UTF8)
+	- Where else am I going to put the LIFX Bulbs?
 
 ## Software
 
 - [VS Code](https://code.visualstudio.com/) 
 	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code [^3] and couldn’t be happier.
-- [Hyper.js](https://hyper.is/)
-	- My new terminal of choice. Beautiful as hell and has gotten faster. Not as many bells and whistles as iTerm but good enough for me.
+- [iTerm2](https://iterm2.com/)
+	- Back to iTerm. Multiple panels ftw.
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 	- I will never use a terminal without this installed.
 - [Mac CLI](https://github.com/guarinogabriel/Mac-CLI)
@@ -106,7 +106,6 @@ As you can see I finally moved into my new place. My cable management game is al
 - [Timing 2](https://timingapp.com/)
 	- This is how I can find out how much time I spend on Twitter.
 - Xcode
-- Evernote
 - Chrome
 - [Transmit 5 for Mac](https://www.panic.com/transmit/)
 	- There are cheaper, free, FTP clients out there but my first text editor was Coda and I liked it so much I bought Panic’s FTP client. It looks good and functions quite well. I moved on from Coda when I became “serious”.
@@ -127,16 +126,12 @@ As you can see I finally moved into my new place. My cable management game is al
 	- To test shell scripts
 - [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is my choice for window snapping.
 - [Expressions](https://itunes.apple.com/us/app/expressions/id913158085?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) to test regular expressions
-- [SnippetsLab](https://itunes.apple.com/us/app/snippetslab/id1006087419?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS)
-	- Starting to manage snippets with Alfred and GitHub gists but this is a great way to organize snippets with a keystroke.
-- [Quiver](https://itunes.apple.com/us/app/quiver-the-programmers-notebook/id866773894?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is a programmers notebook to take notes with syntax highlighting and markdown support. Supports many languages [^4].
-- Twitter on the desktop using a cool little npm utility called [nativefier](https://github.com/jiahaog/nativefier). In order to get Twitter with 2FA to work follow [these instructions](https://github.com/jiahaog/nativefier/issues/420#issuecomment-325625125) and you have a sort of native Twitter client on your Mac or Windows computer.
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527851251/Screenshot-2018-04-21_10-30-31_PM_isae1w.png" />
+- [‎Tweetbot 3 for Twitter](https://itunes.apple.com/us/app/tweetbot-3-for-twitter/id1384080005?mt=12)
 - [Franz](https://meetfranz.com/). This is a chat aggregator. Open source and wayyyyyy better looking than Rambox.
-- [Things 3](https://culturedcode.com/things/) for tasks.[^5]
-- [Notion](https://www.notion.so) for Project management.[^6]
+- [Things 3](https://culturedcode.com/things/) for tasks.[^4]
+- [Notion](https://www.notion.so) for Project management.[^5]
 - [Fantastical 2](https://flexibits.com/fantastical) for scheduling
-- [Dash 4](https://kapeli.com/dash). [^7]
+- [Dash 4](https://kapeli.com/dash). [^6]
 - [Ship - Native Issue Tracking for GitHub](https://www.realartists.com/)
 - [Sip for Mac](https://sipapp.io/) for a color picker
 
@@ -152,7 +147,6 @@ So this is my setup and what I am currently using. You can show me your dev setu
 [^1]: My jealousy of the X this past year meant that I was upgrading but, since the phones seems less and less substantial, I probably won't upgrade next year unless it is something compelling.
 [^2]: Done and done
 [^3]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
-[^4]: Even brainfuck!
-[^5]: This is the only task manager that I actually look at and use. It is *that* beautiful, simple, and it has impressed me far more than any task manager in recent memory.
-[^6]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/e8ed18d3f574/Screenshot-2018-09-05_12-00-33_AM.png).
-[^7]: Offline docs ftw! Plus much more.
+[^4]: This is the only task manager that I actually look at and use. It is *that* beautiful, simple, and it has impressed me far more than any task manager in recent memory.
+[^5]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/e8ed18d3f574/Screenshot-2018-09-05_12-00-33_AM.png).
+[^6]: Offline docs ftw! Plus much more.
