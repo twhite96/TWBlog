@@ -18,7 +18,7 @@ tags:
   - react
   - this
 categories:
-  - Web Development
+  - React
 ---
 
 <img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_1894/v1528082268/eva-blue-42498-unsplash_y7lcwn.jpg" />
