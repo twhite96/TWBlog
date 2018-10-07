@@ -16,7 +16,7 @@ tags:
   - react
   - reconciliation
 categories:
-  - Web Development
+  - React
 ---
 
 <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1527285926/react_redux_trpz1i.jpg" alt="react_redux"/>
