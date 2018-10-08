@@ -4,7 +4,7 @@ layout: page
 author: Tiffany White
 date: 2018-09-02 20:59
 sidebar_link: true
-sidebar_sort_order: 2
+sidebar_sort_order: 3
 ---
 Effective date: September 03, 2018
 
