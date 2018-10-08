@@ -14,7 +14,7 @@ categories:
 ---
 
 
-<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/13573685"><img src="http://d.gr-assets.com/books/1350302188m/13573685.jpg" alt="The Charge: Activating the 10 Human Drives That Make You Feel Alive" border="0" /></a>
+<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/13573685"><img src="https://d.gr-assets.com/books/1350302188m/13573685.jpg" alt="The Charge: Activating the 10 Human Drives That Make You Feel Alive" border="0" /></a>
 <a href="https://www.goodreads.com/book/show/13573685">The Charge: Activating the 10 Human Drives That Make You Feel Alive</a> by <a href="https://www.goodreads.com/author/show/588158">Brendon Burchard</a>
 My rating: <a href="https://www.goodreads.com/review/show/1576871522">1 of 5 stars</a>
 
@@ -36,7 +36,7 @@ Honestly, I should have listened to my gut and saved the $6. Waste of time.
 
 
 
-<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/13573685"><img src="http://d.gr-assets.com/books/1350302188m/13573685.jpg" alt="The Charge: Activating the 10 Human Drives That Make You Feel Alive" border="0" /></a>
+<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/13573685"><img src="https://d.gr-assets.com/books/1350302188m/13573685.jpg" alt="The Charge: Activating the 10 Human Drives That Make You Feel Alive" border="0" /></a>
 <a href="https://www.goodreads.com/book/show/13573685">The Charge: Activating the 10 Human Drives That Make You Feel Alive</a> by <a href="https://www.goodreads.com/author/show/588158">Brendon Burchard</a>
 My rating: <a href="https://www.goodreads.com/review/show/1576871522">1 of 5 stars</a>
 

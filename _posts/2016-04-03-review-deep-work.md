@@ -14,7 +14,7 @@ categories:
 ---
 
 
-<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/25904506"><img src="http://d.gr-assets.com/books/1449422525m/25904506.jpg" alt="Deep Work: Rules for Focused Success in a Distracted World" border="0" /></a>
+<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/25904506"><img src="https://d.gr-assets.com/books/1449422525m/25904506.jpg" alt="Deep Work: Rules for Focused Success in a Distracted World" border="0" /></a>
 <a href="https://www.goodreads.com/book/show/25904506">Deep Work: Rules for Focused Success in a Distracted World</a> by <a href="https://www.goodreads.com/author/show/147891">Cal Newport</a>
 My rating: <a href="https://www.goodreads.com/review/show/1576872102">5 of 5 stars</a>
 
@@ -32,7 +32,7 @@ The book made take a long hard look at myself and for me that's worth five stars
 
 
 
-<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/25904506"><img src="http://d.gr-assets.com/books/1449422525m/25904506.jpg" alt="Deep Work: Rules for Focused Success in a Distracted World" border="0" /></a>
+<a style="float: left; padding-right: 20px;" href="https://www.goodreads.com/book/show/25904506"><img src="https://d.gr-assets.com/books/1449422525m/25904506.jpg" alt="Deep Work: Rules for Focused Success in a Distracted World" border="0" /></a>
 <a href="https://www.goodreads.com/book/show/25904506">Deep Work: Rules for Focused Success in a Distracted World</a> by <a href="https://www.goodreads.com/author/show/147891">Cal Newport</a>
 My rating: <a href="https://www.goodreads.com/review/show/1576872102">5 of 5 stars</a>
 
