@@ -48,8 +48,8 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 ---
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1537568761/Now%20Page%20Screenshots/iPad/ipad_pro_now_sept.png" />
-    <figcaption>Going fully mobile during the holidays. Sold my ailing MacBook Pro. Coda for iOS, Textastic, GoCoEdit, Working Copy, Affinity Photo, and Luma Fusion will make this a full on workstation.</figcaption>
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1539237717/Now%20Page%20Screenshots/iPad/D77D573D-3036-4BB1-B7F6-B769B2790A18.png" />
+    <figcaption>The lone icon on my iPad Pro homescreen is a Runtastic body weight home exercise app. I used to be religious about the gym, losing <strong>a lot</strong> of weight. I had a pretty rough go of it the last couple years and have gained a lot of weight back. Need to get healthy and this is a start. The rest is easy access to apps for multitasking.</figcaption>
 </figure>
 
 ---
