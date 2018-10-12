@@ -1,11 +1,13 @@
 ---
-layout: archive
 title: Archive
+layout: archive
 permalink: /archive/
 sidebar_link: true
 ---
 
-# Archive of Posts by Year
+<header>
+  <h1 class="page-title">{{ page.title }}</h1>
+</header>
 
 <section class="archive-post-list">
 
