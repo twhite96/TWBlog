@@ -42,7 +42,7 @@ body {
   .site-title {
     font-family: 'Oleo Script', cursive;
     font-weight: normal;
-    font-size: $large-font-size;
+    font-size: 85%;
     color: rgba(255,255,255,.75);
     margin-top: 0;
     margin-bottom: $heading-spacing;
@@ -163,7 +163,7 @@ body {
 
   #sidebar {
     .site-title {
-      font-size: 3.25rem;
+      font-size: 3rem;
 
       a { color: $sidebar-title-color; }
       .back-arrow { display: none; }
