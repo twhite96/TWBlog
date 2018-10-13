@@ -55,8 +55,8 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 ---
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1531444181/Now%20Page%20Screenshots/Apple%20Watch/apple_watch_july.png" />
-    <figcaption>My Apple Watch is minimal on notifications and closing most of my rings keeps me motivated. I can triage tasks and reply to messages without picking up my phone. Win.</figcaption>
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1539238060/Now%20Page%20Screenshots/Apple%20Watch/F8B446D9-0A06-4BC3-87AA-D07F9C8CB0FF.jpg" />
+    <figcaption>The new Siri watch face in watchOS 5 is a great addition, great enough to get me to switch from Modular. Loving it so far.</figcaption>
 </figure>
 
 ---
