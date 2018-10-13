@@ -1,11 +1,13 @@
 ---
 title: JavaScript vs Java Pass by Value and Reference
-date: 2017-03-17 17:59
-excerpt: When you are working with different languages at the same time, it is important to note that while most languages are based on C, each langauge has its own set of rules...
-comments: true
-categories: [JavaScript, Java]
-tags: [javascript, java, pass by value]
+author: Tiffany White
+post_date: 2017-06-22 21:06:48
+layout: post
+tags: uncategorized
+categories:
+  - Tiffany's Posts
 ---
+
 
 ## Different Languages, Different Paradigms
 
@@ -23,7 +25,7 @@ You can create an object such as:
   public class Dog {
       int dogAge;
       public Dog(string name) {
-      System.out.println("My dog's name is " + name " .");
+      System.out.println(&quot;My dog&#039;s name is &quot; + name &quot; .&quot;);
    }
  
    public void setAge (int age) {
@@ -31,13 +33,13 @@ You can create an object such as:
     }
   
    public int getAge() {
-       System.out.println("My dog is " + dogAge + " years old");
+       System.out.println(&quot;My dog is &quot; + dogAge + &quot; years old&quot;);
        return dogAge;
      }
      
      public static void main (String []args) {
      /* Create an object using the new keyword */
-         Dog myDog = new Dog("Max");
+         Dog myDog = new Dog(&quot;Max&quot;);
          myDog.setAge(11); // setAge is a class method on the object Dog
          myDog.getAge();
          System.out.println(myDog.dogAge);
@@ -64,15 +66,15 @@ We can create an object literal such as:
 
 ```javascript
     const myObject {
-        foo: 'bar',
-        car: 'Mazda',
+        foo: &#039;bar&#039;,
+        car: &#039;Mazda&#039;,
         age: 38
     }
 ```
 and add methods onto the object such as:
 
 ```javascript
-    myObject.car = 'Honda';
+    myObject.car = &#039;Honda&#039;;
 ```
 and pass them to other methods like console.log:
 
@@ -121,9 +123,9 @@ This is not actually a dog but a pointer to the Dog instance in memory. So if we
 
 ```java
     public void foo (Dog yourDog) {
-        yourDog.setName("Sparky");
-        yourDog = new Dog("Max");
-        yourDog.setName("Jeffie");
+        yourDog.setName(&quot;Sparky&quot;);
+        yourDog = new Dog(&quot;Max&quot;);
+        yourDog.setName(&quot;Jeffie&quot;);
     }
 ```
 Let's say the parameter `yourDog` is at memory address 0x001.
@@ -147,19 +149,19 @@ Passing by reference involves having two references point to the same object in 
 ```javascript
     // by reference (all objects (including functions))
    const greet = {
-      greeting: 'hi' 
+      greeting: &#039;hi&#039; 
     };
    const greet1;
 
   greet1 = greet;
-  greet.greeting = 'hello'; // mutates to hello
+  greet.greeting = &#039;hello&#039;; // mutates to hello
 
   console.log(greet);
   console.log(greet1);
 
   // by reference (even as parameters)
   function changeGreeting(obj) {
-    obj.greeting = "What's up?"; // mutates to What's Up  
+    obj.greeting = &quot;What&#039;s up?&quot;; // mutates to What&#039;s Up  
   }
 
  changeGreeting(greet1);
@@ -168,7 +170,7 @@ console.log(greet1);
 
 // equals operator sets up new memory address
 greet = { 
-    greeting: 'Yo' 
+    greeting: &#039;Yo&#039; 
 };
 console.log(greet); // Mutates to Yo
 console.log(greet1);
@@ -204,4 +206,6 @@ Sorry about the length! If you have anything to add, leave a comment down below.
 [^3]: Technically, in Java, you can use method and function interchangeably but I really don't like doing that. See [this answer](http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function).
 [^4]: Eric Elliott [has talked about this](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a#.szfiambhu) a lot. Check it out for the differences inheritance between the two languages.
 [^5]: This is creating an object using a JavaScript constructor and the `new` keyword, mimicking OOP inheritance in JavaScript. Douglas Crockford [recommends that you avoid it.](https://youtu.be/bo36MrBfTk4?t=28m50s)
-[^6]: More in another post.
+
+
+
