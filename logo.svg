@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="810px" height="810px" viewBox="0 0 810 810" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="100%" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.294950181" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="0" width="800" height="800"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="new-logo-big" transform="translate(5.000000, 5.000000)">
+            <g id="Rectangle">
+                <use fill="#06D7D9" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="url(#radialGradient-1)" stroke-width="5" x="-2.5" y="-2.5" width="805" height="805"></rect>
+            </g>
+            <text id="trw" font-family="ArialMT, Arial" font-size="288" font-weight="normal" letter-spacing="-0.0306503829" fill="#FFFFFF">
+                <tspan x="345.996465" y="729">trw</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
