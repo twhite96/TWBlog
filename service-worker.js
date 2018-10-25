@@ -3,7 +3,7 @@
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
   prefix: 'twblog',
-  suffix: 'v5',
+  suffix: 'v6',
   precache: 'precache',
   runtime: 'runtime-cache'
 });
