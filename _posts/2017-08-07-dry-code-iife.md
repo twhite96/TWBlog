@@ -36,7 +36,7 @@ for the icons and:
 ```javascript
 if (currentIcon === 'clear-day')  {
   $('body').css('background-image', 'url(https://i.imgur.com/voece1h.jpg)');
-}  else if (currentIcon === &quot;partly-cloudy-night&quot;)  { 
+}  else if (currentIcon === 'partly-cloudy-night')  { 
   $('body').css('background-image', 'url(https://i.imgur.com/r8haFIj.jpg)');
 }
 ```
