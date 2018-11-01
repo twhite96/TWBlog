@@ -11,11 +11,8 @@ tags: uncategorized
 categories: [ ]
 sidebar_sort_order: 1
 ---
-&nbsp;
 
-&nbsp;
-
-![](https://res.cloudinary.com/twhiteblog/image/upload/v1535073671/Uses%20Page%20Desk%20Shots/IMG_2536_xqvmsx.jpg)
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1541042502/Uses%20Page%20Desk%20Shots/2018-10-18-desk-instagram-min.jpg)
 
 Seems that a lot of developers are creating these `/uses` pages after discovering [Wes Bos’s](https://twitter.com/wesbos) [/uses page](http://wesbos.com/uses).
 
@@ -34,7 +31,6 @@ While I was interning, I had enough money to make my desk setup look *sick* as W
 Let’s start with my gear.
 
 - [27” iMac, Retina 5K, late 2015](https://www.bhphotovideo.com/c/product/1190385-REG/apple_mk462ll_a_27_imac_with_retina.html)
-	- I just bought this earlier this year and Apple updates it five months later. Oh well.
 - [iPhone Xs Max, Gold](https://www.apple.com/shop/buy-iphone/iphone-xs/6.5-inch-display-256gb-gold-unlocked#01,20,32,41,60) [^1]
 - [iPad Pro 12.9” late 2015 128 gb](https://www.bhphotovideo.com/c/product/1185485-REG/apple_128gb_ipad_pro_wi_fi.html)
 - [Logitech Create Smart Keyboard, refurbished](https://www.amazon.com/gp/product/B01JPHE16C/ref=oh_aui_search_detailpage?psc=1&tag=thatmacnerd-20&ie=UTF8)
@@ -53,10 +49,7 @@ Let’s start with my gear.
 - [Heil PR 40 mic kit](https://www.amazon.com/gp/product/B00U1SG5SW/ref=oh_aui_detailpage_o07_s02?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- I bought this when I thought I was serious about pod and screencasting. Heh. I still do a short show for Productivity in Tech.
 
-<del datetime="2018-04-22T02:27:20+00:00">Next Gen gear
-|Since I am moving and I have the money I decided to *upgrade* my desk setup. So here are some of the things I've purchased to get that rad *YouTuber setup* I so desperately envy.|</del>
-
-As you can see I finally moved into my new place. My cable management game is all off and I haven't yet put the whole ALEX drawer together[^2] but soon. Soon.
+As you can see I finally moved into my new place. My cable management game is all off but it is what it is[^2].
 
 - [IKEA LINNMON/ALEX Desk](http://www.ikea.com/us/en/catalog/products/S99932696/)
 	- Every programmer needs a good desk. This one is relatively inexpensive.
@@ -133,7 +126,6 @@ As you can see I finally moved into my new place. My cable management game is al
 - [Notion](https://www.notion.so) for Project management.[^5]
 - [Fantastical 2](https://flexibits.com/fantastical) for scheduling
 - [Dash 4](https://kapeli.com/dash). [^6]
-- [Ship - Native Issue Tracking for GitHub](https://www.realartists.com/)
 - [Sip for Mac](https://sipapp.io/) for a color picker
 
 ## I Use a lot of software, I admit
@@ -145,9 +137,9 @@ So this is my setup and what I am currently using. You can show me your dev setu
 ![](https://res.cloudinary.com/twhiteblog/image/upload/v1535073893/Uses%20Page%20Desk%20Shots/desk_notion_ezofpk.jpg)
 
 
-[^1]: My jealousy of the X this past year meant that I was upgrading but, since the phones seems less and less substantial, I probably won't upgrade next year unless it is something compelling.
-[^2]: Done and done
+[^1]: My jealousy of the X this past year meant that I was upgrading but, since the phones seem less and less substantial, I probably won't upgrade next year unless it is something compelling.
+[^2]: Not a YouTuber so it is kind of a mess.
 [^3]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
 [^4]: This is the only task manager that I actually look at and use. It is *that* beautiful, simple, and it has impressed me far more than any task manager in recent memory.
-[^5]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/e8ed18d3f574/Screenshot-2018-09-05_12-00-33_AM.png).
+[^5]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/27c125f6594f/Screenshot-2018-10-31_11-25-37_PM.png).
 [^6]: Offline docs ftw! Plus much more.
