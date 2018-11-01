@@ -73,7 +73,7 @@ const iconMap = {
 };
 
 (function() {
-  $(&quot;body&quot;).css(&quot;background-image&quot;, iconMap[currentIcon]);
+  $('body').css('background-image', iconMap[currentIcon]);
 })();
 ```
 
@@ -112,9 +112,6 @@ let iconDisplay = (iconName, current) => {
 ```
 
 Pretty cool.
-
-
-
 
 
 Pretty soon I’ll be diving deep into how much I am learning about Express with The Web Developer Bootcamp. To get a sense of where I was a couple days ago, [read this](https://medium.com/100-days-of-code/100-days-of-code-day-17-7b04669c68c6).
