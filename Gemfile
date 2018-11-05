@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'json'
-gem "jekyll", "~> 3.8.4"
+gem "jekyll", "~> 3.8.5"
 gem "jekyll-theme-hydeout", "~> 4.0"
 gem 'compass-yiq-color-contrast'
 gem 'hash-joiner'

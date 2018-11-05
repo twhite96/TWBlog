@@ -59,7 +59,7 @@ GEM
     httpclient (2.8.3)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.8.4)
+    jekyll (3.8.5)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -106,7 +106,7 @@ GEM
       jekyll-feed (~> 0.6)
       jekyll-gist (~> 1.4)
       jekyll-paginate (~> 1.1)
-    jekyll-watch (2.1.1)
+    jekyll-watch (2.1.2)
       listen (~> 3.0)
     jekyll-webmention_io (3.2.0)
       htmlbeautifier (~> 1.1)
@@ -137,7 +137,7 @@ GEM
       jekyll (>= 2.0)
     openssl (2.1.1)
     parallel (1.12.1)
-    pathutil (0.16.1)
+    pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     progressbar (1.10.0)
     public_suffix (3.0.3)
@@ -184,7 +184,7 @@ DEPENDENCIES
   font-awesome-sass (~> 5.2.0)
   hash-joiner
   html-proofer
-  jekyll (~> 3.8.4)
+  jekyll (~> 3.8.5)
   jekyll-algolia (~> 1.0)
   jekyll-archives
   jekyll-cloudinary
