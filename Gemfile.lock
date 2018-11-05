@@ -37,7 +37,7 @@ GEM
     fastimage (2.1.4)
     ffi (1.9.25)
     filesize (0.2.0)
-    font-awesome-sass (5.2.0)
+    font-awesome-sass (5.5.0)
       sassc (>= 1.11)
     forwardable-extended (2.6.0)
     fssm (0.2.10)
@@ -181,7 +181,7 @@ PLATFORMS
 
 DEPENDENCIES
   compass-yiq-color-contrast
-  font-awesome-sass (~> 5.2.0)
+  font-awesome-sass (~> 5.5.0)
   hash-joiner
   html-proofer
   jekyll (~> 3.8.4)

@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem 'sassc'
   gem 'rake'
   gem 'jekyll-include-cache'
-  gem 'font-awesome-sass', '~> 5.2.0'
+  gem 'font-awesome-sass', '~> 5.5.0'
   gem 'jekyll-webmention_io'
   gem 'jekyll-pwa-plugin'
 end
