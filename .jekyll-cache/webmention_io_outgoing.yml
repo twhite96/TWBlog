@@ -800,6 +800,7 @@ http://0.0.0.0:4000/dry-code-iife/:
   https://i.imgur.com/vH9cyKD.jpg: false
   https://i.imgur.com/ZtSl66b.jpg: false
   https://i.imgur.com/5z0CXkZ.jpg: false
+  https://i.imgur.com/K6Bazrl.j': false
 http://0.0.0.0:4000/mission-dry-accomplished/:
   https://i.imgur.com/voece1h.jpg: false
   https://i.imgur.com/r8haFIj.jpg: false
@@ -829,6 +830,7 @@ http://0.0.0.0:4000/mission-dry-accomplished/:
   "//iconName": false
   "//and": false
   https://medium.com/100-days-of-code/100-days-of-code-day-17-7b04669c68c6: false
+  https://i.imgur.com/K6Bazrl.j': false
 http://0.0.0.0:4000/functional-javascript/:
   http://funkyjavascript.com/: false
 http://0.0.0.0:4000/map/:
@@ -2051,3 +2053,4 @@ http://0.0.0.0:4000/javascript-vs-java-pass-by-value-and-reference/:
   http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function: false
   https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a: false
   https://youtu.be/bo36MrBfTk4?t=28m50s: false
+http://0.0.0.0:4000/big-o/: {}
