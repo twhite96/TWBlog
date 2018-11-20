@@ -17,6 +17,10 @@
 }
 
 
+/* textarea {
+  resize: both 4vw;
+} */
+
 .purp-button, a.purp-button {
   color: #fff;
   border: 1px solid #AE1B75;
