@@ -26,7 +26,7 @@ paginate_path:    '/page:num'
 # disqus:
 #   shortname: helloburgh
 theme: jekyll-theme-hydeout
-
+future: false
 webmentions:
   username: tiffanywhite.tech
   legacy_domains:
