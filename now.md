@@ -22,16 +22,15 @@ I live in Central PA and I am currently learning at a breakneck pace full-stack 
 
 I am trying to get into better shape and am doing well at it.
 
-I am currently waiting to get things set up to freelance for CivicMapper.
-
 I am working on two blogs:
 
-This one, Tiffany R. White Blog
+This one, Tiffany R. White Blog and [That Mac Nerd](https://thatmacnerd.com/). I'm also doing [That Mac Nerd Podcast](https://anchor.fm/thatmacnerd) which has been really fun to do[^1].
 
-[That Mac Nerd](https://thatmacnerd.com/)
-…and…
+I am building a markdown grammar checker called [Check Yo Self](https://github.com/twhite96/checkyoself) and [Check Yo Self CLI](https://checkyoself-cli.netlify.com/docs/doc1.html) which is just a simple command line utility to check the grammar and spelling of your markdown blog posts.
 
-I am building a markdown grammar checker called [Check Yo Self](https://github.com/twhite96/checkyoself).
+I also have a reusable component and a couple of React hooks in the works to open source...and...
+
+I have also been invited to be an [an egghead.io instructor](https://egghead.io/instructors/tiffany-white). I have a few small lessons in the works so stay tuned.
 
 ---
 
@@ -41,14 +40,14 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1538973892/Now%20Page%20Screenshots/iPhone/now_oct.png" />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1543198489/Now%20Page%20Screenshots/iPhone/iphone_now_nov-min.png" />
     <figcaption>My homescreen reflects what I am trying to do with technology: work, fun, and productivity</figcaption>
 </figure>
 
 ---
 
 <figure>
-    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1539237717/Now%20Page%20Screenshots/iPad/D77D573D-3036-4BB1-B7F6-B769B2790A18.png" />
+    <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1543445532/Now%20Page%20Screenshots/iPad/ipad_pro_new_nov_now.png" />
     <figcaption>The lone icon on my iPad Pro homescreen is a Runtastic body weight home exercise app. I used to be religious about the gym, losing <strong>a lot</strong> of weight. I had a pretty rough go of it the last couple years and have gained a lot of weight back. Need to get healthy and this is a start. The rest is easy access to apps for multitasking.</figcaption>
 </figure>
 
@@ -83,5 +82,6 @@ This may seem like a lot and it is. I don't know if I'll get everything done, bu
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/TiffanyW_412) Or don’t. 🤷🏿
 
-*Last Updated: 2018-10-07 00.12.18*
+*Last Updated: 2018-11-25 21.28.02*
 
+[^1]: And more consistently. This one is pretty fun to do, hosted on Anchor for free. No real commitment.

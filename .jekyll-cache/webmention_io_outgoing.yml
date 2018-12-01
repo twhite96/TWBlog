@@ -2053,4 +2053,7 @@ http://0.0.0.0:4000/javascript-vs-java-pass-by-value-and-reference/:
   http://stackoverflow.com/questions/155609/difference-between-a-method-and-a-function: false
   https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a: false
   https://youtu.be/bo36MrBfTk4?t=28m50s: false
-http://0.0.0.0:4000/big-o/: {}
+http://0.0.0.0:4000/big-o/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1543451725/Header%20Images/big_o_post.jpg: false
+http://0.0.0.0:4000/2018-11-26-big-o/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1543451725/Header%20Images/big_o_post.jpg: false
