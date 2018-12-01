@@ -32,7 +32,7 @@ Let’s start with my gear.
 
 - [27” iMac, Retina 5K, late 2015](https://www.bhphotovideo.com/c/product/1190385-REG/apple_mk462ll_a_27_imac_with_retina.html)
 - [iPhone Xs Max, Gold](https://www.apple.com/shop/buy-iphone/iphone-xs/6.5-inch-display-256gb-gold-unlocked#01,20,32,41,60) [^1]
-- [iPad Pro 12.9” late 2015 128 gb](https://www.bhphotovideo.com/c/product/1185485-REG/apple_128gb_ipad_pro_wi_fi.html)
+- [iPad Pro 12.9” 3rd Gen 256 gb](https://www.bhphotovideo.com/c/product/1441845-REG/apple_mtfn2ll_a_12_9_ipad_pro_late.html)[^2]
 - [Logitech Create Smart Keyboard, refurbished](https://www.amazon.com/gp/product/B01JPHE16C/ref=oh_aui_search_detailpage?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- I moved some of my writing workflow over to this iPad with this case. It is heavy and bulky but cheaper than Apple’s case.
 - [Apple Pencil](https://www.bhphotovideo.com/c/product/1190545-REG/apple_mk0c2am_a_pencil_for_ipad_pro.html?sts=pi)
@@ -49,7 +49,7 @@ Let’s start with my gear.
 - [Heil PR 40 mic kit](https://www.amazon.com/gp/product/B00U1SG5SW/ref=oh_aui_detailpage_o07_s02?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- I bought this when I thought I was serious about pod and screencasting. Heh. I still do a short show for Productivity in Tech.
 
-As you can see I finally moved into my new place. My cable management game is all off but it is what it is[^2].
+As you can see I finally moved into my new place. My cable management game is all off but it is what it is[^3].
 
 - [IKEA LINNMON/ALEX Desk](http://www.ikea.com/us/en/catalog/products/S99932696/)
 	- Every programmer needs a good desk. This one is relatively inexpensive.
@@ -57,15 +57,15 @@ As you can see I finally moved into my new place. My cable management game is al
 	- *Finally* picked up some decent speakers. These were the same price as the Mackies I was going to get only these look better.
 - [iXCC RCA to 3.5 mm cable](https://www.amazon.com/gp/product/B019D048XC/ref=oh_aui_detailpage_o03_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- Need this to connect the speakers to my iMac
-- [LG 4K Monitor](https://www.amazon.com/gp/product/B01LPNKFK0/ref=oh_aui_detailpage_o02_s01?psc=1&tag=thatmacnerd-20&ie=UTF8) 
+- [LG 4K Monitor](https://www.amazon.com/gp/product/B01LPNKFK0/ref=oh_aui_detailpage_o02_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- Two monitors are better than one and now that I am moving and getting a new desk, I can now make this happen.
 -  [North Bayou VESA Mount](https://www.amazon.com/gp/product/B01FRWONKI/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
-- [Twelve South 12-1223/B HiRise for iMac - Height-adjustable stand with storage for iMac and Apple Displays](https://www.amazon.com/gp/product/B009HPGD2I/ref=oh_aui_detailpage_o00_s00?psc=1&tag=thatmacnerd-20&ie=UTF8) 
+- [Twelve South 12-1223/B HiRise for iMac - Height-adjustable stand with storage for iMac and Apple Displays](https://www.amazon.com/gp/product/B009HPGD2I/ref=oh_aui_detailpage_o00_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [Anker Qi Wireless Charger](https://www.amazon.com/gp/product/B0756Z8X82/ref=oh_aui_detailpage_o00_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 -  [Lamicall iPad Stand](https://www.amazon.com/gp/product/B071K5SPKN/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [Logitech MX Master Wireless Mouse](https://www.amazon.com/gp/product/B00TZR3WRM/ref=oh_aui_detailpage_o05_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- Since I will be moving soon, some of these items I haven’t used yet. This is one of those items. Everyone raves about this mouse so I want to give it a go.
-- [Aenfor aluminum gaming mousepad](https://www.amazon.com/gp/product/B074L6Z5P3/ref=oh_aui_detailpage_o05_s00?psc=1&tag=thatmacnerd-20&ie=UTF8) 
+- [Aenfor aluminum gaming mousepad](https://www.amazon.com/gp/product/B074L6Z5P3/ref=oh_aui_detailpage_o05_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 -  [M-Audio M-Track C-Series USB Audio Interface](https://www.amazon.com/gp/product/B01FFH5XMC/ref=oh_aui_detailpage_o04_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- This will drive a lot of audio…as well as record from an XLR mic which I have. Said I was cooking things up. [I am](https://15minutesindev.io/home/).
 - [MAKETECH Swivel Under-the-Desk USB 3.0 Hub](https://www.amazon.com/gp/product/B01LWIIAOR/ref=oh_aui_detailpage_o05_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
@@ -80,14 +80,14 @@ As you can see I finally moved into my new place. My cable management game is al
 - [LIFX A19 Wi-fi Smart LED Bulb x2](https://www.amazon.com/gp/product/B01KY02MS8/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [TP-Link Smart Plug No Hub Required](https://www.amazon.com/gp/product/B0178IC734/ref=oh_aui_detailpage_o01_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- For all lights that aren't smart, *now they can be*. Win.
-- [Brainwavz Hengja - The Headphone Desk Hanger](https://www.amazon.com/dp/B012VIWG28/_encoding=UTF8?coliid=I38T2GSP88G72&colid=1DRWNUK8ZGQIY&psc=0&tag=thatmacnerd-20) 
+- [Brainwavz Hengja - The Headphone Desk Hanger](https://www.amazon.com/dp/B012VIWG28/_encoding=UTF8?coliid=I38T2GSP88G72&colid=1DRWNUK8ZGQIY&psc=0&tag=thatmacnerd-20)
 - [IKEA Holmo 46" Floor Lamps](https://www.amazon.com/gp/product/B0070PBVWO/ref=ox_sc_sfl_title_2?smid=A22ARMH4S21UOS&tag=thatmacnerd-20&psc=1&ie=UTF8)
 	- Where else am I going to put the LIFX Bulbs?
 
 ## Software
 
-- [VS Code](https://code.visualstudio.com/) 
-	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code [^3] and couldn’t be happier.
+- [VS Code](https://code.visualstudio.com/)
+	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code [^4] and couldn’t be happier.
 - [iTerm2](https://iterm2.com/)
 	- Back to iTerm. Multiple panels ftw.
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
@@ -122,10 +122,10 @@ As you can see I finally moved into my new place. My cable management game is al
 - [Expressions](https://itunes.apple.com/us/app/expressions/id913158085?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) to test regular expressions
 - [‎Tweetbot 3 for Twitter](https://itunes.apple.com/us/app/tweetbot-3-for-twitter/id1384080005?mt=12)
 - [Franz](https://meetfranz.com/). This is a chat aggregator. Open source and wayyyyyy better looking than Rambox.
-- [Things 3](https://culturedcode.com/things/) for tasks.[^4]
-- [Notion](https://www.notion.so) for Project management.[^5]
+- [Things 3](https://culturedcode.com/things/) for tasks.[^5]
+- [Notion](https://www.notion.so) for Project management.[^6]
 - [Fantastical 2](https://flexibits.com/fantastical) for scheduling
-- [Dash 4](https://kapeli.com/dash). [^6]
+- [Dash 4](https://kapeli.com/dash). [^7]
 - [Sip for Mac](https://sipapp.io/) for a color picker
 
 ## I Use a lot of software, I admit
@@ -138,8 +138,9 @@ So this is my setup and what I am currently using. You can show me your dev setu
 
 
 [^1]: My jealousy of the X this past year meant that I was upgrading but, since the phones seem less and less substantial, I probably won't upgrade next year unless it is something compelling.
-[^2]: Not a YouTuber so it is kind of a mess.
-[^3]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
-[^4]: This is the only task manager that I actually look at and use. It is *that* beautiful, simple, and it has impressed me far more than any task manager in recent memory.
-[^5]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/27c125f6594f/Screenshot-2018-10-31_11-25-37_PM.png).
-[^6]: Offline docs ftw! Plus much more.
+[^2]: Since starting a podcast and YouTube channel for one of my side projects, I decided to move some of my production work and blogging to the new iPad Pro.
+[^3]: Not a YouTuber so it is kind of a mess.
+[^4]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
+[^5]: This is the only task manager that I actually look at and use. It is *that* beautiful, simple, and it has impressed me far more than any task manager in recent memory.
+[^6]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/27c125f6594f/Screenshot-2018-10-31_11-25-37_PM.png).
+[^7]: Offline docs ftw! Plus much more.
