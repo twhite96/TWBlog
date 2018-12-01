@@ -48,7 +48,7 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 <figure>
     <img src="https://res.cloudinary.com/twhiteblog/image/upload/v1543445532/Now%20Page%20Screenshots/iPad/ipad_pro_new_nov_now.png" />
-    <figcaption>The lone icon on my iPad Pro homescreen is a Runtastic body weight home exercise app. I used to be religious about the gym, losing <strong>a lot</strong> of weight. I had a pretty rough go of it the last couple years and have gained a lot of weight back. Need to get healthy and this is a start. The rest is easy access to apps for multitasking.</figcaption>
+    <figcaption>I got the new iPad Pro and have moved all my blog writing over to it, as well as podcast and video editing. I still need the Mac for some Jekyll-centric stuff though.</figcaption>
 </figure>
 
 ---
