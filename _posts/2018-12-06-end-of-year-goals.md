@@ -1,12 +1,16 @@
 ---
 title: End of Year Wrap-up and 2019 Goals
 date: 2018-12-06
-excerpt:
+excerpt: Let's start this post off with a bit of honesty...This year has been hell, emotionally, mentally, physically, and professionally.
 layout: post    
 categories: 
+  - Goals
 tags:
+  - 2018
+  - year end wrap-up
+  - 2019 goals
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1544081369/End%20of%20Year%20Wrap%20up%20and%202019%20Goals%20Post/goals.jpg
-description:
+description: Life is what happens to you when you're busy making other plans.
 ---
 
 ![](https://res.cloudinary.com/twhiteblog/image/upload/v1544081369/End%20of%20Year%20Wrap%20up%20and%202019%20Goals%20Post/goals.jpg)
