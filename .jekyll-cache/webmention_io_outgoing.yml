@@ -2057,3 +2057,9 @@ http://0.0.0.0:4000/big-o/:
   https://res.cloudinary.com/twhiteblog/image/upload/v1543451725/Header%20Images/big_o_post.jpg: false
 http://0.0.0.0:4000/2018-11-26-big-o/:
   https://res.cloudinary.com/twhiteblog/image/upload/v1543451725/Header%20Images/big_o_post.jpg: false
+http://0.0.0.0:4000/end-of-year-goals/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1544081369/End%20of%20Year%20Wrap%20up%20and%202019%20Goals%20Post/goals.jpg: false
+  https://twitter.com/TiffanyW_412: false
+http://0.0.0.0:4000/2018-12-06-end-of-year-goals/:
+  https://res.cloudinary.com/twhiteblog/image/upload/v1544081369/End%20of%20Year%20Wrap%20up%20and%202019%20Goals%20Post/goals.jpg: false
+  https://twitter.com/TiffanyW_412: false
