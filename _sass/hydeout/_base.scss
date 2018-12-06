@@ -16,6 +16,10 @@ body {
 
 }
 
+.hidden {
+  display: none;
+}
+
 html {
   font-family: $root-font-family;
   font-size: $root-font-size;
