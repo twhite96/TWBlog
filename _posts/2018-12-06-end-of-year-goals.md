@@ -2,8 +2,8 @@
 title: End of Year Wrap-up and 2019 Goals
 date: 2018-12-06
 excerpt: Let's start this post off with a bit of honesty...This year has been hell, emotionally, mentally, physically, and professionally.
-layout: post    
-categories: 
+layout: post
+categories:
   - Goals
 tags:
   - 2018
