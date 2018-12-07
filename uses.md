@@ -134,7 +134,8 @@ But I use ALL OF IT.
 
 So this is my setup and what I am currently using. You can show me your dev setup on [Twitter](https://twitter.com/TiffanyW_412).
 
-![](https://res.cloudinary.com/twhiteblog/image/upload/v1535073893/Uses%20Page%20Desk%20Shots/desk_notion_ezofpk.jpg)
+<!-- ![](https://res.cloudinary.com/twhiteblog/image/upload/v1535073893/Uses%20Page%20Desk%20Shots/desk_notion_ezofpk.jpg) -->
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1544170498/Uses%20Page%20Desk%20Shots/IMG_1297-min.jpg)
 
 
 [^1]: My jealousy of the X this past year meant that I was upgrading but, since the phones seem less and less substantial, I probably won't upgrade next year unless it is something compelling.
