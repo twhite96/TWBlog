@@ -28,7 +28,6 @@ altonTheme.overrideThemeStyles = () => ({
     whiteSpace: 'pre-wrap',
     overflow: 'scroll',
     wordSpacing: 'normal',
-    wordBreak: 'break-word',
     fontFamily: 'Fira Code'
   }
 })
