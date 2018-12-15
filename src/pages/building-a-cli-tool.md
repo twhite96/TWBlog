@@ -14,9 +14,12 @@ tags:
   - open source
   - libraries
   - javascript
-image: https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_3424/v1529564722/goran-ivos-245581-unsplash_lcfk25.jpg
 description: Building your first command line tool can be daunting. Here are some tips I discovered while building mine.
 ---
+![](https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_3424/v1529564722/goran-
+ivos-245581-unsplash_lcfk25.jpg)
+
+
 
 I am currently building a small CLI tool based on my current React project, [Check Yo Self](https://checkyoself.surge.sh/).
 
