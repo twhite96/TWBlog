@@ -16,7 +16,7 @@ pre[class*="language-"] {
   direction: ltr;
   text-align: left;
   white-space: pre-wrap;
-  overflow: auto;
+  overflow: scroll;
   word-spacing: normal;
   word-break: break-word;
   -moz-tab-size: 4;
