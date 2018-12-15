@@ -1,6 +1,6 @@
 ---
 ID: 1066
-title: Restructured Learning: Trying Harder
+title: "Restructured Learning: Trying Harder"
 author: Tiffany White
 date: "2016-04-20"
 layout: post
