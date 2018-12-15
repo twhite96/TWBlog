@@ -8,6 +8,14 @@
 /*
 * Colors
 */
+
+pre {
+  font-size: 100%;
+  white-space: pre-wrap;
+  overflow: scroll;
+  word-spacing: normal;
+  word-break: break-word;
+}
 code[class*="language-"],
 pre[class*="language-"] {
   font-family: 'Fira Code', monospace;
