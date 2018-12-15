@@ -9,12 +9,11 @@
 * Colors
 */
 
-pre {
+pre, code{
   font-size: 100%;
   white-space: pre-wrap;
   overflow: scroll;
   word-spacing: normal;
-  word-break: break-word;
 }
 code[class*="language-"],
 pre[class*="language-"] {
