@@ -24,6 +24,11 @@ altonTheme.overrideThemeStyles = () => ({
     fontStyle: 'italic'
   },
   'pre, code': {
+    fontSize: '100%',
+    whiteSpace: 'pre-wrap',
+    overflow: 'scroll',
+    wordSpacing: 'normal',
+    wordBreak: 'break-word',
     fontFamily: 'Fira Code'
   }
 })
