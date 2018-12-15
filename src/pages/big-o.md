@@ -8,7 +8,6 @@ categories:
 tags:
   - big o notation
   - time complexity
-image: https://res.cloudinary.com/twhiteblog/image/upload/v1543451725/Header%20Images/big_o_post.jpg
 description: What is meant by Big O and do we actually need to consider it when building software?
 ---
 
