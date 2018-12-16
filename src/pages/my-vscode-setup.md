@@ -7,9 +7,9 @@ categories: Random
 tags:
   - setups
   - vscode
-image: https://res.cloudinary.com/twhiteblog/image/upload/v1535494228/Header%20Images/alexandru-acea-582050-unsplash.jpg
 description: Posts on editor setups are extremely popular. Here is mine.
 ---
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1535494228/Header%20Images/alexandru-acea-582050-unsplash.jpg)
 
 Since there are posts like this going around on blogs like [The Zen of Programming](https://zen-of-programming.com/vs-code-setup) and [DEV Community 👩‍💻👨‍💻](https://dev.to/nickytonline/my-visual-studio-code-setup-2ima) so I feel like giving my 🔥 take.
 

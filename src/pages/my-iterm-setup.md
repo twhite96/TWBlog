@@ -8,9 +8,10 @@ tags:
   - setups
   - iterm2
   - terminal
-image: https://res.cloudinary.com/twhiteblog/image/upload/v1535582156/Header%20Images/goran-ivos-245581-unsplash.jpg
 description: This is another setup post but this time, it's iTerm2.
 ---
+
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1535582156/Header%20Images/goran-ivos-245581-unsplash.jpg)
 
 The second post of this kind on this blog is my [iTerm2](https://iterm2.com/) setup.
 
