@@ -1,8 +1,7 @@
 ---
 title: Keeping Your Code Simple
 date: "2018-07-16"
-excerpt:
-comments: true
+spoiler: One of the biggest lessons I am trying to learn as a mid-level dev is *keeping my code simple*.
 layout: post
 link: >
     "https://tiffanywhite.tech/simple-code"
@@ -13,10 +12,10 @@ tags:
     - algorithms
     - reduce
     - javascript
-image: https://res.cloudinary.com/twhiteblog/image/upload/v1531721262/bench-accounting-49909-unsplash_s1yasn.jpg
 description: Clever one-liners are all the rage but do we really need them to display how well we can code?
 ---
 
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1531721262/bench-accounting-49909-unsplash_s1yasn.jpg)
 
 One of the biggest lessons I am trying to learn as a mid-level dev is *keeping my code simple*.
 
