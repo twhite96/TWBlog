@@ -9,7 +9,6 @@ tags:
   - "2018"
   - year end wrap-up
   - "2019 goals"
-image: https://res.cloudinary.com/twhiteblog/image/upload/v1544081369/End%20of%20Year%20Wrap%20up%20and%202019%20Goals%20Post/goals.jpg
 description: Life is what happens to you when you're busy making other plans.
 ---
 
@@ -74,6 +73,14 @@ Yeah I know but I feel like I did f all this past year it was so taxing on me. I
 
 Let me know by [hitting me up on Twitter](https://twitter.com/TiffanyW_412).
 
+---
+
+### Sign Up for the Newsletter. No spam. I hate that, too.
+
+<iframe scrolling="no" width="100% !important" height="220px" style="border:1px #ccc solid !important" class="lazyload" src="https://buttondown.email/tiffanywhite? as_embed=true"></iframe>
+
+---
+<a href="https://www.buymeacoffee.com/twhitedev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 
 [^1]: We'll see how that works out.
