@@ -80,10 +80,9 @@ A new tree of elements is created each time state changes in the `App` component
 
 React will attempt to preserve the existing DOM tree so input state would not get destroyed. State changes trigger reconciliation. During reconciliation, React compares the trees to decide what to keep or mount and unmount.
 
-To get an example of this, check out this pen I forked below:
+To get an example of this, check out this pen I forked below in a sandbox:
 
-<p data-height="467" data-theme-id="22729" data-slug-hash="WJPeME" data-default-tab="js,result" data-user="twhite96" data-embed-version="2" data-pen-title:="reconciliation-2 Pen" class="codepen">See the Pen <a href="https://codepen.io/twhite96/pen/WJPeME/">reconciliation-2 Pen</a> by Tiffany White (<a href="https://codepen.io/twhite96">@twhite96</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<iframe src="https://codesandbox.io/embed/72oj6p72w6" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
 
 
 ## Why This Matters
@@ -96,6 +95,9 @@ There are a few things I didn't go over in this article but I suggest you read t
 
 ---
 
-If you like the blog, you'll *love* the newsletter: little letters *to you*.
+### Sign Up for the Newsletter. No spam. I hate that, too.
 
-<iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/tiffanywhite?as_embed=true"></iframe>
+<iframe scrolling="no" width="100% !important" height="220px" style="border:1px #ccc solid !important" class="lazyload" src="https://buttondown.email/tiffanywhite? as_embed=true"></iframe>
+
+---
+<a href="https://www.buymeacoffee.com/twhitedev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
