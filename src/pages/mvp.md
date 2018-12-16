@@ -1,7 +1,7 @@
 ---
 title: MVPs and Iterating Your Way to a Finished Product
 date: "2018-09-11"
-excerpt: I have long struggles with building the projects I set out to build and fill my GitHub with. This is due to a crippling penchant for perfectionism at all costs. This is dangerous for your mental health, productivity, and prospective employers.
+spoiler: I have long struggles with building the projects I set out to build and fill my GitHub with. This is due to a crippling penchant for perfectionism at all costs. This is dangerous for your mental health, productivity, and prospective employers.
 layout: post
 categories:
   - Web Development
@@ -10,11 +10,10 @@ tags:
   - mvp
   - npm
   - tools
-image: https://res.cloudinary.com/twhiteblog/image/upload/v1536722539/Header%20Images/Optimized-andrew-neel-1050242-unsplash.jpg
 description: Getting a project out the door is the most important thing you can do.
 ---
 
-
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1536722539/Header%20Images/Optimized-andrew-neel-1050242-unsplash.jpg)
 
 I have long struggled with building the projects I set out to build and fill my GitHub with. This is due to a crippling penchant for perfectionism at all costs. This is dangerous for your mental health, productivity, and prospective employers.
 

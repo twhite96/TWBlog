@@ -1,7 +1,7 @@
 ---
 title: Big O Notation
 date: '2018-11-29'
-excerpt: To determine what the the efficiency of some function is, first we have to clarify what we mean by efficient.
+spoiler: To determine what the the efficiency of some function is, first we have to clarify what we mean by efficient.
 layout: post
 categories:
   - Algorithms and Data Structures
