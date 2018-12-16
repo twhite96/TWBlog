@@ -1,26 +1,28 @@
 import React from 'react'
-import Helmet from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import get from 'lodash/get'
 
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
+import SEO from '../components/SEO'
 import { formatReadingTime } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
+
+const GITHUB_USERNAME = 'twhite96'
+const GITHUB_REPO_NAME = 'TWblog'
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
-    const siteDescription = post.excerpt
-    const { previous, next } = this.props.pageContext
-
+    const { previous, next, slug } = this.props.pageContext
+    const editUrl = `https://github.com/${GITHUB_USERNAME}/${GITHUB_REPO_NAME}/edit/master/src/pages/${slug.replace(/\//g, '')}.md`
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <Helmet
-          htmlAttributes={{ lang: 'en' }}
-          meta={[{ name: 'description', content: siteDescription }]}
-          title={`${post.frontmatter.title} | ${siteTitle}`}
+        <SEO
+          title={post.frontmatter.title}
+          description={post.frontmatter.spoiler}
+          slug={post.fields.slug}
         />
         <h1>{post.frontmatter.title}</h1>
         <p
@@ -35,13 +37,38 @@ class BlogPostTemplate extends React.Component {
           {` • ${formatReadingTime(post.timeToRead)}`}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <p>
+          <a
+            href={editUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Edit on GitHub
+          </a>
+        </p>
         <hr
           style={{
             marginBottom: rhythm(1),
           }}
         />
+        <h3
+          style={{
+            fontFamily: 'Montserrat, sans-serif',
+            marginTop: rhythm(0.25),
+          }}
+        >
+          <Link
+            style={{
+              boxShadow: 'none',
+              textDecoration: 'none',
+              color: '#06D7D9',
+            }}
+            to={'/'}
+          >
+            Tiffany R. White Blog
+          </Link>
+        </h3>
         <Bio />
-
         <ul
           style={{
             display: 'flex',
@@ -83,12 +110,15 @@ export const pageQuery = graphql`
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
-      excerpt
       html
       timeToRead
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        spoiler
+      }
+      fields {
+        slug
       }
     }
   }
