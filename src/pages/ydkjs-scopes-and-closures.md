@@ -9,7 +9,6 @@ tags:
   - YDKJS
   - javascript
   - web development
-image: https://res.cloudinary.com/twhiteblog/image/upload/v1538880417/Header%20Images/YDKJS_S_C.png
 description: YDKJS Scopes & Closures is a must read...with caveats.
 ---
 
