@@ -16,6 +16,9 @@ altonTheme.overrideThemeStyles = () => ({
     marginTop: '2rem',
     marginBottom: '2rem'
   },
+'h2': {
+  fontFamily: 'Montserrat, sans-serif'
+},
   'blockquote': {
     padding: '.5rem 1rem',
     margin: '.8rem 0',
