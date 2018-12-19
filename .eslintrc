@@ -25,7 +25,6 @@
     "no-param-reassign": [ 1 ],
     "no-shadow": [ 1 ],
     "no-underscore-dangle" : [0, "always"],
-    "react/jsx-sort-prop-types": 0,
     "react/jsx-sort-props": [0, {
         "ignoreCase": false,
         "callbacksLast": false
@@ -53,12 +52,6 @@
       "beforeSelfClosing": "always",
       "afterOpening": "never",
       "beforeClosing": "allow"
-    }],
-    "react/jsx-wrap-multilines": ["error", {
-        "declaration": true,
-        "assignment": true,
-        "return": true,
-        "arrow": true
     }]
   }
 }
