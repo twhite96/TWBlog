@@ -1,8 +1,8 @@
 import React from 'react'
 
 // Import typefaces
-import 'typeface-pt-sans'
-import 'typeface-open-sans'
+// import 'typeface-pt-sans'
+// import 'typeface-open-sans'
 import 'typeface-montserrat'
 
 import profilePic from './profile3.png'

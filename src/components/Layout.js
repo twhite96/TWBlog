@@ -17,6 +17,7 @@ class Layout extends React.Component {
             ...scale(1.0),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            fontFamily: 'Montserrat, sans-serif',
           }}
         >
           <Link
