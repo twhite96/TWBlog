@@ -8,14 +8,14 @@ class NotFoundPage extends React.Component {
         <h1>Not Found</h1>
         <p>I haven’t written this post yet. Will you help me write it?</p>
         <iframe
-          width="560"
+          width="100%"
           height="315"
-          src="https://www.youtube.com/embed/IRTfhkiAqPw"
+          src="https://www.youtube.com/embed/E2tWC8k-UzI"
           frameborder="0"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowFullscreen
         />
-        <p>Here is one of the worst 🔥 takes about OOP on the interwebs. Enjoy.</p>
+        <p>Here is some classic post-hardcore from At The Drive-in for you to enjoy. Or not. 🤷🏾‍♀️ </p>
       </Layout>
     )
   }
