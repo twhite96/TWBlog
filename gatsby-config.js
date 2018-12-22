@@ -50,6 +50,16 @@ module.exports = {
             }
           },
           {
+            resolve: "gatsby-remark-embed-gist",
+            options: {
+              username: 'twhite96',
+
+              // a flag indicating whether the github default gist css should be included or not
+              // default: true
+              includeDefaultCss: true
+            }
+          },
+          {
             resolve: 'gatsby-remark-prismjs',
             options: {
               inlineCodeMarker: '÷'
