@@ -5,8 +5,9 @@ import get from 'lodash/get'
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/SEO'
-import { formatReadingTime } from '../utils/helpers'
+import { formatReadingTime, emoji } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
+// import Signup from '../components/Signup'
 
 const GITHUB_USERNAME = 'twhite96'
 const GITHUB_REPO_NAME = 'TWblog'
@@ -17,6 +18,7 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
     const { previous, next, slug } = this.props.pageContext
     const editUrl = `https://github.com/${GITHUB_USERNAME}/${GITHUB_REPO_NAME}/edit/master/src/pages/${slug.replace(/\//g, '')}.md`
+    const discussUrl = `https://mobile.twitter.com/search?q=${encodeURIComponent(`https://tiffanywhite.tech${slug}`)}`
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
@@ -38,14 +40,17 @@ class BlogPostTemplate extends React.Component {
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <p>
-          <a
-            href={editUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href={discussUrl} target="_blank" rel="noopener noreferrer">
+            Discuss on Twitter
+          </a>
+          {` • `}
+          <a href={editUrl} target="_blank" rel="noopener noreferrer">
             Edit on GitHub
           </a>
         </p>
+        {/* <div style={{ margin: '90px 0 40px 0' }}>
+          <Signup />
+        </div> */}
         <hr
           style={{
             marginBottom: rhythm(1),
