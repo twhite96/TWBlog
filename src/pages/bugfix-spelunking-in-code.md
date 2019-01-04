@@ -66,7 +66,7 @@ this.setState(state => {
     });
   }
 ```
-and use `Date.now()` to get the timestamp in ms, assign it a `startTime` variable to compare the current time to the amount of time that has passed. When we click the start button, it sets the `startTime` to the current timestamp We also need to return a new state as state is *not* mutable..
+and use `Date.now()` to get the timestamp in ms, assign it a `startTime` variable to compare the current time to the amount of time that has passed. When we click the start button, it sets the `startTime` to the current timestamp. We also need to return a new state as state is *not* mutable..
 
 ```js{17,5-13}
 class StopWatch extends React.Component {
@@ -107,7 +107,7 @@ handleOnClear = () => {
 };
 ```
 
-We can fix this by adding `clearInterval()` and passing in the timer function to the `handleOnClear` method so clear the state.
+We can fix this by adding `clearInterval()` and passing in the timer function to the `handleOnClear` method to clear the state.
 
 ```js
 handleOnClear = () => {
