@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import 'typeface-montserrat'
 
 import { rhythm, scale } from '../utils/typography'
+import { emoji } from '../utils/helpers'
 
 class Layout extends React.Component {
   render() {
