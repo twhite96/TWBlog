@@ -5,6 +5,9 @@ spoiler: Getting to know other people's code can be fun exercise. But what if it
 date: 2019-01-04
 ---
 
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1546642827/Header%20Images/fabian-grohs-437907-unsplash-min.jpg)
+
+
 I love [CodeSandbox](https://codesandbox.io/). It has pretty much replaced CodePen for me unless I am fiddling around with CSS or freeCodeCamp front-end projects.
 
 I like going through the sandboxes and picking out different ones to look at, take apart, and figure out how they work.
