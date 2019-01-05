@@ -102,7 +102,7 @@ How do we fix this particular bug?
 If we look back at the previous code, we can see we are using `clearInterval()` to reset the stopwatch timer. In our current iteration, our `handleOnClear` method is just *setting* the state without *clearing* the previous state.
 
 ```js
-handleOnClear = () => {a
+handleOnClear = () => {
   this.setState({
     lapse: 0,
     running: false
