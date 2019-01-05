@@ -1,7 +1,7 @@
 ---
 title: "Bugfix: Spelunking in Someone Else's Code"
 author: Tiffany White
-spoiler: Getting to know other people's code can be fun exercise. But what if it is buggy?
+spoiler: Getting to know other people's code can be a fun exercise. But what if it is buggy?
 date: 2019-01-04
 ---
 
