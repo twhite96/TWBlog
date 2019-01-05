@@ -5,7 +5,7 @@ import React from 'react'
 // import 'typeface-open-sans'
 import 'typeface-montserrat'
 
-import profilePic from './profile3.png'
+import profilePic from './tiffany-white-front-end-engineer.png'
 import { rhythm } from '../utils/typography'
 
 class Bio extends React.Component {
