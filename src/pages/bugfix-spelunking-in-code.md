@@ -53,7 +53,7 @@ I also removed the `console.log(Math.random());` because I felt it was unneeded.
 
 Each time the button is clicked, we set the state to either `running` or `lapse`. The timer runs when we click `start` but clicking `stop` or `clear` doesn't seem to work. How can we fix this?
 
-We can create a timer update function that excepts the current state. We can accomplish this by using native DOM APIs such as `setInterval()` and `clearInterval()`. We can run conditional logic to see if the timer is running:
+We can create a timer update function that accepts the current state. We can accomplish this by using native DOM APIs such as `setInterval()` and `clearInterval()`. We can run conditional logic to see if the timer is running:
 
 ```js
 //updater function
@@ -102,7 +102,7 @@ How do we fix this particular bug?
 If we look back at the previous code, we can see we are using `clearInterval()` to reset the stopwatch timer. In our current iteration, our `handleOnClear` method is just *setting* the state without *clearing* the previous state.
 
 ```js
-handleOnClear = () => {
+handleOnClear = () => {a
   this.setState({
     lapse: 0,
     running: false
