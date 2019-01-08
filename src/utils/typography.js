@@ -15,11 +15,15 @@ altonTheme.overrideThemeStyles = () => ({
   },
   'h1': {
     marginTop: '2rem',
-    marginBottom: '2rem'
+    marginBottom: '2rem',
+    fontFamily: 'Montserrat, sans-serif'
   },
-'h2': {
-  fontFamily: 'Montserrat, sans-serif'
-},
+  'h2': {
+    fontFamily: 'Montserrat, sans-serif'
+  },
+  'h3': {
+    fontFamily: 'Montserrat, sans-serif'
+  },
   'blockquote': {
     padding: '.5rem 1rem',
     margin: '.8rem 0',
