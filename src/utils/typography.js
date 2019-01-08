@@ -10,7 +10,8 @@ altonTheme.overrideThemeStyles = () => ({
     boxShadow: 'none',
   },
   'p': {
-    fontSize: '1rem'
+    fontSize: '1.3rem',
+    fontFamily: 'Source Sans Pro'
   },
   'h1': {
     marginTop: '2rem',

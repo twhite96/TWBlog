@@ -101,8 +101,19 @@ module.exports = {
         }
       }
     },
-    `gatsby-plugin-offline`,
-    // `gatsby-plugin-remove-serviceworker`,
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `limelight`,
+          `source sans pro\:300,400,400i,700`,
+          `pt serif\:300,400,400i,700`,
+          `montserrat\:300,400,400i,700`
+        ]
+      }
+    },
+    // `gatsby-plugin-offline`,
+    `gatsby-plugin-remove-serviceworker`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: 'gatsby-plugin-typography',
