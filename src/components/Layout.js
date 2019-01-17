@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import 'typeface-montserrat'
 
 import { rhythm, scale } from '../utils/typography'
 
@@ -17,13 +16,12 @@ class Layout extends React.Component {
             ...scale(1.0),
             marginBottom: rhythm(1.5),
             marginTop: 0,
-            fontFamily: 'Montserrat, sans-serif',
           }}
         >
           <Link
             style={{
               boxShadow: 'none',
-              textDecoration: 'none',
+              textDecoration: 'none !important',
               color: 'inherit',
             }}
             to={'/'}
@@ -44,7 +42,7 @@ class Layout extends React.Component {
           <Link
             style={{
               boxShadow: 'none',
-              textDecoration: 'none',
+              textDecoration: 'none !important',
               color: '#06D7D9',
             }}
             to={'/'}

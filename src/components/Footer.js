@@ -37,7 +37,13 @@ class Footer extends React.Component {
           target="_blank"
           rel="noopener noreferrer">
           stackoverflow
-        </a>
+        </a> &bull;{' '}
+        <a
+         href="https://tiffanywhite.tech"
+         target="_blank"
+         rel="noopener noreferrer">
+         TRW Blog
+        </a> - &copy; 2015-2019
       </footer>
     )
   }
