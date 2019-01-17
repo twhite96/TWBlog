@@ -3,20 +3,22 @@ import altonTheme from 'typography-theme-alton'
 
 altonTheme.overrideThemeStyles = () => ({
   a: {
-    color: '#06D7D9',
-    // textDecoration: 'underline',
+    color: '#06D7D9'
+    // textDecoration: 'underline'
   },
   'a.gatsby-resp-image-link': {
-    boxShadow: 'none',
+    boxShadow: 'none'
   },
   'p': {
     fontSize: '1.3rem',
-    fontFamily: 'Source Sans Pro'
+    fontFamily: 'Source Sans Pro',
+    textDecoration: 'none'
   },
   'h1': {
     marginTop: '2rem',
     marginBottom: '2rem',
-    fontFamily: 'Montserrat, sans-serif'
+    fontFamily: 'Montserrat, sans-serif',
+    textDecoration: 'none !important'
   },
   'h2': {
     fontFamily: 'Montserrat, sans-serif'
