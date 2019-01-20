@@ -17,9 +17,9 @@ class Layout extends React.Component {
     if (location.pathname === rootPath) {
       return (
         // <InstantSearch
-        //   apiKey='ce7660039cd338fcfa54fbce856ddd0a'
-        //   appId='VVKLD2O8OY'
-        //   indexName='twblog'
+        //   apiKey=API_KEY
+        //   appId=APP_ID
+        //   indexName=INDEX
         // >
         // <header>
         //   <SearchBox translations={{placeholder: 'Search...'}} />
