@@ -283,13 +283,21 @@ class Bio extends React.Component {
              border-left: 0.25em solid #06D7D9;
            }
 
-        .gatsby-highlight pre[class*="language-"] {
+       /*.gatsby-highlight pre[class*="language-"] {
           float: left;
           min-width: 100%;
-        }
+        }*/
 
         a {
           color: ${theme.primary.text.link}
+        }
+        
+        pre, code {
+          fontSize: '100%',
+          whiteSpace: 'pre-wrap',
+         /*overflow: 'scroll',
+         wordSpacing: 'normal',*/
+         fontFamily: 'Fira Code'
         }
 
         a:hover {
