@@ -292,6 +292,9 @@ class Bio extends React.Component {
           color: ${theme.primary.text.link}
         }
 
+        a:hover {
+          color: ${theme.secondary.text.normal}
+        }
         .react-toggle-track-x {
           width: 17px;
           height: 17px;
