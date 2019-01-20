@@ -28,6 +28,15 @@ module.exports = {
             }
           },
           {
+            resolve: `@raae/gatsby-remark-oembed`,
+            options: {
+              providers: {
+                include: ["Twitter", "Spotify", "CodeSandbox", "CodePen", "Buttondown", "Twitch"],
+                exclude: ["Reddit"]
+              }
+            }
+          },
+          {
             resolve: "gatsby-remark-embed-spotify",
             options: {
               height: 600

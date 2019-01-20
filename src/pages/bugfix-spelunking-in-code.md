@@ -144,7 +144,7 @@ I find it much more enjoyable fixing *other people's* bugs than my own. This was
 
 This stopwatch is a stupid simple component but if you are just scratching the surface of React like me, I am sure digging into something like this stopwatch and figuring out how it works is an excellent exercise and use of one's time.
 
-<iframe src="https://codesandbox.io/embed/wyz76w95n8" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+https://codesandbox.io/s/wyz76w95n8
 
 ---
 
