@@ -38,12 +38,7 @@ class Footer extends React.Component {
           rel="noopener noreferrer">
           stackoverflow
         </a> &bull;{' '}
-        <a
-         href="https://tiffanywhite.tech"
-         target="_blank"
-         rel="noopener noreferrer">
-         TRW Blog
-        </a> - &copy; 2015-2019
+        <span> &copy; 2015 - {(new Date().getFullYear())} TRW Blog</span>
       </footer>
     )
   }
