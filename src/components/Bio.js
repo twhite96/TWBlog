@@ -28,9 +28,9 @@ class Bio extends React.Component {
           }}
         />
         <p style={{ maxWidth: 310 }}>
-          Technical Blog by <a href="https://mobile.twitter.com/TiffanyW_412">Tiffany White</a>.
+          Blog of <a href="https://mobile.twitter.com/TiffanyW_412">Tiffany White</a>.
           {' '}
-          Thoughts on React, JavaScript, and web development.
+          Thoughts on React & web development.
         </p>
       </div>
     )
