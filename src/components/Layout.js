@@ -1,13 +1,12 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import Toggle from './Toggle';
-
 import { rhythm, scale } from '../utils/typography';
 import { ThemeContext } from './ContextWrapper';
 import sun from '../assets/sun.png';
 import moon from '../assets/moon.png';
 import Style from './Style';
-// import { InstantSearch, SearchBox } from 'react-instantsearch-dom';
+import Search from './Search';
 
 class Layout extends React.Component {
   renderHeader(theme) {
@@ -16,15 +15,6 @@ class Layout extends React.Component {
 
     if (location.pathname === rootPath) {
       return (
-        // <InstantSearch
-        //   apiKey=API_KEY
-        //   appId=APP_ID
-        //   indexName=INDEX
-        // >
-        // <header>
-        //   <SearchBox translations={{placeholder: 'Search...'}} />
-        // </header>
-        // </InstantSearch>
         <h1
           style={{
             ...scale(1.0),
@@ -68,6 +58,8 @@ class Layout extends React.Component {
       );
     }
   }
+
+
   render() {
     const { children, location } = this.props;
     const rootPath = `${__PATH_PREFIX__}/`;
@@ -122,6 +114,16 @@ class Layout extends React.Component {
                   onChange={e => setTheme(e.target.checked ? 'dark' : 'light')}
                 />
               </div>
+              <span
+                style={{
+                  display: 'flex',
+                  float: 'right',
+                  // justifyContent: 'space-between',
+                  alignItems: 'baseline',
+                }}
+               >
+                <Search />
+              </span>
               {children}
             </div>
           </div>

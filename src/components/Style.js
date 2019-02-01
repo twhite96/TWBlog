@@ -32,23 +32,23 @@ class Bio extends React.Component {
            code[class*="language-"],
            pre[class*="language-"] {
              font-family: 'Fira Code', monospace;
-             /*font-size: 100%;*/
-             direction: ltr;
+             font-size: .88rem;
              text-align: left;
              white-space: pre;
              word-spacing: normal;
              word-break: normal;
              word-wrap: normal;
              line-height: 1.5;
+             margin-bottom: 0;
+
              -moz-tab-size: 4;
              -o-tab-size: 4;
              tab-size: 4;
-             border-radius: .4em;
+
              -webkit-hyphens: none;
              -moz-hyphens: none;
              -ms-hyphens: none;
              hyphens: none;
-             background: none;
              /* background: #292a44; */
              color: #66D9EF; }
 
@@ -283,21 +283,17 @@ class Bio extends React.Component {
              border-left: 0.25em solid #06D7D9;
            }
 
-       /*.gatsby-highlight pre[class*="language-"] {
-          float: left;
-          min-width: 100%;
-        }*/
+       .gatsby-highlight pre[class*="language-"] {
+        margin-bottom: 1.75rem;
+        border-radius: 10px;
+        background: #2A2D46;
+        -webkit-overflow-scrolling: touch;
+        overflow: auto;
+        fontFamily: 'Fira Code'
+        }
 
         a {
           color: ${theme.primary.text.link}
-        }
-        
-        pre, code {
-          fontSize: '100%',
-          whiteSpace: 'pre-wrap',
-         /*overflow: 'scroll',
-         wordSpacing: 'normal',*/
-         fontFamily: 'Fira Code'
         }
 
         a:hover {
@@ -313,6 +309,10 @@ class Bio extends React.Component {
           width: 17px;
           height: 17px;
           left: 5px;
+        }
+        .ais-SearchBox-reset svg,
+        .ais-SearchBox-submit svg {
+          fill: #06D7D9;
         }
         `,
         }}
