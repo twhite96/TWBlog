@@ -2,7 +2,7 @@
 title: "Bugfix: Spelunking in Someone Else's Code"
 author: Tiffany White
 spoiler: Getting to know other people's code can be a fun exercise. But what if it is buggy?
-date: 2019-01-04
+date: "2019-01-04"
 ---
 
 ![](https://res.cloudinary.com/twhiteblog/image/upload/v1546642827/Header%20Images/fabian-grohs-437907-unsplash-min.jpg)
