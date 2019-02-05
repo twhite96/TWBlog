@@ -39,7 +39,6 @@
     "gatsby-transformer-sharp": "^2.1.10",
     "instantsearch.css": "^7.1.0",
     "lodash": "^4.17.11",
-    "new-post-gatsby-starter-blog": "^1.1.5",
     "prismjs": "^1.15.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
