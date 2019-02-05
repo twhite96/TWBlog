@@ -2,7 +2,7 @@
 title: "What is the Difference Between a Function and a Method? Terminology Pt. 1"
 author: Tiffany White
 spoiler: Functions, methods, passing a value all sound like jargon to new developers but these are key concepts to understand. What do they mean and what is the difference between them?
-date: "2019-01-28"
+date: "2019-02-05"
 ---
 
 [Abby Snopek](https://twitter.com/snopek308) tweeted the following:
