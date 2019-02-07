@@ -319,6 +319,7 @@ class Bio extends React.Component {
           left: 0;
           top: 0;
           background-color: #06D7D9;
+          color: #06D7D9;
         }
         `,
         }}
