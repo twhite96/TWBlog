@@ -31,9 +31,7 @@ class BlogPostTemplate extends React.Component {
           description={post.frontmatter.spoiler}
           slug={post.fields.slug}
         />
-      <ReadingProgress
-          style={{backgroundColor: '#06D7D9', minWidth: '100%'}}
-      />
+      <ReadingProgress />
         <h1>{post.frontmatter.title}</h1>
         <p
           style={{
