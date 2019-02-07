@@ -7,10 +7,15 @@ import Layout from '../components/Layout'
 import SEO from '../components/SEO'
 import { formatReadingTime } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
-// import Signup from '../components/Signup'
+import ReadingProgress from 'react-reading-progress'
 
 const GITHUB_USERNAME = 'twhite96'
 const GITHUB_REPO_NAME = 'TWblog'
+
+// const styles = {
+//   backgroundColor: '#06D7D9',
+//   display: 'inline-block'
+// };
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -26,6 +31,9 @@ class BlogPostTemplate extends React.Component {
           description={post.frontmatter.spoiler}
           slug={post.fields.slug}
         />
+      <ReadingProgress
+          style={{backgroundColor: '#06D7D9', minWidth: '100%'}}
+      />
         <h1>{post.frontmatter.title}</h1>
         <p
           style={{
