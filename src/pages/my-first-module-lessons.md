@@ -2,7 +2,7 @@
 title: "My First Module: Lessons"
 author: Tiffany White
 spoiler: "Taking a script from Joel Hooks, I struggled with making it an npm module. Here are some mistakes and lessons learned."
-date: 2019-02-06
+date: "2019-02-06"
 ---
 
 
