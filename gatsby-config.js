@@ -5,7 +5,7 @@ module.exports = {
     description: 'Technical Blog by Tiffany White',
     siteUrl: 'https://tiffanywhite.tech',
     social: {
-      twitter: '@TiffanyW_412'
+      twitter: '@tiffanywhitedev'
     }
   },
   pathPrefix: '/',
