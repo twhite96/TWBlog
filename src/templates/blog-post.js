@@ -7,7 +7,7 @@ import Layout from '../components/Layout'
 import SEO from '../components/SEO'
 import { formatReadingTime } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
-import ReadingProgress from 'react-reading-progress'
+import ReadingProgress from 'react-reading-progress-blue'
 
 const GITHUB_USERNAME = 'twhite96'
 const GITHUB_REPO_NAME = 'TWblog'
