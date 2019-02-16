@@ -20,7 +20,7 @@ categories:
 
 `this` in React is a reference to the current component. Usually `this` in React is bound to its built-in methods so that when you want to update state or use an event handler on a form, you could do something like this:
 
-```javascript
+```js
 <input type="text" ref={this.someInput} required placeholder="This is a Method" defaultValue={getSomeMethod()}/>
 ```
 where `this.someInput` is passing state to whichever React component you are rendering.
@@ -29,7 +29,7 @@ Unfortunately, though, React doesn't auto-bind `this` to custom methods. This me
 
 But because React doesn't auto-bind `this`, the following code would output undefined when logged:
 
-```javascript
+```js
 someInput = React.createRef();
   renderSomeInput (event) {
     event.preventDefault();
@@ -40,7 +40,7 @@ someInput = React.createRef();
 
 In order to avoid this, we could use the `constructor` function in order to initialize or get the state we want:
 
-```javascript
+```js
 class SomeCompenent extends React.Component {
   constructor() {
     super();
@@ -51,7 +51,7 @@ class SomeCompenent extends React.Component {
 While this is a decent way to initialize state, what if you wanted to bind several custom methods in one component? It would get pretty messy...
 
 
-```javascript
+```js
 class SomeCompenent extends React.Component {
   constructor() {
     super();
@@ -66,7 +66,7 @@ You get the idea.
 
 Instead, we can bind `this` to custom React methods by declaring a method and assigning it to an arrow function:
 
-```javascript
+```js
 class SomeCompenent extends React.Component {
 
   someInput = React.createRef();
