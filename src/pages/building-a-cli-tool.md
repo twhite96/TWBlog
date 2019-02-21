@@ -16,8 +16,7 @@ tags:
   - javascript
 description: Building your first command line tool can be daunting. Here are some tips I discovered while building mine.
 ---
-![](https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_3424/v1529564722/goran-
-ivos-245581-unsplash_lcfk25.jpg)
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1529564722/goran-ivos-245581-unsplash_lcfk25.jpg)
 
 
 
