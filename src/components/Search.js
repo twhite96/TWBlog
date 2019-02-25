@@ -70,7 +70,7 @@ const Hits = connectHits(({ hits }) => (
           </a>
         </Heading>
         <p>
-          <Highlight attribute="description" hit={hit} tagName="mark" />
+          <Highlight attribute="spoiler" hit={hit} tagName="mark" />
         </p>
         <Link href={`/${hit.slug}`}>Read this post &rsaquo;</Link>
       </Result>
