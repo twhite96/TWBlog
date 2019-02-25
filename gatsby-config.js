@@ -152,10 +152,10 @@ module.exports = {
           `,
             transformer: ({ data }) =>
               data.allMarkdownRemark.edges.reduce((records, { node }) => {
-                const { title, description } = node.frontmatter
+                const { title, spoiler } = node.frontmatter
                 const { slug } = node.fields
 
-                const base = { slug, title, description }
+                const base = { slug, title, spolier }
                 const chunks = node.rawBody.split('\n\n')
 
                 return [
