@@ -13,7 +13,7 @@ import { FaSearch } from 'react-icons/fa'
 import Overlay from './Overlay'
 // import '../utils/algolia'
 
-const client = algoliasearch('articles', 'b5faa712b4c07dc61c03eec1e79a4954')
+const client = algoliasearch('VVKLD2O8OY', 'b5faa712b4c07dc61c03eec1e79a4954')
 
 const SearchArea = styled('div')`
   height: 100vh;
