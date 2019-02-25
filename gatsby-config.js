@@ -155,7 +155,7 @@ module.exports = {
                 const { title, spoiler } = node.frontmatter
                 const { slug } = node.fields
 
-                const base = { slug, title, spolier }
+                const base = { slug, title, spoiler }
                 const chunks = node.rawBody.split('\n\n')
 
                 return [
