@@ -1,3 +1,7 @@
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`,
+});
+
 module.exports = {
   siteMetadata: {
     title: 'Tiffany R. White Blog',
@@ -83,6 +87,7 @@ module.exports = {
               inlineCodeMarker: '÷'
             }
           },
+          'gatsby-plugin-emotion',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants'
         ]
@@ -120,19 +125,50 @@ module.exports = {
       }
     },
     {
-      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
+      resolve: `gatsby-plugin-algolia`,
       options: {
-        // Fields to index
-        fields: [`title`, `description`],
-        // How to resolve each field`s value for a supported node type
-        resolvers: {
-          // For any node of type MarkdownRemark, list how to resolve the fields` values
-          MarkdownRemark: {
-            title: node => node.frontmatter.title,
-            description: node => node.frontmatter.description,
-            path: node => node.frontmatter.path
+        appId: process.env.ALGOLIA_APP_ID,
+        apiKey: process.env.ALGOLIA_API_KEY,
+        indexName: process.env.ALGOLIA_INDEX_NAME, // for all queries
+        queries: [
+          {
+            query: `
+            {
+              allMarkdownRemark(
+                filter: { frontmatter: { hidden: { ne: true } } }
+              ) {
+                edges {
+                  node {
+                    rawBody
+                    frontmatter {
+                      slug
+                      title
+                      description
+                    }
+                  }
+                }
+              }
+            }
+          `,
+            transformer: ({ data }) =>
+              data.allMarkdownRemark.edges.reduce((records, { node }) => {
+                const { title, description } = node.frontmatter
+                const { slug } = node.fields
+
+                const base = { slug, title, description }
+                const chunks = node.rawBody.split('\n\n')
+
+                return [
+                  ...records,
+                  ...chunks.map((text, index) => ({
+                    ...base,
+                    objectID: `${slug}-${index}`,
+                    text,
+                  })),
+                ]
+              }, []),
           },
-        },
+        ],
       },
     },
     {

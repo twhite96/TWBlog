@@ -1,4 +1,4 @@
-export const themes = {
+const themes = {
   light: {
     id: 'light',
     header: 'rgb(6, 215, 217)',
@@ -22,6 +22,12 @@ export const themes = {
         link: '#04AAAD',
       },
     },
+  },
+  breakpoints: {
+    xs: '400px',
+    s: '600px',
+    m: '900px',
+    l: '1200px',
   },
   dark: {
     id: 'dark',
@@ -47,4 +53,9 @@ export const themes = {
       },
     },
   },
+  transition: {
+    ease: 'all 200ms ease',
+  }
 };
+
+export default themes;

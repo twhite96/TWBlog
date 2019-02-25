@@ -6,7 +6,7 @@ import { ThemeContext } from './ContextWrapper';
 import sun from '../assets/sun.png';
 import moon from '../assets/moon.png';
 import Style from './Style';
-// import Search from './Search';
+import Search from './Search';
 
 class Layout extends React.Component {
   renderHeader(theme) {
@@ -114,6 +114,16 @@ class Layout extends React.Component {
                   onChange={e => setTheme(e.target.checked ? 'dark' : 'light')}
                 />
               </div>
+              <span
+                style={{
+                  display: 'flex',
+                  float: 'right',
+                  // justifyContent: 'space-between',
+                  alignItems: 'baseline',
+                }}
+                >
+                <Search />
+              </span>
               {children}
             </div>
           </div>
