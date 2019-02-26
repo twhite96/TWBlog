@@ -1,7 +1,5 @@
 const postQuery = `{
-  posts: allMarkdownRemark(
-    filter: { fileAbsolutePath: { regex: "/pages/" } }
-  ) {
+  posts: allMarkdownRemark {
     edges {
       node {
         fields {
@@ -13,7 +11,7 @@ const postQuery = `{
           date(formatString: "MMM DD, YYYY")
           spoiler
         }
-        excerpt(pruneLength: 5000)
+        excerpt(pruneLength: 500)
       }
     }
   }
