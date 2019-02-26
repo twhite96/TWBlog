@@ -7,7 +7,7 @@ const postQuery = `{
         fields {
           slug
         }
-        objectID: `${slug}-${index}`,
+        objectID: id,
         frontmatter {
           title
           date(formatString: "MMM DD, YYYY")
