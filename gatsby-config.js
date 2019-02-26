@@ -2,6 +2,8 @@ require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
 });
 
+const query = require('./src/utils/algolia');
+
 module.exports = {
   siteMetadata: {
     title: 'Tiffany R. White Blog',
@@ -131,43 +133,7 @@ module.exports = {
         apiKey: process.env.SEARCH_KEY,
         indexName: process.env.INDEX_NAME, // for all queries
         queries: [
-          {
-            query: `
-            {
-              allMarkdownRemark(
-                filter: { frontmatter: { hidden: { ne: true } } }
-              ) {
-                edges {
-                  node {
-                    rawBody
-                    frontmatter {
-                      slug
-                      title
-                      description
-                    }
-                  }
-                }
-              }
-            }
-          `,
-            transformer: ({ data }) =>
-              data.allMarkdownRemark.edges.reduce((records, { node }) => {
-                const { title, spoiler } = node.frontmatter
-                const { slug } = node.fields
-
-                const base = { slug, title, spoiler }
-                const chunks = node.rawBody.split('\n\n')
-
-                return [
-                  ...records,
-                  ...chunks.map((text, index) => ({
-                    ...base,
-                    objectID: `${slug}-${index}`,
-                    text,
-                  })),
-                ]
-              }, []),
-          },
+          query
         ],
       },
     },
