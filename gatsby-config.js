@@ -2,7 +2,7 @@ require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
 });
 
-const query = require('./src/utils/algolia');
+const queries = require(`./src/utils/algolia`)
 
 module.exports = {
   siteMetadata: {
@@ -132,9 +132,8 @@ module.exports = {
         appId: process.env.APP_ID,
         apiKey: process.env.SEARCH_KEY,
         indexName: process.env.INDEX_NAME, // for all queries
-        queries: [
-          query
-        ],
+        queries,
+        chunkSize: 10000, // default: 1000
       },
     },
     {
