@@ -1,9 +1,12 @@
 const postQuery = `{
   posts: allMarkdownRemark(
-    filter: { fileAbsolutePath: { regex: "/" } }
+    filter: { fileAbsolutePath: { regex: "/pages/" } }
   ) {
     edges {
       node {
+        fields {
+          slug
+        }
         objectID: id
         frontmatter {
           title
