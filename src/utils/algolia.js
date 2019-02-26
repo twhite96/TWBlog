@@ -19,11 +19,11 @@ const postQuery = `{
     }
   }
 }`
-const flatten = arr =>
-  arr.map(({ node: { frontmatter, ...rest } }) => ({
-    ...frontmatter,
-    ...rest
-  }))
+// const flatten = arr =>
+//   arr.map(({ node: { frontmatter, ...rest } }) => ({
+//     ...frontmatter,
+//     ...rest,
+//   }))
 
 const settings = { attributesToSnippet: [`excerpt:20`] }
 
@@ -31,7 +31,7 @@ const queries = [
   {
     query: postQuery,
     transformer: ({ data }) =>
-      flatten(data.posts.edges.reduce((records, { node }) => {
+     data.posts.edges.reduce((records, { node }) => {
         const { title, spoiler } = node.frontmatter
         const { slug } = node.fields
         const base = { slug, title, spoiler }
@@ -44,7 +44,7 @@ const queries = [
             text,
           })),
         ]
-      }, [])),
+      }, []),
     indexName: `articles`,
     settings
   },
