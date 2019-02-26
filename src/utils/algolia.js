@@ -19,6 +19,11 @@ const postQuery = `{
     }
   }
 }`
+const flatten = arr =>
+  arr.map(({ node: { frontmatter, ...rest } }) => ({
+    ...frontmatter,
+    ...rest
+  }))
 
 const settings = { attributesToSnippet: [`excerpt:20`] }
 
@@ -26,7 +31,7 @@ const queries = [
   {
     query: postQuery,
     transformer: ({ data }) =>
-      data.allMarkdownRemark.edges.reduce((records, { node }) => {
+      flatten(data.posts.edges.reduce((records, { node }) => {
         const { title, spoiler } = node.frontmatter
         const { slug } = node.fields
         const base = { slug, title, spoiler }
