@@ -3,7 +3,6 @@ import styled from '@emotion/styled'
 import algoliasearch from 'algoliasearch/lite'
 import {
   Configure,
-  Hits,
   connectHits,
   connectSearchBox,
   InstantSearch,
@@ -66,14 +65,14 @@ const Hits = connectHits(({ hits }) => (
     {hits.map(hit => (
       <Result key={hit.objectID}>
         <Heading>
-          <a href={`/${hit.slug}`}>
+          <a href={`/${hit}`}>
             <Highlight attribute="title" hit={hit} tagName="mark" />
           </a>
         </Heading>
         <p>
           <Highlight attribute="spoiler" hit={hit} tagName="mark" />
         </p>
-        <Link href={`/${hit.slug}`}>Read this post &rsaquo;</Link>
+        <Link href={`/${hit}`}>Read this post &rsaquo;</Link>
       </Result>
     ))}
   </List>
