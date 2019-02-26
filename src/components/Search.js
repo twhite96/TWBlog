@@ -3,6 +3,7 @@ import styled from '@emotion/styled'
 import algoliasearch from 'algoliasearch/lite'
 import {
   Configure,
+  Hits,
   connectHits,
   connectSearchBox,
   InstantSearch,
