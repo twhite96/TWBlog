@@ -65,14 +65,14 @@ const Hits = connectHits(({ hits }) => (
     {hits.map(hit => (
       <Result key={hit.objectID}>
         <Heading>
-          <a href={`/${hit}`}>
+          <a href={`/${hit.slug}`}>
             <Highlight attribute="title" hit={hit} tagName="mark" />
           </a>
         </Heading>
         <p>
           <Highlight attribute="spoiler" hit={hit} tagName="mark" />
         </p>
-        <Link href={`/${hit}`}>Read this post &rsaquo;</Link>
+        <Link href={`/${hit.slug}`}>Read this post &rsaquo;</Link>
       </Result>
     ))}
   </List>
