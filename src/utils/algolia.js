@@ -7,9 +7,8 @@ const postQuery = `{
         objectID: id
         frontmatter {
           title
-          slug
           date(formatString: "MMM DD, YYYY")
-          tags
+          spoiler
         }
         excerpt(pruneLength: 5000)
       }
