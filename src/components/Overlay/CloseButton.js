@@ -4,7 +4,7 @@ import themes from '../themes'
 const CloseButton = styled('button')`
   background: transparent;
   border: none;
-  color: ${themes.dark.inlineCode.background};
+  color: ${themes.light.primary.text.title};
   cursor: pointer;
   font-size: 0.75rem;
   font-weight: lighter;
