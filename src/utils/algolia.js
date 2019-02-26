@@ -19,11 +19,11 @@ const postQuery = `{
   }
 }`
 
-const { slug } = node.fields
 
 const flatten = arr =>
-  arr.map(({ node: { frontmatter, ...rest } }) => ({
+  arr.map(({ node: { frontmatter, slug, ...rest } }) => ({
     ...frontmatter,
+    ...slug,
     ...rest
   }))
 const settings = { attributesToSnippet: [`excerpt:20`] }
