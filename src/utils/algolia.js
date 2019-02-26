@@ -7,7 +7,6 @@ const postQuery = `{
         fields {
           slug
         }
-        path
         objectID: id
         frontmatter {
           title
