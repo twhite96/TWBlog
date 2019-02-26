@@ -7,7 +7,7 @@ const postQuery = `{
         fields {
           slug
         }
-        objectID: id
+        objectID: `${slug}-${index}`,
         frontmatter {
           title
           date(formatString: "MMM DD, YYYY")
@@ -19,10 +19,12 @@ const postQuery = `{
   }
 }`
 
+const { slug } = node.fields
+
 const flatten = arr =>
   arr.map(({ node: { frontmatter, ...rest } }) => ({
     ...frontmatter,
-    ...rest,
+    ...rest
   }))
 const settings = { attributesToSnippet: [`excerpt:20`] }
 
