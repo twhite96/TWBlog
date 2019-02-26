@@ -44,9 +44,9 @@ const queries = [
             text,
           })),
         ]
-      }, []),
+      }, [])),
     indexName: `articles`,
-    settings,
+    settings
   },
 ]
 
