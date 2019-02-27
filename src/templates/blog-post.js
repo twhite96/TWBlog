@@ -8,7 +8,6 @@ import SEO from '../components/SEO'
 import { formatReadingTime } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
 import ReadingProgress from 'react-reading-progress-blue'
-import '../../src/assets/fonts/fira_code.css'
 
 const GITHUB_USERNAME = 'twhite96'
 const GITHUB_REPO_NAME = 'TWblog'
