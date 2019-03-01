@@ -17,7 +17,7 @@ categories:
 ---
 
 
-![]('../assets/images/dev_tools.gif')
+![](https://cl.ly/ad588cfdaf9e/DZMZiDR%252520-%252520Imgur.gif)
 
 After working with web dev technologies for the past two years, I am finally beginning to understand the virtues of developer tools, specifically Chrome DevTools [^1].
 
@@ -27,7 +27,7 @@ For a while now I had been intimidated by all the tabs and functions of the Chro
 
 ## Some Interesting, Basic Things You Can Do with the ‘Tools
 
-![]('../assets/images/chrome_dev_tools.jpeg')
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1551330893/chrome_dev_tools_gzd1ts.jpg)
 
 ### Playing with the HTML
 
@@ -35,12 +35,12 @@ The nice thing about DevTools is that whatever you play with inside of them, it 
 
 Here I can add a class on an element [^4] and hit return. It adds the class.
 
-![](https://cl.ly/d8e071a6e19c/DZMZiDR.mp4)
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1551400039/agif_15-35_jmejyw.gif)
 
 ### Changing Styles
 Here you can just play around with the styles on the site. Here, I change the color of the text on Packt Pub to a color called *Disco*.
 
-![]()
+![](https://cl.ly/abf377127319/5MJDBLd.gif)
 
 &nbsp;
 

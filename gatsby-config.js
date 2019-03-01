@@ -37,7 +37,6 @@ module.exports = {
             resolve: `@raae/gatsby-remark-oembed`,
             options: {
               providers: {
-                include: ["Twitter", "Spotify", "CodeSandbox", "CodePen", "Buttondown", "Twitch", "Instagram"],
                 exclude: ["Reddit"]
               }
             }
