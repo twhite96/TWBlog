@@ -16,7 +16,7 @@ categories:
 ---
 
 
-![](https://res.cloudinary.com/twhiteblog/image/upload/v1551420905/heroku.jpg)
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1551420923/heroku.jpg)
 
 So I Googled all the errors I was getting with Heroku and npm. I remember having an issue with npm (Node package manager), that every package I tried to install, it would error out. I found that running:
 
