@@ -20,7 +20,7 @@ categories:
 
 I’ve completed three more Free Code Camp algorithms since my last go on May 30th.
 
-I needed less guidance on these particular algorithms, all but one. The algorithm solutions weren’t too hard to come up with, however on <em>Slasher FLick</em> I really overcomplicated my solution. I was thinking way too hard about how to solve it— new array? Should I <code>return newArray</code> as a part of the function call? Do I <code>push</code> the result of the cut off part of the array into <code>newArray</code>?
+I needed less guidance on these particular algorithms, all but one. The algorithm solutions weren’t too hard to come up with, however on <em>Slasher FLick</em> I really overcomplicated my solution. I was thinking way too hard about how to solve it— new array? Should I `return newArray` as a part of the function call? Do I `push` the result of the cut off part of the array into `newArray`?
 
 The instructions were:
 <blockquote>Return the remaining elements of an array after chopping off n elements from the head.
@@ -36,7 +36,7 @@ Array.slice()
 Array.splice()</blockquote>
 Seems simple enough. But I was thinking too much and making it more complex than it needed to be because of my recent previous solutions.
 
-I used <code>splice</code> instead of <code>slice</code> as <code>splice</code> returns the chopped off part as a new array. For these instructions, here was the initial code:
+I used `splice` instead of `slice` as `splice` returns the chopped off part as a new array. For these instructions, here was the initial code:
 
 ```js
 
@@ -61,9 +61,9 @@ slasher(["burgers", "fries", "shake"], 1);
 ```
 
 
-I would get a double array, because like I said, <code>splice</code> returns a new array from the chopped off part. So I tried to use a non-initialized variable— <code>var newArray;</code>— that returned a TypeError.
+I would get a double array, because like I said, `splice` returns a new array from the chopped off part. So I tried to use a non-initialized variable— `var newArray;`— that returned a TypeError.
 
-I went to the <a href="https://www.freecodecamp.com/wiki/en/" target="_blank">Free Code Camp wiki</a> to look at the explanation in more detail. I finally came up with an <em>Aha</em>! Moment. I only needed to return the array that was resulting in the <code>splice</code> method.
+I went to the <a href="https://www.freecodecamp.com/wiki/en/" target="_blank">Free Code Camp wiki</a> to look at the explanation in more detail. I finally came up with an <em>Aha</em>! Moment. I only needed to return the array that was resulting in the `splice` method.
 
 I settled on my final solution here:
 
@@ -130,15 +130,13 @@ That didn’t work. I went to Gitter.
 
 A guy there told me I needed to compare two arrays. I couldn’t figure out what he meant by that. <em>To the wiki</em>.
 
-There I found out I should use <code>toLowerCase</code> and think about turning the array strings into an array of <code>chars</code>.
+There I found out I should use `toLowerCase` and think about turning the array strings into an array of `chars`.
 
 So then I came up with this:
 
 ```js
 var arr1 = arr.toLowerCase();
-
 var arr2 = arr.toLowerCase();
-
 var chars = arr1.split(" ");
 ```
 
