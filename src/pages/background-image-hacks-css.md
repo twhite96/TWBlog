@@ -68,10 +68,13 @@ I also already had my main content wrapped in a `div`:
 You can usually `object-fit` on an image with the properties: `fill`, `cover`, `contain`, `scale-down`, or `none`:
 
 ![![]](https://res.cloudinary.com/twhiteblog/image/upload/v1527285535/fill_pdgsiz.jpg)
+*fill*
 
 ![![]](https://res.cloudinary.com/twhiteblog/image/upload/v1527285814/cover_ewgvo4.jpg)
+*cover*
 
 ![![contain]](https://res.cloudinary.com/twhiteblog/image/upload/v1527285527/contain_au90pq.jpg)
+*contain*
 
 ![![scale-down]](https://res.cloudinary.com/twhiteblog/image/upload/v1527285644/scaled_down_vm42wb.jpg)
 *scale-down*
@@ -96,10 +99,10 @@ Also, because I am specifying a minimum height that happens to be a percentage, 
 
 Now, I have a mobile app that looks like this:
 
-<img class=" wp-image-2182 aligncenter" src="https://tiffanywhite.tech/wp-content/uploads/2017/08/IMG_3816.png" width="262" height="458" />
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1527285861/IMG_3816_itluid.png)
 
 Still, I need to fix the loading issue. Thats for another day.
 
-You can find the weather app at [https://twhite96.github.io/Weather\_App](https://twhite96.github.io/Weather_App).
+You can find the weather app at [freeCodeCamp Weather App](https://fcc-weather-app96.netlify.com).
 
 [^1]: And for several days before that actually.
