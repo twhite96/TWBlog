@@ -16,7 +16,7 @@ categories:
   - General Updates
 ---
 
-![](https://res.cloudinary.com/twhiteblog/image/upload/v1551420970/pitt_emblem.jp)
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1551420970/pitt_emblem.jpg)
 
 My nerves were on high alert all day on Wednesday. The decision wasn’t made until 4 and I didn’t get this information until 1:30 PM. You can imagine my whole entire **body**. I waited. Watched cat videos on YouTube thanks to the suggestion of some awesome people I met on Facebook who I consider friends, who support me, who have watched me struggle and get back up again, only to fall down and repeat the process.
 
