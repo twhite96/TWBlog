@@ -16,7 +16,7 @@ categories:
 ---
 
 
-<a href="https://helloburgh.me/wp-content/uploads/2015/07/Heroku.jpg"><img class="aligncenter wp-image-412 size-full" src="https://helloburgh.me/wp-content/uploads/2015/07/Heroku.jpg" alt="Heroku.jpg" width="500" height="500" /></a>
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1551420905/heroku.jpg)
 
 So I Googled all the errors I was getting with Heroku and npm. I remember having an issue with npm (Node package manager), that every package I tried to install, it would error out. I found that running:
 
