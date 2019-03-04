@@ -19,6 +19,7 @@ const Layout = ({ slug, children }) => (
       <Helmet title={data.site.siteMetadata.title}>
         <meta charSet="utf-8" />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="google-site-verification" content="WnLGPGDQx7xYZvUPAo5lvn_mDO_usWXGM3WQLFwsmb4" />
         <meta
           name="twitter:image"
           content={`${data.site.siteMetadata.siteUrl}${slug}twitter-card.jpg`}
