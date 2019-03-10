@@ -15,6 +15,7 @@ const Layout = ({ slug, children }) => (
         }
       }
     `}
+
     render={data => (
       <Helmet title={data.site.siteMetadata.title}>
         <meta charSet="utf-8" />

@@ -46,6 +46,7 @@
     "gatsby-transformer-remark": "^2.3.0",
     "gatsby-transformer-sharp": "^2.1.15",
     "instantsearch.css": "^7.1.1",
+    "littlefoot": "^1.0.9",
     "lodash": "^4.17.11",
     "new-post-gatsby-starter-blog": "^1.2.9",
     "prismjs": "^1.15.0",
