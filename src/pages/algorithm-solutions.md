@@ -14,7 +14,7 @@ categories:
 ---
 
 
-![](https://res.cloudinary.com/twhiteblog/image/upload/v1551402877/algorithm_solutions_zwhpto.svg)
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1552108351/Header%20Images/algos.png)
 
 &nbsp;
 
