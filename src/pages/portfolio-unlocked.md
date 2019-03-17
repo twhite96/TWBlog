@@ -1,6 +1,6 @@
 ---
 ID: 972
-title:'Free Code Camp Portfolio: Unlocked
+title: 'Free Code Camp Portfolio: Unlocked'
 author: Tiffany White
 date: "2016-03-19"
 layout: post

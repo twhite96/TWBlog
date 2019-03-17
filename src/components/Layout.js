@@ -125,7 +125,7 @@ class Layout extends React.Component {
                   alignItems: 'baseline',
                 }}
                 >
-                <Search />
+                <Search theme={theme}/>
               </span>
               {children}
             </div>
