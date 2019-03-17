@@ -27,12 +27,12 @@ class BlogPostTemplate extends React.Component {
     const discussUrl = `https://mobile.twitter.com/search?q=${encodeURIComponent(`https://tiffanywhite.tech${slug}`)}`
     return (
       <Layout location={this.props.location} title={siteTitle}>
-     <SEO
-       title={post.frontmatter.title}
-       description={post.frontmatter.spoiler}
-       slug={post.fields.slug}
-       image={image}
-     />
+       <SEO
+         title={post.frontmatter.title}
+         description={post.frontmatter.spoiler}
+         slug={post.fields.slug}
+         image={image}
+       />
       <ReadingProgress
           style={{backgroundColor: '#06D7D9', minWidth: '100%'}}
       />
