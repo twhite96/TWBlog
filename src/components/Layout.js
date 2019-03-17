@@ -7,6 +7,8 @@ import sun from '../assets/sun.png';
 import moon from '../assets/moon.png';
 import Style from './Style';
 import Search from './Search';
+import { emoji } from '../utils/helpers';
+import { SEO } from './SEO';
 
 class Layout extends React.Component {
   renderHeader(theme) {
@@ -123,6 +125,7 @@ class Layout extends React.Component {
                 }}
                 >
                 <Search />
+                <SEO />
               </span>
               {children}
             </div>
