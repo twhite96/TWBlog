@@ -10,8 +10,10 @@ module.exports = {
     author: 'Tiffany White',
     description: 'Technical Blog by Tiffany White',
     siteUrl: 'https://tiffanywhite.dev',
+    image: 'src/assets/icon.png',
     social: {
-      twitter: '@tiffanywhitedev'
+      twitter: '@tiffanywhitedev',
+      fbAppID: '366324830627706'
     }
   },
   pathPrefix: '/',
@@ -73,6 +75,8 @@ module.exports = {
               includeDefaultCss: true
             }
           },
+          { resolve: 'gatsby-remark-numbered-footnotes' },
+          { resolve: 'gatsby-remark-code-titles' },
           {
             resolve: `gatsby-remark-autolink-headers`,
             options: {
@@ -102,6 +106,7 @@ module.exports = {
         trackingId: `UA-61294063-1`
       }
     },
+    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-twitter`,
     `gatsby-plugin-feed`,
     {

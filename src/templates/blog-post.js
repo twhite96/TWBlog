@@ -21,16 +21,18 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
+    const image = get(this.props, 'data.site.siteMetadata.image')
     const { previous, next, slug } = this.props.pageContext
     const editUrl = `https://github.com/${GITHUB_USERNAME}/${GITHUB_REPO_NAME}/edit/master/src/pages/${slug.replace(/\//g, '')}.md`
     const discussUrl = `https://mobile.twitter.com/search?q=${encodeURIComponent(`https://tiffanywhite.tech${slug}`)}`
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title={post.frontmatter.title}
-          description={post.frontmatter.spoiler}
-          slug={post.fields.slug}
-        />
+     <SEO
+       title={post.frontmatter.title}
+       description={post.frontmatter.spoiler}
+       slug={post.fields.slug}
+       image={image}
+     />
       <ReadingProgress
           style={{backgroundColor: '#06D7D9', minWidth: '100%'}}
       />
