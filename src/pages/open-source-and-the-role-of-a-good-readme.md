@@ -13,7 +13,7 @@ The premise? Create a repository of books for web developers to read and open so
 
 I created the repo then and made it private; I didn't have time to put in the work required to make it serviceable let alone *great*.
 
-I watched as repos with resources being shared for developers became increasingly popular. I decided to try my hand at my reading list and another repo I have going. I spent *12 hours over three days* creating the repo, gathering books I had read or that were recommended to me; articles I found had an affect on the way I think about web development and those that were recommended to me.
+I watched as repos with resources being shared for developers became increasingly popular. I decided to try my hand at my reading list and another repo I have going. I spent *12 hours over three days* creating the repo, gathering books I had read or that were recommended to me; articles I found that had an effect on the way I think about web development and those that were recommended to me.
 
 ## Awesome list or not to Awesome list
 
@@ -99,6 +99,7 @@ See [Riding a wave](#Riding-a-wave).
 This one is important. I made another tweet about it that made my skin crawl. I really, *really dislike selling*. But as someone on Twitter pointed out to me:
 
 *Introverted most of the time*
+
 *Extroverted for a paycheck*.
 
 Indeed.
