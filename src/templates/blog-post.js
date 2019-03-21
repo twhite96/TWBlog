@@ -57,6 +57,7 @@ class BlogPostTemplate extends React.Component {
             url={blogPostUrl}
             title={siteTitle}
             twitterHandle={'@tiffanywhitedev'}
+            spoiler={post.frontmatter.spoiler}
           /> <br />
           <a href={discussUrl} target="_blank" rel="noopener noreferrer">
             Discuss on Twitter

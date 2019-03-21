@@ -4,7 +4,7 @@ import themes from './themes'
 
 import {TwitterShareButton, FacebookShareButton, LinkedinShareButton} from 'react-share'
 
-const Share = ({url, title, twitterHandle}) => (
+const Share = ({url, title, twitterHandle, spoiler}) => (
   <div
     css={css`
       display: flex;
@@ -42,7 +42,7 @@ const Share = ({url, title, twitterHandle}) => (
     </TwitterShareButton>
     <FacebookShareButton
       url={url}
-      quote={title}
+      quote={spoiler}
       via={twitterHandle.split('@').join('')}
       css={css`
         cursor: pointer;
@@ -52,7 +52,6 @@ const Share = ({url, title, twitterHandle}) => (
     </FacebookShareButton>
     <LinkedinShareButton
       url={url}
-      quote={title}
       via={twitterHandle.split('@').join('')}
       css={css`
         cursor: pointer;
