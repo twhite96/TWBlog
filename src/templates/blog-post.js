@@ -8,6 +8,7 @@ import { formatReadingTime } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
 import ReadingProgress from 'react-reading-progress-blue'
 import '../utils/littlefoot.css'
+import Share from '../components/Share';
 
 const GITHUB_USERNAME = 'twhite96'
 const GITHUB_REPO_NAME = 'TWblog'
@@ -21,10 +22,12 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
+    const siteURL = 'https://tiffanywhite.dev'
     const image = get(this.props, 'data.site.siteMetadata.image')
     const { previous, next, slug } = this.props.pageContext
     const editUrl = `https://github.com/${GITHUB_USERNAME}/${GITHUB_REPO_NAME}/edit/master/src/pages/${slug.replace(/\//g, '')}.md`
     const discussUrl = `https://mobile.twitter.com/search?q=${encodeURIComponent(`https://tiffanywhite.dev${slug}`)}`
+    const blogPostUrl = `${siteURL}${slug}`
     return (
       <Layout location={this.props.location} title={siteTitle}>
        <SEO
@@ -50,6 +53,11 @@ class BlogPostTemplate extends React.Component {
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <p>
+          <Share
+            url={blogPostUrl}
+            title={siteTitle}
+            twitterHandle={'@tiffanywhitedev'}
+          /> <br />
           <a href={discussUrl} target="_blank" rel="noopener noreferrer">
             Discuss on Twitter
           </a>

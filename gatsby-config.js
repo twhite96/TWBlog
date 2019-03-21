@@ -3,6 +3,7 @@ require('dotenv').config({
 });
 
 const queries = require(`./src/utils/algolia`)
+// const config = require('./config/website')
 
 module.exports = {
   siteMetadata: {

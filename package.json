@@ -59,6 +59,7 @@
     "react-instantsearch": "^5.4.0",
     "react-instantsearch-dom": "^5.4.0",
     "react-reading-progress-blue": "^0.4.0",
+    "react-share": "^2.4.0",
     "react-transition-group": "^2.6.0",
     "react-typography": "^0.16.13",
     "request": "^2.88.0",
