@@ -118,7 +118,7 @@ class BlogPostTemplate extends React.Component {
           </li>
         </ul>
         <div class="littlefoot-footnote__container">
-         <button
+         {/* <button
            className="littlefoot-footnote__button littlefoot-footnote__button__ellipsis"
            id="<%= reference %>"
            data-footnote-id="<%= id %>"
@@ -132,7 +132,7 @@ class BlogPostTemplate extends React.Component {
              <circle r="3" cx="15" cy="3" fill="white"></circle>
              <circle r="3" cx="27" cy="3" fill="white"></circle>
            </svg>
-         </button>
+         </button> */}
         </div>
       </Layout>
     )
