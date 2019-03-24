@@ -145,7 +145,7 @@ This command line utility is [exa](https://github.com/ogham/exa), which replaces
 
 ## What Is Your Setup?
 
-Want to share your setup? Send me [a tweet](https://twitter.com/TiffanyW_412).
+Want to share your setup? Send me [a tweet](https://twitter.com/tiffanywhitedev).
 
 
 

@@ -8,7 +8,6 @@ export const wrapRootElement = Wrapper;
 export function onRouteUpdate() {
   littlefoot({
     allowMultiple: true,
-    activateOnHover: true,
     dismissOnUnhover: true,
     hoverDelay: 100,
     preventPageScroll: false
