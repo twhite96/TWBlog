@@ -97,6 +97,7 @@
 .littlefoot-footnote {
   background: #fafafa;
   border-radius: .5em;
+  color: #000
   border: 1px solid #c3c3c3;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   box-sizing: border-box;
