@@ -118,7 +118,6 @@ class BlogPostTemplate extends React.Component {
           </li>
         </ul>
         <div className="littlefoot-footnote__container">
-         <button className="littlefoot-footnote__button__number"></button>
         </div>
       </Layout>
     )
