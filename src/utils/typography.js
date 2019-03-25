@@ -4,7 +4,6 @@ import altonTheme from 'typography-theme-alton'
 altonTheme.overrideThemeStyles = () => ({
   a: {
     color: '#06D7D9'
-    // textDecoration: 'underline'
   },
   'a.gatsby-resp-image-link': {
     boxShadow: 'none'
@@ -18,7 +17,6 @@ altonTheme.overrideThemeStyles = () => ({
     marginTop: '2rem',
     marginBottom: '2rem',
     fontFamily: 'Montserrat, sans-serif',
-    textDecoration: 'none !important'
   },
   'h2': {
     fontFamily: 'Montserrat, sans-serif'
