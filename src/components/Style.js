@@ -292,8 +292,9 @@ class Bio extends React.Component {
         fontFamily: 'Fira Code'
         }
 
-        a {
-          color: ${theme.primary.text.link}
+        a:link {
+          color: ${theme.primary.text.link};
+          text-decoration: underline;
         }
 
         a:hover {
