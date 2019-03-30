@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Tiffany White <info@tiffanyrwhite.com>",
   "bugs": {
-    "url": "https://github.com/twhite96/TWBlog-newish/issues"
+    "url": "https://github.com/twhite96/TWBlog/issues"
   },
   "dependencies": {
     "@emotion/core": "^10.0.5",

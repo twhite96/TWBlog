@@ -1,16 +1,7 @@
 ---
-ID: 1122
 title: Algorithms…Again
 author: Tiffany White
 date: "2016-05-27"
-layout: post
-link: >
-  https://tiffanywhite.tech/algorithms_again/
-published: true
-tags: uncategorized
-categories:
-  - Daily Progress
-  - Programming
 ---
 
 ![](https://res.cloudinary.com/twhiteblog/image/upload/v1527285743/Optimized-algorithms_again_o9ej4n.jpg)

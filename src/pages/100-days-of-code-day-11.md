@@ -1,18 +1,7 @@
 ---
-ID: 1382
 title: 100 Days of Code, Day 11
 author: Tiffany White
 date: "2016-10-31"
-layout: post
-link: >
-  https://tiffanywhite.tech/100-days-of-code-day-11/
-published: true
-tags:
-  - 100 days of code
-  - accountability
-  - coding
-categories:
-  - 100 Days of Code
 ---
 
 
