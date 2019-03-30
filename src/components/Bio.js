@@ -30,7 +30,7 @@ class Bio extends React.Component {
         <p style={{ maxWidth: 310 }}>
           Blog of <a href="https://mobile.twitter.com/tiffanywhitedev">Tiffany White</a>.
           {' '}
-          Thoughts on React & web development. Here is my <a href="https://thatmacnerd.com/uses/">/uses</a> page.
+          Thoughts on React & web development. My stuff: <a href="https://thatmacnerd.com/uses/">/uses</a>.
         </p>
       </div>
     )
