@@ -149,7 +149,9 @@ module.exports = {
           `limelight`,
           `source sans pro\:300,400,400i,700`,
           `pt serif\:300,400,400i,700`,
-          `montserrat\:300,400,400i,700`
+          `montserrat\:300,400,400i,700`,
+          `merriweather\:300,400,400i,700`,
+          `lato\:300,400,400i,700`
         ]
       }
     },

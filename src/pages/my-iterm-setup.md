@@ -2,12 +2,6 @@
 title: My iTerm2 Setup
 date: "2018-09-02"
 spoiler: iTerm2 is an terminal emulator for macOS.  It has a lot of features that don't come with the standard macOS terminal. Some people prefer the plain bash terminal, but I am not one of them, as aren't many other folks.
-layout: post
-categories: Random
-tags:
-  - setups
-  - iterm2
-  - terminal
 description: This is another setup post but this time, it's iTerm2.
 ---
 
