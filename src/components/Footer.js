@@ -33,10 +33,10 @@ class Footer extends React.Component {
           github
         </a> &bull;{' '}
         <a
-          href="https://stackoverflow.com/users/story/3800146"
+          href="https://thatmacnerd.com/uses/"
           target="_blank"
           rel="noopener noreferrer">
-          stackoverflow
+          /uses
         </a> &bull;{' '}
         <span> &copy; 2015 - {(new Date().getFullYear())} TRW Blog</span>
       </footer>
