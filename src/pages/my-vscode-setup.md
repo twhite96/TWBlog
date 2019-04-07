@@ -1,13 +1,8 @@
 ---
 title: My VSCode Setup
 date: "2018-08-29"
+author: "Tiffany White"
 spoiler: Posts on editor setups are extremely popular. Here is mine.
-layout: post
-categories: Random
-tags:
-  - setups
-  - vscode
-description: Posts on editor setups are extremely popular. Here is mine.
 ---
 ![](https://res.cloudinary.com/twhiteblog/image/upload/v1535494228/Header%20Images/alexandru-acea-582050-unsplash.jpg)
 

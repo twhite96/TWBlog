@@ -1,16 +1,7 @@
 ---
-ID: 1179
 title: Algorithm Solutions
 author: Tiffany White
 date: "2016-06-19"
-layout: post
-link: >
-  https://tiffanywhite.tech/algorithm-solutions/
-published: true
-tags: uncategorized
-categories:
-  - Daily Progress
-  - Programming
 ---
 
 
