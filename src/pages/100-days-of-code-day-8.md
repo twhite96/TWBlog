@@ -1,18 +1,7 @@
 ---
-ID: 1363
 title: 100 Days of Code Day 8
 author: Tiffany White
 date: "2016-10-08"
-layout: post
-link: >
-  https://tiffanywhite.tech/100-days-of-code-day-8/
-published: true
-tags:
-  - 100 days of code
-  - challenege
-  - coding
-categories:
-  - 100 Days of Code
 ---
 
 
