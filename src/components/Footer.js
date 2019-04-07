@@ -33,7 +33,7 @@ class Footer extends React.Component {
           github
         </a> &bull;{' '}
         <a
-          href="https://thatmacnerd.com/uses/"
+          href="https://thatmacnerd.netlify.com/uses/"
           target="_blank"
           rel="noopener noreferrer">
           /uses
