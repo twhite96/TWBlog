@@ -4,6 +4,9 @@ date: 2019-04-02
 author: Tiffany White
 spoiler: "It's props all the way down."
 ---
+
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1554678203/domenico-loia-272251-unsplash_h8bad0.jpg)
+
 > It is really late here on the East Coast but I have been wanting to get this out for weeks now. If there are any errors or wrong examples/logic, you can edit this post on GitHub. All suggestions welcome.
 
 ---
