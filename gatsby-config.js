@@ -127,8 +127,8 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         custom: {
-          families: ['Fira Code'],
-          urls: ['./src/assets/fonts/fira_code.css']
+          families: ['Fira Code', 'Tiempo'],
+          urls: ['./src/assets/fonts/fonts.css']
         }
       }
     },

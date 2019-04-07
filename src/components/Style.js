@@ -8,7 +8,61 @@ class Bio extends React.Component {
       <style
         dangerouslySetInnerHTML={{
           __html: `
+          @font-face{
+            font-family: 'Fira Code';
+            src: url('../fonts/FiraCode-Light.ttf') format('truetype');
+            font-weight: 300;
+            font-style: normal;
+          }
 
+          @font-face{
+              font-family: 'Fira Code';
+              src: url('../fonts/FiraCode-Regular.ttf') format('truetype');
+              font-weight: 400;
+              font-style: normal;
+          }
+
+          @font-face{
+              font-family: 'Fira Code';
+              src: url('../fonts/FiraCode-Medium.ttf') format('truetype');
+              font-weight: 500;
+              font-style: normal;
+          }
+
+          @font-face{
+              font-family: 'Fira Code';
+              src: url('../fonts/FiraCode-Bold.ttf') format('truetype');
+              font-weight: 700;
+              font-style: normal;
+          }
+
+          @font-face{
+            font-family: 'Tiempo';
+            src: url('../fonts/Tiempo Regular.ttf') format('truetype');
+            font-weight: 300;
+            font-style: normal;
+          }
+
+          @font-face{
+              font-family: 'Tiempo';
+              src: url('../fonts/Tiempo Italic.ttf') format('truetype');
+              font-weight: 400;
+              font-style: normal;
+          }
+
+          @font-face{
+              font-family: 'Tiempo';
+              src: url('../fonts/Tiempo Bold.ttf') format('truetype');
+              font-weight: 500;
+              font-style: normal;
+          }
+
+          @font-face{
+              font-family: 'Tiempo';
+              src: url('../fonts/Tiempo Bold Italic.ttf') format('truetype');
+              font-weight: 700;
+              font-style: normal;
+          }
 
           /**
            * Theme: Gloom Prism
