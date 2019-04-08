@@ -155,8 +155,8 @@ module.exports = {
         ]
       }
     },
-    // `gatsby-plugin-offline`,
-    `gatsby-plugin-remove-serviceworker`,
+    `gatsby-plugin-offline`,
+    // `gatsby-plugin-remove-serviceworker`,
     {
       resolve: 'gatsby-plugin-typography',
       options: {
