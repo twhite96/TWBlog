@@ -1,4 +1,3 @@
-import './src/utils/gloom-prism.css';
 import Wrapper from './src/components/ContextWrapper';
 import littlefoot from 'littlefoot';
 import './src/utils/littlefoot.css'

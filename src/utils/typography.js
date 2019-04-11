@@ -1,5 +1,6 @@
 import Typography from 'typography'
 import altonTheme from 'typography-theme-alton'
+import './fonts.css'
 
 altonTheme.overrideThemeStyles = () => ({
   a: {

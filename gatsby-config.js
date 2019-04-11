@@ -124,15 +124,6 @@ module.exports = {
       }
     },
     {
-      resolve: 'gatsby-plugin-web-font-loader',
-      options: {
-        custom: {
-          families: ['Fira Code', 'Tiempo'],
-          urls: ['./src/assets/fonts/fonts.css']
-        }
-      }
-    },
-    {
       resolve: `gatsby-plugin-algolia`,
       options: {
         appId: process.env.APP_ID,
@@ -146,9 +137,6 @@ module.exports = {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          `limelight`,
-          `source sans pro\:300,400,400i,700`,
-          `pt serif\:300,400,400i,700`,
           `montserrat\:300,400,400i,700`,
           `merriweather\:300,400,400i,700`,
           `lato\:300,400,400i,700`
