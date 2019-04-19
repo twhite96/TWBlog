@@ -1,6 +1,6 @@
 ---
 title: "Twitch, YouTube, Egghead, and Zoom: My New Projects and Setup"
-date: 2019-04-21
+date: "2019-04-21"
 author: "Tiffany White"
 spoiler: "Something new."
 ---

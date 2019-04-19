@@ -1,6 +1,6 @@
 ---
 title: "Q1 Goals Update: Some Meh, Mostly Good"
-date: 2019-04-23
+date: "2019-04-23"
 author: "Tiffany White"
 spoiler: "Sometimes you just need to listen to your body."
 ---
