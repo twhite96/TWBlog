@@ -59,6 +59,7 @@ Here is a list:
 * [‎Webcam Settings](https://itunes.apple.com/us/app/webcam-settings/id533696630?mt=12)
 * [Open Broadcaster Software](https://obsproject.com/)
 * [Manfrotto Compact Action Aluminum 5-Section Tripod Kit with Hybrid Head](https://www.amazon.com/dp/B00L6F16L0?tag=kit-gl-20)
+* [M-Audio M-Track 2X2 C-Series | 2-in/2-out USB Audio Interface (24-bit/192kHz)](https://www.amazon.com/dp/B01FFH5XMC?tag=kit-gl-20)
 
 [^1]: Probably not though. We'll see.
 [^2]: No longer available unfortunately.
