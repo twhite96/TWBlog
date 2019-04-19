@@ -37,7 +37,7 @@ class BlogPostTemplate extends React.Component {
          image={image}
        />
       <ReadingProgress
-          style={{backgroundColor: '#06D7D9', minWidth: '100%'}}
+          style={{backgroundColor: '#06D7D9', maxWidth: '100%'}}
       />
         <h1>{post.frontmatter.title}</h1>
         <p
