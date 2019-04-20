@@ -48,6 +48,7 @@ const themes = {
       background: 'rgba(255, 255, 255, 0.3)',
       text: {
         normal: '#ffffff',
+        quote: 'rgba(244,244,244,.85)',
         title: '#ffffff',
         link: 'rgb(6, 215, 217)',
       },
