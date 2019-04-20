@@ -37,7 +37,7 @@ const themes = {
       color: '#e6e6e6',
     },
     primary: {
-      background: '#202020',
+      background: 'rgba(40, 44, 53, 1.00)',
       text: {
         normal: 'rgba(255, 255, 255, 0.95)',
         title: '#ffffff',
