@@ -2,7 +2,7 @@
 title: "UX Testing Results for The Lens Cap Mock E-Commerce Site"
 author: Tiffany White
 date: "2016-11-25"
-spoiler: "Search ques are important markers for effective UX."
+spoiler: "Search cues are important markers for effective UX."
 ---
 ## Summary
 
