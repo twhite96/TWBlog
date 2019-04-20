@@ -6,7 +6,6 @@ import Layout from '../components/Layout'
 import SEO from '../components/SEO'
 import { formatReadingTime } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
-import ReadingProgress from 'react-reading-progress-blue'
 import '../utils/littlefoot.css'
 import Share from '../components/Share';
 
@@ -36,9 +35,6 @@ class BlogPostTemplate extends React.Component {
          slug={post.fields.slug}
          image={image}
        />
-      <ReadingProgress
-          style={{backgroundColor: '#06D7D9', maxWidth: '100%'}}
-      />
         <h1>{post.frontmatter.title}</h1>
         <p
           style={{
