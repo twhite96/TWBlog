@@ -5,6 +5,8 @@ author: "Tiffany White"
 spoiler: "Sometimes you just need to listen to your body."
 ---
 
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1555718604/Q1%20Goals%20Post/estee-janssens-396887-unsplash_1.jpg)
+
 I started out the year in bad shape. By February it was *on*: coding almost daily, diving into projects, making good on doctor's appointments[^1].
 
 I was reading book after book, learning something new, diving into Slack and Telegram channels. But then.
