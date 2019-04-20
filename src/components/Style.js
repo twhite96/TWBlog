@@ -314,13 +314,6 @@ class Bio extends React.Component {
         .ais-SearchBox-submit svg {
           fill: #06D7D9;
         }
-        progress {
-          width: 100%;
-          left: 0;
-          top: 0;
-          // background-color: #06D7D9;
-          // color: #06D7D9;
-        }
         `,
         }}
       />
