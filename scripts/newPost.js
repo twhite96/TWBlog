@@ -18,11 +18,11 @@ if (!dir) {
 }
 
 fs.writeFileSync(
-  `${dir}.md`,
+  `${dir}/index.md`,
  `---
 title: "${title}"
 date: ${date}
-author:
+author: "Tiffany White"
 spoiler:
 ---`,
  function(err) {
