@@ -9,6 +9,7 @@ import Style from './Style';
 import Search from './Search';
 import { emoji } from '../utils/helpers';
 import SEO from './SEO';
+import ScrollButton from './ScrollButton';
 
 class Layout extends React.Component {
   renderHeader(theme) {

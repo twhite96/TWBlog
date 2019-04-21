@@ -8,6 +8,7 @@ import { formatReadingTime } from '../utils/helpers'
 import { rhythm, scale } from '../utils/typography'
 import '../utils/littlefoot.css'
 import Share from '../components/Share';
+import ScrollButton from '../components/ScrollButton'
 
 const GITHUB_USERNAME = 'twhite96'
 const GITHUB_REPO_NAME = 'TWblog'
@@ -29,12 +30,12 @@ class BlogPostTemplate extends React.Component {
     const blogPostUrl = `${siteURL}${slug}`
     return (
       <Layout location={this.props.location} title={siteTitle}>
-       <SEO
-         title={post.frontmatter.title}
-         description={post.frontmatter.spoiler}
-         slug={post.fields.slug}
-         image={image}
-       />
+        <SEO
+          title={post.frontmatter.title}
+          description={post.frontmatter.spoiler}
+          slug={post.fields.slug}
+          image={image}
+        />
         <h1>{post.frontmatter.title}</h1>
         <p
           style={{
@@ -54,7 +55,8 @@ class BlogPostTemplate extends React.Component {
             title={siteTitle}
             twitterHandle={'@tiffanywhitedev'}
             spoiler={post.frontmatter.spoiler}
-          /> <br />
+          />{' '}
+          <br />
           <a href={discussUrl} target="_blank" rel="noopener noreferrer">
             Discuss on Twitter
           </a>
@@ -89,6 +91,9 @@ class BlogPostTemplate extends React.Component {
           </Link>
         </h3>
         <Bio />
+        <div style={{ float: 'right', display: 'inline-block', width: 15 }}>
+          <ScrollButton />
+        </div>
         <ul
           style={{
             display: 'flex',
@@ -113,10 +118,9 @@ class BlogPostTemplate extends React.Component {
             )}
           </li>
         </ul>
-        <div className="littlefoot-footnote__container">
-        </div>
+        <div className="littlefoot-footnote__container" />
       </Layout>
-    )
+    );
   }
 }
 
