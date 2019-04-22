@@ -1,63 +1,88 @@
 import React from 'react'
-import { jsx, css, keyframes } from '@emotion/core';
+import { css, jsx } from '@emotion/core'
+import styled from '@emotion/styled'
+import { Spring } from 'react-spring/renderprops';
+import debounce from 'lodash.debounce'
 
-/* Thanks to Qbrid's React Button at https://codepen.io/Qbrid/pen/GjVvwL */
+/* Thanks to Brian Han for this button. Uses emotion instead of styled components because already had
+emotion installed */
 
-const bounce = keyframes`
-  from, 20%, 53%, 80%, to {
-    transform: translate3d(0,0,0);
-  }
-
-  40%, 43% {
-    transform: translate3d(0, -30px, 0);
-  }
-
-  70% {
-    transform: translate3d(0, -15px, 0);
-  }
-
-  90% {
-    transform: translate3d(0,-4px,0);
-  }
+const StyledButton = styled.button`
+  display: inline-flex;
+  align-items: center;
+  position: fixed;
+  right: 2rem;
+  bottom: 1rem;
+  z-index: 1;
+  appearance: none;
+  border: none;
+  background: none;
+  padding: 0;
 `;
 
-class ScrollButton extends React.Component {
-  constructor() {
-    super();
+class ScrollButton extends React.PureComponent {
+  state = {
+    windowPosition: null,
+    downScrollTriggered: false,
+    isBottom: false,
+  };
 
-    this.state = {
-      intervalId: 0,
-    };
+  componentDidMount() {
+    window.addEventListener('scroll', this.handleScroll);
+    let windowPosition = window.pageYOffset;
+    this.setState({ windowPosition });
   }
 
+  componentWillUnmount() {
+    window.removeEventListener('scroll', this.handleScroll);
+  }
 
-  scrollStep() {
-    if (window.pageYOffset === 0) {
-      clearInterval(this.state.intervalId);
+  handleScroll = debounce(() => {
+    let previousPosition = this.state.windowPosition;
+    let currentPosition = window.pageYOffset;
+    let isBottomNow =
+      window.innerHeight + window.scrollY >= document.body.offsetHeight;
+
+    if (previousPosition > currentPosition && !isBottomNow) {
+      this.setState({ downScrollTriggered: false });
+    } else {
+      this.setState({ downScrollTriggered: true });
     }
-    window.scroll(0, window.pageYOffset - this.props.scrollStepInPx);
-  }
+    this.setState({ windowPosition: currentPosition, isBottom: isBottomNow });
+  }, 500);
 
-  scrollToTop() {
-    let intervalId = setInterval(
-      this.scrollStep.bind(this),
-      this.props.delayInMs
-    );
-    this.setState({ intervalId: intervalId });
-  }
+  scrollToTop = () => {
+    window.scroll({
+      top: 0,
+      left: 0,
+      behavior: 'smooth',
+    });
+  };
 
   render() {
     return (
-      <p
-        css={css`
-          animation: ${bounce} 2s ease 10;
-        `}
-        onClick={() => {
-          this.scrollToTop();
+      <Spring
+        from={{ transform: 'translateY(100px)' }}
+        to={{
+          transform: this.state.downScrollTriggered
+            ? 'translateY(0px)'
+            : 'translateY(100px)',
         }}
       >
-        👆
-      </p>
+        {props => (
+          <StyledButton style={props} onClick={this.scrollToTop}>
+            <span
+              css={css`
+                font-size: 200%;
+              `}
+              role="img"
+              aria-label="scroll to top"
+            >
+              ☝️
+            </span>
+          </StyledButton>
+        )}
+      </Spring>
     );
   }
 }
