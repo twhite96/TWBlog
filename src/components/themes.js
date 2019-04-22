@@ -37,7 +37,7 @@ const themes = {
       color: '#e6e6e6',
     },
     primary: {
-      background: 'rgba(40, 44, 53, 1.00)',
+      background: 'rgba(36, 38, 41, 1.00)',
       text: {
         normal: 'rgba(255, 255, 255, 0.95)',
         title: '#ffffff',
@@ -56,7 +56,7 @@ const themes = {
   },
   transition: {
     ease: 'all 200ms ease',
-  }
+  },
 };
 
 export default themes;
