@@ -91,7 +91,7 @@ class BlogPostTemplate extends React.Component {
           </Link>
         </h3>
         <Bio />
-        <div style={{ float: 'right', display: 'inline-block', width: 15 }}>
+        <div style={{ float: 'right', display: 'inline-block', width: 25 }}>
           <ScrollButton />
         </div>
         <ul
