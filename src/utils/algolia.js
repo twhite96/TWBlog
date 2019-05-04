@@ -1,53 +1,24 @@
-const postQuery = `{
-  posts: allMarkdownRemark(
-    filter: { fileAbsolutePath: { regex: "/src/pages/" } }
-  ){
-    edges {
-      node {
-        fields {
-          slug
-        }
-        tableOfContents
-        objectID: id,
-        frontmatter {
-          title
-          date(formatString: "MMM DD, YYYY")
-          spoiler
-        }
-        excerpt(pruneLength: 500)
-      }
-    }
-  }
-}`
-// const flatten = arr =>
-//   arr.map(({ node: { frontmatter, ...rest } }) => ({
-//     ...frontmatter,
-//     ...rest,
-//   }))
+module.exports = function(chunksTotal, { node }) {
+  const {
+    fields: { slug },
+    frontmatter: { title },
+    internal: { content }
+  } = node;
 
-const settings = { attributesToSnippet: [`excerpt:20`] }
+  const noEmojiContent = content.replace(/<img class="emoji-icon".+\/>/g, "");
 
-const queries = [
-  {
-    query: postQuery,
-    transformer: ({ data }) =>
-     data.posts.edges.reduce((records, { node }) => {
-        const { title, spoiler } = node.frontmatter
-        const { slug } = node.fields
-        const base = { slug, title, spoiler }
-        const chunks = node.tableOfContents.split('\n\n')
-        return [
-          ...records,
-          ...chunks.map((text, index) => ({
-            ...base,
-            objectID: `${slug}-${index}`,
-            text,
-          })),
-        ]
-      }, []),
-    indexName: `articles`,
-    settings
-  },
-]
+  const contentChunks = chunkString(noEmojiContent, 5000);
+  const record = { title, slug, content };
+  const recordChunks = contentChunks.reduce((recordChunksTotal, contentChunksItem, idx) => {
+    return [
+      ...recordChunksTotal,
+      { ...record, ...{ content: contentChunksItem }, objectID: `${slug}${idx}` }
+    ];
+  }, []);
 
-module.exports = queries
+  return [...chunksTotal, ...recordChunks];
+};
+
+function chunkString(str, length) {
+  return str.match(new RegExp("(.|[\r\n]){1," + length + "}", "g"));
+}

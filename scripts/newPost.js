@@ -11,7 +11,7 @@ if (!title) {
 }
 const slug = slugify(title.toLowerCase());
 const date = dateFns.format(new Date(), "YYYY-MM-DD");
-const dir = `./src/pages/${slug}`;
+const dir = `./content/posts/${date}---${slug}`;
 
 if (!dir) {
   throw 'this directory does not exist!';

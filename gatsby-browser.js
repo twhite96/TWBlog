@@ -1,8 +1,5 @@
-import Wrapper from './src/components/ContextWrapper';
 import littlefoot from 'littlefoot';
 import './src/utils/littlefoot.css'
-
-export const wrapRootElement = Wrapper;
 
 export function onRouteUpdate() {
   littlefoot({
@@ -12,4 +9,3 @@ export function onRouteUpdate() {
     preventPageScroll: false
   });
 }
-
