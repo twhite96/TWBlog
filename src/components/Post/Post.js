@@ -1,9 +1,7 @@
 import React from "react";
 import "typeface-lato";
 import PropTypes from "prop-types";
-import "prismjs/themes/prism-gloom.css";
 import "../../utils/littlefoot.css";
-import { formatReadingTime } from "../../utils/helpers";
 import ScrollButton from "../ScrollButton";
 import "../../utils/fonts.css";
 
@@ -13,6 +11,7 @@ import Bodytext from "../Article/Bodytext";
 import Meta from "./Meta";
 import Author from "./Author";
 import NextPrev from "./NextPrev";
+import "../../utils/global.css"
 
 const Share = asyncComponent(() =>
   import("./Share")
