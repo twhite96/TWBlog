@@ -140,10 +140,6 @@ hero:
 blog:
   a:
     color: *color-brand-primary
-  blockquote:
-    color: '#b0adab'
-    borderLeft: '.25rem solid #06D7D9'
-
   h1:
     size: *font-size-l
     lineHeight: *font-line-height-xs
