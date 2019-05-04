@@ -102,7 +102,6 @@
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
   box-sizing: border-box;
   display: inline-block;
-  padding-bottom: 0px;
   left: 0;
   line-height: 0;
   margin: 1.96924em 0;
@@ -234,7 +233,7 @@
   line-height: normal;
   max-height: 15em;
   overflow: auto;
-  padding: 1.1em 1.3em 1.2em;
+  padding: 1.1em 1.3em 0;
   position: relative;
   z-index: 8
 }
