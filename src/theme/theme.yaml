@@ -136,7 +136,7 @@ hero:
     size: *font-size-xxl
     color: *color-white
     lineHeight: *font-line-height-xs
-  background: '../images/png/17414.png'
+  background: '. linear-gradient(to bottom, #06d7d9, #f8007c)'
 blog:
   a:
     color: *color-brand-primary
