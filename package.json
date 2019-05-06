@@ -70,6 +70,7 @@
     "typeface-lato": "0.0.54",
     "typeface-open-sans": "^0.0.54",
     "typography": "^0.16.19",
+    "vertical-timeline-component-for-react": "^1.0.6",
     "yaml-loader": "^0.5.0"
   },
   "keywords": [

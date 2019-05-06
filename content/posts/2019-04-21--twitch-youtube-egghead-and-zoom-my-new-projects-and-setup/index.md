@@ -6,7 +6,7 @@ spoiler: "Something new."
 cover: cover.png
 ---
 
-![](./cover.png)
+![](./twitch.jpg)
 
 I *do* have a Twitch channel.
 

@@ -17,7 +17,7 @@ I actually rewatched the videos with Andrew Chalkley this time[^2].
 
 Take a look at this code:
 
-https://gist.github.com/twhite96/3425ef36ca75c93d6ce189a4899ccf40
+`gist:twhite96/3425ef36ca75c93d6ce189a4899ccf40`
 
 Here we are taking no arguments passed to the function `sayName()`[^3]. With arrow functions, we can write modular, clean code[^4]. We can get rid of the `function` keyword and replace it with `=>`. Pretty nifty, eh?
 
@@ -25,7 +25,7 @@ Here we are taking no arguments passed to the function `sayName()`[^3]. With arr
 
 Take a look at this code:
 
-https://gist.github.com/twhite96/a019b42192599e43ebddbc608ad4df37
+`gist:twhite96/a019b42192599e43ebddbc608ad4df37`
 
 When we have a single argument passed to a function, much like the no arguments function, we replace the `function` keyword with an `=>`. But we can also *remove the curly brackets, the parens, and the return statement*.[^5]
 
@@ -35,7 +35,7 @@ This is getting pretty awesome.
 
 Take another gander at this gist:
 
-https://gist.github.com/twhite96/d70aacf2562357393a70431573410efc
+`gist:twhite96/d70aacf2562357393a70431573410efc`
 
 Here, we can do pretty much the same thing as in the single argument function, only we need to keep the parens. Still, you can get rid of the curly braces, and the one line of code in the block.
 
@@ -43,7 +43,7 @@ Here, we can do pretty much the same thing as in the single argument function, o
 
 Check out this gist:
 
-https://gist.github.com/twhite96/35879ad5ae14df31d25aaf8b0891737e
+`gist:twhite96/35879ad5ae14df31d25aaf8b0891737e`
 
 It’s just a cleaner, more modular way to write code. I hear you can write modular JavaScript with Promises but I am not there yet.
 

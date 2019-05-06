@@ -28,8 +28,8 @@ class Layout extends React.Component {
     };
 
     if (typeof window !== `undefined`) {
-      this.loadFont("font400", "Open Sans", 400);
-      this.loadFont("font600", "Open Sans", 600);
+      this.loadFont("font400", "Lato", 400);
+      this.loadFont("font600", "Lato", 600);
     }
   }
 
