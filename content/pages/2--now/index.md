@@ -29,29 +29,29 @@ I have also been invited to be an [an egghead.io instructor](https://egghead.io/
 
 We carry these things everywhere. Inspired by another `/now` page I am posting a screenshot of my iPhone and iPad, and also my iMac.
 
-![](./4.png)
-*My homescreen reflects what I am trying to do with technology: work, fun, and productivity*
+![](./may.jpg)
+*Getting back into photography as a sort of stress reliever; I go for walks to look for something to shoot, *
 
 
 ---
 
-![](./3.png)
-*I got the new iPad Pro and have moved all my blog writing over to it, as well as podcast and video editing. I still need the Mac for some Jekyll-centric stuff though.*
+![](./may-ipad.jpg)
+*I do minimal work on this. I edit photos, maybe start a blog post or two, ssh into my Mac for whatever reason but I mainly just watch YouTube and Braves baseball on this.*
 
 ---
 
-![](./2.jpg)
-*The new Siri watch face in watchOS 5 is a great addition, great enough to get me to switch from Modular. Loving it so far.*
+![](./may-watch.jpg)
+*Switched back to my old face. I don't know why, I just like it better for some reason.*
 
 
 ---
 
 ## What's On My Mac?
 
-![](./6.png)
+![](./may-imac.jpg)
 *Übersicht is a pretty nifty alternative to GeekTool*
 
-![](./5.png)
+![](./may-lg.jpg)
 *Übersicht on the second monitor*
 
 
@@ -63,8 +63,8 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 This may seem like a lot and it is. I don't know if I'll get everything done, but if I get into more of a routine, I think it is doable.
 
-What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/TiffanyW_412) Or don’t. 🤷🏿
+What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/tiffanywhitedev) Or don’t. 🤷🏿
 
-*Last Updated: 2018-11-25 21.28.02*
+*Last Updated: 2019-05-06 16.58.16*
 
 [^1]: And more consistently. This one is pretty fun to do, hosted on Anchor for free. No real commitment.

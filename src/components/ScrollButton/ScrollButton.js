@@ -74,7 +74,7 @@ class ScrollButton extends React.PureComponent {
           <StyledButton style={props} onClick={this.scrollToTop}>
             <span
               css={css`
-                font-size: 4rem;
+                font-size: 25rem;
               `}
               role="img"
               aria-label="scroll to top"
