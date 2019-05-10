@@ -40,13 +40,12 @@ Let’s start with my gear.
 - [elago M2 Stand for Smartphones](https://www.amazon.com/gp/product/B002OLM56K/ref=oh_aui_detailpage_o06_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [Just Mobile Headphone Stand](https://www.amazon.com/gp/product/B00A3CMAYY/ref=oh_aui_detailpage_o06_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [Heil PR 40 mic kit](https://www.amazon.com/gp/product/B00U1SG5SW/ref=oh_aui_detailpage_o07_s02?psc=1&tag=thatmacnerd-20&ie=UTF8)
-	- I bought this when I thought I was serious about pod and screencasting. Heh. I still do a short show for Productivity in Tech.
+	- I've got a rig setup where I will use this more often than I had.
 - [AirPods](https://www.apple.com/airpods/)
 
 ---
 
-As you can see I finally moved into my new place. My cable management game is all off and I haven't yet put the whole ALEX drawer together[^2] but soon. Soon.
-
+### Next Gen Gear
 - [IKEA LINNMON/ALEX Desk](http://www.ikea.com/us/en/catalog/products/S99932696/)
 	- Every programmer needs a good desk. This one is relatively inexpensive.
 - [Edifier R1280T Powered Bookshelf Speakers](https://www.amazon.com/gp/product/B016P9HJIA/ref=oh_aui_detailpage_o09_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
@@ -54,13 +53,13 @@ As you can see I finally moved into my new place. My cable management game is al
 - [iXCC RCA to 3.5 mm cable](https://www.amazon.com/gp/product/B019D048XC/ref=oh_aui_detailpage_o03_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- Need this to connect the speakers to my iMac
 - [LG 4K Monitor](https://www.amazon.com/gp/product/B01LPNKFK0/ref=oh_aui_detailpage_o02_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
-	- Two monitors are better than one and now that I am moving and getting a new desk, I can now make this happen.
+	- Two monitors are better than one.
 -  [North Bayou VESA Mount](https://www.amazon.com/gp/product/B01FRWONKI/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [Twelve South 12-1223/B HiRise for iMac - Height-adjustable stand with storage for iMac and Apple Displays](https://www.amazon.com/gp/product/B009HPGD2I/ref=oh_aui_detailpage_o00_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [Anker Qi Wireless Charger](https://www.amazon.com/gp/product/B0756Z8X82/ref=oh_aui_detailpage_o00_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 -  [Lamicall iPad Stand](https://www.amazon.com/gp/product/B071K5SPKN/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [Logitech MX Master Wireless Mouse](https://www.amazon.com/gp/product/B00TZR3WRM/ref=oh_aui_detailpage_o05_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
-	- Since I will be moving soon, some of these items I haven’t used yet. This is one of those items. Everyone raves about this mouse so I want to give it a go.
+	- *The best mouse I have ever used* is an understatement.
 - [Aenfor aluminum gaming mousepad](https://www.amazon.com/gp/product/B074L6Z5P3/ref=oh_aui_detailpage_o05_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 -  [M-Audio M-Track C-Series USB Audio Interface](https://www.amazon.com/gp/product/B01FFH5XMC/ref=oh_aui_detailpage_o04_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- This will drive a lot of audio…as well as record from an XLR mic which I have. Said I was cooking things up.
@@ -78,7 +77,7 @@ As you can see I finally moved into my new place. My cable management game is al
 	- For all lights that aren't smart, *now they can be*. Win.
 - [Brainwavz Hengja - The Headphone Desk Hanger](https://www.amazon.com/dp/B012VIWG28/_encoding=UTF8?coliid=I38T2GSP88G72&colid=1DRWNUK8ZGQIY&psc=0&tag=thatmacnerd-20)
 - [IKEA Holmo 46" Floor Lamps](https://www.amazon.com/gp/product/B0070PBVWO/ref=ox_sc_sfl_title_2?smid=A22ARMH4S21UOS&tag=thatmacnerd-20&psc=1&ie=UTF8)
-	- Where else am I going to put the LIFX Bulb?
+	- Where else am I going to put the LIFX Bulbs?
 - [LUXCOMS RGB Soft Gaming Mouse Pad Large](https://www.amazon.com/gp/product/B07GSXJZSV/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - [Logitech C920S Pro HD Webcam with Privacy Shutter](https://www.amazon.com/gp/product/B07K95WFWM/ref=ppx_yo_dt_b_asin_title_o01_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
   - As I do more webinars, Egghead videos, and yes, soon, streaming, I need a good webcam. I have a [Streaming Amazon List](https://www.amazon.com/hz/wishlist/ls/WYX3PZGSUJWN?tag=thatmacnerd-20&sort=default) that I'll be adding to my arsenal in the next couple months.
@@ -86,7 +85,7 @@ As you can see I finally moved into my new place. My cable management game is al
 ## Software
 
 - [VS Code](https://code.visualstudio.com/)
-	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code [^3] and couldn’t be happier.
+	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code [^2] and couldn’t be happier.
 - [iTerm2](https://www.iterm2.com/)
 	- Back to iTerm. It's just *better*.
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
@@ -119,16 +118,16 @@ As you can see I finally moved into my new place. My cable management game is al
 - [Expressions](https://itunes.apple.com/us/app/expressions/id913158085?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) to test regular expressions
 - [SnippetsLab](https://itunes.apple.com/us/app/snippetslab/id1006087419?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS)
 	- Starting to manage snippets with Alfred and GitHub gists but this is a great way to organize snippets with a keystroke.
-- [Quiver](https://itunes.apple.com/us/app/quiver-the-programmers-notebook/id866773894?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is a programmers notebook to take notes with syntax highlighting and markdown support. Supports many languages [^4].
+- [Quiver](https://itunes.apple.com/us/app/quiver-the-programmers-notebook/id866773894?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is a programmers notebook to take notes with syntax highlighting and markdown support. Supports many languages [^3].
 - [Tweetbot 2](https://itunes.apple.com/us/app/tweetbot-2-for-twitter/id557168941?mt=12)
   - The 3rd iteration hogs CPU and memory. If it was more efficient I'd use it; the ability to add gifs right in the app is killer. But it freezes constantly. So I use v2.
 - [Franz](https://meetfranz.com/). This is a chat aggregator. Open source and wayyyyyy better looking than Rambox.
-- [Things 3](https://culturedcode.com/things/) for tasks.[^5]
-- [Notion](https://www.notion.so) for Project management.[^6]
+- [Things 3](https://culturedcode.com/things/) for tasks.[^4]
+- [Notion](https://www.notion.so) for Project management.[^5]
 - [Evernote](https://evernote.com/)
   - Nothing beats it for note-taking and archiving.
 - [Fantastical 2](https://flexibits.com/fantastical) for scheduling
-- [Dash 4](https://kapeli.com/dash). [^7]
+- [Dash 4](https://kapeli.com/dash). [^6]
 - [Sip for Mac](https://sipapp.io/) for a color picker
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
   - As I get into making egghead lessons and more screencasts for That Mac Nerd, I need a heavy duty piece of software to do so. Screenflow fits the bill.
@@ -151,10 +150,9 @@ So this is my setup and what I am currently using. You can show me your dev setu
 
 
 [^1]: Got the gold and this will be my last iPhone for a while. No need to upgrade yearly as these phones are more than capable of lasting a couple years.
-[^2]: Done and done
-[^3]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
-[^4]: Even brainfuck!
-[^5]: This is the only task manager that I actually look at and use. It is *that* beautiful, simple, and it has impressed me far more than any task manager in recent memory.
-[^6]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/e8ed18d3f574/Screenshot-2018-09-05_12-00-33_AM.png).
-[^7]: Offline docs ftw! Plus much more.
+[^2]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
+[^3]: Even brainfuck!
+[^4]: This is the only task manager that I actually look at and use. It is *that* beautiful, simple, and it has impressed me far more than any task manager in recent memory.
+[^5]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/e8ed18d3f574/Screenshot-2018-09-05_12-00-33_AM.png).
+[^6]: Offline docs ftw! Plus much more.
 

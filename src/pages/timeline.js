@@ -24,11 +24,11 @@ const TimelinePage = props => {
             <header>
               <Headline title="Timeline of Professional Accomplishments" theme={theme} />
             </header>
-            <h2>
+            <p>
               Florin Pop has a timeline of his professional accomplishments on his blog. I decided
               I wanted to do the same. It's a way for me to see my progress and a way to keep my
               accountable and chugging along.
-            </h2>
+            </p>
           </Article>
         )}
       </ThemeContext.Consumer>
@@ -173,7 +173,7 @@ const TimelinePage = props => {
           dateText="04/2015-05/2017"
           dateInnerStyle={{ background: "rgba(255, 184, 28, .6)", color: "#fff" }}
         >
-          <h3>Get accepted to, and attended, the University of Pittsburgh</h3>
+          <h3>Got accepted to, and attended, the University of Pittsburgh</h3>
           <p>Built a foundational knowledge of OOP during my time at Pitt.</p>
         </TimelineItem>
         <TimelineItem

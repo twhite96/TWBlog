@@ -1,8 +1,12 @@
 ---
-title: CSS Animations, Part 2
-author: Tiffany White
+title: "CSS Animations"
+author: "Tiffany White"
 date: "2016-10-28"
+category: "CSS"
+cover: 1.jpg
 ---
+
+![](./1.jpg)
 
 ## Transition Timing Functions, Delays, and Transforms
 
@@ -24,15 +28,15 @@ You could use them to ease on hover an image overlay:
   background-color: #000000
   // Define what property we are transitioning
   transition-property: opacity;
-} 
+}
 
 .img-overlay:hover {
   // Set the opacity
   opacity: .06;
-  // Use the transition-delay transition 
+  // Use the transition-delay transition
   // to delay when a transition starts
   transition-delay: .4s;
-  // Add a transition-timing-function 
+  // Add a transition-timing-function
   // to ease the transition out on hover
   transition-timing-function: ease-out;
 }
@@ -54,12 +58,12 @@ One of my favorite CSS transforms is the `scale()` function. It will make the im
 .element {
   width: 20px;
   height: 20px;
-  // Use the transform scale function 
+  // Use the transform scale function
   // to scale the element outwards
   // 35px from the center
   transform: scale(35);
 }
-``` 
+```
 This will scale the image quite large on the page.
 
 What if we want it to only scale when we hover?

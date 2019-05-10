@@ -1,22 +1,14 @@
 ---
-ID: 597
-title:  Moving Right Along in CS 0007, Intro to Programming in Java
-author: Tiffany White
+title:  "Moving Right Along in CS 0007, Intro to Programming in Java"
+author: "Tiffany White"
 date: "2015-09-18"
-layout: post
-link: >
-  https://tiffanywhite.tech/cs-intro-to-programming-java/
-published: true
-tags:
-  - Java
-  - programming
-  - student
-categories:
-  - General Updates
+category: "General Updates"
+cover: 1.png
 ---
-<h2>The Blank Text Editor</h2>
 
-<img src="https://helloburgh.me/wp-content/uploads/2015/09/wpid-mac-textwrangler-code-type.png" alt="Text_Wrangler" />
+![](./1.png)
+
+<h2>The Blank Text Editor</h2>
 
 So class is moving along at a regular clip. I am learning about syntax and seeing similarities between other languages. I have written four text-based programs using Java that were pretty easy, seeing as I already have some clue as to how to code. Today, however, she threw us into the fire and, like many times before, I opened up a blank Atom text document and froze.
 
@@ -26,34 +18,19 @@ I know I am going to write bugs. Everyone does. No one gets it write the first t
 
 
 
-<pre class="lang:java decode:1 " > public class Tax Ripoff
+```java
+
+public class Tax Ripoff
 {
  public static void main(String[] args)
   {
   double grossPay = 5876.98
   double netPay = 5489.76
   double differenceInPay = grossPay - netPay;
-  System.out.printf(&amp;quot;The difference between your gross and net pay is %,.2f\n&amp;quot;, differenceInPay);
+  System.out.printf("The difference between your gross and net pay is %,.2f\n ", differenceInPay);
   }
 }
-
-
-
-<pre class="lang:java decode:1 " > public class Tax Ripoff
-{
- public static void main(String[] args)
-  {
-  double grossPay = 5876.98
-  double netPay = 5489.76
-  double differenceInPay = grossPay - netPay;
-  System.out.printf(&amp;quot;The difference between your gross and net pay is %,.2f\n&amp;quot;, differenceInPay);
-  }
-}
-
-
-
-
-</pre>
+```
 
 I don&#8217;t know if they have that in Python, but it looks pretty silly and verbose to me.
 
@@ -67,7 +44,7 @@ Ran into a bug. Thanks to <a href="https://twitter.com/BillLaboon">Bill Laboon</
 
 
 
-<pre class="lang:java decode:1 " >import java.util.Scanner;
+```java
 
 public class White
 {
@@ -75,47 +52,19 @@ public class White
  {
  Scanner keyboard = new Scanner(System.in);
 
- System.out.print(&amp;quot;Enter your first test score.&amp;quot;);
+ System.out.print("Enter your first test score.");
  double firstScore = keyboard.nextDouble();
 
- System.out.print(&amp;quot;Enter your second test score.&amp;quot;);
+ System.out.print("Enter your second test score.");
  double secondScore = keyboard.nextDouble();
 
- System.out.print(&amp;quot;Enter your third test score.&amp;quot;);
+ System.out.print("Enter your third test score.");
  double thirdScore = keyboard.nextDouble();
 
  double totalScore = (firstScore + secondScore + thirdScore) / 3;
 
-System.out.printf(&amp;quot;Your class average is %.2f\n&amp;quot;, totalScore);
+System.out.printf("Your class average is %.2f\n", totalScore);
   }
 }
+```
 
-
-
-<pre class="lang:java decode:1 " >import java.util.Scanner;
-
-public class White
-{
- public static void main(String[] args)
- {
- Scanner keyboard = new Scanner(System.in);
-
- System.out.print(&amp;quot;Enter your first test score.&amp;quot;);
- double firstScore = keyboard.nextDouble();
-
- System.out.print(&amp;quot;Enter your second test score.&amp;quot;);
- double secondScore = keyboard.nextDouble();
-
- System.out.print(&amp;quot;Enter your third test score.&amp;quot;);
- double thirdScore = keyboard.nextDouble();
-
- double totalScore = (firstScore + secondScore + thirdScore) / 3;
-
-System.out.printf(&amp;quot;Your class average is %.2f\n&amp;quot;, totalScore);
-  }
-}
-
-
-
-
-</pre>
