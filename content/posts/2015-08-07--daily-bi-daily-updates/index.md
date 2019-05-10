@@ -1,22 +1,12 @@
 ---
-ID: 457
-title: New Post Idea- Daily, Bi-Daily Updates
-author: Tiffany White
+title: "New Post Idea- Daily, Bi-Daily Updates"
+author: "Tiffany White"
 date: "2015-08-07"
-layout: post
-link: >
-  https://tiffanywhite.tech/daily-bi-daily-updates/
-published: true
-tags:
-  - learning
-  - post updates
-  - Treehouse
-categories:
-  - Uncategorized
+category: "Daily Updates"
+cover: 1.jpg
 ---
 
-
-<img class=" aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/08/wpid-4978.png" alt="Posts" width="733" height="488" />
+![](./1.jpg)
 
 If you aren’t reading my fellow Code Newbie <a href="http://nickqueen.com/blog/">Nick Queen’s blog</a> you should. It’s great. Besides being great, the format has given me an idea.
 

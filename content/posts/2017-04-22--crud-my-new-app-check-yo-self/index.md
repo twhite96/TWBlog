@@ -1,21 +1,12 @@
 ---
-ID: 1874
-title: CRUD and My New App, Check Yo Self
-author: Tiffany White
+title: "CRUD and My New App, Check Yo Self"
+author: "Tiffany White"
 date: "2017-04-22"
-layout: post
-link: >
-  https://tiffanywhite.tech/crud-my-new-app-check-yo-self/
-published: true
-tags:
-  - heroku
-  - javascript
-  - programming
-  - Treehouse
-categories:
-  - General Updates
+category: "General Updates"
+cover: 1.jpg
 ---
 
+![](./1.jpg)
 
 I have taken a bit of a break from the coding/learning thing as I suffer from a bit of depression every now and again, outside of the usual. It's a woman's thing, as they say.
 
@@ -41,7 +32,7 @@ CRUD is a SQL thing. [^1].
 
 While learning SQL at Treehouse, Andrew Chalkley, the teacher, explained ORMs, or *Object Relational Mapping* software that helps you interface with a database in different languages. For instance, ActiveRecord for Ruby and Hibernate for Java.I was having a hard time understanding how to store the texts the users input, store the texts, and retrieve the texts up until that point in the course. Everything we did in the course was hard coded and I definitely understood I *could not* do that. *ORMs to the rescue*. Searched for an ORM for JavaScript and there are many, either through npm or other means, there are plenty. Still researching. Since I am using Postgres on Heroku, it needs to play nice with it and I found one called sequelize.js that looks like it will do the trick:
 
-```javascript
+```js
 var Sequelize = require('sequelize');
 var sequelize = new Sequelize('database', 'username', 'password');
 

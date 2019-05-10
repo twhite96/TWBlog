@@ -13,11 +13,11 @@ I live in Central PA and I am currently learning at a breakneck pace full-stack 
 
 I am trying to get into better shape and am doing well at it.
 
-I am working on two blogs:
+I am working on two blogs: this one, Tiffany R. White Blog, and my book review blog, [Book Notes by Tiffany](https://booknotesbytiffany.net)[^1].
 
-This one, Tiffany R. White Blog and [That Mac Nerd](https://thatmacnerd.com/). I'm also doing [That Mac Nerd Podcast](https://anchor.fm/thatmacnerd) which has been really fun to do[^1].
+I am building a markdown grammar checker called [Check Yo Self](https://github.com/twhite96/checkyoself) and a few other projects.
 
-I am building a markdown grammar checker called [Check Yo Self](https://github.com/twhite96/checkyoself) and [Check Yo Self CLI](https://checkyoself-cli.netlify.com/docs/doc1.html) which is just a simple command line utility to check the grammar and spelling of your markdown blog posts.
+I've been trying to get back into [photography](https://www.eyeem.com/u/trwhite) as a creative outlet and excuse to get out of the house[^2].
 
 I also have a reusable component and a couple of React hooks in the works to open source...and...
 
@@ -29,13 +29,13 @@ I have also been invited to be an [an egghead.io instructor](https://egghead.io/
 
 We carry these things everywhere. Inspired by another `/now` page I am posting a screenshot of my iPhone and iPad, and also my iMac.
 
-![](./may.jpg)
-*Getting back into photography as a sort of stress reliever; I go for walks to look for something to shoot, *
+![](./may-2.jpg)
+*Getting back into photography as a sort of stress reliever; I go for walks to look for something to shoot.*
 
 
 ---
 
-![](./may-ipad.jpg)
+![](./may-ipad-2.jpg)
 *I do minimal work on this. I edit photos, maybe start a blog post or two, ssh into my Mac for whatever reason but I mainly just watch YouTube and Braves baseball on this.*
 
 ---
@@ -54,17 +54,13 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 ![](./may-lg.jpg)
 *Übersicht on the second monitor*
 
-
-
-
-&nbsp;
-
 ---
 
 This may seem like a lot and it is. I don't know if I'll get everything done, but if I get into more of a routine, I think it is doable.
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/tiffanywhitedev) Or don’t. 🤷🏿
 
-*Last Updated: 2019-05-06 16.58.16*
+*Last Updated: 2019-05-10 06.44.55*
 
-[^1]: And more consistently. This one is pretty fun to do, hosted on Anchor for free. No real commitment.
+[^1]: Name inspired by Bill Gates [Gates Notes](https://www.gatesnotes.com/Books).
+[^2]: I absolutely do not get enough time away from my desk. So I've gone on one photo walk and plan on doing more, at least once a week.
