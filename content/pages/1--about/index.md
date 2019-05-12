@@ -6,4 +6,4 @@ title: About
 
 My toolbox contains JavaScript, React, some Rails, and CSS Grid and Flexbox.
 
-Besides programming and writing for this blog, I enjoy photography, lifting weights when I can, and learning about AI, Machine Learning and tinkering with robots 🤖.
+Besides programming and writing for this blog, I enjoy photography, lifting weights when I can, playing around with Go and Swift, and tinkering with robots 🤖.
