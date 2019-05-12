@@ -17,7 +17,21 @@ I actually rewatched the videos with Andrew Chalkley this time[^2].
 
 Take a look at this code:
 
-`gist:twhite96/3425ef36ca75c93d6ce189a4899ccf40`
+```js
+const name = "Andrew";
+const sayName = function() {
+  const message = "My name is " + name;
+  console.log(message);
+}
+// Two lines of code, cannot reduce to one line.
+const sayName = () => {
+  const message = "My name is " + name;
+  console.log(message);
+}
+const sayBye = () => {
+  console.log("Bye " + name);
+}
+```
 
 Here we are taking no arguments passed to the function `sayName()`[^3]. With arrow functions, we can write modular, clean code[^4]. We can get rid of the `function` keyword and replace it with `=>`. Pretty nifty, eh?
 
@@ -25,7 +39,16 @@ Here we are taking no arguments passed to the function `sayName()`[^3]. With arr
 
 Take a look at this code:
 
-`gist:twhite96/a019b42192599e43ebddbc608ad4df37`
+```js
+const square = function(x) {
+  return x * x;
+}
+// One argument and one line of code you can remove the parens, the return statement, and curly braces
+const square = x => x * x;
+const cube = (x) => {
+  return square(x) * x;
+}
+```
 
 When we have a single argument passed to a function, much like the no arguments function, we replace the `function` keyword with an `=>`. But we can also *remove the curly brackets, the parens, and the return statement*.[^5]
 
@@ -33,17 +56,41 @@ This is getting pretty awesome.
 
 ## Multiple Argument Functions
 
-Take another gander at this gist:
+Take another gander at this code:
 
-`gist:twhite96/d70aacf2562357393a70431573410efc`
+```js
+// One line of code and multiple arguements can be reduced to one line but because of multiple arguements you need to keep the parens.
+const multiply = (x, y) => x * y;
+const add = (a, b) => {
+  return a + b;
+}
+const subtract = (a, b) => {
+  return a - b;
+}
+```
 
 Here, we can do pretty much the same thing as in the single argument function, only we need to keep the parens. Still, you can get rid of the curly braces, and the one line of code in the block.
 
 ## It’s Really All The Same
 
-Check out this gist:
+Check out this snippet:
 
-`gist:twhite96/35879ad5ae14df31d25aaf8b0891737e`
+```js
+//Function Declaration
+function divide1(a, b) {
+  return a / b;
+}
+//Function Expression
+const divide2 = function(a, b) {
+  return a / b;
+}
+//Arrow Function Expression
+const divide3 = (a, b) => {
+  return a / b;
+}
+//Arrow Function Expression - concise
+const divide4 = (a, b) => a / b;
+```
 
 It’s just a cleaner, more modular way to write code. I hear you can write modular JavaScript with Promises but I am not there yet.
 

@@ -35,8 +35,8 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 ---
 
-![](./may-ipad-2.jpg)
-*I do minimal work on this. I edit photos, maybe start a blog post or two, ssh into my Mac for whatever reason but I mainly just watch YouTube and Braves baseball on this.*
+![](./may-ipad-3.jpg)
+*You almost literally have to jump through hoops in order to get any writing done on this, especially for a blog like this. But that is what I am going to try, starting with [Drafts](https://getdrafts.com/).*
 
 ---
 
