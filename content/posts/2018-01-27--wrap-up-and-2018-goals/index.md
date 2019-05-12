@@ -1,21 +1,14 @@
 ---
-ID: 2812
-title: 2017 Wrap-up and 2018 Goals
-author: Tiffany White
+title: "2017 Wrap-up and 2018 Goals"
+author: "Tiffany White"
 date: "2018-01-27"
-spoiler: Wrapping up a year is never one wants to do. At least I don't.
-layout: post
-link: >
-  https://tiffanywhite.tech/2017-wrap-up-and-2018-goals/
-published: true
-tags:
-  - goals
-  - the practical dev
-  - work
-categories:
-  - Goals
-  - New Years Reflections
+spoiler: "Wrapping up a year is never one wants to do. At least I don't."
+category: "New Years Reflections"
+cover: 1.jpg
 ---
+
+![](./1.jpg)
+
 Wrapping up a year is never a thing one wants to do. At least I don't.
 
 2017 was an amazing year; I built a full-stack app I was proud of with a course and started another. I was a perfect 12/12 months of blogging for the second year in a row. And, at the end of the year I scored an internship with [The Practical Dev](https://dev.to/).
