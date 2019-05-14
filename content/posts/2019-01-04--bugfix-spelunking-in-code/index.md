@@ -6,7 +6,7 @@ category: "Bug fixing"
 cover: 1.jpg
 ---
 
-
+![](./2.jpg)
 
 I love [CodeSandbox](https://codesandbox.io/). It has pretty much replaced CodePen for me unless I am fiddling around with CSS or freeCodeCamp front-end projects.
 

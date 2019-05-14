@@ -1,5 +1,5 @@
 import React from 'react'
-import { css } from '@emotion/core'
+import { css, jsx } from '@emotion/core'
 import styled from '@emotion/styled'
 import { Spring } from 'react-spring/renderprops';
 import debounce from 'lodash.debounce'
@@ -12,7 +12,7 @@ const StyledButton = styled.button`
   align-items: center;
   position: fixed;
   right: 2rem;
-  font-size: 1.8rem;
+  font-size: 200%;
   bottom: 1rem;
   z-index: 1;
   appearance: none;
@@ -74,7 +74,7 @@ class ScrollButton extends React.PureComponent {
           <StyledButton style={props} onClick={this.scrollToTop}>
             <span
               css={css`
-                font-size: 25rem;
+                font-size: 200%;
               `}
               role="img"
               aria-label="scroll to top"

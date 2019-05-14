@@ -6,6 +6,7 @@ cover: big_o_post.jpg
 category: "Algorithms and data structures"
 ---
 
+![](./1.jpg)
 
 ## Big O: How to Determine the Efficiency of Some Function
 
