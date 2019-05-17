@@ -9,7 +9,7 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
-        <h1>Another Dev Blog About JS & React.</h1>
+        <h1>Your neighborhood dev blog.</h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown style={{ textAlign: "center", margin: "-.5rem" }} />
         </button>
