@@ -149,6 +149,13 @@ module.exports = {
               wrapperStyle: `margin-bottom: 2em`
             }
           },
+          {
+            resolve: "@weknow/gatsby-remark-twitch",
+            options: {
+              width: 800,
+              height: 400
+            }
+          },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,

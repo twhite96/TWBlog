@@ -11,7 +11,13 @@ if (!title) {
 
 const slug = slugify(title.toLowerCase());
 const date = dateFns.format(new Date(), "YYYY-MM-DD");
-const dir = `${__dirname}/content/posts/${date}--${slug}`;
+const dir = `./content/posts/${date}--${slug}`;
+
+if (!fs.existsSync(dir)) {
+  fs.mkdirSync(dir);
+} else {
+  throw "That post already exists!";
+}
 
 fs.writeFileSync(
   `${dir}/index.md`,
