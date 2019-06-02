@@ -2,6 +2,7 @@
 date: "2019-05-25"
 title: "Burnout, Health, and Starting Over"
 cover: cover.jpg
+author: "Tiffany White"
 category: "Developer Health"
 ---
 
