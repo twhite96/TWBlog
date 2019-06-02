@@ -186,6 +186,7 @@ class Menu extends React.Component {
             justify-content: center;
             list-style: none;
             margin: 0;
+            font-size: 1.9em;
             padding: 0; /* 0 ${theme.space.s}; */
             position: relative;
             width: 100%;
