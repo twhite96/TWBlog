@@ -234,6 +234,12 @@ module.exports = {
         ]
       }
     },
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+        includePaths: [require("path").resolve(__dirname, "node_modules")]
+      }
+    },
     `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-google-analytics`,
