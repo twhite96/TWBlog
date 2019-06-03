@@ -30,6 +30,7 @@ altonTheme.overrideThemeStyles = () => ({
     margin: '.8rem 0',
     color: '#7a7a7a',
     borderLeft: '.25rem solid #06D7D9',
+    borderSpacing: '20px',
     fontStyle: 'italic'
   },
   'pre, code': {

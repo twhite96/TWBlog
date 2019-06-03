@@ -29,9 +29,11 @@ const Bodytext = props => {
           }
 
           :global(p) {
-            font-size: ${theme.font.size.s};
-            line-height: ${theme.font.lineHeight.xxl};
+            font-size: ${theme.font.size.m};
+            line-height: ${theme.font.lineHeight.xl};
             margin: 0 0 1.5em;
+            color: '#000';
+            font-family: ${theme.font.family.initial};
           }
           :global(ul) {
             list-style: circle;

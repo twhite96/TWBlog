@@ -11,7 +11,7 @@
 code[class*="language-"],
 pre[class*="language-"] {
   font-family: 'Fira Code';
-  font-size: .88rem;
+  font-size: 1.2rem;
   line-height: 1.5;
   direction: ltr;
   text-align: left;
@@ -301,7 +301,12 @@ code.language-scss,
 blockquote {
   color: #b0adab;
   border-left: .25rem solid #06D7D9;
-  padding: .6rem .6rem 0;
+  background-clip: content-box;
+  border-spacing: 20px;
   padding-top: 0px;
   margin: .6rem 0;
+}
+
+blockquote::after{
+  padding: 1.8em;
 }
