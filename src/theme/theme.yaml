@@ -104,10 +104,11 @@ background:
 text:
   family: *font-family-target
   color:
-    primary: *color-gray-10
+    primary: '#000'
     primaryInverse: *color-white
     brand: *color-brand-primary
     attention: *color-special-attention
+  size: xl
   lineHeight:
     default: *font-line-height-l
   maxWidth:
