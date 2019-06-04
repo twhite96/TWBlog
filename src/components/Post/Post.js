@@ -1,9 +1,6 @@
 import React from "react";
-import "typeface-lato";
 import PropTypes from "prop-types";
-import "../../utils/littlefoot.css";
-import ScrollButton from "../ScrollButton";
-import "../../utils/fonts.css";
+import "prismjs/themes/prism-okaidia.css";
 
 import asyncComponent from "../AsyncComponent";
 import Headline from "../Article/Headline";
@@ -11,7 +8,6 @@ import Bodytext from "../Article/Bodytext";
 import Meta from "./Meta";
 import Author from "./Author";
 import NextPrev from "./NextPrev";
-import "../../utils/global.css"
 
 const Share = asyncComponent(() =>
   import("./Share")
@@ -30,6 +26,7 @@ const Post = props => {
       frontmatter: { title, author, category }
     },
     authornote,
+    facebook,
     next: nextPost,
     prev: prevPost,
     theme
@@ -46,10 +43,7 @@ const Post = props => {
         <Share post={post} theme={theme} />
         <Author note={authornote} theme={theme} />
         <NextPrev next={nextPost} prev={prevPost} theme={theme} />
-        <div style={{ float: "right", display: "inline-block", width: 25 }}>
-          <ScrollButton />
-        </div>
-        <div className="littlefoot-footnote__container" />
+        <Comments slug={slug} facebook={facebook} theme={theme} />
       </footer>
     </React.Fragment>
   );

@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-// import Copyright from "../Copyright"
 
 const Footer = props => {
   const { html, theme } = props;
@@ -8,6 +7,7 @@ const Footer = props => {
   return (
     <React.Fragment>
       <footer className="footer" dangerouslySetInnerHTML={{ __html: html }} />
+
       {/* --- STYLES --- */}
       <style jsx>{`
         .footer {

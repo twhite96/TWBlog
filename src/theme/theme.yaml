@@ -66,8 +66,8 @@ color:
 font:
   # font options
   family:
-    initial: 'Lato, sans-serif'
-    target: &font-family-target 'Lato'
+    initial: 'Arial, sans-serif'
+    target: &font-family-target 'Open Sans'
   weight:
     standard: 400
     bold: 600
@@ -104,11 +104,10 @@ background:
 text:
   family: *font-family-target
   color:
-    primary: '#000'
+    primary: *color-gray-10
     primaryInverse: *color-white
     brand: *color-brand-primary
     attention: *color-special-attention
-  size: xl
   lineHeight:
     default: *font-line-height-l
   maxWidth:
@@ -137,10 +136,8 @@ hero:
     size: *font-size-xxl
     color: *color-white
     lineHeight: *font-line-height-xs
-  background: '. linear-gradient(to bottom, #06d7d9, #f8007c)'
+  background: 'linear-gradient(0deg, #06d7d9, #f8007c)'
 blog:
-  a:
-    color: *color-brand-primary
   h1:
     size: *font-size-l
     lineHeight: *font-line-height-xs
