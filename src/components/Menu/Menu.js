@@ -26,8 +26,8 @@ class Menu extends React.Component {
     this.items = [
       { to: "/", label: "Home", icon: FaHome },
       { to: "/category/", label: "Categories", icon: FaTag },
-      { to: "/search/", label: "Search", icon: FaSearch },
       { to: "/timeline/", label: "Timeline", icon: FaHistory },
+      { to: "/search/", label: "Search", icon: FaSearch },
       ...pages,
       { to: "/contact/", label: "Contact", icon: FaEnvelope }
     ];
@@ -186,7 +186,6 @@ class Menu extends React.Component {
             justify-content: center;
             list-style: none;
             margin: 0;
-            font-size: 1.9em;
             padding: 0; /* 0 ${theme.space.s}; */
             position: relative;
             width: 100%;

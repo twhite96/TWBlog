@@ -9,9 +9,11 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
-        <h1>Your neighborhood dev blog.</h1>
+        <h1>
+          Just your neighborhood dev blog
+        </h1>
         <button onClick={scrollToContent} aria-label="scroll">
-          <FaArrowDown style={{ textAlign: "center", margin: "-.5rem" }} />
+          <FaArrowDown />
         </button>
       </section>
 
@@ -74,7 +76,6 @@ const Hero = props => {
 
           :global(svg) {
             position: relative;
-            margin: 2px;
             top: 5px;
             fill: ${theme.color.neutral.white};
             stroke-width: 40;
