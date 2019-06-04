@@ -32,15 +32,17 @@ const Bodytext = props => {
             font-size: ${theme.font.size.m};
             line-height: ${theme.font.lineHeight.xl};
             margin: 0 0 1.5em;
-            color: '#000';
+            color: "#000";
             font-family: ${theme.font.family.initial};
           }
           :global(ul) {
+            font-size: ${theme.font.size.m};
             list-style: circle;
             margin: 0 0 1.5em;
             padding: 0 0 0 1.5em;
           }
           :global(li) {
+            font-size: ${theme.font.size.m};
             margin: 0.7em 0;
             line-height: 1.5;
           }
