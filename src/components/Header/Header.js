@@ -98,14 +98,14 @@ class Header extends React.Component {
           }
 
           h1 {
-            font-size: ${theme.font.size.m};
+            font-size: ${theme.font.size.xl};
             font-weight: ${theme.font.weight.standard};
             margin: ${theme.space.stack.xs};
           }
 
           h2 {
             font-weight: ${theme.font.weight.standard};
-            font-size: ${theme.font.size.xxs};
+            font-size: ${theme.font.size.l};
             letter-spacing: 0;
             margin: 0;
           }
