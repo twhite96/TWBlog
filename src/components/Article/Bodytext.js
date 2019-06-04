@@ -20,7 +20,7 @@ const Bodytext = props => {
 
           :global(h2) {
             line-height: ${theme.font.lineHeight.s};
-            font-size: ${theme.font.size.l};
+            font-size: ${theme.font.size.xl};
           }
 
           :global(h3) {
