@@ -43,7 +43,7 @@ const Bodytext = props => {
             line-height: 1.5;
           }
           :global(a) {
-            font-size: ${theme.font.size.m};
+            font-size: ${theme.font.size.xs};
             font-weight: ${theme.font.weight.bold};
             color: ${theme.color.brand.primary};
             text-decoration: underline;
