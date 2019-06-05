@@ -1,5 +1,5 @@
 ---
-title: Uses
+title: /Uses
 menuTitle: /uses
 ---
 
