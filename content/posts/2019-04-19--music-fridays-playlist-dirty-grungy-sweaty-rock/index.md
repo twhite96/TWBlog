@@ -14,7 +14,9 @@ So this playlist isn't different than most of the songs from that era; there's s
 
 It's loud and grungy and I thoroughly enjoy cleaning and lifting to it.
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="800" style="width:100%;max-width:100%;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/dirty-grungy-sweaty-rock/pl.u-9N10LIXWjXKK"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="1000" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/dirty-grungy-sweaty-rock/pl.u-9N10LIXWjXKK"></iframe>
+
+## On Spotify
 
 https://open.spotify.com/playlist/42tSL02OvpdyH9XczOlAgP
 
