@@ -4,43 +4,43 @@ import './fonts.css'
 
 altonTheme.overrideThemeStyles = () => ({
   a: {
-    color: '#06D7D9'
+    color: "#06D7D9"
   },
-  'a.gatsby-resp-image-link': {
-    boxShadow: 'none'
+  "a.gatsby-resp-image-link": {
+    boxShadow: "none"
   },
-  'p': {
-    fontSize: '1.2rem',
-    fontFamily: 'Lato',
-    textDecoration: 'none'
+  p: {
+    fontSize: "1.2rem",
+    fontFamily: "Lato",
+    textDecoration: "none"
   },
-  'h1': {
-    marginTop: '2rem',
-    marginBottom: '2rem',
-    fontFamily: 'Montserrat, sans-serif',
+  h1: {
+    marginTop: "2rem",
+    marginBottom: "2rem",
+    fontFamily: "Montserrat, sans-serif"
   },
-  'h2': {
-    fontFamily: 'Montserrat, sans-serif'
+  h2: {
+    fontFamily: "Montserrat, sans-serif"
   },
-  'h3': {
-    fontFamily: 'Montserrat, sans-serif'
+  h3: {
+    fontFamily: "Montserrat, sans-serif"
   },
-  'blockquote': {
-    padding: '.5rem 1rem',
-    margin: '.8rem 0',
-    color: '#7a7a7a',
-    borderLeft: '.25rem solid #06D7D9',
-    borderSpacing: '20px',
-    fontStyle: 'italic'
+  blockquote: {
+    padding: ".5rem 1rem",
+    margin: ".8rem 0",
+    color: "#7a7a7a",
+    borderLeft: ".25rem solid #06D7D9",
+    borderSpacing: "20px",
+    fontStyle: "italic"
   },
-  'pre, code': {
-    fontSize: '100%',
-    whiteSpace: 'pre-wrap',
-    /*overflow: 'scroll',
-    wordSpacing: 'normal',*/
-    fontFamily: 'Fira Code'
-  }
-})
+  // "pre, code": {
+  //   fontSize: "100%",
+  //   whiteSpace: "pre-wrap",
+  //   /*overflow: 'scroll',
+  //   wordSpacing: 'normal',*/
+  //   fontFamily: "Fira Code"
+  // }
+});
 
 delete altonTheme.googleFonts
 

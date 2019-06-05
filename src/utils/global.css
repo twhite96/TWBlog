@@ -297,18 +297,3 @@ code.language-scss,
 .gatsby-highlight pre[class*='language-'] {
   min-width: 100%;
 }
-
-blockquote,
-q {
-  color: #b0adab;
-  text-align: center;
-  border-left: .25rem solid #06D7D9;
-  background-clip: content-box;
-  border-spacing: 20px;
-  padding-top: 0px;
-  margin: .6rem 0;
-}
-
-blockquote::before{
-  padding-right: 1.8em;
-}

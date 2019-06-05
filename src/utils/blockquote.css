@@ -1,0 +1,8 @@
+blockquote {
+  color: #b0adab;
+  padding-left: 1rem;
+  text-align: left;
+  font-style: italic;
+  border-left: .25rem solid #06D7D9;
+  margin: .6rem 0;
+}
