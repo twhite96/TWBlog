@@ -300,6 +300,7 @@ code.language-scss,
 
 blockquote {
   color: #b0adab;
+  text-align: center;
   border-left: .25rem solid #06D7D9;
   background-clip: content-box;
   border-spacing: 20px;
