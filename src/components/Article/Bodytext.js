@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import '../../utils/global.css';
 
 const Bodytext = props => {
   const { html, theme } = props;

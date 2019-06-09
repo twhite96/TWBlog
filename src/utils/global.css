@@ -269,6 +269,14 @@ code.language-scss,
   white-space: normal;
 }
 
+.language-text {
+  border-radius: .2.2em !important;
+  background: #F9F9F9;
+  color: #BF616A !important;
+  padding: .25em !important;
+  white-space: normal !important;
+}
+
 .gatsby-highlight-code-line {
   background-color: rgba(62, 63, 87, 90);
   display: block;
@@ -296,4 +304,17 @@ code.language-scss,
 
 .gatsby-highlight pre[class*='language-'] {
   min-width: 100%;
+}
+
+blockquote {
+  color: #b0adab !important;
+  padding-left: 1.2rem !important;
+  text-align: left;
+  font-style: italic;
+  border-left: .25rem solid #06D7D9;
+  margin: .6rem 0;
+}
+
+iframe {
+  height: 900px !important;
 }

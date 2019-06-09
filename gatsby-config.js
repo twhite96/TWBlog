@@ -110,8 +110,22 @@ module.exports = {
             resolve: `@raae/gatsby-remark-oembed`,
             options: {
               providers: {
-                exclude: ["Reddit", "Flickr"]
+                include: [
+                  'Twitter',
+                  'Instagram',
+                ],
+                exclude: [
+                  'Reddit',
+                  'Flickr',
+                  'Spotify'
+                ]
               }
+            }
+          },
+          {
+          resolve: "gatsby-remark-embed-spotify",
+            options: { // default is "100%"
+              height: 900 // default is 400
             }
           },
           {
