@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
-import "prismjs/themes/prism-gloom.css";
+import '../../utils/global.css'";
+import '../../utils/fonts.css'
 
 import asyncComponent from "../AsyncComponent";
 import Headline from "../Article/Headline";
