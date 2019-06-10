@@ -68,7 +68,7 @@ Components will transform props into UI. In this case, a HOC transforms a compon
 
 Take this example:
 
-```jsx
+```js
 // A wrapper component
 const WrapperComponent = ({
   username,
@@ -90,7 +90,7 @@ const EnhancedComponent = withChangedUsername(WrapperComponent);
 The Context API is a way to pass props to other components in the tree without needing to pass those props down to *every* component in the tree. The data can be considered *global*.
 You can create a new Context like so:
 
-```jsx
+```js
 const MyContext = React.createContext(defaultValue);
 ```
 
@@ -104,7 +104,7 @@ One of the most popular methods of using `Context` globally is for theming.
 
 Here is an example of theming using React's Context API in the `styled-components` library:
 
-```jsx
+```js
 // Define our button, but with the use of props.theme this time
 const Button = styled.button`
   color: ${props => props.theme.fg};
