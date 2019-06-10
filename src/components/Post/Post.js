@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
-import '../../utils/global.css'";
-import '../../utils/fonts.css'
+import "../../utils/global.css";
+import "../../utils/fonts.css";
 
 import asyncComponent from "../AsyncComponent";
 import Headline from "../Article/Headline";
