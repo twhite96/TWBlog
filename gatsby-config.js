@@ -113,32 +113,20 @@ module.exports = {
                 include: [
                   'Twitter',
                   'Instagram',
+                  'Spotify',
+                  'Twitch'
                 ],
                 exclude: [
                   'Reddit',
                   'Flickr',
-                  'Spotify'
                 ]
               }
-            }
-          },
-          {
-          resolve: "gatsby-remark-embed-spotify",
-            options: { // default is "100%"
-              height: 900 // default is 400
             }
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 2em`
-            }
-          },
-          {
-            resolve: "@weknow/gatsby-remark-twitch",
-            options: {
-              width: 800,
-              height: 400
             }
           },
           {
