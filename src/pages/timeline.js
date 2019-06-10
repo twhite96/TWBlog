@@ -10,7 +10,7 @@ import coding from '../images/timeline-images/coding.png'
 import pitt from '../images/timeline-images/pitt.png';
 import dev from '../images/timeline-images/dev.jpg';
 import compass from '../images/timeline-images/compass.png';
-import fire from '../images/timeline-images/fire.jpg';
+import fire from '../images/timeline-images/fire.png';
 import gatsby from '../images/timeline-images/gatsby.png';
 import egghead from '../images/timeline-images/egghead.jpg';
 import github from '../images/timeline-images/github.png';
