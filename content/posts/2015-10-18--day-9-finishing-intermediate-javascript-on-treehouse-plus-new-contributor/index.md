@@ -1,21 +1,12 @@
 ---
-ID: 672
 title: "Day 9: Finishing Intermediate JavaScript on Treehouse Plus: New Contributor"
 author: Tiffany White
 date: "2015-10-18"
-layout: post
-link: >
-  https://tiffanywhite.tech/day-9-finishing-intermediate-javascript-on-treehouse-plus-new-contributor/
-published: true
-tags:
-  - DOM elements
-  - javascript
-  - jquery
-categories:
-  - Daily Progress
-  - "Tiffany's Posts"
+category: "Daily Progress"
+cover: 1.jpg
 ---
-<img class="aligncenter" src="https://helloburgh.me/wp-content/uploads/2015/10/wpid-Screenshot-2015-10-17.jpg" alt="DOM" />
+
+![](1.jpg)
 
 <h3>Traversing the DOM</h3>
 
@@ -28,14 +19,14 @@ One of my favorite things about this was instead of having to use the `onclick()
 ```js
 addButton.onclick = addTask;
 //Set the click handler to the addTask function
-addButton.addEventListener(&amp;quot;click&amp;quot;, addTask);
-addButton.addEventListener(&amp;quot;click&amp;quot;, ajaxRequest);
+addButton.addEventListener("click", addTask);
+addButton.addEventListener("click", ajaxRequest);
 ```
 
 This is much faster and easier than traversing each element with the `onclick()` method.
 
 <h3>Welcome Aboard Nick Lash as a New Contributor to the Blog</h3>
 
-Nick and I connected on LinkedIn and, impressed with my social media and blogging output, reached out to me to collaborate on the blog and my podcast which you can find <a href="http://thisdevsjourney.com/">here</a>. I found a place for him to write here and he will be a co-host on my weekly show which hasn’t been weekly in a minute. My fault totally. But that changes with Nick on board.
+Nick and I connected on LinkedIn and, impressed with my social media and blogging output, reached out to me to collaborate on the blog and my podcast which is no longer active. I found a place for him to write here and he will be a co-host on my weekly show which hasn’t been weekly in a minute. My fault totally. But that changes with Nick on board.
 
 Thanks Nick and I hope you get something out of it. I hope my readers enjoy his posts as well. You can find Nick on <a href="https://twitter.com/NicholasLash">Twitter</a>.

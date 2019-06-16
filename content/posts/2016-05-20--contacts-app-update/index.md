@@ -13,32 +13,33 @@ So these past two days I have been working on the contacts app I have been worki
 <h2>Navbar Code</h2>
 My navbar code is as follows:
 
-<pre class="lang:html decode:1 " >
+```html
 
-&lt;!-- Navbar content collapse --&gt;
+<!-- Navbar content collapse  -->;
 
- &lt;nav class=&quot;navbar navbar-dark bg-primary navbar-fixed-top&quot;&gt;
-  &lt;div class=&quot;container-fluid&quot;&gt;
-    &lt;div class=&quot;navbar-header&quot;&gt;
-      &lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#myNavbar&quot;&gt;
-	&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-	&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-	&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
-      &lt;/button&gt;
-   &lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Contacts App&lt;/a&gt;
-&lt;/div&gt;
-&lt;!-- Navbar content --&gt;
-&lt;ul class=&quot;nav navbar-nav&quot;&gt;
- 	&lt;li class=&quot;&quot;&gt;&lt;a class=&quot;nav-link&quot; href=&quot;index.html&quot;&gt;My Contacts &lt;span class=&quot;sr-only&quot;&gt;(current)&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
- 	&lt;li class=&quot;nav-item&quot;&gt;&lt;a class=&quot;nav-link&quot; href=&quot;addContacts.html&quot;&gt;Add Contacts&lt;/a&gt;&lt;/li&gt;
- 	&lt;li class=&quot;nav-iten&quot;&gt;&lt;a class=&quot;nav-link&quot; href=&quot;Phone.html&quot;&gt;Phone&lt;/a&gt;&lt;/li&gt;
- 	&lt;li class=&quot;nav-item&quot;&gt;&lt;a class=&quot;nav-link&quot; href=&quot;Email.html&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- Search bar content --&gt;
+ <nav class="navbar navbar-dark bg-primary navbar-fixed-top">
+  <div class="container-fluid"></div>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+      </button>
+   <a class="navbar-brand" href="#">Contacts App</a>
+</div>
+<!-- Navbar content -->
+<ul class="nav navbar-nav">
+ 	<li class=""><a class="nav-link" href="index.html">My Contacts <span class="sr-only">(current)</span></a></li>
+ 	<li class="nav-item"><a class="nav-link" href="addContacts.html">Add Contacts</a></li>
+ 	<li class="nav-iten"><a class="nav-link" href="Phone.html">Phone</a></li>
+ 	<li class="nav-item"><a class="nav-link" href="Email.html">Email</a></li>
+</ul>
+<!-- Search bar content -->
 
-&lt;form class=&quot;form-inline pull-xs-right&quot;&gt;&lt;input class=&quot;form-control&quot; type=&quot;text&quot; placeholder=&quot;Search&quot; /&gt;
-&lt;button class=&quot;btn btn-success-outline&quot; type=&quot;submit&quot;&gt;Search&lt;/button&gt;&lt;/form&gt;&lt;/div&gt;
-&lt;/nav&gt;</pre>
+<form class="form-inline pull-xs-right"><input class="form-control" type="text" placeholder="Search" />
+<button class="btn btn-success-outline" type="submit">Search</button></form></div>
+</nav>
+```
 
 Not sure what is happening but it looks like this:
 
@@ -97,5 +98,7 @@ $('#form').on('submit', function () {
 ```
 
 Now this isn’t passing Travis CI tests, obviously. I don’t think it will pass until I figure it out better and the basic logic here is sound.
+
+
 <h2>Updated Docs</h2>
 You can find my updated docs <a href="https://twhite96.github.io/contacts-app/index.html" target="_blank">here</a>

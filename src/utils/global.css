@@ -96,6 +96,17 @@ pre[class*="language-"] {
   color: #7AA5FF;
 }
 
+.number {
+  font-family: 'Fira Code !important';
+  font-size: 1.2rem !important;
+  padding: 0px !important;
+  background: #292a44 !important;
+  min-width: 0px !important;
+  height: 0px !important;
+  text-align: left !important;
+  line-height: 1.5 !important;
+  vertical-align: middle !important;
+}
 .token.property {
   color: #FF6F9F;
 }
@@ -166,9 +177,10 @@ code.language-scss,
   cursor: help;
 }
 
-.token.number {
+/* .token.number {
   color: #FFDB7D;
-}
+  background-color: #292a44 !important;
+} */
 
 /*
 * Lenguage markup
@@ -317,4 +329,10 @@ blockquote {
 
 iframe {
   height: 900px !important;
+}
+
+.tag:not(body) {
+  background-color: #292a44 !important;
+  color: #FF6F9F !important;
+  font-size: 1.2rem !important;
 }

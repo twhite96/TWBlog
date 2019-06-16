@@ -1,21 +1,12 @@
 ---
-ID: 2911
 title: Destructuring Objects in ES6
 author: Tiffany White
 date: "2018-03-04"
-spoiler: Destructuring is a way to extract values from nested arrays and objects.
-layout: post
-link: >
-  https://tiffanywhite.tech/destructuring-objects-es6/
-published: true
-tags:
-  - javascript
-  - web development
-categories:
-  - ES6
+category: "ES6"
+cover: 1.jpg
 ---
 
-<img src="https://res.cloudinary.com/twhiteblog/image/upload/c_scale,w_2827/v1527286051/adrian-tormo-316868-unsplash_tugcsv.jpg"/>
+![](1.jpg)
 
 What is destructuring?
 

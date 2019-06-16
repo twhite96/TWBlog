@@ -1,21 +1,12 @@
 ---
-ID: 562
 title: "Day 7: Drawing App"
 author: Tiffany White
 date: "2015-08-20"
-layout: post
-link: >
-  https://tiffanywhite.tech/day-7-drawing-app/
-published: true
-tags:
-  - daily progress
-  - day 7
-  - drawing app
-  - Treehouse
-categories:
-  - Daily Progress
+category: "Daily Progress"
+cover: 1.jpg
 ---
-<img class="aligncenter" src="https://res.cloudinary.com/twhiteblog/image/upload/v1547077532/2015-8-19-_2015-08-19_-_Screenshot_2015-08-19_-_-_nreumn.jpg" alt="Day_7" />
+
+![](1.jpg)
 
 We used more HTML5 and JavaScript in this exercise. We had an HTML5
 
