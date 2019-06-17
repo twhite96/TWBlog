@@ -1,20 +1,12 @@
 ---
-ID: 2480
 title: ES6 Modules
 author: Tiffany White
 date: "2017-10-10"
-spoiler: ES6 modules allows us to have reusable code, in separate files. We do this to eliminate initially massive js files, like app.js  in a Node and Express project. Modules allow us to spread code over relevant files.
-layout: post
-link: https://tiffanywhite.tech/es6-modules/
-published: true
-tags:
-  - javascript
-  - modules
-categories:
-  - ES6
-  - "Tiffany's Posts"
+category: "ES6"
+cover: 1.jpg
 ---
 
+![](1.jpg)
 
 ES6 modules allows us to have reusable code, in separate files. We do this to eliminate initially massive js files, like `app.js` in a Node and Express project. Modules allow us to spread code over relevant files.
 

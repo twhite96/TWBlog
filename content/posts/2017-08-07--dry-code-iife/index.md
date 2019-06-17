@@ -1,18 +1,12 @@
 ---
-ID: 2220
-title: DRY Code and Using IIFEs to Clean Up Code
+title: "DRY Code and Using IIFEs to Clean Up Code"
 author: Tiffany White
 date: "2017-08-07"
-spoiler: "Keep it DRY: Don’t Repeat Yourself As you may have seen in my last post, I have some *ridiculous* conditional statement blocks going on to show/hide the Skycons and for switching up the background photos based on your current weather conditions."
-layout: post
-link: https://tiffanywhite.tech/dry-code-iife/
-published: true
-tags: uncategorized
-categories:
-  - App Updates
-  - "Tiffany's Posts"
+category: "App Updates"
+cover: 1.jpg
 ---
 
+![](1.jpg)
 
 ## DRY: Don’t Repeat Yourself
 

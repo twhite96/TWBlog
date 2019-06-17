@@ -1,21 +1,12 @@
 ---
-ID: 1325
-title: Working on the E-commerce Site for Class
+title: "Working on the E-commerce Site for Class"
 author: Tiffany White
 date: "2016-09-18"
-layout: post
-link: >
-  https://tiffanywhite.tech/ecommerce-class/
-published: true
-tags: uncategorized
-categories:
-  - Front-End
-  - General Updates
-  - Programming
-  - Semester Updates
-  - "Tiffany's Posts"
-  - Web Development
+category: "Semester Updates"
+cover: 1.jpg
 ---
+
+![](1.jpg)
 
 I am going to be making a mock ecommerce site for my Web Development class final project.
 

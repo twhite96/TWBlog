@@ -1,23 +1,12 @@
 ---
-ID: 1243
-title: ES6 and Lambdas
+title: "ES6 and Lambdas"
 author: Tiffany White
 date: "2016-08-13"
-layout: post
-link: >
-  https://tiffanywhite.tech/es6-and-lambdas/
-published: true
-tags:
-  - daily progress
-  - programming
-  - Treehouse
-categories:
-  - Daily Progress
-  - Programming
-  - "Tiffany's Posts"
-  - Treehouse
+category: "ES6"
+cover: 1.jpg
 ---
 
+![](1,jpg)
 
 I am taking the <a href="https://teamtreehouse.com/library/introducing-es2015">JavaScript ES6 course on Treehouse</a>. I should have waited a bit, as I am still learning ES5. Eric Elliott made the case that newbies should be learning ES6 right now as it is the current standard. So I am diving in.
 
