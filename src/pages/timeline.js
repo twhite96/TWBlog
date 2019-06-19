@@ -5,6 +5,7 @@ import Headline from "../components/Article/Headline";
 import Seo from "../components/Seo";
 import Article from "../components/Article";
 import { FaDev, FaGithub, FaCompass } from "react-icons/fa";
+import './reset.css';
 // import coding from '../images/timeline-images/coding.png'
 // import pitt from '../images/timeline-images/pitt.png';
 // import dev from '../images/timeline-images/dev.jpg';
