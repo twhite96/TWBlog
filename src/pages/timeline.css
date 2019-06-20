@@ -6,17 +6,17 @@ body {
   background-color: #f8f8f8!important;
 }
 
-/*!
+/*
 Pure v1.0.0
 Copyright 2013 Yahoo!
 Licensed under the BSD License.
 https://github.com/yahoo/pure/blob/master/LICENSE.md
 */
-/*!
+/*
 normalize.css v^3.0 | MIT License | git.io/normalize
 Copyright (c) Nicolas Gallagher and Jonathan Neal
 */
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
 
 /**
  * 1. Set default font family to sans-serif.
@@ -835,7 +835,7 @@ this the same font stack that Normalize.css sets for the `body`.
 .pure-button:active {
     -webkit-box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0, 0.20) inset;
             box-shadow: 0 0 0 1px rgba(0,0,0, 0.15) inset, 0 0 6px rgba(0,0,0, 0.20) inset;
-    border-color: #000\9;
+    border-color: #000;
 }
 
 .pure-button[disabled],
@@ -1804,9 +1804,9 @@ striping:
   .vertical-timeline--two-columns .vertical-timeline-element-content .vertical-timeline-element-date {
     position: absolute;
     width: 100%;
-    left: 124%;
+    left: 142%;
     top: 6px;
-    font-size: 16px;
+    /* font-size: 16px; */
     font-size: 1rem;
   }
 
@@ -1826,7 +1826,7 @@ striping:
   .vertical-timeline--two-columns .vertical-timeline-element:nth-child(even):not(.vertical-timeline-element--left) .vertical-timeline-element-content .vertical-timeline-element-date,
   .vertical-timeline--two-columns .vertical-timeline-element.vertical-timeline-element--right .vertical-timeline-element-content .vertical-timeline-element-date {
     left: auto;
-    right: 124%;
+    right: 142%;
     text-align: right;
   }
 }
