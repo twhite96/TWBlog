@@ -1534,14 +1534,46 @@ striping:
     color: black;
 }
 
-.vertical-timeline-element--work .vertical-timeline-element-content {
-    border-top: 3px solid #2196f3;
+/* .vertical-timeline-element--work .vertical-timeline-element-content {
+    border-top: 3px solid #ff8ffa;
 }
 
 .vertical-timeline-element--education .vertical-timeline-element-content {
-    border-top: 3px solid #e91e63;
+    border-top: 3px solid #06d7d9;
+} */
+
+.gatsby {
+  border-top: 3px solid rgb(102, 51, 153);
 }
 
+.blog {
+  border-top: 3px solid rgb(6, 215, 217);
+}
+
+.dev {
+  border-top: 3px solid rgb(18, 19, 20);
+}
+
+.dev-on-fire {
+  border-top: 3px solid rgb(239, 66, 55);
+}
+
+ .pitt {
+  border-top: 3px solid rgb(0, 53, 148);
+}
+
+
+.medium {
+  border-top: 3px solid rgb(1, 143, 105);
+}
+
+.udemy {
+  border-top: 3px solid rgb(234, 82, 82);
+}
+
+.react-icons {
+  font-size: 1.2rem;
+}
 /* Example with custom animations */
 /*
 .vertical-timeline--animate .vertical-timeline-element-content.bounce-in {
@@ -1839,6 +1871,10 @@ striping:
   visibility: visible;
   -webkit-animation: cd-bounce-2 0.6s;
   animation: cd-bounce-2 0.6s;
+}
+
+h4 {
+  font-weight: 300;
 }
 
 @media only screen and (min-width: 1170px) {
