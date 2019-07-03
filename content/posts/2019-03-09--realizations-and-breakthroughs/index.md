@@ -36,7 +36,7 @@ The end of last year saw me forgetting the tutorials and *building things*. I am
 
 I'm also building dumb React components from scratch to get the hang of how to build them and how they work.
 
-<iframe src="https://codesandbox.io/embed/1yk8xw72jl?autoresize=1&fontsize=18" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+<iframe src="https://codesandbox.io/embed/1yk8xw72jl?autoresize=1&fontsize=18" style="width:100%; height:500px!important; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
 
 ## New mindset
 

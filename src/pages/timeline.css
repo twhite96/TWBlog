@@ -1571,6 +1571,10 @@ striping:
   border-top: 3px solid rgb(234, 82, 82);
 }
 
+.icf {
+  border-top: 3px solid rgb(243, 97, 183);
+}
+
 .react-icons {
   font-size: 1.2rem;
 }

@@ -145,13 +145,13 @@ I find it much more enjoyable fixing *other people's* bugs than my own. This was
 
 This stopwatch is a stupid simple component but if you are just scratching the surface of React like me, I am sure digging into something like this stopwatch and figuring out how it works is an excellent exercise and use of one's time.
 
-<iframe src="https://codesandbox.io/embed/wyz76w95n8" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+<iframe src="https://codesandbox.io/embed/wyz76w95n8" style="width:100%; height:400px!important; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
 
 ---
 
 ### Sign Up for the Newsletter. No spam. I hate that, too.
 
-<iframe scrolling="no" width="100% !important" height="220px" style="border:1px #ccc solid !important" class="lazyload" src="https://buttondown.email/tiffanywhite? as_embed=true"></iframe>
+<iframe scrolling="no" width="100% !important" height="220px !important" style="height: 220px !important; border:1px #ccc solid !important" class="lazyload" src="https://buttondown.email/tiffanywhite? as_embed=true"></iframe>
 
 ---
 <a href="https://www.buymeacoffee.com/twhitedev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>

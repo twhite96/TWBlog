@@ -14,7 +14,8 @@ import {
   FaMediumM,
   FaEgg,
   FaTv,
-  FaMicrophoneAlt
+  FaMicrophoneAlt,
+  FaBriefcase
 } from "react-icons/fa";
 import './timeline.css';
 // import coding from '../images/timeline-images/coding.png'
@@ -62,10 +63,23 @@ const TimelinePage = props => {
       </ThemeContext.Consumer>
       <VerticalTimeline layout="1-column">
         <VerticalTimelineElement
+          className="vertical-timeline-element--work icf"
+          date="07/2019-present"
+          iconStyle={{ background: "rgb(243, 97, 183)", color: "#fff" }}
+          icon={<FaBriefcase />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Got offered a entry level front-end developer position at ICF
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">Frontend Dev</h4>
+          <p>First ever full-time salaried dev job at ICF consulting firm.</p>
+        </VerticalTimelineElement>
+
+        <VerticalTimelineElement
           className="vertical-timeline-element--work dev"
           date="01/2019-present"
           iconStyle={{ background: "rgb(0,0,0)", color: "#fff" }}
-          icon={<FaTv />}
+          icon={<FaEgg />}
         >
           <h3 className="vertical-timeline-element-title">
             Got Offered a Spot to Teach on Egghead.io
