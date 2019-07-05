@@ -4,6 +4,7 @@ date: "2019-04-23"
 author: "Tiffany White"
 spoiler: "Sometimes you just need to listen to your body."
 cover: cover.jpg
+category: "Goals"
 ---
 
 ![](./cover.jpg)

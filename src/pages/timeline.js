@@ -72,7 +72,15 @@ const TimelinePage = props => {
             Got offered a entry level front-end developer position at ICF
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Frontend Dev</h4>
-          <p>First ever full-time salaried dev job at ICF consulting firm.</p>
+          <p>First ever full-time salaried dev job at ICF consulting firm.</p>{" "}
+          <p>
+            <a
+              style={{ textDecoration: "underline", color: "rgb(113, 113, 113)" }}
+              href="https://tiffany-resume.netlify.com/"
+            >
+              View Resume
+            </a>
+          </p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement

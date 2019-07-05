@@ -4,6 +4,7 @@ date: 2019-04-02
 author: Tiffany White
 spoiler: "It's props all the way down."
 cover: cover.jpg
+category: "React"
 ---
 
 ![](./cover.jpg)

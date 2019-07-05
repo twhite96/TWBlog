@@ -4,6 +4,7 @@ date: 2019-04-19
 author: Tiffany White
 spoiler: "Break out your flannel and ripped jeans, 90s teens."
 cover: cover.jpg
+category: "Playlists"
 ---
 
 ![](./cover.jpg)

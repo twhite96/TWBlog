@@ -22,8 +22,9 @@ if (!fs.existsSync(dir)) {
 fs.writeFileSync(
   `${dir}/index.md`,
   `---
-date: "${date}"
 title: "${title}"
+date: "${date}"
+author: "Tiffany White"
 cover:
 category:
 ---`,

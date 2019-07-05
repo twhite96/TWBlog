@@ -4,6 +4,7 @@ date: "2019-04-21"
 author: "Tiffany White"
 spoiler: "Something new."
 cover: cover.png
+category: "Fun"
 ---
 
 ![](./twitch.jpg)

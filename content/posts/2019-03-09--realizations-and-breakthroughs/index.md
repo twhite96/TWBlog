@@ -4,6 +4,7 @@ date: "2019-03-09"
 author: Tiffany White
 spoiler: "I have been working on my biggest project for almost 2 1/2 years. Now I'm ready to finish it. Here's what I learned along the way."
 cover: 1.jpg
+category: "Life"
 ---
 
 ![](./1.jpg)

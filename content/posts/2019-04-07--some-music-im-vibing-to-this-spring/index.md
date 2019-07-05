@@ -4,6 +4,7 @@ date: 2019-04-07
 author: "Tiffany White"
 spoiler: "Sometimes you just want to chill before you get money."
 cover: cover.jpg
+category: "Playlists"
 ---
 
 ![](./cover.jpg)

@@ -1,5 +1,6 @@
 ---
 date: "2019-06-15"
+author: "Tiffany White"
 title: "Showing Up Everyday and Other Things"
 cover: 1.jpeg
 category: "Daily Updates"

@@ -1,9 +1,10 @@
 ---
 title: "Setting Up a New Mac with a Shell Script"
-author: Tiffany White
+author: "Tiffany White"
 spoiler: The concept of setting up a new Mac with a shell script in the programming community is not a new thing, and I found an article on automation by Kent C Dodds and it got me thinking about doing more of it.
 date: "2019-02-16"
 cover: 1.jpg
+category: "General Dev"
 ---
 
 ![](./1.jpg)

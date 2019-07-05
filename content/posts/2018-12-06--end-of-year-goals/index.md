@@ -1,6 +1,8 @@
 ---
 title: End of Year Wrap-up and 2019 Goals
 date: "2018-12-06"
+author: "Tiffany White"
+category: "Yearly Wrap-up and New Goals"
 spoiler: Life is what happens to you when you're busy making other plans.
 cover: goals.jpg
 ---

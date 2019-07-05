@@ -2,6 +2,7 @@
 title: "Open Source and the Role of a Good README"
 date: 2019-03-18
 author: "Tiffany White"
+category: "Open Source"
 spoiler: "Started from the bottom now...what?"
 cover: 1.png
 ---
