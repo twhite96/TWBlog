@@ -9,19 +9,13 @@ Derek Sivers set up a website called [nownownow.com](http://nownownow.com/about)
 
 ## What Am I Doing *Now*?
 
-I live in Central PA and I am currently learning at a breakneck pace full-stack web development with [Wes Bos Courses](https://wesbos.com/courses/), [freeCodeCamp](https://www.freecodecamp.org/), and [Udemy](https://www.udemy.com/).
+I [just got hired](https://tiffanywhite.dev/goal-completed/) as a junior dev so I am trying to get prepared for that and orientation, paperwork, and eventually moving apartments...again.
 
 I am trying to get into better shape and am doing well at it.
 
-I am working on two blogs: this one, Tiffany R. White Blog, and my book review blog, [Book Notes by Tiffany](https://booknotesbytiffany.net)[^1].
-
-I am building a markdown grammar checker called [Check Yo Self](https://github.com/twhite96/checkyoself) and a few other projects.
+I am working on three blogs: this one, Tiffany R. White Blog, my book review blog, [Book Notes by Tiffany](https://booknotesbytiffany.net)[^1], and my fun blog [That Mac Nerd](https://thatmacnerd.net/).
 
 I've been trying to get back into [photography](https://www.eyeem.com/u/trwhite) as a creative outlet and excuse to get out of the house[^2].
-
-I also have a reusable component and a couple of React hooks in the works to open source...and...
-
-I have also been invited to be an [an egghead.io instructor](https://egghead.io/instructors/tiffany-white). I have a few small lessons in the works so stay tuned.
 
 ---
 
@@ -29,38 +23,32 @@ I have also been invited to be an [an egghead.io instructor](https://egghead.io/
 
 We carry these things everywhere. Inspired by another `/now` page I am posting a screenshot of my iPhone and iPad, and also my iMac.
 
-![](./may-2.jpg)
-*Getting back into photography as a sort of stress reliever; I go for walks to look for something to shoot.*
+![](./july-iphone.png)
+*I am going to be making more money than I ever have, so my home screen here is trying to start a budgeting habit. I also want to track more of my time and hours for work as I am working remotely.*
 
 
 ---
 
-![](./may-ipad-3.jpg)
-*You almost literally have to jump through hoops in order to get any writing done on this, especially for a blog like this. But that is what I am going to try, starting with [Drafts](https://getdrafts.com/).*
-
----
-
-![](./may-watch.jpg)
-*Switched back to my old face. I don't know why, I just like it better for some reason.*
-
+![](./july-ipad.png)
+*Installed iPadOS. Digging it.*
 
 ---
 
 ## What's On My Mac?
 
-![](./may-imac.jpg)
-*Übersicht is a pretty nifty alternative to GeekTool*
+![](./july-imac-main.png)
+*Cortex wallpaper. Pretty rad.*
 
-![](./may-lg.jpg)
-*Übersicht on the second monitor*
+![](./july-imac-lg.png)
+*That GitHub contribution graph bruh*
 
 ---
 
-This may seem like a lot and it is. I don't know if I'll get everything done, but if I get into more of a routine, I think it is doable.
+I have *seriously* cut back on what I am doing because I really *have to* as I am working now. I'm glad because I would be headed for burnout again and that would be an awful way to start a new job.
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/tiffanywhitedev) Or don’t. 🤷🏿
 
-*Last Updated: 2019-05-10 06.44.55*
+*Last Updated: 2019-07-07 00.12.51*
 
 [^1]: Name inspired by Bill Gates [Gates Notes](https://www.gatesnotes.com/Books).
 [^2]: I absolutely do not get enough time away from my desk. So I've gone on one photo walk and plan on doing more, at least once a week.
