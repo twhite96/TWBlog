@@ -23,20 +23,20 @@ I've been trying to get back into [photography](https://www.eyeem.com/u/trwhite)
 
 We carry these things everywhere. Inspired by another `/now` page I am posting a screenshot of my iPhone and iPad, and also my iMac.
 
-![](./july-iphone.png)
+![](./iphone-mid-july-min.png)
 *I am going to be making more money than I ever have, so my home screen here is trying to start a budgeting habit. I also want to track more of my time and hours for work as I am working remotely.*
 
 
 ---
 
-![](./july-ipad.png)
+![](./ipad-mid-july-min.png)
 *Installed iPadOS. Digging it.*
 
 ---
 
 ## What's On My Mac?
 
-![](./july-imac-main.png)
+![](./imac-mid-july.jpg)
 *Cortex wallpaper. Pretty rad.*
 
 ![](./july-imac-lg.png)
