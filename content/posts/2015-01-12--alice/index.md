@@ -8,7 +8,7 @@ cover: dude_in_the_zone.jpg
 
 
 
-<p>So this is where I&#8217;ll begin this blog&#8211; as an undergrad at a community college, transferring to a major university come fall of 2015. I am taking a Fundamentals of Programming class using Alice, a drag and drop, storytelling object oriented programming app for Mac, PC, and Linux. Best part about it is it&#8217;s <strong>free</strong>. </p>
+<p>So this is where I'll begin this blog&#8211; as an undergrad at a community college, transferring to a major university come fall of 2015. I am taking a Fundamentals of Programming class using Alice, a drag and drop, storytelling object oriented programming app for Mac, PC, and Linux. Best part about it is it&#8217;s <strong>free</strong>. </p>
 
 <p>Today was the first day of class and I am already excited. While I have a biology class as well this is a coding blog so we&#8217;ll get down to that. </p>
 
