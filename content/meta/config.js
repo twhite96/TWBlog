@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: "Tiffany R. White Blog", // <title>
   shortSiteTitle: "Tiffany R. White Blog", // <title> ending for posts and pages
-  siteDescription: "Just my little corner of the internet.",
+  siteDescription: "Your friend Tiffany's tiny little weblog.",
   siteUrl: "https://tiffanywhite.dev",
   // pathPrefix: "",
   siteImage: "preview.jpg",
@@ -13,7 +13,7 @@ module.exports = {
 
   /* info */
   headerTitle: "Tiffany R. White Blog",
-  headerSubTitle: "Just my little corner of the internet.",
+  headerSubTitle: "Your friend Tiffany's tiny little weblog.",
 
   /* manifest.json */
   manifestName: "Tiffany R. White Blog",
