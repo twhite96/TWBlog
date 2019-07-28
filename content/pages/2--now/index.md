@@ -23,13 +23,13 @@ I've been trying to get back into [photography](https://www.eyeem.com/u/trwhite)
 
 We carry these things everywhere. Inspired by another `/now` page I am posting a screenshot of my iPhone and iPad, and also my iMac.
 
-![](./iphone-mid-july-min.png)
+![](./iphone-xs-max-home.png)
 *I am going to be making more money than I ever have, so my home screen here is trying to start a budgeting habit. I also want to track more of my time and hours for work as I am working remotely.*
 
 
 ---
 
-![](./ipad-mid-july-min.png)
+![](./new-ipad-july-end.png)
 *Installed iPadOS. Digging it.*
 
 ---
@@ -48,7 +48,7 @@ I have *seriously* cut back on what I am doing because I really *have to* as I a
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/tiffanywhitedev) Or don’t. 🤷🏿
 
-*Last Updated: 2019-07-07 00.12.51*
+*Last Updated: 2019-07-27 21.34.29*
 
 [^1]: Name inspired by Bill Gates [Gates Notes](https://www.gatesnotes.com/Books).
 [^2]: I absolutely do not get enough time away from my desk. So I've gone on one photo walk and plan on doing more, at least once a week.
