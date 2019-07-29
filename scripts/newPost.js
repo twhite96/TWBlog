@@ -27,6 +27,7 @@ date: "${date}"
 author: "Tiffany White"
 cover:
 category:
+description:
 ---`,
 
   function(err) {

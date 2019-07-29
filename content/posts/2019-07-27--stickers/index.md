@@ -4,6 +4,7 @@ date: "2019-07-27"
 author: "Tiffany White"
 cover: 1.jpg
 category: Random
+description: "Devs love stickers. Here are mine."
 ---
 
 ![](./1.jpg)
