@@ -91,6 +91,7 @@ class Layout extends React.Component {
                     slug
                     prefix
                   }
+                  timeToRead
                   frontmatter {
                     title
                     menuTitle

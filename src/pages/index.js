@@ -85,6 +85,7 @@ export const query = graphql`
             slug
             prefix
           }
+          timeToRead
           frontmatter {
             title
             category

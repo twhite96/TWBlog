@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import "../../utils/global.css";
 import "../../utils/fonts.css";
 
+
 import asyncComponent from "../AsyncComponent";
 import Headline from "../Article/Headline";
 import Bodytext from "../Article/Bodytext";
@@ -23,6 +24,7 @@ const Post = props => {
     post,
     post: {
       html,
+      timeToRead,
       fields: { prefix, slug },
       frontmatter: { title, author, category }
     },

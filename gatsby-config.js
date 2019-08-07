@@ -99,6 +99,7 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-plugin-sharp`,
+          `gatsby-remark-reading-time-v2`,
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -110,16 +111,8 @@ module.exports = {
             resolve: `@raae/gatsby-remark-oembed`,
             options: {
               providers: {
-                include: [
-                  'Twitter',
-                  'Instagram',
-                  'Spotify',
-                  'Twitch'
-                ],
-                exclude: [
-                  'Reddit',
-                  'Flickr',
-                ]
+                include: ["Twitter", "Instagram", "Spotify", "Twitch"],
+                exclude: ["Reddit", "Flickr"]
               }
             }
           },
@@ -300,6 +293,7 @@ module.exports = {
                         slug
                         prefix
                       }
+                      timeToRead
                       frontmatter {
                         title
                       }
