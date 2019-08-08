@@ -155,6 +155,7 @@ module.exports = {
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`, ,
           `gatsby-plugin-remove-fingerprints`,
+          'gatsby-plugin-netlify-cache',
           {
             resolve: "gatsby-remark-emojis",
             options: {
