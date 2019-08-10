@@ -8,7 +8,7 @@ module.exports = {
   siteLanguage: "en",
 
   /* author */
-  authorName: "Tiffany White",
+  authorName: "Tiffany",
   authorTwitterAccount: "tiffanywhitedev",
 
   /* info */
