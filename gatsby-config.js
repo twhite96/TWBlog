@@ -99,21 +99,14 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-plugin-sharp`,
-          `gatsby-remark-reading-time-v2`,
+          `gatsby-remark-embed-spotify`,
+          // `gatsby-remark-embed-itunes`,
+          // `gatsby-remark-instagram-embed`,
           {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 800,
               backgroundColor: "transparent"
-            }
-          },
-          {
-            resolve: `@raae/gatsby-remark-oembed`,
-            options: {
-              providers: {
-                include: ["Twitter", "Instagram", "Spotify", "Twitch"],
-                exclude: ["Reddit", "Flickr"]
-              }
             }
           },
           {
@@ -155,7 +148,7 @@ module.exports = {
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`, ,
           `gatsby-plugin-remove-fingerprints`,
-          'gatsby-plugin-netlify-cache',
+          // `gatsby-plugin-netlify-cache`,
           {
             resolve: "gatsby-remark-emojis",
             options: {
@@ -264,6 +257,7 @@ module.exports = {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.edges.map(edge => {
                 return Object.assign({}, edge.node.frontmatter, {
+                  title: edge.node.title,
                   description: edge.node.excerpt,
                   date: edge.node.fields.prefix,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,

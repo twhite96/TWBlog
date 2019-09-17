@@ -86,22 +86,14 @@ Let’s start with my gear.
 
 - [VS Code](https://code.visualstudio.com/)
 	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code [^2] and couldn’t be happier.
-- [iTerm2](https://www.iterm2.com/)
-	- Back to iTerm. It's just *better*.
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 	- I will never use a terminal without this installed.
 - [Sketch](https://www.sketchapp.com/) for UI design
 - [Boom 3D](http://www.globaldelight.com/boom3d/index.php)
 	- This makes everything sound *amazing*.
-- [Timing 2](https://timingapp.com/)
-	- This is how I can find out how much time I spend on Twitter.
 - Xcode
-- Evernote
 - Chrome
-- [Transmit 5 for Mac](https://www.panic.com/transmit/)
 	- There are cheaper, free, FTP clients out there but my first text editor was Coda and I liked it so much I bought Panic’s FTP client. It looks good and functions quite well. I moved on from Coda when I became “serious”.
-- nvAlt
-	- Brett Terpstra made a fork of Notational Velocity’s plain text note app and I use it for quick notes.
 - PopClip
 	- Using PopClip is a lifesaver. When it doesn’t work I am lost.
 - [Alfred](https://www.alfredapp.com/)
@@ -150,7 +142,7 @@ So this is my setup and what I am currently using. You can show me your dev setu
 
 
 [^1]: Got the gold and this will be my last iPhone for a while. No need to upgrade yearly as these phones are more than capable of lasting a couple years.
-[^2]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
+[^2]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Gatsby and Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
 [^3]: Even brainfuck!
 [^4]: This is the only task manager that I actually look at and use. It is *that* beautiful, simple, and it has impressed me far more than any task manager in recent memory.
 [^5]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/e8ed18d3f574/Screenshot-2018-09-05_12-00-33_AM.png).

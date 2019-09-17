@@ -66,8 +66,8 @@ color:
 font:
   # font options
   family:
-    initial: 'Arial, sans-serif'
-    target: &font-family-target 'PT Sans'
+    initial: 'Noto Sans, sans-serif'
+    target: &font-family-target 'Noto Sans'
   weight:
     standard: 400
     bold: 600

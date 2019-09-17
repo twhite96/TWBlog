@@ -4,6 +4,9 @@ import PropTypes from "prop-types";
 import React from "react";
 import { graphql, StaticQuery } from "gatsby";
 import ScrollButton from "../components/ScrollButton/";
+// import sun from '../images/png/sun.png';
+// import moon from '../images/png/moon.png';
+// import Toggle from "../components/DarkMode/Toggle";
 
 import { getScreenWidth, timeoutThrottlerHandler } from "../utils/helpers";
 import Footer from "../components/Footer/";
@@ -24,7 +27,8 @@ class Layout extends React.Component {
       font600loaded: false,
       screenWidth: 0,
       headerMinimized: false,
-      theme: themeObjectFromYaml
+      theme: themeObjectFromYaml,
+      // mode: null
     };
 
     if (typeof window !== `undefined`) {
@@ -42,7 +46,15 @@ class Layout extends React.Component {
     if (typeof window !== "undefined") {
       window.addEventListener("resize", this.resizeThrottler, false);
     }
+    // this.setState({ mode: window.__mode });
+    // window.__onThemeChange = () => {
+    //   this.setState({ mode: window.__mode });
+    // };
   }
+
+  // componentDidMount() {
+
+  // }
 
   resizeThrottler = () => {
     return timeoutThrottlerHandler(this.timeouts, "resize", 100, this.resizeHandler);
@@ -174,6 +186,34 @@ class Layout extends React.Component {
                         display: block;
                       }
                     `}</style>
+                    {/* <Toggle
+                      icons={{
+                        checked: (
+                          <img
+                            src={moon}
+                            width="16"
+                            height="16"
+                            role="presentation"
+                            style={{ pointerEvents: 'none' }}
+                          />
+                        ),
+                        unchecked: (
+                          <img
+                            src={sun}
+                            width="16"
+                            height="16"
+                            role="presentation"
+                            style={{ pointerEvents: 'none' }}
+                          />
+                        ),
+                      }}
+                      checked={this.state.mode === 'dark'}
+                      onChange={e =>
+                        window.__setPreferredTheme(
+                          e.target.checked ? 'dark' : 'light'
+                        )
+                      }
+                    /> */}
                     <div style={{ float: "right", display: "inline-block", width: 25 }}>
                       <ScrollButton />
                     </div>

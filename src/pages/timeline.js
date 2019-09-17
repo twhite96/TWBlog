@@ -76,7 +76,7 @@ const TimelinePage = props => {
           <p>
             <a
               style={{ textDecoration: "underline", color: "rgb(113, 113, 113)" }}
-              href="https://tiffany-resume.netlify.com/"
+              href="https://resume.tiffanyrwhite.com/"
             >
               View Resume
             </a>
