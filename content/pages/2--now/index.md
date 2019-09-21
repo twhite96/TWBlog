@@ -36,11 +36,11 @@ We carry these things everywhere. Inspired by another `/now` page I am posting a
 
 ## What's On My Mac?
 
-![](./imac-mid-july.jpg)
-*Cortex wallpaper. Pretty rad.*
+![](./sept-imac-now.jpg)
+*Club MacStories wallpaper and some Adobe apps in the dock as I am cooking things up.*
 
-![](./july-imac-lg.png)
-*That GitHub contribution graph bruh*
+![](./sept-lg-mac-now.jpg)
+*That GitHub contribution graph bruh...well, it used to be better before I started work....*
 
 ---
 
