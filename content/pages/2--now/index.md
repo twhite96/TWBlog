@@ -13,9 +13,9 @@ I [just got hired](https://tiffanywhite.dev/goal-completed/) as a junior dev so 
 
 I am trying to get into better shape and am doing well at it.
 
-I am working on three blogs: this one, Tiffany R. White Blog, my book review blog, [Book Notes by Tiffany](https://booknotesbytiffany.net)[^1], and my fun blog [That Mac Nerd](https://thatmacnerd.net/).
+I am working on three blogs: this one, Tiffany R. White Blog, my book review blog, [Book Notes by Tiffany](https://booknotesbytiffany.net)[^1], some stuff about building robots at [WTF Robots](https://wtfrobots.netlify.com/) and my fun blog [tiffany.blog](https://tiffany.blog/). I also started yet *another* dev podcast called [Good First Issue](https://goodfirstissue.org/)[^2].
 
-I've been trying to get back into [photography](https://www.eyeem.com/u/trwhite) as a creative outlet and excuse to get out of the house[^2].
+I've been trying to get back into [photography](https://www.eyeem.com/u/trwhite) as a creative outlet and excuse to get out of the house[^3].
 
 ---
 
@@ -23,14 +23,14 @@ I've been trying to get back into [photography](https://www.eyeem.com/u/trwhite)
 
 We carry these things everywhere. Inspired by another `/now` page I am posting a screenshot of my iPhone and iPad, and also my iMac.
 
-![](./iphone-xs-max-home.png)
-*I am going to be making more money than I ever have, so my home screen here is trying to start a budgeting habit. I also want to track more of my time and hours for work as I am working remotely.*
+![](./sept-now-iphone.png)
+*Utilitarian, but with a smart home automation folder.*
 
 
 ---
 
-![](./new-ipad-july-end.png)
-*Installed iPadOS. Digging it.*
+![](./sept-now-ipad.png)
+*Cleaned up the widget sidebar and added some experiments to the homescreen.*
 
 ---
 
@@ -51,4 +51,5 @@ What are you doing? I’m curious by nature. Share it with me on [Twitter](https
 *Last Updated: 2019-07-27 21.34.29*
 
 [^1]: Name inspired by Bill Gates [Gates Notes](https://www.gatesnotes.com/Books).
-[^2]: I absolutely do not get enough time away from my desk. So I've gone on one photo walk and plan on doing more, at least once a week.
+[^2]: I need to get settled into my new apartment and also figure out who I should ask to cohost. I have a couple people in mind.
+[^3]: I absolutely do not get enough time away from my desk. So I've gone on one photo walk and plan on doing more, at least once a week.
