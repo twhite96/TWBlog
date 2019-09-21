@@ -48,7 +48,7 @@ I have *seriously* cut back on what I am doing because I really *have to* as I a
 
 What are you doing? I’m curious by nature. Share it with me on [Twitter](https://twitter.com/tiffanywhitedev) Or don’t. 🤷🏿
 
-*Last Updated: 2019-07-27 21.34.29*
+*Last Updated: 2019-09-21 16.33.31*
 
 [^1]: Name inspired by Bill Gates [Gates Notes](https://www.gatesnotes.com/Books).
 [^2]: I need to get settled into my new apartment and also figure out who I should ask to cohost. I have a couple people in mind.
