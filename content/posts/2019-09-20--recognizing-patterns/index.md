@@ -37,7 +37,7 @@ It took me an *absurdly* long time to recognize this is what a pattern *is*. Onc
 
 ## Object Creator Pattern
 
-You know how to create objects: the object literal, constructor, and the class. The way you write each of these is a pattern.
+You know how to create objects: the object literal, constructor, and the class. The way you instantiate each of these is a pattern.
 
 ```js
 // Object literal
