@@ -1,12 +1,12 @@
 import React from "react";
 import PropTypes from "prop-types";
 import {
-  FacebookShareButton,
+  // FacebookShareButton,
   LinkedinShareButton,
   TwitterShareButton,
-  FacebookShareCount,
+  // FacebookShareCount,
   LinkedinShareCount,
-  FacebookIcon,
+  // FacebookIcon,
   TwitterIcon,
   LinkedinIcon
 } from "react-share";
@@ -42,7 +42,7 @@ const PostShare = props => {
           >
             <TwitterIcon round size={iconSize} />
           </TwitterShareButton>
-          <FacebookShareButton
+          {/* <FacebookShareButton
             url={url}
             quote={`${title} - ${excerpt}`}
             additionalProps={{
@@ -53,7 +53,7 @@ const PostShare = props => {
             <FacebookShareCount url={url}>
               {count => <div className="share-count">{filter(count)}</div>}
             </FacebookShareCount>
-          </FacebookShareButton>
+          </FacebookShareButton> */}
           <LinkedinShareButton
             url={url}
             title={title}

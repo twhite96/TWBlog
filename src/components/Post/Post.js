@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import "../../utils/global.css";
+// import "../../utils/prism-synthwave84.css";
 import "../../utils/fonts.css";
 
 

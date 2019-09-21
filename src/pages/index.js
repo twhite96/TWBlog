@@ -14,12 +14,6 @@ class IndexPage extends React.Component {
   };
 
   render() {
-    // const { currentPage, numPages } = this.props.pageContext;
-    // const isFirst = currentPage === 1 || !currentPage;
-    // const isLast = currentPage === numPages;
-    // const prevPage = currentPage - 1 === 1 ? "/" : (currentPage - 1).toString();
-    // const nextPage = (currentPage + 1).toString();
-
     const {
       data: {
         posts: { edges: posts = [] },
@@ -58,61 +52,8 @@ class IndexPage extends React.Component {
           {theme => <Blog posts={posts} theme={theme} />}
         </ThemeContext.Consumer>
 
-        {/* <div
-          style={{
-            maxWidth: "700px",
-            margin: "0 auto 20px auto",
-            textAlign: "center"
-          }}
-        >
-          {!isFirst && (
-            <Link to={prevPage} rel="prev">
-              ← Previous Page&nbsp;
-            </Link>
-          )}
+        <a href="https://twitter.com/tiffanywhitedev" style={{ display: "none" }} rel="me">twitter.com/tiffanywhitedev</a>
 
-          {!isLast && (
-            <Link to={nextPage} rel="next">
-              &nbsp;Next Page →
-            </Link>
-          )}
-        </div>
-
-        <ul
-          style={{
-            display: "flex",
-            flexWrap: "wrap",
-            maxWidth: "700px",
-            margin: "0 auto 60px auto",
-            alignItems: "center",
-            listStyle: "none",
-            padding: 0,
-            lineHeight: "30px"
-          }}
-        >
-          {Array.from({ length: numPages }, (_, i) => (
-            <li
-              key={`pagination-number${i + 1}`}
-              style={{
-                margin: 0
-              }}
-            >
-              <Link
-                to={`/${i === 0 ? "" : i + 1}`}
-                style={{
-                  padding: "3px 8px",
-                  borderRadius: "5px",
-                  textDecoration: "none",
-                  color: i + 1 === currentPage ? "#ffffff" : "",
-                  background: i + 1 === currentPage ? "#06d7d9" : ""
-                }}
-              >
-                {i + 1}
-              </Link>
-            </li>
-          ))}
-        </ul> */}
-        <a href="https://twitter.com/tiffanywhitedev" style={{display: "none"}}rel="me">twitter.com/tiffanywhitedev</a>
         <Seo facebook={facebook} />
 
         <style jsx>{`
