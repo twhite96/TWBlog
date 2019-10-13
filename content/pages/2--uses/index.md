@@ -3,7 +3,7 @@ title: /Uses
 menuTitle: /uses
 ---
 
-![](./1.jpg)
+![](./office.jpg)
 
 Seems that a lot of developers are creating these `/uses` pages after discovering [Wes Bos’s](https://twitter.com/wesbos) [/uses page](http://wesbos.com/uses).
 
@@ -67,7 +67,7 @@ Let’s start with my gear.
 	- Finally got a new hub.
 -  [Choetech Wireless Charging Stand](https://www.amazon.com/gp/product/B010B6PSMC/ref=oh_aui_detailpage_o05_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 -  [FORSÅ Work Lamp from IKEA](http://www.ikea.com/us/en/catalog/products/70321427/)
--  [Amazon Echo Dot 2nd Gen](https://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-Black/dp/B01DFKC2SO/ref=sr_1_1_sspa?sr=8-1-spons&ie=UTF8&tag=thatmacnerd-20&keywords=Amazon%2BEcho%2BDots%2B%25282nd%2BGen&psc=1&qid=1519870529)
+-  [Amazon Echo Dot 3rd Gen](https://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-Black/dp/B01DFKC2SO/ref=sr_1_1_sspa?sr=8-1-spons&ie=UTF8&tag=thatmacnerd-20&keywords=Amazon%2BEcho%2BDots%2B%25282nd%2BGen&psc=1&qid=1519870529)
 	- I got this as a companion to my Echo 1st Gen which you can find below. I wanted one for my room so I got the cheapest Echo I could find.
 	- [Amazon Echo 1st Gen](http://www.amazon.com/dp/product/B076PSZL29/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=thatmacnerd-20)
 - [LIFX Z Wi-Fi Smart LED Strip Starter Kit](https://www.amazon.com/gp/product/B073168F4Y/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
@@ -75,10 +75,10 @@ Let’s start with my gear.
 - [LIFX A19 Wi-fi Smart LED Bulbs](https://www.amazon.com/gp/product/B01KY02MS8/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [TP-Link Smart Plug No Hub Required](https://www.amazon.com/gp/product/B0178IC734/ref=oh_aui_detailpage_o01_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- For all lights that aren't smart, *now they can be*. Win.
-- [Brainwavz Hengja - The Headphone Desk Hanger](https://www.amazon.com/dp/B012VIWG28/_encoding=UTF8?coliid=I38T2GSP88G72&colid=1DRWNUK8ZGQIY&psc=0&tag=thatmacnerd-20)
+- [Anchor Pro | ElevationLab](https://www.elevationlab.com/products/the-anchor-pro)
+  - Great under the desk, hide your cables, headphone rack.
 - [IKEA Holmo 46" Floor Lamps](https://www.amazon.com/gp/product/B0070PBVWO/ref=ox_sc_sfl_title_2?smid=A22ARMH4S21UOS&tag=thatmacnerd-20&psc=1&ie=UTF8)
 	- Where else am I going to put the LIFX Bulbs?
-- [LUXCOMS RGB Soft Gaming Mouse Pad Large](https://www.amazon.com/gp/product/B07GSXJZSV/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - [Logitech C920S Pro HD Webcam with Privacy Shutter](https://www.amazon.com/gp/product/B07K95WFWM/ref=ppx_yo_dt_b_asin_title_o01_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
   - As I do more webinars, Egghead videos, and yes, soon, streaming, I need a good webcam. I have a [Streaming Amazon List](https://www.amazon.com/hz/wishlist/ls/WYX3PZGSUJWN?tag=thatmacnerd-20&sort=default) that I'll be adding to my arsenal in the next couple months.
 
@@ -93,7 +93,6 @@ Let’s start with my gear.
 	- This makes everything sound *amazing*.
 - Xcode
 - Chrome
-	- There are cheaper, free, FTP clients out there but my first text editor was Coda and I liked it so much I bought Panic’s FTP client. It looks good and functions quite well. I moved on from Coda when I became “serious”.
 - PopClip
 	- Using PopClip is a lifesaver. When it doesn’t work I am lost.
 - [Alfred](https://www.alfredapp.com/)
@@ -107,9 +106,6 @@ Let’s start with my gear.
 - [Shell Runner](https://itunes.apple.com/us/app/shell-runner/id689441182?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS)
 	- To test shell scripts
 - [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is my choice for window snapping.
-- [Expressions](https://itunes.apple.com/us/app/expressions/id913158085?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) to test regular expressions
-- [SnippetsLab](https://itunes.apple.com/us/app/snippetslab/id1006087419?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS)
-	- Starting to manage snippets with Alfred and GitHub gists but this is a great way to organize snippets with a keystroke.
 - [Quiver](https://itunes.apple.com/us/app/quiver-the-programmers-notebook/id866773894?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is a programmers notebook to take notes with syntax highlighting and markdown support. Supports many languages [^3].
 - [Tweetbot 2](https://itunes.apple.com/us/app/tweetbot-2-for-twitter/id557168941?mt=12)
   - The 3rd iteration hogs CPU and memory. If it was more efficient I'd use it; the ability to add gifs right in the app is killer. But it freezes constantly. So I use v2.
@@ -137,8 +133,6 @@ Let’s start with my gear.
 But I use ALL OF IT.
 
 So this is my setup and what I am currently using. You can show me your dev setup on [Twitter](https://twitter.com/tiffanywhitedev).
-
-![](./2.jpg)
 
 
 [^1]: Got the gold and this will be my last iPhone for a while. No need to upgrade yearly as these phones are more than capable of lasting a couple years.
