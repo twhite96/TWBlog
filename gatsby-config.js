@@ -99,6 +99,7 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-plugin-sharp`,
+          `gatsby-remark-embedder`,
           `gatsby-remark-embed-spotify`,
           // `gatsby-remark-embed-itunes`,
           // `gatsby-remark-instagram-embed`,
@@ -146,7 +147,7 @@ module.exports = {
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`, ,
+          `gatsby-remark-smartypants`,
           `gatsby-plugin-remove-fingerprints`,
           `gatsby-plugin-netlify-cache`,
           {
