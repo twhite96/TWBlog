@@ -1,0 +1,1182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+        <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Check Yo Self Update: Eliminating Dev Dependencies | Tiffany R. White Blog</title>
+<meta name="generator" content="Jekyll v3.5.2" />
+<meta property="og:title" content="Check Yo Self Update: Eliminating Dev Dependencies" />
+<meta name="author" content="Tiffany White" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="I worked like a fiend over the weekend on Check Yo Self, reading documentation, implementing features, and taking some away." />
+<meta property="og:description" content="I worked like a fiend over the weekend on Check Yo Self, reading documentation, implementing features, and taking some away." />
+<link rel="canonical" href="http://0.0.0.0:4001/check-yo-self-update-eliminating-dev-dependencies" />
+<meta property="og:url" content="http://0.0.0.0:4001/check-yo-self-update-eliminating-dev-dependencies" />
+<meta property="og:site_name" content="Tiffany R. White Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-05-16T18:55:32-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Check Yo Self Update: Eliminating Dev Dependencies" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@Tiffany White" />
+<script type="application/ld+json">
+{"description":"I worked like a fiend over the weekend on Check Yo Self, reading documentation, implementing features, and taking some away.","author":{"@type":"Person","name":"Tiffany White"},"@type":"BlogPosting","url":"http://0.0.0.0:4001/check-yo-self-update-eliminating-dev-dependencies","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://0.0.0.0:4001/assets/images/logo-2.png"},"name":"Tiffany White"},"headline":"Check Yo Self Update: Eliminating Dev Dependencies","dateModified":"2017-05-16T18:55:32-04:00","datePublished":"2017-05-16T18:55:32-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://0.0.0.0:4001/check-yo-self-update-eliminating-dev-dependencies"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    
+
+    <!-- Site Favicon -->
+    <link rel="shortcut icon" href="http://0.0.0.0:4001/assets/images/favicon.ico" type="image/png" />
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+
+    <!-- Font Embed Code -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&display=swap" rel="stylesheet">
+
+    <!-- CSS Styles -->
+    <link href="/assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/bigfoot-number.css">
+
+</head>
+
+
+
+<body class="layout-post">
+    <div id="page" class="site">
+
+        
+        <header id="masthead" class="site-header outer">
+    <div class="site-header-inside">
+        <div class="site-branding">
+            
+                <p class="site-logo"><a href="/" rel="home"><img src="/assets/images/logo-2.png" alt="Tiffany R. White Blog" /></a></p>
+                <h1 class="site-title screen-reader-text"><a href="" rel="home"></a></h1>
+            
+        </div><!-- .site-branding -->
+        <nav id="main-navigation" class="site-navigation" aria-label="Primary Navigation">
+            <ul class="menu">
+            
+                <li class="menu-item"><a href="/">Home</a></li>
+            
+                <li class="menu-item"><a href="/about/">About</a></li>
+            
+                <li class="menu-item"><a href="/search/">Search</a></li>
+            
+                <li class="menu-item"><a href="/uses/">Uses</a></li>
+            
+                <li class="menu-item"><a href="https://www.tiffanyrwhite.com">Portfolio</a></li>
+            
+                <li class="menu-item"><a href="https://resume.tiffanyrwhite.com">Resume</a></li>
+            
+                <li class="menu-item"><a href="/contact/">Contact Me</a></li>
+            
+            </ul>
+            <button id="sidebar-show" class="sidebar-toggle"><span class="screen-reader-text">Open Sidebar</span><span class="icon-more" aria-hidden="true"></span></button>
+        </nav><!-- .site-navigation -->
+    </div><!-- .site-header-inside -->
+</header><!-- .site-header -->
+        
+
+        <div id="content" class="site-content fadeInDown delay_075s">
+    <main id="main" class="site-main outer">
+        <article class="post-full inner">
+            <header class="post-header">
+                <div class="post-meta">
+                    <time class="post-date" datetime="2017-05-16">May 16,
+                        2017</time>
+                </div><!-- .post-meta -->
+                <h1 class="posttitle">Check Yo Self Update: Eliminating Dev Dependencies</h1>
+            </header><!-- .post-header -->
+            
+            <div class="post-content">
+                
+
+<span class="read-time">7 min read</span>
+
+                <p>I worked like a fiend over the weekend on Check Yo Self, reading documentation, implementing features, and taking some away.</p>
+
+<p>Going over the <code class="highlighter-rouge">write-good</code> issues on GitHub to see how if it could parse extra characters <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.</p>
+
+<p>I saw an issue where a guy implemented using his GitHub Project Page to host a React implementation of a <code class="highlighter-rouge">write-good</code> app.</p>
+
+<p>Went to the app, put in some markdown, and it gave me suggestions. <em>Nice</em>.</p>
+
+<h2 id="no-need-for-natural">No Need for Natural</h2>
+
+<p>I was going to use the <code class="highlighter-rouge">natural</code> natural language tokenizers to parse out the markdown but I don’t need it. One less dev dependency is a good thing.</p>
+
+<h2 id="also-no-need-for-heroku-or-postgres">Also, No Need for Heroku or Postgres</h2>
+
+<p>I researched <code class="highlighter-rouge">localStorage</code> web API. Each browser has a set limit of how much data can be stored in the browser. I found <a href="https://arty.name/localstorage.html">this little utility</a> to check how many MBs of storage I had to work with. 5 MBs in Chrome <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>. From what I understand, Firefox has a limit of 10 MB but I could be wrong.</p>
+
+<p>After this, I filled a markdown document with 2000 words, just to see the size of the document. It was 9 kbs. I decided to limit the amount of words per document to 2000 and the amount of documents that could be stored to 200.</p>
+
+<h2 id="working-with-and-testing-local-storage">Working With and Testing Local Storage</h2>
+
+<p>I found some gold in the MDN docs and their GitHub repo for MDN. You can test the localStorage on a client with the following code:</p>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">storageAvailable</span><span class="p">(</span><span class="nx">type</span><span class="p">)</span> <span class="p">{</span>
+  <span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="nx">use</span> <span class="nx">strict</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span>
+    <span class="k">try</span> <span class="p">{</span>
+	<span class="kd">var</span> <span class="nx">storage</span> <span class="o">=</span> <span class="nb">window</span><span class="p">[</span><span class="nx">type</span><span class="p">],</span> <span class="nx">x</span> <span class="o">=</span> <span class="o">&amp;</span><span class="nx">quot</span><span class="p">;</span><span class="nx">__storage_test__</span><span class="o">&amp;</span><span class="nx">quot</span><span class="p">;;</span>
+	<span class="nx">storage</span><span class="p">.</span><span class="nx">setItem</span><span class="p">(</span><span class="nx">x</span><span class="p">,</span> <span class="nx">x</span><span class="p">);</span>
+	<span class="nx">storage</span><span class="p">.</span><span class="nx">removeItem</span><span class="p">(</span><span class="nx">x</span><span class="p">);</span>
+	<span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
+	<span class="p">}</span> <span class="k">catch</span> <span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+	  <span class="k">return</span> <span class="p">(</span>
+	  <span class="nx">e</span> <span class="k">instanceof</span> <span class="nx">DOMException</span> <span class="o">&amp;</span><span class="nx">amp</span><span class="p">;</span><span class="o">&amp;</span><span class="nx">amp</span><span class="p">;</span> <span class="c1">// everything except Firefox</span>
+	  <span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">code</span> <span class="o">===</span> <span class="mi">22</span> <span class="o">||</span> <span class="c1">// Firefox</span>
+	  <span class="nx">e</span><span class="p">.</span><span class="nx">code</span> <span class="o">===</span> <span class="mi">1014</span> <span class="o">||</span> <span class="c1">// test name field too, because code might not be present // everything except Firefox</span>
+	  <span class="nx">e</span><span class="p">.</span><span class="nx">name</span> <span class="o">===</span> <span class="o">&amp;</span><span class="nx">quot</span><span class="p">;</span><span class="nx">QuotaExceededError</span><span class="o">&amp;</span><span class="nx">quot</span><span class="p">;</span> <span class="o">||</span> <span class="c1">// Firefox</span>
+		<span class="nx">e</span><span class="p">.</span><span class="nx">name</span> <span class="o">===</span> <span class="o">&amp;</span><span class="nx">quot</span><span class="p">;</span><span class="nx">NS_ERROR_DOM_QUOTA_REACHED</span><span class="o">&amp;</span><span class="nx">quot</span><span class="p">;)</span> <span class="o">&amp;</span><span class="nx">amp</span><span class="p">;</span><span class="o">&amp;</span><span class="nx">amp</span><span class="p">;</span> <span class="c1">// acknowledge QuotaExceededError only if there&amp;#039;s something already stored</span>
+	  <span class="nx">storage</span><span class="p">.</span><span class="nx">length</span> <span class="o">!==</span> <span class="mi">0</span>
+	<span class="p">);</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">storageAvailable</span><span class="p">());</span>
+</code></pre>
+</div>
+
+<p>I am not certain of everything that is happening here but it tests for storage on the client’s browser. If not you can log an exception.</p>
+
+<p>I am probably going to alert the user somehow if they have exceeded the <code class="highlighter-rouge">localStorage</code> limit <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>.</p>
+
+<h2 id="logic-so-far">Logic So Far</h2>
+
+<p>So far I’ve got some broken spaghetti code I am looking to fix.</p>
+
+<p>I need a refresher on jQuery so I’ve visited Treehouse. I also know <em>some</em> of what I need to do.</p>
+
+<p>What I have so far:</p>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="cm">/* App Starts Here */</span>
+<span class="nx">$</span><span class="p">(</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="err">#</span><span class="nx">texts</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;).</span><span class="nx">val</span><span class="p">(</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="nx">New</span> <span class="nx">Text</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;);</span>
+<span class="nx">$</span><span class="p">(</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="err">#</span><span class="nx">texts</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;).</span><span class="nx">trigger</span><span class="p">(</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="nx">autoresize</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;);</span>
+<span class="kd">var</span> <span class="nx">writeGood</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="nx">write</span><span class="o">-</span><span class="nx">good</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;);</span>
+<span class="kd">var</span> <span class="nx">suggestions</span> <span class="o">=</span> <span class="nx">writeGood</span><span class="p">(</span><span class="nx">userInput</span><span class="p">,</span> <span class="p">{</span><span class="na">weasel</span><span class="p">:</span> <span class="kc">false</span><span class="p">});</span>
+
+<span class="nl">suggestions</span><span class="p">:</span> <span class="p">[{</span>
+
+<span class="p">}];</span>
+</code></pre>
+</div>
+<h2 id="material-design-lite-woes">Material Design Lite Woes</h2>
+
+<p>The Material Design Lite docs are good but I was having some trouble understanding everything, as components are really verbose and seem to overlap some.</p>
+
+<p>I was deep into the html when I found I couldn’t grok something and went looking for a solution.</p>
+
+<p>Enter: <a href="http://materializecss.com/">Materalize.css</a>.</p>
+
+<p>The guys are from Pittsburgh <sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup> and attend one of the premier Computer Science schools in the world, Carnegie Mellon. They came up with a way to add Material Design Lite to your site, stripping away the verbosity, and leaving you with customizable components that resemble a bit of a mix of Bootstrap and MDL.</p>
+
+<p>Currently I have this bit of Materialize.css in my markup:</p>
+
+<div class="language-html highlighter-rouge"><pre class="highlight"><code><span class="ni">&amp;lt;</span>main class=<span class="ni">&amp;quot;</span>mdl-layout__content<span class="ni">&amp;quot;&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>mdl-layout__tab-panel is-active<span class="ni">&amp;quot;</span> id=<span class="ni">&amp;quot;</span>overview<span class="ni">&amp;quot;&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>section class=<span class="ni">&amp;quot;</span>section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp<span class="ni">&amp;quot;&amp;gt;</span>
+          <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>mdl-card mdl-cell mdl-cell--12-col<span class="ni">&amp;quot;&amp;gt;</span>
+            <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>mdl-card__supporting-text<span class="ni">&amp;quot;&amp;gt;</span>
+              <span class="ni">&amp;lt;</span>h4<span class="ni">&amp;gt;</span>Texts<span class="ni">&amp;lt;</span>/h4<span class="ni">&amp;gt;</span>
+              This is where your markdown files live. You can add up to 200 markdown files at 2000 words a piece.
+              <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>row<span class="ni">&amp;quot;&amp;gt;</span>
+                <span class="ni">&amp;lt;</span>form class=<span class="ni">&amp;quot;</span>col s12<span class="ni">&amp;quot;&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>row<span class="ni">&amp;quot;&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>input-field col s12<span class="ni">&amp;quot;&amp;gt;</span>
+                      <span class="ni">&amp;lt;</span>i class=<span class="ni">&amp;quot;</span>material-icons prefix grey-text<span class="ni">&amp;quot;&amp;gt;</span>mode_edit<span class="ni">&amp;lt;</span>/i<span class="ni">&amp;gt;</span>
+                      <span class="ni">&amp;lt;</span>textarea id=<span class="ni">&amp;quot;</span>texts<span class="ni">&amp;quot;</span> class=<span class="ni">&amp;quot;</span>materialize-textarea grey-text<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>/textarea<span class="ni">&amp;gt;</span>
+                      <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>texts<span class="ni">&amp;quot;</span> class=<span class="ni">&amp;quot;</span>grey-text<span class="ni">&amp;quot;&amp;gt;</span>Add your markdown here...<span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>/form<span class="ni">&amp;gt;</span>
+                <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+                <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>fixed-action-btn vertical<span class="ni">&amp;quot;&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>a class=<span class="ni">&amp;quot;</span>btn-floating btn-large pink<span class="ni">&amp;quot;&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>i class=<span class="ni">&amp;quot;</span>large material-icons<span class="ni">&amp;quot;&amp;gt;</span>add<span class="ni">&amp;lt;</span>/i<span class="ni">&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>/a<span class="ni">&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>ul<span class="ni">&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>li class=<span class="ni">&amp;quot;</span>btn-floating green<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>a href=<span class="ni">&amp;quot;</span>#!<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>i class=<span class="ni">&amp;quot;</span>material-icons<span class="ni">&amp;quot;&amp;gt;</span>mode_edit<span class="ni">&amp;lt;</span>/i<span class="ni">&amp;gt;&amp;lt;</span>/a<span class="ni">&amp;gt;&amp;lt;</span>/li<span class="ni">&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>li class=<span class="ni">&amp;quot;</span>btn-floating purple<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>a href=<span class="ni">&amp;quot;</span>#!<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>i class=<span class="ni">&amp;quot;</span>material-icons<span class="ni">&amp;quot;&amp;gt;</span>undo<span class="ni">&amp;lt;</span>/i<span class="ni">&amp;gt;&amp;lt;</span>/a<span class="ni">&amp;gt;&amp;lt;</span>/li<span class="ni">&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>li class=<span class="ni">&amp;quot;</span>btn-floating blue<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>a href=<span class="ni">&amp;quot;</span>#!<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>i class=<span class="ni">&amp;quot;</span>material-icons<span class="ni">&amp;quot;&amp;gt;</span>redo<span class="ni">&amp;lt;</span>/i<span class="ni">&amp;gt;&amp;lt;</span>/a<span class="ni">&amp;gt;&amp;lt;</span>/li<span class="ni">&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>/ul<span class="ni">&amp;gt;</span>
+                <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+              <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+            <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+          <span class="ni">&amp;lt;</span>/section<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/main<span class="ni">&amp;gt;</span>
+</code></pre>
+</div>
+
+<p>Some MDL proper mixed in but I will take it out soon enough.</p>
+
+<h2 id="vertical-fabs-and-getting-them-to-work">Vertical Fabs and Getting Them to Work</h2>
+
+<p>I am trying to understand how to get input from a click on a fab. As you can see from my logic, I am using a click event to try to trigger an input but it isn’t working. I am looking for a fix.</p>
+
+<p>Here is a nifty video of my getting the vertical fabs working.</p>
+
+<p>[fvplayer src=”https://helloburgh.me/wp-content/uploads/2017/05/Fabs.mov” splash=”https://helloburgh.me/wp-content/uploads/2017/02/cropped-coding.png” width=”1044” height=”720”]</p>
+
+<p>I worked like a fiend over the weekend on Check Yo Self, reading documentation, implementing features, and taking some away.</p>
+
+<p>Going over the <code class="highlighter-rouge">write-good</code> issues on GitHub to see how if it could parse extra characters <sup id="fnref:1:1"><a href="#fn:1" class="footnote">1</a></sup>.</p>
+
+<p>I saw an issue where a guy implemented using his GitHub Project Page to host a React implementation of a <code class="highlighter-rouge">write-good</code> app.</p>
+
+<p>Went to the app, put in some markdown, and it gave me suggestions. <em>Nice</em>.</p>
+
+<h2 id="no-need-for-natural-1">No Need for Natural</h2>
+
+<p>I was going to use the <code class="highlighter-rouge">natural</code> natural language tokenizers to parse out the markdown but I don’t need it. One less dev dependency is a good thing.</p>
+
+<h2 id="also-no-need-for-heroku-or-postgres-1">Also, No Need for Heroku or Postgres</h2>
+
+<p>I researched <code class="highlighter-rouge">localStorage</code> web API. Each browser has a set limit of how much data can be stored in the browser. I found <a href="https://arty.name/localstorage.html">this little utility</a> to check how many MBs of storage I had to work with. 5 MBs in Chrome <sup id="fnref:2:1"><a href="#fn:2" class="footnote">2</a></sup>. From what I understand, Firefox has a limit of 10 MB but I could be wrong.</p>
+
+<p>After this, I filled a markdown document with 2000 words, just to see the size of the document. It was 9 kbs. I decided to limit the amount of words per document to 2000 and the amount of documents that could be stored to 200.</p>
+
+<h2 id="working-with-and-testing-local-storage-1">Working With and Testing Local Storage</h2>
+
+<p>I found some gold in the MDN docs and their GitHub repo for MDN. You can test the localStorage on a client with the following code:</p>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">storageAvailable</span><span class="p">(</span><span class="nx">type</span><span class="p">)</span> <span class="p">{</span>
+  <span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="nx">use</span> <span class="nx">strict</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span>
+    <span class="k">try</span> <span class="p">{</span>
+	<span class="kd">var</span> <span class="nx">storage</span> <span class="o">=</span> <span class="nb">window</span><span class="p">[</span><span class="nx">type</span><span class="p">],</span> <span class="nx">x</span> <span class="o">=</span> <span class="o">&amp;</span><span class="nx">quot</span><span class="p">;</span><span class="nx">__storage_test__</span><span class="o">&amp;</span><span class="nx">quot</span><span class="p">;;</span>
+	<span class="nx">storage</span><span class="p">.</span><span class="nx">setItem</span><span class="p">(</span><span class="nx">x</span><span class="p">,</span> <span class="nx">x</span><span class="p">);</span>
+	<span class="nx">storage</span><span class="p">.</span><span class="nx">removeItem</span><span class="p">(</span><span class="nx">x</span><span class="p">);</span>
+	<span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
+	<span class="p">}</span> <span class="k">catch</span> <span class="p">(</span><span class="nx">e</span><span class="p">)</span> <span class="p">{</span>
+	  <span class="k">return</span> <span class="p">(</span>
+	  <span class="nx">e</span> <span class="k">instanceof</span> <span class="nx">DOMException</span> <span class="o">&amp;</span><span class="nx">amp</span><span class="p">;</span><span class="o">&amp;</span><span class="nx">amp</span><span class="p">;</span> <span class="c1">// everything except Firefox</span>
+	  <span class="p">(</span><span class="nx">e</span><span class="p">.</span><span class="nx">code</span> <span class="o">===</span> <span class="mi">22</span> <span class="o">||</span> <span class="c1">// Firefox</span>
+	  <span class="nx">e</span><span class="p">.</span><span class="nx">code</span> <span class="o">===</span> <span class="mi">1014</span> <span class="o">||</span> <span class="c1">// test name field too, because code might not be present // everything except Firefox</span>
+	  <span class="nx">e</span><span class="p">.</span><span class="nx">name</span> <span class="o">===</span> <span class="o">&amp;</span><span class="nx">quot</span><span class="p">;</span><span class="nx">QuotaExceededError</span><span class="o">&amp;</span><span class="nx">quot</span><span class="p">;</span> <span class="o">||</span> <span class="c1">// Firefox</span>
+		<span class="nx">e</span><span class="p">.</span><span class="nx">name</span> <span class="o">===</span> <span class="o">&amp;</span><span class="nx">quot</span><span class="p">;</span><span class="nx">NS_ERROR_DOM_QUOTA_REACHED</span><span class="o">&amp;</span><span class="nx">quot</span><span class="p">;)</span> <span class="o">&amp;</span><span class="nx">amp</span><span class="p">;</span><span class="o">&amp;</span><span class="nx">amp</span><span class="p">;</span> <span class="c1">// acknowledge QuotaExceededError only if there&amp;#039;s something already stored</span>
+	  <span class="nx">storage</span><span class="p">.</span><span class="nx">length</span> <span class="o">!==</span> <span class="mi">0</span>
+	<span class="p">);</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">storageAvailable</span><span class="p">());</span>
+</code></pre>
+</div>
+
+<p>I am not certain of everything that is happening here but it tests for storage on the client’s browser. If not you can log an exception.</p>
+
+<p>I am probably going to alert the user somehow if they have exceeded the <code class="highlighter-rouge">localStorage</code> limit <sup id="fnref:3:1"><a href="#fn:3" class="footnote">3</a></sup>.</p>
+
+<h2 id="logic-so-far-1">Logic So Far</h2>
+
+<p>So far I’ve got some broken spaghetti code I am looking to fix.</p>
+
+<p>I need a refresher on jQuery so I’ve visited Treehouse. I also know <em>some</em> of what I need to do.</p>
+
+<p>What I have so far:</p>
+
+<div class="language-javascript highlighter-rouge"><pre class="highlight"><code><span class="cm">/* App Starts Here */</span>
+<span class="nx">$</span><span class="p">(</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="err">#</span><span class="nx">texts</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;).</span><span class="nx">val</span><span class="p">(</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="nx">New</span> <span class="nx">Text</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;);</span>
+<span class="nx">$</span><span class="p">(</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="err">#</span><span class="nx">texts</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;).</span><span class="nx">trigger</span><span class="p">(</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="nx">autoresize</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;);</span>
+<span class="kd">var</span> <span class="nx">writeGood</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;</span><span class="nx">write</span><span class="o">-</span><span class="nx">good</span><span class="o">&amp;</span><span class="err">#</span><span class="mi">039</span><span class="p">;);</span>
+<span class="kd">var</span> <span class="nx">suggestions</span> <span class="o">=</span> <span class="nx">writeGood</span><span class="p">(</span><span class="nx">userInput</span><span class="p">,</span> <span class="p">{</span><span class="na">weasel</span><span class="p">:</span> <span class="kc">false</span><span class="p">});</span>
+
+<span class="nl">suggestions</span><span class="p">:</span> <span class="p">[{</span>
+
+<span class="p">}];</span>
+</code></pre>
+</div>
+<h2 id="material-design-lite-woes-1">Material Design Lite Woes</h2>
+
+<p>The Material Design Lite docs are good but I was having some trouble understanding everything, as components are really verbose and seem to overlap some.</p>
+
+<p>I was deep into the html when I found I couldn’t grok something and went looking for a solution.</p>
+
+<p>Enter: <a href="http://materializecss.com/">Materalize.css</a>.</p>
+
+<p>The guys are from Pittsburgh <sup id="fnref:4:1"><a href="#fn:4" class="footnote">4</a></sup> and attend one of the premier Computer Science schools in the world, Carnegie Mellon. They came up with a way to add Material Design Lite to your site, stripping away the verbosity, and leaving you with customizable components that resemble a bit of a mix of Bootstrap and MDL.</p>
+
+<p>Currently I have this bit of Materialize.css in my markup:</p>
+
+<div class="language-html highlighter-rouge"><pre class="highlight"><code><span class="ni">&amp;lt;</span>main class=<span class="ni">&amp;quot;</span>mdl-layout__content<span class="ni">&amp;quot;&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>mdl-layout__tab-panel is-active<span class="ni">&amp;quot;</span> id=<span class="ni">&amp;quot;</span>overview<span class="ni">&amp;quot;&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>section class=<span class="ni">&amp;quot;</span>section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp<span class="ni">&amp;quot;&amp;gt;</span>
+          <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>mdl-card mdl-cell mdl-cell--12-col<span class="ni">&amp;quot;&amp;gt;</span>
+            <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>mdl-card__supporting-text<span class="ni">&amp;quot;&amp;gt;</span>
+              <span class="ni">&amp;lt;</span>h4<span class="ni">&amp;gt;</span>Texts<span class="ni">&amp;lt;</span>/h4<span class="ni">&amp;gt;</span>
+              This is where your markdown files live. You can add up to 200 markdown files at 2000 words a piece.
+              <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>row<span class="ni">&amp;quot;&amp;gt;</span>
+                <span class="ni">&amp;lt;</span>form class=<span class="ni">&amp;quot;</span>col s12<span class="ni">&amp;quot;&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>row<span class="ni">&amp;quot;&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>input-field col s12<span class="ni">&amp;quot;&amp;gt;</span>
+                      <span class="ni">&amp;lt;</span>i class=<span class="ni">&amp;quot;</span>material-icons prefix grey-text<span class="ni">&amp;quot;&amp;gt;</span>mode_edit<span class="ni">&amp;lt;</span>/i<span class="ni">&amp;gt;</span>
+                      <span class="ni">&amp;lt;</span>textarea id=<span class="ni">&amp;quot;</span>texts<span class="ni">&amp;quot;</span> class=<span class="ni">&amp;quot;</span>materialize-textarea grey-text<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>/textarea<span class="ni">&amp;gt;</span>
+                      <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>texts<span class="ni">&amp;quot;</span> class=<span class="ni">&amp;quot;</span>grey-text<span class="ni">&amp;quot;&amp;gt;</span>Add your markdown here...<span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>/form<span class="ni">&amp;gt;</span>
+                <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+                <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>fixed-action-btn vertical<span class="ni">&amp;quot;&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>a class=<span class="ni">&amp;quot;</span>btn-floating btn-large pink<span class="ni">&amp;quot;&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>i class=<span class="ni">&amp;quot;</span>large material-icons<span class="ni">&amp;quot;&amp;gt;</span>add<span class="ni">&amp;lt;</span>/i<span class="ni">&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>/a<span class="ni">&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>ul<span class="ni">&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>li class=<span class="ni">&amp;quot;</span>btn-floating green<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>a href=<span class="ni">&amp;quot;</span>#!<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>i class=<span class="ni">&amp;quot;</span>material-icons<span class="ni">&amp;quot;&amp;gt;</span>mode_edit<span class="ni">&amp;lt;</span>/i<span class="ni">&amp;gt;&amp;lt;</span>/a<span class="ni">&amp;gt;&amp;lt;</span>/li<span class="ni">&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>li class=<span class="ni">&amp;quot;</span>btn-floating purple<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>a href=<span class="ni">&amp;quot;</span>#!<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>i class=<span class="ni">&amp;quot;</span>material-icons<span class="ni">&amp;quot;&amp;gt;</span>undo<span class="ni">&amp;lt;</span>/i<span class="ni">&amp;gt;&amp;lt;</span>/a<span class="ni">&amp;gt;&amp;lt;</span>/li<span class="ni">&amp;gt;</span>
+                    <span class="ni">&amp;lt;</span>li class=<span class="ni">&amp;quot;</span>btn-floating blue<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>a href=<span class="ni">&amp;quot;</span>#!<span class="ni">&amp;quot;&amp;gt;&amp;lt;</span>i class=<span class="ni">&amp;quot;</span>material-icons<span class="ni">&amp;quot;&amp;gt;</span>redo<span class="ni">&amp;lt;</span>/i<span class="ni">&amp;gt;&amp;lt;</span>/a<span class="ni">&amp;gt;&amp;lt;</span>/li<span class="ni">&amp;gt;</span>
+                  <span class="ni">&amp;lt;</span>/ul<span class="ni">&amp;gt;</span>
+                <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+              <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+            <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+          <span class="ni">&amp;lt;</span>/section<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/main<span class="ni">&amp;gt;</span>
+</code></pre>
+</div>
+
+<p>Some MDL proper mixed in but I will take it out soon enough.</p>
+
+<h2 id="vertical-fabs-and-getting-them-to-work-1">Vertical Fabs and Getting Them to Work</h2>
+
+<p>I am trying to understand how to get input from a click on a fab. As you can see from my logic, I am using a click event to try to trigger an input but it isn’t working. I am looking for a fix.</p>
+
+<p>Here is a nifty video of my getting the vertical fabs working.</p>
+
+<p>[fvplayer src=”https://helloburgh.me/wp-content/uploads/2017/05/Fabs.mov” splash=”https://helloburgh.me/wp-content/uploads/2017/02/cropped-coding.png” width=”1044” height=”720”]</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Those lovely markdown characters. I ❤️ markdown. <a href="#fnref:1" class="reversefootnote">&#8617;</a> <a href="#fnref:1:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:2">
+      <p>This utility crashed someone’s browser so be careful. <a href="#fnref:2" class="reversefootnote">&#8617;</a> <a href="#fnref:2:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:3">
+      <p>There are some users who really don’t pay attention or care. <a href="#fnref:3" class="reversefootnote">&#8617;</a> <a href="#fnref:3:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:4">
+      <p>Steel City? Not much anymore. More like, up-and-coming tech hub. <a href="#fnref:4" class="reversefootnote">&#8617;</a> <a href="#fnref:4:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+  </ol>
+</div>
+
+            </div>
+            <footer class="post-footer">
+                
+                <p class="post-tags">
+                     
+                    <a href='tag/coding/'>coding</a>
+                    
+                     
+                    <a href='tag/daily- progress/'>daily progress</a>
+                    
+                     
+                    <a href='tag/programming/'>programming</a>
+                    
+                    
+                </p>
+                
+                <div class="post-share">
+                    <span class="post-share-title">Share:</span>
+                    <a target="_blank" href="https://twitter.com/share?text=Check+Yo+Self+Update%3A+Eliminating+Dev+Dependencies&amp;url=https://tiffanywhite.devcheck-yo-self-update-eliminating-dev-dependencies">Twitter</a>
+                    <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://tiffanywhite.devcheck-yo-self-update-eliminating-dev-dependencies">Facebook</a>
+                </div><!-- .share-post -->
+            </footer>
+            <div class="author-box">
+                <div class="author-avatar"><img src="/assets/images/authorimage-2.jpg" alt="Tiffany's Picture"
+                        class="avatar"></div>
+                <div class="author-details">
+                    <h2 class="author-title">About Tiffany</h2>
+                    <p class="author-description">Tiffany is a frontend developer, writer, and wannabe YouTuber.</p>
+                </div>
+            </div>
+            
+
+        </article>
+        
+        <section class="read-next inner">
+            <h2 class="read-next-title">Read Next</h2>
+            
+            <article class="post">
+                <header class="post-header">
+                    <div class="post-meta">
+                        <time class="published" datetime="May 9, 2017">May 9, 2017</time>
+                    </div>
+                    <h3 class="post-title"><a href="/open-source-github-stars">Open Source and GitHub Stars</a></h3>
+                    <p class="post-tags">
+                        
+                        
+                        
+                        <a href='/tag/accountability/'>Accountability</a>
+                        
+                        
+                        
+                        <a href='/tag/open-source/'>Open source</a>
+                        
+                        
+                        
+                        <a href='/tag/programming/'>Programming</a>
+                        
+                        
+                        
+                    </p>
+                </header>
+                
+                
+            </article>
+            
+            
+            <article class="post">
+                <header class="post-header">
+                    <div class="post-meta">
+                        <time class="published" datetime="May 30, 2017">May 30, 2017</time>
+                    </div>
+                    <h3 class="post-title"><a href="/event-handlers-check-yo-self">Event Handlers in Check Yo Self</a></h3>
+                    <p class="post-tags">
+                        
+                        
+                        
+                        <a href='/tag/daily-progress/'>Daily progress</a>
+                        
+                        
+                        
+                        <a href='/tag/programming/'>Programming</a>
+                        
+                        
+                        
+                        <a href='/tag/programming-fundamentals/'>Programming fundamentals</a>
+                        
+                        
+                        
+                    </p>
+                </header>
+                
+                
+            </article>
+            
+        </section><!-- .read-next -->
+    </main><!-- .site-main -->
+</div><!-- .site-content -->
+
+
+        
+
+        
+
+        <footer id="colophon" class="site-footer outer">
+            <div class="site-footer-inside">
+                <p class="social-links">
+    
+    <a href="https://twitter.com/tiffanywhitedev" target="_blank">
+        <span class="fa-twitter fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Twitter</span>
+    </a>
+    
+    
+    
+    <a href="https://github.com/twhite96" target="_blank">
+        <span class="fa-github fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">GitHub</span>
+    </a>
+    
+    
+    <a href="https://codepen.io/twhite96" target="_blank">
+        <span class="fa-codepen fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">CodePen</span>
+    </a>
+    
+    
+    
+    
+    <a href="https://www.instagram.com/tiffanywhitedev" target="_blank">
+        <span class="fa-instagram fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Instagram</span>
+    </a>
+    
+    
+    
+    <a href="https://www.linkedin.com/in/tiffanyrwhite" target="_blank">
+        <span class="fa-linkedin fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Linkedin</span>
+    </a>
+    
+    
+</p>
+                <p class="site-info">
+                    <a href="#">Tiffany R. White Blog</a> &copy; 2019 .
+                </p>
+                <p class="back-to-top">
+                    <a id="top-button" class="top-button" href="#page">
+                        <span class="icon-arrow-up" aria-hidden="true"></span>
+                        <span class="screen-reader-text">Back to top</span>
+                    </a>
+                </p>
+            </div><!-- .site-footer-inside -->
+        </footer><!-- .site-footer -->
+    </div><!-- .site -->
+    <div id="site-overlay" class="site-overlay"></div>
+    <aside id="sidebar" class="sidebar">
+	<div class="sidebar-scrollable">
+		<div class="sidebar-inside">
+			<button id="sidebar-hide" class="sidebar-toggle"><span class="screen-reader-text">Close Sidebar</span><span
+				    aria-hidden="true" class="icon-close"></span></button>
+			<nav id="sidebar-navigation" class="widget site-navigation">
+				<h2 class="widget-title">Explore Site</h2>
+				<ul class="menu">
+					
+						<li class="menu-item"><a href="/">Home</a></li>
+					
+						<li class="menu-item"><a href="/about/">About</a></li>
+					
+						<li class="menu-item"><a href="/search/">Search</a></li>
+					
+						<li class="menu-item"><a href="/uses/">Uses</a></li>
+					
+						<li class="menu-item"><a href="https://www.tiffanyrwhite.com">Portfolio</a></li>
+					
+						<li class="menu-item"><a href="https://resume.tiffanyrwhite.com">Resume</a></li>
+					
+						<li class="menu-item"><a href="/contact/">Contact Me</a></li>
+					
+				</ul>
+			</nav>
+			
+<section class="widget widget-text">
+    <h2 class="widget-title">About Tiffany R. White Blog</h2>
+    <p>Your friend Tiffany's tiny little weblog.</p>
+</section>
+
+
+<section class="widget widget-recent-posts">
+    <h2 class="widget-title">Recent Articles</h2>
+    <ul>
+        
+        <li>
+            <div class="post-header">
+                <div class="post-meta">
+                    <time class="published" datetime="??">September 20, 2019</time>
+                </div>
+                <div class="post-title">
+                    <a href="http://0.0.0.0:4001/recognizing-patterns">Recognizing Patterns</a>
+                </div>
+            </div>
+            
+            <a class="post-thumbnail" href="/recognizing-patterns">
+                <img src="http://0.0.0.0:4001/assets/images/posts/2019/patterns.jpg"
+                    alt="Recognizing Patterns">
+            </a>
+            
+        </li>
+        
+        <li>
+            <div class="post-header">
+                <div class="post-meta">
+                    <time class="published" datetime="??">July 27, 2019</time>
+                </div>
+                <div class="post-title">
+                    <a href="http://0.0.0.0:4001/stickers">Stickers</a>
+                </div>
+            </div>
+            
+            <a class="post-thumbnail" href="/stickers">
+                <img src="http://0.0.0.0:4001/assets/images/posts/2019/stickers.jpg"
+                    alt="Stickers">
+            </a>
+            
+        </li>
+        
+        <li>
+            <div class="post-header">
+                <div class="post-meta">
+                    <time class="published" datetime="??">July 18, 2019</time>
+                </div>
+                <div class="post-title">
+                    <a href="http://0.0.0.0:4001/first-week-feels">First Week Feels</a>
+                </div>
+            </div>
+            
+            <a class="post-thumbnail" href="/first-week-feels">
+                <img src="http://0.0.0.0:4001/assets/images/posts/2019/first-week.jpg"
+                    alt="First Week Feels">
+            </a>
+            
+        </li>
+        
+    </ul>
+</section>
+
+<!-- Create a sorted array of tags -->
+ 
+<section class="widget widget-tagcloud">
+    <h2 class="widget-title">Tags</h2>
+    <div class="tagcloud">
+        
+        <a href='https://tiffanywhite.devtag/100- days- of- code/'>100 days of code</a>
+        
+        <a href='https://tiffanywhite.devtag/2018/'>2018</a>
+        
+        <a href='https://tiffanywhite.devtag/2019- goals/'>2019 goals</a>
+        
+        <a href='https://tiffanywhite.devtag/ajax/'>AJAX</a>
+        
+        <a href='https://tiffanywhite.devtag/alice/'>Alice</a>
+        
+        <a href='https://tiffanywhite.devtag/alice- app/'>Alice app</a>
+        
+        <a href='https://tiffanywhite.devtag/alice- program/'>Alice program</a>
+        
+        <a href='https://tiffanywhite.devtag/alice- software/'>Alice software</a>
+        
+        <a href='https://tiffanywhite.devtag/bonfires/'>Bonfires</a>
+        
+        <a href='https://tiffanywhite.devtag/bug- fixing/'>Bug fixing</a>
+        
+        <a href='https://tiffanywhite.devtag/css3/'>CSS3</a>
+        
+        <a href='https://tiffanywhite.devtag/coda- 2/'>Coda 2</a>
+        
+        <a href='https://tiffanywhite.devtag/code- newbies/'>Code Newbies</a>
+        
+        <a href='https://tiffanywhite.devtag/codepen/'>CodePen</a>
+        
+        <a href='https://tiffanywhite.devtag/codecademy/'>Codecademy</a>
+        
+        <a href='https://tiffanywhite.devtag/dom/'>DOM</a>
+        
+        <a href='https://tiffanywhite.devtag/dom- elements/'>DOM elements</a>
+        
+        <a href='https://tiffanywhite.devtag/dry- code/'>DRY code</a>
+        
+        <a href='https://tiffanywhite.devtag/dash/'>Dash</a>
+        
+        <a href='https://tiffanywhite.devtag/dash- for- mac/'>Dash for Mac</a>
+        
+        <a href='https://tiffanywhite.devtag/developer- health/'>Developer Health</a>
+        
+        <a href='https://tiffanywhite.devtag/developer- tea/'>Developer Tea</a>
+        
+        <a href='https://tiffanywhite.devtag/developer- tools/'>Developer Tools</a>
+        
+        <a href='https://tiffanywhite.devtag/fundamentals/'>Fundamentals</a>
+        
+        <a href='https://tiffanywhite.devtag/general- dev/'>General Dev</a>
+        
+        <a href='https://tiffanywhite.devtag/go- lang/'>Go Lang</a>
+        
+        <a href='https://tiffanywhite.devtag/goals/'>Goals</a>
+        
+        <a href='https://tiffanywhite.devtag/google+/'>Google+</a>
+        
+        <a href='https://tiffanywhite.devtag/html- tables/'>HTML Tables</a>
+        
+        <a href='https://tiffanywhite.devtag/ides/'>IDEs</a>
+        
+        <a href='https://tiffanywhite.devtag/jsfiddle/'>JSFiddle</a>
+        
+        <a href='https://tiffanywhite.devtag/json/'>JSON</a>
+        
+        <a href='https://tiffanywhite.devtag/java/'>Java</a>
+        
+        <a href='https://tiffanywhite.devtag/javascript/'>JavaScript</a>
+        
+        <a href='https://tiffanywhite.devtag/jetbrains/'>JetBrains</a>
+        
+        <a href='https://tiffanywhite.devtag/kanban/'>Kanban</a>
+        
+        <a href='https://tiffanywhite.devtag/less/'>LESS</a>
+        
+        <a href='https://tiffanywhite.devtag/lpthw/'>LPTHW</a>
+        
+        <a href='https://tiffanywhite.devtag/lynda.com/'>Lynda.com</a>
+        
+        <a href='https://tiffanywhite.devtag/mean- stack/'>MEAN Stack</a>
+        
+        <a href='https://tiffanywhite.devtag/mac- app- store/'>Mac App Store</a>
+        
+        <a href='https://tiffanywhite.devtag/nacowrimo/'>NaCoWriMo</a>
+        
+        <a href='https://tiffanywhite.devtag/nanowrimo/'>NaNoWriMo</a>
+        
+        <a href='https://tiffanywhite.devtag/omnifocus/'>OmniFocus</a>
+        
+        <a href='https://tiffanywhite.devtag/open- source/'>Open Source</a>
+        
+        <a href='https://tiffanywhite.devtag/phpstorm/'>PHPStorm</a>
+        
+        <a href='https://tiffanywhite.devtag/pitt/'>Pitt</a>
+        
+        <a href='https://tiffanywhite.devtag/playlists/'>Playlists</a>
+        
+        <a href='https://tiffanywhite.devtag/pycharm/'>PyCharm</a>
+        
+        <a href='https://tiffanywhite.devtag/python/'>Python</a>
+        
+        <a href='https://tiffanywhite.devtag/random/'>Random</a>
+        
+        <a href='https://tiffanywhite.devtag/react/'>React</a>
+        
+        <a href='https://tiffanywhite.devtag/rubymine/'>RubyMine</a>
+        
+        <a href='https://tiffanywhite.devtag/sass/'>Sass</a>
+        
+        <a href='https://tiffanywhite.devtag/sketch/'>Sketch</a>
+        
+        <a href='https://tiffanywhite.devtag/spotify/'>Spotify</a>
+        
+        <a href='https://tiffanywhite.devtag/sublime- text/'>Sublime Text</a>
+        
+        <a href='https://tiffanywhite.devtag/team- treehouse/'>Team Treehouse</a>
+        
+        <a href='https://tiffanywhite.devtag/tech- ladies/'>Tech Ladies</a>
+        
+        <a href='https://tiffanywhite.devtag/the- odin- project/'>The Odin Project</a>
+        
+        <a href='https://tiffanywhite.devtag/treehouse/'>Treehouse</a>
+        
+        <a href='https://tiffanywhite.devtag/trello/'>Trello</a>
+        
+        <a href='https://tiffanywhite.devtag/ui/'>UI</a>
+        
+        <a href='https://tiffanywhite.devtag/work/'>Work</a>
+        
+        <a href='https://tiffanywhite.devtag/ydkjs/'>YDKJS</a>
+        
+        <a href='https://tiffanywhite.devtag/yelpcamp/'>YelpCamp</a>
+        
+        <a href='https://tiffanywhite.devtag/accountability/'>accountability</a>
+        
+        <a href='https://tiffanywhite.devtag/algorithms/'>algorithms</a>
+        
+        <a href='https://tiffanywhite.devtag/angular/'>angular</a>
+        
+        <a href='https://tiffanywhite.devtag/animation/'>animation</a>
+        
+        <a href='https://tiffanywhite.devtag/anniversary/'>anniversary</a>
+        
+        <a href='https://tiffanywhite.devtag/apps/'>apps</a>
+        
+        <a href='https://tiffanywhite.devtag/arrays/'>arrays</a>
+        
+        <a href='https://tiffanywhite.devtag/assignments/'>assignments</a>
+        
+        <a href='https://tiffanywhite.devtag/auto-completion/'>auto-completion</a>
+        
+        <a href='https://tiffanywhite.devtag/beginners/'>beginners</a>
+        
+        <a href='https://tiffanywhite.devtag/big- o- notation/'>big o notation</a>
+        
+        <a href='https://tiffanywhite.devtag/binding/'>binding</a>
+        
+        <a href='https://tiffanywhite.devtag/boilerplates/'>boilerplates</a>
+        
+        <a href='https://tiffanywhite.devtag/books/'>books</a>
+        
+        <a href='https://tiffanywhite.devtag/challenege/'>challenege</a>
+        
+        <a href='https://tiffanywhite.devtag/cli/'>cli</a>
+        
+        <a href='https://tiffanywhite.devtag/code/'>code</a>
+        
+        <a href='https://tiffanywhite.devtag/code- and- supply/'>code and supply</a>
+        
+        <a href='https://tiffanywhite.devtag/code- newbie/'>code newbie</a>
+        
+        <a href='https://tiffanywhite.devtag/code- newbies/'>code newbies</a>
+        
+        <a href='https://tiffanywhite.devtag/coding/'>coding</a>
+        
+        <a href='https://tiffanywhite.devtag/college/'>college</a>
+        
+        <a href='https://tiffanywhite.devtag/college- admissions/'>college admissions</a>
+        
+        <a href='https://tiffanywhite.devtag/component- props/'>component props</a>
+        
+        <a href='https://tiffanywhite.devtag/computer- science/'>computer science</a>
+        
+        <a href='https://tiffanywhite.devtag/conditionals/'>conditionals</a>
+        
+        <a href='https://tiffanywhite.devtag/const/'>const</a>
+        
+        <a href='https://tiffanywhite.devtag/css/'>css</a>
+        
+        <a href='https://tiffanywhite.devtag/css- animations/'>css animations</a>
+        
+        <a href='https://tiffanywhite.devtag/daily- progress/'>daily progress</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 2/'>day 2</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 3/'>day 3</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 4/'>day 4</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 5/'>day 5</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 6/'>day 6</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 7/'>day 7</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 8/'>day 8</a>
+        
+        <a href='https://tiffanywhite.devtag/degree/'>degree</a>
+        
+        <a href='https://tiffanywhite.devtag/depression/'>depression</a>
+        
+        <a href='https://tiffanywhite.devtag/design/'>design</a>
+        
+        <a href='https://tiffanywhite.devtag/developer/'>developer</a>
+        
+        <a href='https://tiffanywhite.devtag/developer- on- fire/'>developer on fire</a>
+        
+        <a href='https://tiffanywhite.devtag/developers/'>developers</a>
+        
+        <a href='https://tiffanywhite.devtag/diploma/'>diploma</a>
+        
+        <a href='https://tiffanywhite.devtag/docsets/'>docsets</a>
+        
+        <a href='https://tiffanywhite.devtag/drawing- app/'>drawing app</a>
+        
+        <a href='https://tiffanywhite.devtag/dreams/'>dreams</a>
+        
+        <a href='https://tiffanywhite.devtag/errors/'>errors</a>
+        
+        <a href='https://tiffanywhite.devtag/es2015/'>es2015</a>
+        
+        <a href='https://tiffanywhite.devtag/es6/'>es6</a>
+        
+        <a href='https://tiffanywhite.devtag/execution- stack/'>execution stack</a>
+        
+        <a href='https://tiffanywhite.devtag/failure/'>failure</a>
+        
+        <a href='https://tiffanywhite.devtag/fear/'>fear</a>
+        
+        <a href='https://tiffanywhite.devtag/filter/'>filter</a>
+        
+        <a href='https://tiffanywhite.devtag/first- assignment/'>first assignment</a>
+        
+        <a href='https://tiffanywhite.devtag/first- episode/'>first episode</a>
+        
+        <a href='https://tiffanywhite.devtag/first- interview/'>first interview</a>
+        
+        <a href='https://tiffanywhite.devtag/first- program/'>first program</a>
+        
+        <a href='https://tiffanywhite.devtag/first- week/'>first week</a>
+        
+        <a href='https://tiffanywhite.devtag/for- loops/'>for loops</a>
+        
+        <a href='https://tiffanywhite.devtag/free- code- camp/'>free code camp</a>
+        
+        <a href='https://tiffanywhite.devtag/freecodecamp/'>freecodecamp</a>
+        
+        <a href='https://tiffanywhite.devtag/functional- programming/'>functional programming</a>
+        
+        <a href='https://tiffanywhite.devtag/functions/'>functions</a>
+        
+        <a href='https://tiffanywhite.devtag/games/'>games</a>
+        
+        <a href='https://tiffanywhite.devtag/gists/'>gists</a>
+        
+        <a href='https://tiffanywhite.devtag/git/'>git</a>
+        
+        <a href='https://tiffanywhite.devtag/github/'>github</a>
+        
+        <a href='https://tiffanywhite.devtag/github- pages/'>github pages</a>
+        
+        <a href='https://tiffanywhite.devtag/goals/'>goals</a>
+        
+        <a href='https://tiffanywhite.devtag/good- habits/'>good habits</a>
+        
+        <a href='https://tiffanywhite.devtag/grades/'>grades</a>
+        
+        <a href='https://tiffanywhite.devtag/hacking/'>hacking</a>
+        
+        <a href='https://tiffanywhite.devtag/hard- work/'>hard work</a>
+        
+        <a href='https://tiffanywhite.devtag/heroku/'>heroku</a>
+        
+        <a href='https://tiffanywhite.devtag/higher- order- functions/'>higher order functions</a>
+        
+        <a href='https://tiffanywhite.devtag/homework/'>homework</a>
+        
+        <a href='https://tiffanywhite.devtag/html/'>html</a>
+        
+        <a href='https://tiffanywhite.devtag/hustle/'>hustle</a>
+        
+        <a href='https://tiffanywhite.devtag/interface/'>interface</a>
+        
+        <a href='https://tiffanywhite.devtag/interview/'>interview</a>
+        
+        <a href='https://tiffanywhite.devtag/iterm/'>iterm</a>
+        
+        <a href='https://tiffanywhite.devtag/iterm2/'>iterm2</a>
+        
+        <a href='https://tiffanywhite.devtag/jagged- arrays/'>jagged arrays</a>
+        
+        <a href='https://tiffanywhite.devtag/javascript/'>javascript</a>
+        
+        <a href='https://tiffanywhite.devtag/jekyll/'>jekyll</a>
+        
+        <a href='https://tiffanywhite.devtag/jekyll-bootstrap/'>jekyll-bootstrap</a>
+        
+        <a href='https://tiffanywhite.devtag/job- search/'>job search</a>
+        
+        <a href='https://tiffanywhite.devtag/jobs/'>jobs</a>
+        
+        <a href='https://tiffanywhite.devtag/john- gruber/'>john gruber</a>
+        
+        <a href='https://tiffanywhite.devtag/jquery/'>jquery</a>
+        
+        <a href='https://tiffanywhite.devtag/knowledege/'>knowledege</a>
+        
+        <a href='https://tiffanywhite.devtag/laughs/'>laughs</a>
+        
+        <a href='https://tiffanywhite.devtag/learn- python- the- hard- way/'>learn python the hard way</a>
+        
+        <a href='https://tiffanywhite.devtag/learning/'>learning</a>
+        
+        <a href='https://tiffanywhite.devtag/let/'>let</a>
+        
+        <a href='https://tiffanywhite.devtag/level- up/'>level up</a>
+        
+        <a href='https://tiffanywhite.devtag/libraries/'>libraries</a>
+        
+        <a href='https://tiffanywhite.devtag/life- changes/'>life changes</a>
+        
+        <a href='https://tiffanywhite.devtag/lightboxes/'>lightboxes</a>
+        
+        <a href='https://tiffanywhite.devtag/map/'>map</a>
+        
+        <a href='https://tiffanywhite.devtag/marco- arment/'>marco arment</a>
+        
+        <a href='https://tiffanywhite.devtag/mentorship/'>mentorship</a>
+        
+        <a href='https://tiffanywhite.devtag/methods/'>methods</a>
+        
+        <a href='https://tiffanywhite.devtag/minorities- in- tech/'>minorities in tech</a>
+        
+        <a href='https://tiffanywhite.devtag/mockups/'>mockups</a>
+        
+        <a href='https://tiffanywhite.devtag/modules/'>modules</a>
+        
+        <a href='https://tiffanywhite.devtag/mvp/'>mvp</a>
+        
+        <a href='https://tiffanywhite.devtag/my- coding- journey/'>my coding journey</a>
+        
+        <a href='https://tiffanywhite.devtag/new- projects/'>new projects</a>
+        
+        <a href='https://tiffanywhite.devtag/new- years/'>new years</a>
+        
+        <a href='https://tiffanywhite.devtag/news/'>news</a>
+        
+        <a href='https://tiffanywhite.devtag/node/'>node</a>
+        
+        <a href='https://tiffanywhite.devtag/npm/'>npm</a>
+        
+        <a href='https://tiffanywhite.devtag/objects/'>objects</a>
+        
+        <a href='https://tiffanywhite.devtag/octopress/'>octopress</a>
+        
+        <a href='https://tiffanywhite.devtag/odd- talking/'>odd talking</a>
+        
+        <a href='https://tiffanywhite.devtag/oh-my-zsh/'>oh-my-zsh</a>
+        
+        <a href='https://tiffanywhite.devtag/open- source/'>open source</a>
+        
+        <a href='https://tiffanywhite.devtag/outdated- tech/'>outdated tech</a>
+        
+        <a href='https://tiffanywhite.devtag/panthers/'>panthers</a>
+        
+        <a href='https://tiffanywhite.devtag/pitt/'>pitt</a>
+        
+        <a href='https://tiffanywhite.devtag/podcast/'>podcast</a>
+        
+        <a href='https://tiffanywhite.devtag/polls/'>polls</a>
+        
+        <a href='https://tiffanywhite.devtag/post- updates/'>post updates</a>
+        
+        <a href='https://tiffanywhite.devtag/primitive- data- types/'>primitive data types</a>
+        
+        <a href='https://tiffanywhite.devtag/productivity/'>productivity</a>
+        
+        <a href='https://tiffanywhite.devtag/programming/'>programming</a>
+        
+        <a href='https://tiffanywhite.devtag/programming- fundamentals/'>programming fundamentals</a>
+        
+        <a href='https://tiffanywhite.devtag/prorgammers/'>prorgammers</a>
+        
+        <a href='https://tiffanywhite.devtag/pull- requests/'>pull requests</a>
+        
+        <a href='https://tiffanywhite.devtag/pydoc/'>pydoc</a>
+        
+        <a href='https://tiffanywhite.devtag/python/'>python</a>
+        
+        <a href='https://tiffanywhite.devtag/random/'>random</a>
+        
+        <a href='https://tiffanywhite.devtag/react/'>react</a>
+        
+        <a href='https://tiffanywhite.devtag/react- components/'>react components</a>
+        
+        <a href='https://tiffanywhite.devtag/reconciliation/'>reconciliation</a>
+        
+        <a href='https://tiffanywhite.devtag/reduce/'>reduce</a>
+        
+        <a href='https://tiffanywhite.devtag/rescuetime/'>rescuetime</a>
+        
+        <a href='https://tiffanywhite.devtag/responsive- grid/'>responsive grid</a>
+        
+        <a href='https://tiffanywhite.devtag/ruby/'>ruby</a>
+        
+        <a href='https://tiffanywhite.devtag/ruby- gems/'>ruby gems</a>
+        
+        <a href='https://tiffanywhite.devtag/rut/'>rut</a>
+        
+        <a href='https://tiffanywhite.devtag/rvm/'>rvm</a>
+        
+        <a href='https://tiffanywhite.devtag/school/'>school</a>
+        
+        <a href='https://tiffanywhite.devtag/scope/'>scope</a>
+        
+        <a href='https://tiffanywhite.devtag/screencast/'>screencast</a>
+        
+        <a href='https://tiffanywhite.devtag/self-reflection/'>self-reflection</a>
+        
+        <a href='https://tiffanywhite.devtag/setups/'>setups</a>
+        
+        <a href='https://tiffanywhite.devtag/show- notes/'>show notes</a>
+        
+        <a href='https://tiffanywhite.devtag/sinatra/'>sinatra</a>
+        
+        <a href='https://tiffanywhite.devtag/slack/'>slack</a>
+        
+        <a href='https://tiffanywhite.devtag/snippets/'>snippets</a>
+        
+        <a href='https://tiffanywhite.devtag/software- engineering/'>software engineering</a>
+        
+        <a href='https://tiffanywhite.devtag/spread- operator/'>spread operator</a>
+        
+        <a href='https://tiffanywhite.devtag/spring- break/'>spring break</a>
+        
+        <a href='https://tiffanywhite.devtag/stack- overflow/'>stack overflow</a>
+        
+        <a href='https://tiffanywhite.devtag/student/'>student</a>
+        
+        <a href='https://tiffanywhite.devtag/students/'>students</a>
+        
+        <a href='https://tiffanywhite.devtag/success/'>success</a>
+        
+        <a href='https://tiffanywhite.devtag/tdd/'>tdd</a>
+        
+        <a href='https://tiffanywhite.devtag/teamwork/'>teamwork</a>
+        
+        <a href='https://tiffanywhite.devtag/technical/'>technical</a>
+        
+        <a href='https://tiffanywhite.devtag/template- literals/'>template literals</a>
+        
+        <a href='https://tiffanywhite.devtag/template- strings/'>template strings</a>
+        
+        <a href='https://tiffanywhite.devtag/terminal/'>terminal</a>
+        
+        <a href='https://tiffanywhite.devtag/test-driven- development/'>test-driven development</a>
+        
+        <a href='https://tiffanywhite.devtag/testing/'>testing</a>
+        
+        <a href='https://tiffanywhite.devtag/the- practical- dev/'>the practical dev</a>
+        
+        <a href='https://tiffanywhite.devtag/the- talk- show/'>the talk show</a>
+        
+        <a href='https://tiffanywhite.devtag/this/'>this</a>
+        
+        <a href='https://tiffanywhite.devtag/this- developer's- journey/'>this developer's journey</a>
+        
+        <a href='https://tiffanywhite.devtag/time- complexity/'>time complexity</a>
+        
+        <a href='https://tiffanywhite.devtag/to- do/'>to do</a>
+        
+        <a href='https://tiffanywhite.devtag/tools/'>tools</a>
+        
+        <a href='https://tiffanywhite.devtag/tutorials/'>tutorials</a>
+        
+        <a href='https://tiffanywhite.devtag/twitter/'>twitter</a>
+        
+        <a href='https://tiffanywhite.devtag/type- coercion/'>type coercion</a>
+        
+        <a href='https://tiffanywhite.devtag/uncategorized/'>uncategorized</a>
+        
+        <a href='https://tiffanywhite.devtag/university/'>university</a>
+        
+        <a href='https://tiffanywhite.devtag/university- of- pittsburgh/'>university of pittsburgh</a>
+        
+        <a href='https://tiffanywhite.devtag/updates/'>updates</a>
+        
+        <a href='https://tiffanywhite.devtag/ux/'>ux</a>
+        
+        <a href='https://tiffanywhite.devtag/var/'>var</a>
+        
+        <a href='https://tiffanywhite.devtag/vscode/'>vscode</a>
+        
+        <a href='https://tiffanywhite.devtag/weather- app/'>weather app</a>
+        
+        <a href='https://tiffanywhite.devtag/web- app/'>web app</a>
+        
+        <a href='https://tiffanywhite.devtag/web- developer- bootcamp/'>web developer bootcamp</a>
+        
+        <a href='https://tiffanywhite.devtag/web- development/'>web development</a>
+        
+        <a href='https://tiffanywhite.devtag/women- in- tech/'>women in tech</a>
+        
+        <a href='https://tiffanywhite.devtag/work/'>work</a>
+        
+        <a href='https://tiffanywhite.devtag/year- end- wrap-up/'>year end wrap-up</a>
+        
+        <a href='https://tiffanywhite.devtag/yeoman/'>yeoman</a>
+        
+        <a href='https://tiffanywhite.devtag/zed- shaw/'>zed shaw</a>
+        
+    </div>
+</section>
+
+
+		</div><!-- .sidebar-inside -->
+	</div><!-- .sidebar-scrollable -->
+</aside><!-- .sidebar -->
+    
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-61294063-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-61294063-1', { 'anonymize_ip': true });
+  </script>
+
+    <!-- Javascript Assets -->
+    <script src="/assets/js/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
+
+    <!-- <link rel="stylesheet" href="/assets/css/dark-mode.css"> -->
+    <script type="text/javascript">
+        var bigfoot = $.bigfoot({
+            actionOriginalFN: "hide",
+            positionContent: "true"
+        });
+    </script>
+    <script src="/assets/js/plugins.js"></script>
+    <script src="/assets/js/custom.js"></script>
+
+            <script>
+                window.onload = function () {
+                    var script = document.createElement('script');
+                    var firstScript = document.getElementsByTagName('script')[0];
+                    script.type = 'text/javascript';
+                    script.async = true;
+                    script.src = '/sw-register.js?v=' + Date.now();
+                    firstScript.parentNode.insertBefore(script, firstScript);
+                };
+            </script>
+            </body>
+
+
+</html>

@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiffany R. White Blog</title>
+    <description>Your friend Tiffany's tiny little weblog.</description>
+    <link>http://0.0.0.0:4001/</link>
+    <atom:link href="http://0.0.0.0:4001/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 Nov 2019 19:24:19 -0500</pubDate>
+    <lastBuildDate>Sun, 03 Nov 2019 19:24:19 -0500</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Recognizing Patterns</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Hey y’all. Been a while. It has been super &lt;strong&gt;crazy&lt;/strong&gt; as I am moving in literally one week and consulting is a craziness unto itself. I’ve also broken the chain of posting at least once a month for 4 years but hey. I have a good reason to have missed. 😜&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One of the things I am learning while working is &lt;em&gt;how to recognize patterns&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;pattern-recognition-is-a-skill&quot;&gt;Pattern recognition is a skill&lt;/h2&gt;
+
+&lt;p&gt;I have &lt;em&gt;terrible&lt;/em&gt; pattern recognition abilities&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. This was a thing that stood out on the I.Q. tests I’ve taken by psychologists, once in my teens, and the other just recently.&lt;/p&gt;
+
+&lt;p&gt;This industry is &lt;em&gt;based&lt;/em&gt; on pattern recognition. It is vital to your survival as a dev. If you can’t recognize patterns in your code, then you won’t succeed. At all.&lt;/p&gt;
+
+&lt;p&gt;Luckily, mostly &lt;em&gt;everything you write is some type of pattern&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Take a look at this:&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kr&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;arr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Basically, we’re just taking the &lt;code class=&quot;highlighter-rouge&quot;&gt;arr&lt;/code&gt; array and iterating over it with a &lt;code class=&quot;highlighter-rouge&quot;&gt;for&lt;/code&gt; loop and logging the index to the console. You see this everywhere, in every language based on C or some variant of C. It’s a design pattern called, you guessed it, &lt;em&gt;the Iterator Design Pattern&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;It took me an &lt;em&gt;absurdly&lt;/em&gt; long time to recognize this is what a pattern &lt;em&gt;is&lt;/em&gt;. Once I learned what these patterns looked like, I started noticing them &lt;em&gt;everywhere&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;object-creator-pattern&quot;&gt;Object Creator Pattern&lt;/h2&gt;
+
+&lt;p&gt;You know how to create objects: the object literal, constructor, and the class. The way you instantiate each of these is a pattern.&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Object literal&lt;/span&gt;
+
+&lt;span class=&quot;kr&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;myObj&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// some props&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// constructor function&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;MyObject&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;someProp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;someProp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;someOtherProp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;someOtherProp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kr&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;anotherObject&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;MyObject&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// class&lt;/span&gt;
+
+&lt;span class=&quot;kr&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;newObject&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;constructor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;See? If you know how to do anything like this, some sort of standard way of crafting code that you see repeated over and over, most likely it is a &lt;em&gt;pattern&lt;/em&gt;&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;The longer I do this though, the better I am getting. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Design patterns have to be standardized by a body of computer scientists/theorists/technicians and can’t just be created by any old dev. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 20 Sep 2019 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4001/recognizing-patterns</link>
+        <guid isPermaLink="true">http://0.0.0.0:4001/recognizing-patterns</guid>
+        
+        <category>Fundamentals</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Stickers</title>
+        <description>&lt;p&gt;Just recently I bought &lt;a href=&quot;https://www.amazon.com/i-Blason-MacBook-Soft-Touch-Frosted-Display/dp/B01M4P3E1N/ref=sr_1_4?keywords=macbook+pro+15+touch+bar+case+clear&amp;amp;qid=1562806606&amp;amp;refinements=p_72%3A2661618011&amp;amp;rnid=2661617011&amp;amp;s=gateway&amp;amp;sr=8-4&quot;&gt;this case&lt;/a&gt; from Amazon to cover up my company issued MacBook Pro so I could…&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;cover it with stickers&lt;/em&gt;…&lt;/p&gt;
+
+&lt;p&gt;as devs do.&lt;/p&gt;
+
+&lt;p&gt;So here is my stickered up MacBook Pro. What’s your laptop cover looking like? You can &lt;a href=&quot;https://twitter.com/tiffanywhitedev&quot;&gt;hit me up on Twitter&lt;/a&gt; with your setup.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/2019/stickers-new.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Jul 2019 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4001/stickers</link>
+        <guid isPermaLink="true">http://0.0.0.0:4001/stickers</guid>
+        
+        <category>Random</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>First Week Feels</title>
+        <description>&lt;p&gt;&lt;img src=&quot;./1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This week has been a complete whirlwind of excitement, emails, and downtime.&lt;/p&gt;
+
+&lt;p&gt;My teammates are wonderful people so far. My supervisor is great as well&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;emailsso-many-emails&quot;&gt;Emails…so many emails&lt;/h2&gt;
+
+&lt;p&gt;When people complained about getting too many emails I didn’t see what the issue was; you’re working and doing important things! Why &lt;em&gt;wouldn’t&lt;/em&gt; you want emails?&lt;/p&gt;
+
+&lt;p&gt;Well, it can get to be too much. It is my first week and I enjoyed the correspondence but by week’s end my brain was completely fatigued. I’ll get used to it for sure but for the first week and onboarding and all that it was a bit overwhelming.&lt;/p&gt;
+
+&lt;h2 id=&quot;sprints-and-scrums&quot;&gt;Sprints and scrums&lt;/h2&gt;
+
+&lt;p&gt;The sprint we had was &lt;em&gt;amazing&lt;/em&gt;. Our PM was nice, the guys were nice and there was a lot of laughter. I don’t suspect sprints will always be like this but for a first time this was encouraging.&lt;/p&gt;
+
+&lt;h2 id=&quot;retirement-and-health-plans&quot;&gt;Retirement and health plans&lt;/h2&gt;
+
+&lt;p&gt;This…is just…I just don’t know what to say about it. Truly. You work at Target, Quizno’s and the local library all your life and having a 401k seems unreal, and it feels silly coming out of my mouth. I don’t know but I’ll get used to it.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-prove-yourself-rookie-week-ahead&quot;&gt;The “prove yourself, rookie” week ahead&lt;/h2&gt;
+
+&lt;p&gt;I have three projects I am a part of. None of the stuff looks too difficult. We have deadlines here where we really didn’t at DEV so this is a big time change. But I thrive off of stuff like this so I’m down for whatever&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-week&quot;&gt;Next week&lt;/h2&gt;
+
+&lt;p&gt;It’s going to pick up &lt;em&gt;considerably&lt;/em&gt;. My teammates joked with me when I told them it was a bit slow. They said, &lt;em&gt;wanna trade?&lt;/em&gt; and &lt;em&gt;enjoy it because it won’t last!&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Well, I did.&lt;/p&gt;
+
+&lt;p&gt;So let’s get it.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;He’s the one who found me for the position so it really helps as we have already established a rapport. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;I had to build a blog app in four days at DEV. I did it in four days exactly. I spent from morning till night working on it. Ain’t no thang. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 18 Jul 2019 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4001/first-week-feels</link>
+        <guid isPermaLink="true">http://0.0.0.0:4001/first-week-feels</guid>
+        
+        <category>Work</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Goal, Completed</title>
+        <description>&lt;p&gt;Yea so this is a long story. &lt;em&gt;Long&lt;/em&gt;. But it is worth telling because maybe it can help one of you guys.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-a-little-bit-of-background&quot;&gt;First, a little bit of background&lt;/h2&gt;
+
+&lt;p&gt;I’ve been someone without a lot of money for a long time and by not a lot of money I mean below the poverty line since I stepped out on my own.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Warning: This will not be a rah rah or woe is me post. Stuff happens and sometimes it happens to good people. I am not here for sympathy, just a direct telling of my circumstances.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I spent a lot of time in school. &lt;em&gt;A lot&lt;/em&gt;. I was young and directionless, picking up an electronics engineering degree program at the local community college, then physics, then humanities and then I moved 200 miles from home in my mid-thirties to go to Pitt for computer science.&lt;/p&gt;
+
+&lt;p&gt;I had and have no family obligations so this is probably something someone at that age or my age currently would not be able to do, and in this way, despite the poverty and lifelong hardships, this is a privilege I have that a lot of folks do not.&lt;/p&gt;
+
+&lt;p&gt;So I quit. And I started freeCodeCamp, Codeacademy, Udemy, and the like.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-struggle-results-in-good-things&quot;&gt;A struggle results in good things&lt;/h2&gt;
+
+&lt;p&gt;I struggled through freeCodeCamp’s algorithm challenges, I struggled through the frontend projects on the first iteration of freeCodeCamp; I’ve been a camper since literally the beginning and while I have no certifications I &lt;em&gt;did&lt;/em&gt; work daily for the most part on the curriculum.&lt;/p&gt;
+
+&lt;p&gt;I bought &lt;a href=&quot;https://www.udemy.com/the-web-developer-bootcamp/&quot;&gt;The Web Developer Bootcamp&lt;/a&gt;  by Colt Steele and worked through the entire thing and got the &lt;a href=&quot;https://drive.google.com/file/d/17og0eh-nNLoVtx15pRXu0aB4tCsoy5Pl/view?usp=sharing&quot;&gt;certificate&lt;/a&gt; after four months of work and a working &lt;a href=&quot;https://yelpcamp96.herokuapp.com/&quot;&gt;YelpCamp&lt;/a&gt;  full-stack app.&lt;/p&gt;
+
+&lt;p&gt;It was around this time I got offered an internship at a company you may be familiar with. I was ecstatic; my first &lt;em&gt;real&lt;/em&gt; dev…job? I thought so. I thought that when all was said and done &lt;em&gt;the job was mine&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;But it didn’t turn out that way.&lt;/p&gt;
+
+&lt;h2 id=&quot;failure-to-plan-failure-to-succeed&quot;&gt;Failure to plan, failure to succeed&lt;/h2&gt;
+
+&lt;p&gt;I started out of the gate &lt;em&gt;fast&lt;/em&gt; picking up Rails and making small changes relatively quickly. But I didn’t take notes, Slack was hard for me to stay in as I just wanted to &lt;em&gt;work&lt;/em&gt; and not get into chats in Slack so I wasn’t communicating at all. Needless to say my mid-internship review was pretty bad.&lt;/p&gt;
+
+&lt;p&gt;I couldn’t build things in the proper way, partially because I was new to Rails and partially because I didn’t take notes which resulted in poor planning. I was remote and this made it hard for me to pick Rails up quickly as there was no one down the hall and Slack was our main mode of communicating.&lt;/p&gt;
+
+&lt;p&gt;To add to this, I was being thrown out of my apartment because of renovations. I had a month to find a place and Pittsburgh has a dearth of affordable housing which meant I needed to move back to my hometown. I was devastated and completely shutdown, not communicating hardly at all with anyone. I saved around $6,000 and moved home last year in April.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-search-begins&quot;&gt;The search begins&lt;/h2&gt;
+
+&lt;p&gt;I got back and vowed to leave again because &lt;em&gt;I hated this place&lt;/em&gt; when I left it and I didn’t want to be back here.&lt;/p&gt;
+
+&lt;p&gt;I started searching for work. I interviewed with big companies like Microsoft and Automattic and while I made it to the final round of Microsoft’s interview, I needed more practice with &lt;em&gt;established&lt;/em&gt; algorithms that I really can’t talk about here because I am still under NDA.&lt;/p&gt;
+
+&lt;p&gt;I was broken for the rest of the year. Literally not caring about anything at all. Lost. I gave up looking for work as it had been &lt;em&gt;years&lt;/em&gt; since I started this journey and nothing was happening.&lt;/p&gt;
+
+&lt;p&gt;I burned out and basically had a nervous breakdown. Money was really tight. I wasn’t eating well at all because I didn’t have the money to, as well as gaining weight because of it.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-new-year-and-new-sense-of-purpose&quot;&gt;A new year and new sense of purpose.&lt;/h2&gt;
+
+&lt;p&gt;I &lt;a href=&quot;https://tiffanywhite.dev/end-of-year-goals/&quot;&gt;wrote a blog post&lt;/a&gt; detailing how I was going to pull myself up out of that funk I was in: I programmed very little last year after the failed interviews. Over the years I watched my friends drop out of the whole learning to code endeavor and I felt bad for them. Of course, they all had families and work and I didn’t have any of that, again, my bit of privilege despite being underprivileged in many ways.&lt;/p&gt;
+
+&lt;p&gt;I laid out the groundwork for getting a job this year in &lt;a href=&quot;https://www.notion.so&quot;&gt;Notion&lt;/a&gt; and began work on doing just that.&lt;/p&gt;
+
+&lt;p&gt;I increased my streak on freeCodeCamp from 4 to 36 consecutive days with 579 points.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;![Screenshot-2019-07-05_04-40-07_PM&lt;/td&gt;
+      &lt;td&gt;690x343](2.png)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I applied to more positions but nothing turned up.&lt;/p&gt;
+
+&lt;h2 id=&quot;taking-a-shot-on-dev-listings&quot;&gt;Taking a shot on DEV Listings&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dev.to/listings&quot;&gt;DEV Listings&lt;/a&gt; is a new endeavor by the DEV team to help prospective coders to get a job/mentor/collaborator, etc by allowing you to put up basically an ad/listing to share your links and tell them why they should hire you.&lt;/p&gt;
+
+&lt;p&gt;I took a chance on this and waited.&lt;/p&gt;
+
+&lt;p&gt;And waited.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-build-up&quot;&gt;The build up&lt;/h2&gt;
+
+&lt;p&gt;One day on Twitter I complained that I wasn’t getting anything at all and that seeing people start their tech careers was weighing on me.&lt;/p&gt;
+
+&lt;p&gt;Shortly after that, the VP of a company contacted me on Twitter. We talked over the phone and we set up an initial phone screen. The person screening me that day really, &lt;em&gt;really&lt;/em&gt; liked me and what I was about.&lt;/p&gt;
+
+&lt;p&gt;This lead to the second and final round of interviews which were technical. These interviews were video interviews that would last for two hours total.&lt;/p&gt;
+
+&lt;p&gt;I tripped up on something simple like fetching data from an API to lazy load some content from a server; I complicate a lot of things and while I knew it and eventually got around to the correct answer, I thought too much about it and I felt really stupid.&lt;/p&gt;
+
+&lt;p&gt;I then talked to the backend dev and the project manager and they were really impressed.&lt;/p&gt;
+
+&lt;p&gt;My mentor and I felt like this was it. Everyone I talked to about if felt like this was it but I had been through the process so much I didn’t get my hopes up at all.&lt;/p&gt;
+
+&lt;h2 id=&quot;goal-completed&quot;&gt;Goal, completed&lt;/h2&gt;
+
+&lt;p&gt;I was outside waiting for some packages and I got the call. My recruiter from the company said they wanted to offer me an entry level frontend dev position making quite a bit more than the market rate if I’m being honest. I felt…relief. I had been breaking out in hives from all the stress.&lt;/p&gt;
+
+&lt;p&gt;I am now a junior frontend dev at a great company and I couldn’t be happier.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It has been years, &lt;em&gt;years&lt;/em&gt; since I decided to switch majors to software engineering from humanities, drop out of college, and start this process.&lt;/p&gt;
+
+&lt;p&gt;People I’ve cared about and started the journey with have come and gone, with three of us left standing.&lt;/p&gt;
+
+&lt;p&gt;I &lt;strong&gt;did not quit&lt;/strong&gt; and it is mainly because &lt;em&gt;I couldn’t afford to&lt;/em&gt;. Literally.&lt;/p&gt;
+
+&lt;p&gt;If you have been through the hell of having your life derailed from no fault of your own like me, it is &lt;em&gt;really, really&lt;/em&gt; tough to want to start this journey when you are constantly hungry or depressed because you’re hungry. It is a vicious cycle of despair that is hard to break. The statistics for us don’t look great.&lt;/p&gt;
+
+&lt;p&gt;But tech allows people like you and me to break the shackles of poverty if you’re stubborn and consistently persistent in the pursuit.&lt;/p&gt;
+
+&lt;p&gt;It’s doable. I did it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Don’t quit.&lt;/strong&gt; Not now, not when life is good and especially not when life is bad.&lt;/p&gt;
+
+&lt;p&gt;Put in the work. It may take &lt;em&gt;a long time&lt;/em&gt; but the payoff is better than the alternate.&lt;/p&gt;
+
+&lt;p&gt;Good luck. You got this.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Jul 2019 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4001/goal-completed</link>
+        <guid isPermaLink="true">http://0.0.0.0:4001/goal-completed</guid>
+        
+        <category>Goals</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Burnout, Health, and Starting Over</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This post is a recycled newsletter I just recently released but with extra content.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;from-the-newsletter&quot;&gt;&lt;em&gt;From the newsletter&lt;/em&gt;:&lt;/h2&gt;
+
+&lt;p&gt;Last year’s hell is this year’s hangover, or so it seems.&lt;/p&gt;
+
+&lt;p&gt;There are periods of intense studying, thinking about problems, filling up my freeCodeCamp consecutive days streak in dark green squares.&lt;/p&gt;
+
+&lt;p&gt;Then there are…&lt;em&gt;other days&lt;/em&gt;. Days where everything is taxing and sleep is your best friend.&lt;/p&gt;
+
+&lt;p&gt;I have a lot of those days lately. And the issue?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;I have been at this a long time with minimal success&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is really my fault; I literally have no one to blame but &lt;em&gt;myself&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve spent an egregious amount of time on video tutorials and &lt;em&gt;am just now finding out&lt;/em&gt; I learn best by &lt;em&gt;doing&lt;/em&gt;. Trying to figure out how to get a &lt;code class=&quot;highlighter-rouge&quot;&gt;Search&lt;/code&gt; component working on my site was &lt;em&gt;hard&lt;/em&gt; but &lt;em&gt;necessary&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Years wasted. And I sat around feeling sorry for myself; feeling that twinge of envy every time someone got a new job as a junior. I knew, know, I am not doing enough, wasn’t doing enough. Depression and burnout will do that to you.&lt;/p&gt;
+
+&lt;p&gt;Spending years on &lt;em&gt;go&lt;/em&gt; is difficult to sustain. You &lt;em&gt;will&lt;/em&gt; crash. And I did. Several times. And went about doing things the same way again.&lt;/p&gt;
+
+&lt;h2 id=&quot;fck-complacency&quot;&gt;F*ck Complacency.&lt;/h2&gt;
+
+&lt;p&gt;I really had to get real with myself.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What do I &lt;em&gt;really&lt;/em&gt; want?&lt;/li&gt;
+  &lt;li&gt;What am I willing to do to get it?&lt;/li&gt;
+  &lt;li&gt;What safeguards can I put in place so that this type of long burnout never happens again?&lt;/li&gt;
+  &lt;li&gt;How hard am I willing to try by putting myself out there and putting in the work?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I really &lt;em&gt;want&lt;/em&gt; to be a developer.&lt;/p&gt;
+
+&lt;p&gt;I am willing to put in the hours, even when I don’t want to, to get it.&lt;/p&gt;
+
+&lt;p&gt;I need to listen to my body and take the weekend for self-care. &lt;em&gt;Self-care&lt;/em&gt; is a loaded buzzword but I didn’t do it for many years and now I am stuck, 4 years programming with nothing to show for it. I journal. A lot. I see a professional. I have a &lt;a href=&quot;https://www.eyeem.com/u/trwhite&quot;&gt;photography&lt;/a&gt; &lt;a href=&quot;https://www.flickr.com/photos/sydmalicious/&quot;&gt;hobby&lt;/a&gt; I really enjoy. I have this dope robot car I am building. I do this on the weekends. I go out with friends and have friends over. I won’t get into too many details but I really &lt;em&gt;missed&lt;/em&gt; this while I was in Pittsburgh. And if I ever move from here again, I really need to make sure I actually &lt;em&gt;know&lt;/em&gt; some people in the new area.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./robots.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Robots are pretty cool&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I am willing to anything. And this is where other’s success comes in.&lt;/p&gt;
+
+&lt;p&gt;Seeing the folks over the weekend sharing their freeCodeCamp JavaScript and Data Structures &amp;amp; Algorithms certificates made a little angry, not at them, but myself. I have been a camper since the beginning, making an account when they were still using Ruby and other course sites to help you learn. I have &lt;em&gt;zero&lt;/em&gt; certificates. &lt;em&gt;None&lt;/em&gt;. I am super ashamed of this.&lt;/p&gt;
+
+&lt;p&gt;https://www.instagram.com/p/BxqLDT_j0OS/&lt;/p&gt;
+
+&lt;p&gt;One of the ways I am motivating myself is having this random certificate frame I picked up from the Dollar Tree. It is going up on the wall in front of my desk as a reminder of what I need to do to fill it with a freeCodeCamp certificate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./cert.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-a-study-plan&quot;&gt;Setting up a study plan&lt;/h2&gt;
+
+&lt;p&gt;I have a couple Google Sheets I setup to help me study.&lt;/p&gt;
+
+&lt;p&gt;If you want to use them, you can find them at the following places:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1eBStSPDP8jXpPQvmKI35ogaSms864WRKFScRIc0GoKw/edit?usp=sharing&quot;&gt;Job Ready: Study Plan for Front-End Employment&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1cgyOyqpmtCtCDxYmgRSzDoTXO9L9PZLGVLoruY-AmrI/edit?usp=sharing&quot;&gt;CS Study Plans&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;addendum&quot;&gt;Addendum&lt;/h2&gt;
+
+&lt;p&gt;I can’t stress enough how important it is to have support systems, and good ones, either virtually or in person, &lt;em&gt;especially&lt;/em&gt; in person, around you.&lt;/p&gt;
+
+&lt;p&gt;I didn’t have any of this in Pittsburgh and it is taking some time for me to get out of recluse mode back here in my hometown. As I said above, I am trying to take my health, mental or otherwise more seriously. It doesn’t help that my birthday was earlier this month, and none of use are getting any younger. I can’t afford to neglect my health any longer. I did that for far to long and it cost me, big time, in the summer of last year.&lt;/p&gt;
+
+&lt;p&gt;I have friends here I’ve known for 20 some odd years. We hang out. Whenever I am depressed or burned out, they are always there for me and if they are having a hard time, I try to be there for them.&lt;/p&gt;
+
+&lt;p&gt;It’s the weekend right now, early morning. I am about to just publish this and head upstairs. I am thankful for my friends and family because without them this past year I don’t think I’d have made it.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 May 2019 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4001/burnout-health-and-starting-over</link>
+        <guid isPermaLink="true">http://0.0.0.0:4001/burnout-health-and-starting-over</guid>
+        
+        <category>Developer Health</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Q1 Goals Update: Some Meh, Mostly Good</title>
+        <description>&lt;p&gt;I started out the year in bad shape. By February it was &lt;em&gt;on&lt;/em&gt;: coding almost daily, diving into projects, making good on doctor’s appointments&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was reading book after book, learning something new, diving into Slack and Telegram channels. But then.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Crash&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The way I structured my goals for this year were &lt;em&gt;horribly misguided&lt;/em&gt;. There is only so much your body can do, only so much your brain can work on before you &lt;em&gt;burn out&lt;/em&gt; and that I did.&lt;/p&gt;
+
+&lt;h2 id=&quot;quantitative-assessment&quot;&gt;Quantitative assessment&lt;/h2&gt;
+
+&lt;p&gt;Let’s start out with reviewing what I wanted to do&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tiffanywhite.dev/end-of-year-goals/&quot;&gt;&lt;img src=&quot;/assets/images/posts/2019/goals-click.jpg&quot; alt=&quot;Tiffany R. White Blog Goals&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I didn’t get gainful employment&lt;/li&gt;
+  &lt;li&gt;I didn’t interview with two companies a month&lt;/li&gt;
+  &lt;li&gt;I have increased my Twitter network quite a bit since making these goals&lt;/li&gt;
+  &lt;li&gt;Still working on the Data Structures and Algorithms in JavaScript course by Colt Steele&lt;/li&gt;
+  &lt;li&gt;Will apply to big company soon enough&lt;/li&gt;
+  &lt;li&gt;Got better at GraphQL&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;I am starting a Typescript course&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;I have learned some concepts and have written about them, just not as often as I would have liked.&lt;/li&gt;
+  &lt;li&gt;Finished the egghead promo and can now make lessons but I don’t know what they will be yet. So no, I haven’t made any lessons&lt;/li&gt;
+  &lt;li&gt;No I haven’t done much open source contributing&lt;/li&gt;
+  &lt;li&gt;I have a couple open source projects in the works&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;too-much-too-soon&quot;&gt;Too much, too soon&lt;/h2&gt;
+
+&lt;p&gt;I still have &lt;em&gt;a lot&lt;/em&gt; of time to get some of this done; these were yearly goals. But as far as Q1 goes it has been a moderate success.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Once you reach a certain age, this is a good thing to do. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;The screenshot below is clickable and will take you to that post. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;This is thanks to Gatsby and struggling to add search to this very blog. Still a looooong way to go though. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Seriously outdated but I haven’t found one that I like that introduces the basics thoroughly besides this one. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 23 Apr 2019 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4001/q1-goals-update-some-meh-mostly-good</link>
+        <guid isPermaLink="true">http://0.0.0.0:4001/q1-goals-update-some-meh-mostly-good</guid>
+        
+        
+        <category>Goals</category>
+        
+      </item>
+    
+      <item>
+        <title>Twitch, YouTube, Egghead, and Zoom: My New Projects and Setup</title>
+        <description>&lt;p&gt;I &lt;em&gt;do&lt;/em&gt; have a Twitch channel.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.twitch.tv/?channel=sydmalicious78&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;no&quot; width=&quot;620&quot; style=&quot;height:350px!important&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.twitch.tv/sydmalicious78?tt_content=text_link&amp;amp;tt_medium=live_embed&quot; style=&quot;padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;&quot;&gt;Watch live video from Sydmalicious78 on www.twitch.tv&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s nothing here though.&lt;/p&gt;
+
+&lt;p&gt;Why?&lt;/p&gt;
+
+&lt;p&gt;Introverted. Black. Female. Out of shape. The list goes on.&lt;/p&gt;
+
+&lt;p&gt;It is not so much that I can’t take insults; this has been a thing that has been part of my life ever since I stepped foot into day care. The issue for me is &lt;em&gt;my mouth&lt;/em&gt;. I don’t suffer fools and I will let them know as much. This is why I haven’t.&lt;/p&gt;
+
+&lt;p&gt;But this is changing.&lt;/p&gt;
+
+&lt;p&gt;I am in a new place that is pretty rad. I have new equipment. And I don’t look as bad as I did when I streamed to Livecoding.tv.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-i-am-working-on&quot;&gt;Things I am working on&lt;/h2&gt;
+
+&lt;p&gt;I am currently brainstorming &lt;a href=&quot;https://egghead.io&quot;&gt;egghead.io&lt;/a&gt; lessons in Evernote. I am not sure what to teach but &lt;a href=&quot;https://twitter.com/jhooks&quot;&gt;Joel Hooks&lt;/a&gt; of Egghead has pointed out that I have &lt;em&gt;a lot&lt;/em&gt; of material on my blog and to whittle it down to the best content and teach it. So this is what I’ll do this weekend.&lt;/p&gt;
+
+&lt;p&gt;I am also thinking of doing some YouTube&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and hopefully doing more webinars.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-what-is-my-setup&quot;&gt;So what is my setup?&lt;/h2&gt;
+
+&lt;p&gt;You can find some of this on &lt;a href=&quot;https://kit.com/tiffanywhitedev&quot;&gt;Kit&lt;/a&gt; but just to give you a preview:&lt;/p&gt;
+
+&lt;iframe src=&quot;https://kit.com/embed?url=https%3A%2F%2Fkit.com%2Ftiffanywhitedev%2Fvideo-streaming&quot; style=&quot;display: block; border: 0px; margin: 0 auto; width: 100%; height: 100vw; max-width: 700px; max-height: 700px&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;what-does-it-look-like-all-setup&quot;&gt;What does it look like all setup?&lt;/h2&gt;
+
+&lt;p&gt;Glad you asked.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/posts/2019/1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Full desk&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./2.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Main equipment&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;for-the-curious&quot;&gt;For the curious&lt;/h2&gt;
+
+&lt;p&gt;Here is a list:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B07C9ZNY17/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;VILTROX VL-162T CRI95+ LED Video Light&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B076MPMZDV/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;WD 6TB Elements Desktop Hard Drive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B07K95WFWM/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;Logitech C920S Pro HD Webcam with Privacy Shutter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B07LGYWR25/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;Leypin Flexible Phone Tripod&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B00TPFWN6A/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;amp;psc=1&quot;&gt;Sabrent Premium 7 Port Aluminum USB 3.0 Hub&lt;/a&gt;&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B01LWIIAOR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;amp;psc=1&quot;&gt;MAKETECH 7-Port Rotatable USB 3.0 HUB with Swiveling Connector&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B00U1SG5SW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;amp;psc=1&quot;&gt;Heil Sound PR 40 Dynamic Cardioid Studio Microphone Bundle with PRSM Shock Mount, Two-Section Broadcast Arm and Microphone Cable&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/gp/product/B001BS3UW0/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&amp;amp;psc=1&quot;&gt;Heil Sound Windscreen for PR30 &amp;amp; PR40 Microphones&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.telestream.net/screenflow/overview.htm&quot;&gt;ScreenFlow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/webcam-settings/id533696630?mt=12&quot;&gt;‎Webcam Settings&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://obsproject.com/&quot;&gt;Open Broadcaster Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/dp/B00L6F16L0?tag=kit-gl-20&quot;&gt;Manfrotto Compact Action Aluminum 5-Section Tripod Kit with Hybrid Head&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;[M-Audio M-Track 2X2 C-Series&lt;/td&gt;
+          &lt;td&gt;2-in/2-out USB Audio Interface (24-bit/192kHz)](https://www.amazon.com/dp/B01FFH5XMC?tag=kit-gl-20)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Probably not though. We’ll see. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;No longer available unfortunately. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 21 Apr 2019 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4001/twitch-youtube-egghead-and-zoom-my-new-projects-and-setup</link>
+        <guid isPermaLink="true">http://0.0.0.0:4001/twitch-youtube-egghead-and-zoom-my-new-projects-and-setup</guid>
+        
+        
+        <category>Fun</category>
+        
+      </item>
+    
+      <item>
+        <title>Music Friday's Playlist: Dirty, Grungy, Sweaty Rock</title>
+        <description>&lt;p&gt;If you were a teenager in the mid-nineties, I don’t need to remind you of the amount of pessimism that occurred during that era; from Kurt Cobain&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; going on rambling improvs like &lt;em&gt;Gallons of Rubbing Alcohol Flows Through the Strip&lt;/em&gt; on the &lt;em&gt;Nevermind&lt;/em&gt; B-side, to Chris Cornell&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; crooning in &lt;em&gt;Black Hole Sun&lt;/em&gt; on &lt;em&gt;Superunknown&lt;/em&gt;, you know the air was dank and filled with sorrow.&lt;/p&gt;
+
+&lt;p&gt;So this playlist isn’t different than most of the songs from that era; there’s some Beck pre The Information in here, Sonic Youth, Hole, and 7 Year Bitch&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s loud and grungy and I thoroughly enjoy cleaning and lifting to it.&lt;/p&gt;
+
+&lt;iframe allow=&quot;autoplay *; encrypted-media *;&quot; frameborder=&quot;0&quot; height=&quot;1000px&quot; style=&quot;width:100%;max-width:660px;overflow:hidden;background:transparent;&quot; sandbox=&quot;allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation&quot; src=&quot;https://embed.music.apple.com/us/playlist/dirty-grungy-sweaty-rock/pl.u-9N10LIXWjXKK&quot;&gt;&lt;/iframe&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;RIP guy. You were one of the good ones. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;RIP also. First celebrity crush that wasn’t really a celebrity in the grander sense of the word. His shirtless running around in the Outshined video really set my teenage hormones ablaze. Still, miss him a lot. His suicide hit really hard. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;RIP Mia. She was slain in Seattle in ‘95 and they have no clue who did it. She was the vocalist for 7 Year Bitch. Damn what an awful slate of deaths for this scene. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 19 Apr 2019 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4001/music-fridays-playlist-dirty-grungy-sweaty-rock</link>
+        <guid isPermaLink="true">http://0.0.0.0:4001/music-fridays-playlist-dirty-grungy-sweaty-rock</guid>
+        
+        <category>Playlists</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Some Music I'm Vibing To This Spring</title>
+        <description>&lt;p&gt;I am a &lt;em&gt;big time music head&lt;/em&gt;. All kinds&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am thinking of sharing things I’m listening to.&lt;/p&gt;
+
+&lt;p&gt;I stopped my Spotify subscription in favor of Apple Music, however, I will link to my Spotify playlists&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; of similar songs if I can find them.&lt;/p&gt;
+
+&lt;h2 id=&quot;fck-bitches-get-money&quot;&gt;F*ck Bitches, Get Money&lt;/h2&gt;
+
+&lt;p&gt;I love that particular song. There other faves on here from Childish Gambino, Schoolboy Q, Kendrick, QOTSA, Mansionz, and more.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Enjoy&lt;/em&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;apple-music&quot;&gt;Apple Music&lt;/h2&gt;
+
+&lt;iframe allow=&quot;autoplay *; encrypted-media *;&quot; frameborder=&quot;0&quot; height=&quot;1000&quot; style=&quot;width:100%;max-width:660px;overflow:hidden;background:transparent;&quot; sandbox=&quot;allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation&quot; src=&quot;https://embed.music.apple.com/us/playlist/f-ck-bitches-get-money/pl.u-V9g5pSENREee&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;spotify&quot;&gt;Spotify&lt;/h2&gt;
+
+&lt;p&gt;https://open.spotify.com/playlist/37i9dQZF1E9MHtximUEEG4&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Doom Metal, Metalcore, Old school Thrash Metal, Grindcore, Hardcore, Post-hardcore, Hip Hop, Psychedelic Rock, Shoegaze, Old Punk, Grunge, Pop. Never Country. Sorry. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;These two playlists differ slightly, outside of their names. I did some editing to the Apple Music playlist as I copied it over from Spotify. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 07 Apr 2019 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4001/some-music-im-vibing-to-this-spring</link>
+        <guid isPermaLink="true">http://0.0.0.0:4001/some-music-im-vibing-to-this-spring</guid>
+        
+        <category>Playlists</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Three Ways to Pass Props to Components Outside of Parent/Child Relationships</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;It is really late here on the East Coast but I have been wanting to get this out for weeks now. If there are any errors or wrong examples/logic, you can edit this post on GitHub. All suggestions welcome.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;React excels at urging users to use a to use top down data flow for getting state passed between components. This is usually done in a parent/child relationship in a tree of elements.&lt;/p&gt;
+
+&lt;p&gt;But what if I want to pass data to and from components &lt;em&gt;not in&lt;/em&gt; a parent/child relationship?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;ways-to-pass-the-data-around-the-tree&quot;&gt;Ways to pass the data around the tree&lt;/h1&gt;
+
+&lt;h2 id=&quot;render-prop&quot;&gt;Render prop&lt;/h2&gt;
+
+&lt;p&gt;The first way you can pass data around the tree is by using a &lt;strong&gt;render prop&lt;/strong&gt;. What is a &lt;strong&gt;render prop&lt;/strong&gt;?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A render prop is a function prop that a component uses to let React know what to render.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You are already familiar with a &lt;strong&gt;render prop&lt;/strong&gt;: the &lt;code class=&quot;highlighter-rouge&quot;&gt;children&lt;/code&gt; prop is also a render prop.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Another way to utilize the render props pattern is with React’s children prop. If you’ve never used props.children before, it’s just like any other prop, accept instead of you passing it explicitly to the component, React automatically does it for you and it reference whatever is in the body of the component.
+— &lt;a href=&quot;https://tylermcginnis.com/react-render-props/&quot;&gt;Tyler McGinnis&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;render-prop-example&quot;&gt;Render prop example&lt;/h3&gt;
+
+&lt;p&gt;Here’s an example&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; of a render prop in action:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-js{3,15}&quot;&gt;
+class User extends React.Component {
+  // render prop function
+  addUser = () =&amp;gt; {
+   // add new user from some api
+  }
+  render() {
+    return (
+      this.props.children(this.addUser)
+    );
+  }
+}
+
+&amp;lt;User&amp;gt;
+  // passing the addUser function as a prop
+  // or &quot;render prop&quot; ✅
+  {addUser =&amp;gt;
+    &amp;lt;AddUserButton onclick={addUser} /&amp;gt;
+  }
+&amp;lt;/User&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This is basically passing a callback function as a prop. That’s it.&lt;/p&gt;
+
+&lt;h2 id=&quot;higher-order-components-hocs&quot;&gt;Higher-Order Components (HOCs)&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A higher order component is a function that takes and returns a new component&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Components will transform props into UI. In this case, a HOC transforms a component into another component.&lt;/p&gt;
+
+&lt;p&gt;Take this example:&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// A wrapper component&lt;/span&gt;
+&lt;span class=&quot;kr&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;WrapperComponent&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;otherProps&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{...&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;otherProps&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;Username&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}.&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/div&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// A new, enhanced component that will set a name prop&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// on a base component to &quot;New Name&quot;&lt;/span&gt;
+&lt;span class=&quot;kr&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;withChangedUsername&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;WrapperComponent&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;WrapperComponent&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{...&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;bored potato&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&amp;gt;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;kr&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;EnhancedComponent&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;withChangedUsername&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;WrapperComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;using-the-react-context-api&quot;&gt;Using the React Context API&lt;/h2&gt;
+
+&lt;p&gt;The Context API is a way to pass props to other components in the tree without needing to pass those props down to &lt;em&gt;every&lt;/em&gt; component in the tree. The data can be considered &lt;em&gt;global&lt;/em&gt;.
+You can create a new Context like so:&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kr&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;MyContext&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;React&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createContext&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;defaultValue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;You can pass props down to other components implicitly with the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;Provider&amp;gt;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;Consumer&amp;gt;&lt;/code&gt; components in the API.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;Provider&amp;gt;&lt;/code&gt; component provides the context of whatever data you’re passing. The &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;Consumer&amp;gt;&lt;/code&gt; component subscribes to any changes being passed from the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;Context&amp;gt;&lt;/code&gt; component.&lt;/p&gt;
+
+&lt;h3 id=&quot;styled-components-library-example&quot;&gt;Styled-components library example&lt;/h3&gt;
+
+&lt;p&gt;One of the most popular methods of using &lt;code class=&quot;highlighter-rouge&quot;&gt;Context&lt;/code&gt; globally is for theming.&lt;/p&gt;
+
+&lt;p&gt;Here is an example of theming using React’s Context API in the &lt;code class=&quot;highlighter-rouge&quot;&gt;styled-components&lt;/code&gt; library:&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// Define our button, but with the use of props.theme this time&lt;/span&gt;
+&lt;span class=&quot;kr&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Button&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;styled&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;button&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;`&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;theme&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;px&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;solid&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;theme&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;props&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;theme&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+  &lt;span class=&quot;nx&quot;&gt;font&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;0.25&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;em&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;radius&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;err&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Define our `fg` and `bg` on the theme&lt;/span&gt;
+&lt;span class=&quot;kr&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;theme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;fg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;palevioletred&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;bg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;white&quot;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// This theme swaps `fg` and `bg`&lt;/span&gt;
+&lt;span class=&quot;kr&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;invertTheme&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;fg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bg&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;})&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;fg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;bg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;fg&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;render&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;// provider component&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ThemeProvider&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;theme&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;theme&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Button&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Default&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Theme&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/Button&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;
+      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ThemeProvider&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;theme&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;invertTheme&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Button&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Inverted&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Theme&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/Button&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;      &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/ThemeProvider&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/div&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/ThemeProvider&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;use-each-of-these-patterns-sparingly&quot;&gt;Use each of these patterns sparingly&lt;/h2&gt;
+
+&lt;p&gt;There are &lt;a href=&quot;https://pawelgrzybek.com/cross-cutting-functionality-in-react-using-higher-order-components-render-props-and-hooks/&quot;&gt;pros and cons&lt;/a&gt; to these patterns. It is best to use whatever pattern is best for your project.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;A contrived example but an example nonetheless &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 02 Apr 2019 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4001/three-ways-to-pass-props-to-components-outside-of-parent-child-relationships</link>
+        <guid isPermaLink="true">http://0.0.0.0:4001/three-ways-to-pass-props-to-components-outside-of-parent-child-relationships</guid>
+        
+        <category>React</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

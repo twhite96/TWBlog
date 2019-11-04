@@ -1,0 +1,1374 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+        <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>The Web Developer Bootcamp | Tiffany R. White Blog</title>
+<meta name="generator" content="Jekyll v3.5.2" />
+<meta property="og:title" content="The Web Developer Bootcamp" />
+<meta name="author" content="Tiffany White" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="So I am still working on Check Yo Self, but, like I do, I jumped into another tutorial where you build stuff. I am so stuck on and afraid of the logic of Check Yo Self that I decided that I needed to shore up some knowledge of basic JavaScript 1 so I bought, and have started working on The Web Developer Bootcamp by Colt Steele. Not just jQuery. &#8617;" />
+<meta property="og:description" content="So I am still working on Check Yo Self, but, like I do, I jumped into another tutorial where you build stuff. I am so stuck on and afraid of the logic of Check Yo Self that I decided that I needed to shore up some knowledge of basic JavaScript 1 so I bought, and have started working on The Web Developer Bootcamp by Colt Steele. Not just jQuery. &#8617;" />
+<link rel="canonical" href="http://0.0.0.0:4001/web-developer-bootcamp" />
+<meta property="og:url" content="http://0.0.0.0:4001/web-developer-bootcamp" />
+<meta property="og:site_name" content="Tiffany R. White Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2017-06-14T18:54:10-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="The Web Developer Bootcamp" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@Tiffany White" />
+<script type="application/ld+json">
+{"description":"So I am still working on Check Yo Self, but, like I do, I jumped into another tutorial where you build stuff. I am so stuck on and afraid of the logic of Check Yo Self that I decided that I needed to shore up some knowledge of basic JavaScript 1 so I bought, and have started working on The Web Developer Bootcamp by Colt Steele. Not just jQuery. &#8617;","author":{"@type":"Person","name":"Tiffany White"},"@type":"BlogPosting","url":"http://0.0.0.0:4001/web-developer-bootcamp","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://0.0.0.0:4001/assets/images/logo-2.png"},"name":"Tiffany White"},"headline":"The Web Developer Bootcamp","dateModified":"2017-06-14T18:54:10-04:00","datePublished":"2017-06-14T18:54:10-04:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://0.0.0.0:4001/web-developer-bootcamp"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    
+
+    <!-- Site Favicon -->
+    <link rel="shortcut icon" href="http://0.0.0.0:4001/assets/images/favicon.ico" type="image/png" />
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+
+    <!-- Font Embed Code -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&display=swap" rel="stylesheet">
+
+    <!-- CSS Styles -->
+    <link href="/assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/bigfoot-number.css">
+
+</head>
+
+
+
+<body class="layout-post">
+    <div id="page" class="site">
+
+        
+        <header id="masthead" class="site-header outer">
+    <div class="site-header-inside">
+        <div class="site-branding">
+            
+                <p class="site-logo"><a href="/" rel="home"><img src="/assets/images/logo-2.png" alt="Tiffany R. White Blog" /></a></p>
+                <h1 class="site-title screen-reader-text"><a href="" rel="home"></a></h1>
+            
+        </div><!-- .site-branding -->
+        <nav id="main-navigation" class="site-navigation" aria-label="Primary Navigation">
+            <ul class="menu">
+            
+                <li class="menu-item"><a href="/">Home</a></li>
+            
+                <li class="menu-item"><a href="/about/">About</a></li>
+            
+                <li class="menu-item"><a href="/search/">Search</a></li>
+            
+                <li class="menu-item"><a href="/uses/">Uses</a></li>
+            
+                <li class="menu-item"><a href="https://www.tiffanyrwhite.com">Portfolio</a></li>
+            
+                <li class="menu-item"><a href="https://resume.tiffanyrwhite.com">Resume</a></li>
+            
+                <li class="menu-item"><a href="/contact/">Contact Me</a></li>
+            
+            </ul>
+            <button id="sidebar-show" class="sidebar-toggle"><span class="screen-reader-text">Open Sidebar</span><span class="icon-more" aria-hidden="true"></span></button>
+        </nav><!-- .site-navigation -->
+    </div><!-- .site-header-inside -->
+</header><!-- .site-header -->
+        
+
+        <div id="content" class="site-content fadeInDown delay_075s">
+    <main id="main" class="site-main outer">
+        <article class="post-full inner">
+            <header class="post-header">
+                <div class="post-meta">
+                    <time class="post-date" datetime="2017-06-14">June 14,
+                        2017</time>
+                </div><!-- .post-meta -->
+                <h1 class="posttitle">The Web Developer Bootcamp</h1>
+            </header><!-- .post-header -->
+            
+            <div class="post-content">
+                
+
+<span class="read-time">9 min read</span>
+
+                <p>So I am still working on Check Yo Self, but, like I do, I jumped into another tutorial where you build stuff. I am so stuck on and afraid of the logic of Check Yo Self that I decided that I needed to shore up some knowledge of basic JavaScript <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> so I bought, and have started working on The Web Developer Bootcamp by <a href="https://www.linkedin.com/in/coltsteele/">Colt Steele</a>.</p>
+
+<p>Colt is a Bootcamp instructor in San Francisco <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> and has taught students how to be professional full-stack web developers for mountains of money. His Udemy course is usually $1000 but I got it for $10 on one of their deal weeks.</p>
+
+<p>It is one of the highest rated courses on Udemy and especially recommended by web devs across the internet.</p>
+
+<h2 id="relearning-basics">Relearning Basics</h2>
+
+<p>I started from the beginning. I did skip <em>some</em> HTML and CSS stuff but as I said on my Facebook page:</p>
+
+<blockquote>
+  <p>I guess starting out coding in HTML and CSS…It felt really easy and so I skipped over A LOT. Free Code Camp taught Bootstrap so I felt there was no need to learn deeper.</p>
+</blockquote>
+
+<blockquote>
+  <p>Taking the Web Developer Bootcamp course has opened my eyes to so much about semantic markup, what attributes, block level elements, inline elements, selectors, and properties are and their differences. Can’t believe I aced my intro to web dev class without knowing that much about basic web dev.</p>
+</blockquote>
+
+<p>It is never a good idea to skip things, no matter how “easy” they seem. I am learning that.</p>
+
+<p>Granted, as you get better there are things you can skip but if the language is new or the concepts are new, it behooves anyone to <em>learn it. Do not skip it.</em></p>
+
+<h2 id="course-curriculum">Course Curriculum</h2>
+
+<p>This is a full stack course where we will basically learn the <code class="highlighter-rouge">MEN</code> stack. He excludes Angular. Not sure why but we will end up building several front and back end projects ending in YelpCamp, a Yelp clone for camps using Mongo, Express, and Node.</p>
+
+<h2 id="exercises">Exercises.</h2>
+
+<p>Here is a form I built in HTML that I had an issue with <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>.</p>
+
+<div class="language-html highlighter-rouge"><pre class="highlight"><code><span class="ni">&amp;lt;</span>!DOCTYPE html<span class="ni">&amp;gt;</span>
+<span class="ni">&amp;lt;</span>html<span class="ni">&amp;gt;</span>
+<span class="ni">&amp;lt;</span>head<span class="ni">&amp;gt;</span>
+  <span class="ni">&amp;lt;</span>meta charset=<span class="ni">&amp;quot;</span>UTF-8<span class="ni">&amp;quot;&amp;gt;</span>
+  <span class="ni">&amp;lt;</span>title:<span class="ni">&amp;gt;</span>Register<span class="ni">&amp;lt;</span>/title:<span class="ni">&amp;gt;</span>
+<span class="ni">&amp;lt;</span>/head<span class="ni">&amp;gt;</span>
+
+<span class="ni">&amp;lt;</span>body<span class="ni">&amp;gt;</span>
+  <span class="ni">&amp;lt;</span>h1<span class="ni">&amp;gt;</span>Register<span class="ni">&amp;lt;</span>/h1<span class="ni">&amp;gt;</span>
+
+  <span class="ni">&amp;lt;</span>form class=<span class="ni">&amp;quot;</span>register<span class="ni">&amp;quot;&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>firstName<span class="ni">&amp;quot;&amp;gt;</span>First Name: <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>input id=<span class="ni">&amp;quot;</span>first<span class="ni">&amp;quot;</span> type=<span class="ni">&amp;quot;</span>text<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>firstName<span class="ni">&amp;quot;</span> placeholder=<span class="ni">&amp;quot;</span>John<span class="ni">&amp;quot;</span> required /<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>lastName<span class="ni">&amp;quot;&amp;gt;</span>Last Name: <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>input id=<span class="ni">&amp;quot;</span>last<span class="ni">&amp;quot;</span> type=<span class="ni">&amp;quot;</span>text<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>lastName<span class="ni">&amp;quot;</span> placeholder=<span class="ni">&amp;quot;</span>Doe<span class="ni">&amp;quot;</span> required /<span class="ni">&amp;gt;</span>
+
+    <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>sex<span class="ni">&amp;quot;&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>male<span class="ni">&amp;quot;&amp;gt;</span>Male <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>input id=<span class="ni">&amp;quot;</span>male<span class="ni">&amp;quot;</span> type=<span class="ni">&amp;quot;</span>radio<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>gender<span class="ni">&amp;quot;</span> value=<span class="ni">&amp;quot;</span>male<span class="ni">&amp;quot;&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>female<span class="ni">&amp;quot;&amp;gt;</span>Female <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>input id=<span class="ni">&amp;quot;</span>female<span class="ni">&amp;quot;</span> type=<span class="ni">&amp;quot;</span>radio<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>gender<span class="ni">&amp;quot;</span> value=<span class="ni">&amp;quot;</span>female<span class="ni">&amp;quot;&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+
+    <span class="ni">&amp;lt;</span>div<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>label<span class="ni">&amp;gt;</span>Email:
+        <span class="ni">&amp;lt;</span>input type=<span class="ni">&amp;quot;</span>email<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>email<span class="ni">&amp;quot;</span> placeholder=<span class="ni">&amp;quot;</span>Your email<span class="ni">&amp;quot;</span> required /<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+
+      <span class="ni">&amp;lt;</span>label<span class="ni">&amp;gt;</span>Password:
+        <span class="ni">&amp;lt;</span>input type=<span class="ni">&amp;quot;</span>password<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>password<span class="ni">&amp;quot;</span> pattern=<span class="ni">&amp;quot;</span>.{5,10}<span class="ni">&amp;quot;</span> required title:=<span class="ni">&amp;quot;</span>Password must be 5 to 10 characters<span class="ni">&amp;quot;</span> /<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+
+    <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>birthday<span class="ni">&amp;quot;&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>birthday<span class="ni">&amp;quot;&amp;gt;</span>Birthday: <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>select name=<span class="ni">&amp;quot;</span>month<span class="ni">&amp;quot;&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Month<span class="ni">&amp;quot;&amp;gt;</span>Month<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Jan<span class="ni">&amp;quot;&amp;gt;</span>Jan<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Feb<span class="ni">&amp;quot;&amp;gt;</span>Feb<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Mar<span class="ni">&amp;quot;&amp;gt;</span>Mar<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/select<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>select class=<span class="ni">&amp;quot;</span>day<span class="ni">&amp;quot;&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Day<span class="ni">&amp;quot;&amp;gt;</span>Day<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>first<span class="ni">&amp;quot;&amp;gt;</span>1<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>second<span class="ni">&amp;quot;&amp;gt;</span>2<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>third<span class="ni">&amp;quot;&amp;gt;</span>3<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/select<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>select class=<span class="ni">&amp;quot;</span>year<span class="ni">&amp;quot;&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Year<span class="ni">&amp;quot;&amp;gt;</span>Year<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>1978<span class="ni">&amp;quot;&amp;gt;</span>1978<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>1979<span class="ni">&amp;quot;&amp;gt;</span>1979<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>1980<span class="ni">&amp;quot;&amp;gt;</span>1980<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/select<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+
+    <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>terms<span class="ni">&amp;quot;&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>terms<span class="ni">&amp;quot;&amp;gt;</span>I agree to the terms and conditions <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>input type=<span class="ni">&amp;quot;</span>checkbox<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>check<span class="ni">&amp;quot;</span> value=<span class="ni">&amp;quot;</span>terms<span class="ni">&amp;quot;</span> required /<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>input type=<span class="ni">&amp;quot;</span>submit<span class="ni">&amp;quot;&amp;gt;</span>
+  <span class="ni">&amp;lt;</span>/form<span class="ni">&amp;gt;</span>
+<span class="ni">&amp;lt;</span>/body<span class="ni">&amp;gt;</span>
+
+<span class="ni">&amp;lt;</span>/html<span class="ni">&amp;gt;</span>
+
+</code></pre>
+</div>
+<p>Here is some CSS from the basic CSS section that I just finished. There is something like 42 hours of video and assignments.</p>
+
+<div class="language-css highlighter-rouge"><pre class="highlight"><code><span class="c">/* Style the HTML elements according to the following instructions.
+DO NOT ALTER THE EXISTING HTML TO DO THIS.  WRITE ONLY CSS!
+
+/* Give the &amp;lt;body&amp;gt; element a background of #bdc3c7*/</span>
+
+<span class="nt">body</span> <span class="p">{</span>
+  <span class="nl">background</span><span class="p">:</span> <span class="m">#bdc3c7</span><span class="p">;</span>
+<span class="p">}</span>
+
+
+<span class="c">/* Make the &amp;lt;h1&amp;gt; element #9b59b6*/</span>
+
+<span class="nt">h1</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="m">#9b59b6</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Make all &amp;lt;h2&amp;gt; elements orange */</span>
+
+<span class="nt">h2</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">orange</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Make all &amp;lt;li&amp;gt; elements blue(pick your own hexadecimal blue)*/</span>
+
+<span class="nt">li</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="m">#459BE6</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/*Change the background on every paragraph to be yellow*/</span>
+
+<span class="nt">p</span> <span class="p">{</span>
+  <span class="nl">background</span><span class="p">:</span> <span class="no">yellow</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/*Make all inputs have a 3px red border*/</span>
+
+<span class="nt">input</span> <span class="p">{</span>
+  <span class="nl">border</span><span class="p">:</span> <span class="m">3px</span> <span class="nb">solid</span> <span class="no">red</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Give everything with the class &amp;#039;hello&amp;#039; a white background*/</span>
+
+<span class="nc">.hello</span> <span class="p">{</span>
+  <span class="nl">background</span><span class="p">:</span> <span class="no">white</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Give the element with id &amp;#039;special&amp;#039; a 2px solid blue border(pick your own rgb blue)*/</span>
+
+<span class="nf">#special</span> <span class="p">{</span>
+  <span class="nl">border</span><span class="p">:</span> <span class="m">2px</span> <span class="nb">solid</span> <span class="m">#459BE6</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/*Make all the &amp;lt;p&amp;gt;&amp;#039;s that are nested inside of divs 25px font(font-size: 25px)*/</span>
+
+<span class="nt">div</span> <span class="nt">p</span> <span class="p">{</span>
+  <span class="nl">font-size</span><span class="p">:</span> <span class="m">25px</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/*Make only inputs with type &amp;#039;text&amp;#039; have a gray background*/</span>
+
+<span class="nt">input</span><span class="o">[</span><span class="nt">type</span><span class="o">=&amp;</span><span class="nt">quot</span><span class="o">;</span><span class="nt">text</span><span class="o">&amp;</span><span class="nt">quot</span><span class="o">;]</span> <span class="p">{</span>
+  <span class="nl">background</span><span class="p">:</span> <span class="no">gray</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Give both &amp;lt;p&amp;gt;&amp;#039;s inside the 3rd &amp;lt;div&amp;gt; a pink background*/</span>
+
+ <span class="nt">div</span><span class="nd">:nth-of-type</span><span class="o">(</span><span class="nt">3</span><span class="o">)</span> <span class="nt">p</span> <span class="p">{</span>
+  <span class="nl">background</span><span class="p">:</span> <span class="no">pink</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Give the 2nd &amp;lt;p&amp;gt; inside the 3rd &amp;lt;div&amp;gt; a 5px white border*/</span>
+
+<span class="nt">div</span><span class="nd">:nth-of-type</span><span class="o">(</span><span class="nt">3</span><span class="o">)</span> <span class="nt">p</span><span class="nd">:nth-of-type</span><span class="o">(</span><span class="nt">2</span><span class="o">)</span> <span class="p">{</span>
+  <span class="nl">border</span><span class="p">:</span> <span class="m">5px</span> <span class="nb">solid</span> <span class="no">white</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Make the &amp;lt;em&amp;gt; in the 3rd &amp;lt;div&amp;gt; element white and 20px font(font-size:20px)*/</span>
+
+<span class="nt">div</span><span class="nd">:nth-of-type</span><span class="o">(</span><span class="nt">3</span><span class="o">)</span> <span class="nt">em</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">white</span><span class="p">;</span>
+  <span class="nl">font-size</span><span class="p">:</span> <span class="m">20px</span><span class="p">;</span>
+<span class="p">}</span>
+
+
+<span class="c">/*BONUS CHALLENGES*/</span>
+<span class="c">/*You may need to research some other selectors and properties*/</span>
+
+<span class="c">/*Make all &amp;quot;checked&amp;quot; checkboxes have a left margin of 50px(margin-left: 50px)*/</span>
+
+<span class="nt">input</span><span class="nd">:checked</span> <span class="p">{</span>
+  <span class="nl">margin-left</span><span class="p">:</span> <span class="m">50px</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Make the &amp;lt;label&amp;gt; elements all UPPERCASE without changing the HTML(definitely look this one up*/</span>
+
+<span class="nt">label</span> <span class="p">{</span>
+  <span class="nl">text-transform</span><span class="p">:</span> <span class="nb">uppercase</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/*Make the first letter of the element with id &amp;#039;special&amp;#039; green and 100px font size(font-size: 100)*/</span>
+
+<span class="nf">#special</span><span class="nd">::first-letter</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">green</span><span class="p">;</span>
+  <span class="nl">font-size</span><span class="p">:</span> <span class="m">100px</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="c">/*Make the &amp;lt;h1&amp;gt; element&amp;#039;s color change to blue when hovered over */</span>
+
+<span class="nt">h1</span><span class="nd">:hover</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">blue</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="c">/*Make the &amp;lt;a&amp;gt; element&amp;#039;s that have been visited gray */</span>
+
+<span class="nt">a</span><span class="nd">:visited</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">gray</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+
+<h2 id="other-courses">Other Courses</h2>
+
+<p>Eventually, I’d like to be an iOS dev at some point. So I bought a Swift course from Steven <sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup> and award winning iOS dev from the Hacking With Swift series, Paul Hudson.</p>
+
+<p>I won’t be starting that course until after I start the other course I bought <em>Modern React with Redux and Webpack</em>.</p>
+
+<p>Got all of these courses for $10 a piece. Not too bad.</p>
+
+<p>So I am still working on Check Yo Self, but, like I do, I jumped into another tutorial where you build stuff. I am so stuck on and afraid of the logic of Check Yo Self that I decided that I needed to shore up some knowledge of basic JavaScript <sup id="fnref:1:1"><a href="#fn:1" class="footnote">1</a></sup> so I bought, and have started working on The Web Developer Bootcamp by <a href="https://www.linkedin.com/in/coltsteele/">Colt Steele</a>.</p>
+
+<p>Colt is a Bootcamp instructor in San Francisco <sup id="fnref:2:1"><a href="#fn:2" class="footnote">2</a></sup> and has taught students how to be professional full-stack web developers for mountains of money. His Udemy course is usually $1000 but I got it for $10 on one of their deal weeks.</p>
+
+<p>It is one of the highest rated courses on Udemy and especially recommended by web devs across the internet.</p>
+
+<h2 id="relearning-basics-1">Relearning Basics</h2>
+
+<p>I started from the beginning. I did skip <em>some</em> HTML and CSS stuff but as I said on my Facebook page:</p>
+
+<blockquote>
+  <p>I guess starting out coding in HTML and CSS…It felt really easy and so I skipped over A LOT. Free Code Camp taught Bootstrap so I felt there was no need to learn deeper.</p>
+</blockquote>
+
+<blockquote>
+  <p>Taking the Web Developer Bootcamp course has opened my eyes to so much about semantic markup, what attributes, block level elements, inline elements, selectors, and properties are and their differences. Can’t believe I aced my intro to web dev class without knowing that much about basic web dev.</p>
+</blockquote>
+
+<p>It is never a good idea to skip things, no matter how “easy” they seem. I am learning that.</p>
+
+<p>Granted, as you get better there are things you can skip but if the language is new or the concepts are new, it behooves anyone to <em>learn it. Do not skip it.</em></p>
+
+<h2 id="course-curriculum-1">Course Curriculum</h2>
+
+<p>This is a full stack course where we will basically learn the <code class="highlighter-rouge">MEN</code> stack. He excludes Angular. Not sure why but we will end up building several front and back end projects ending in YelpCamp, a Yelp clone for camps using Mongo, Express, and Node.</p>
+
+<h2 id="exercises-1">Exercises.</h2>
+
+<p>Here is a form I built in HTML that I had an issue with <sup id="fnref:3:1"><a href="#fn:3" class="footnote">3</a></sup>.</p>
+
+<div class="language-html highlighter-rouge"><pre class="highlight"><code><span class="ni">&amp;lt;</span>!DOCTYPE html<span class="ni">&amp;gt;</span>
+<span class="ni">&amp;lt;</span>html<span class="ni">&amp;gt;</span>
+<span class="ni">&amp;lt;</span>head<span class="ni">&amp;gt;</span>
+  <span class="ni">&amp;lt;</span>meta charset=<span class="ni">&amp;quot;</span>UTF-8<span class="ni">&amp;quot;&amp;gt;</span>
+  <span class="ni">&amp;lt;</span>title:<span class="ni">&amp;gt;</span>Register<span class="ni">&amp;lt;</span>/title:<span class="ni">&amp;gt;</span>
+<span class="ni">&amp;lt;</span>/head<span class="ni">&amp;gt;</span>
+
+<span class="ni">&amp;lt;</span>body<span class="ni">&amp;gt;</span>
+  <span class="ni">&amp;lt;</span>h1<span class="ni">&amp;gt;</span>Register<span class="ni">&amp;lt;</span>/h1<span class="ni">&amp;gt;</span>
+
+  <span class="ni">&amp;lt;</span>form class=<span class="ni">&amp;quot;</span>register<span class="ni">&amp;quot;&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>firstName<span class="ni">&amp;quot;&amp;gt;</span>First Name: <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>input id=<span class="ni">&amp;quot;</span>first<span class="ni">&amp;quot;</span> type=<span class="ni">&amp;quot;</span>text<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>firstName<span class="ni">&amp;quot;</span> placeholder=<span class="ni">&amp;quot;</span>John<span class="ni">&amp;quot;</span> required /<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>lastName<span class="ni">&amp;quot;&amp;gt;</span>Last Name: <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>input id=<span class="ni">&amp;quot;</span>last<span class="ni">&amp;quot;</span> type=<span class="ni">&amp;quot;</span>text<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>lastName<span class="ni">&amp;quot;</span> placeholder=<span class="ni">&amp;quot;</span>Doe<span class="ni">&amp;quot;</span> required /<span class="ni">&amp;gt;</span>
+
+    <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>sex<span class="ni">&amp;quot;&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>male<span class="ni">&amp;quot;&amp;gt;</span>Male <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>input id=<span class="ni">&amp;quot;</span>male<span class="ni">&amp;quot;</span> type=<span class="ni">&amp;quot;</span>radio<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>gender<span class="ni">&amp;quot;</span> value=<span class="ni">&amp;quot;</span>male<span class="ni">&amp;quot;&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>female<span class="ni">&amp;quot;&amp;gt;</span>Female <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>input id=<span class="ni">&amp;quot;</span>female<span class="ni">&amp;quot;</span> type=<span class="ni">&amp;quot;</span>radio<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>gender<span class="ni">&amp;quot;</span> value=<span class="ni">&amp;quot;</span>female<span class="ni">&amp;quot;&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+
+    <span class="ni">&amp;lt;</span>div<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>label<span class="ni">&amp;gt;</span>Email:
+        <span class="ni">&amp;lt;</span>input type=<span class="ni">&amp;quot;</span>email<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>email<span class="ni">&amp;quot;</span> placeholder=<span class="ni">&amp;quot;</span>Your email<span class="ni">&amp;quot;</span> required /<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+
+      <span class="ni">&amp;lt;</span>label<span class="ni">&amp;gt;</span>Password:
+        <span class="ni">&amp;lt;</span>input type=<span class="ni">&amp;quot;</span>password<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>password<span class="ni">&amp;quot;</span> pattern=<span class="ni">&amp;quot;</span>.{5,10}<span class="ni">&amp;quot;</span> required title:=<span class="ni">&amp;quot;</span>Password must be 5 to 10 characters<span class="ni">&amp;quot;</span> /<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+
+    <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>birthday<span class="ni">&amp;quot;&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>birthday<span class="ni">&amp;quot;&amp;gt;</span>Birthday: <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>select name=<span class="ni">&amp;quot;</span>month<span class="ni">&amp;quot;&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Month<span class="ni">&amp;quot;&amp;gt;</span>Month<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Jan<span class="ni">&amp;quot;&amp;gt;</span>Jan<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Feb<span class="ni">&amp;quot;&amp;gt;</span>Feb<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Mar<span class="ni">&amp;quot;&amp;gt;</span>Mar<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/select<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>select class=<span class="ni">&amp;quot;</span>day<span class="ni">&amp;quot;&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Day<span class="ni">&amp;quot;&amp;gt;</span>Day<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>first<span class="ni">&amp;quot;&amp;gt;</span>1<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>second<span class="ni">&amp;quot;&amp;gt;</span>2<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>third<span class="ni">&amp;quot;&amp;gt;</span>3<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/select<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>select class=<span class="ni">&amp;quot;</span>year<span class="ni">&amp;quot;&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>Year<span class="ni">&amp;quot;&amp;gt;</span>Year<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>1978<span class="ni">&amp;quot;&amp;gt;</span>1978<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>1979<span class="ni">&amp;quot;&amp;gt;</span>1979<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+        <span class="ni">&amp;lt;</span>option value=<span class="ni">&amp;quot;</span>1980<span class="ni">&amp;quot;&amp;gt;</span>1980<span class="ni">&amp;lt;</span>/option<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>/select<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+
+    <span class="ni">&amp;lt;</span>div class=<span class="ni">&amp;quot;</span>terms<span class="ni">&amp;quot;&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>label for=<span class="ni">&amp;quot;</span>terms<span class="ni">&amp;quot;&amp;gt;</span>I agree to the terms and conditions <span class="ni">&amp;lt;</span>/label<span class="ni">&amp;gt;</span>
+      <span class="ni">&amp;lt;</span>input type=<span class="ni">&amp;quot;</span>checkbox<span class="ni">&amp;quot;</span> name=<span class="ni">&amp;quot;</span>check<span class="ni">&amp;quot;</span> value=<span class="ni">&amp;quot;</span>terms<span class="ni">&amp;quot;</span> required /<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>/div<span class="ni">&amp;gt;</span>
+    <span class="ni">&amp;lt;</span>input type=<span class="ni">&amp;quot;</span>submit<span class="ni">&amp;quot;&amp;gt;</span>
+  <span class="ni">&amp;lt;</span>/form<span class="ni">&amp;gt;</span>
+<span class="ni">&amp;lt;</span>/body<span class="ni">&amp;gt;</span>
+
+<span class="ni">&amp;lt;</span>/html<span class="ni">&amp;gt;</span>
+
+</code></pre>
+</div>
+<p>Here is some CSS from the basic CSS section that I just finished. There is something like 42 hours of video and assignments.</p>
+
+<div class="language-css highlighter-rouge"><pre class="highlight"><code><span class="c">/* Style the HTML elements according to the following instructions.
+DO NOT ALTER THE EXISTING HTML TO DO THIS.  WRITE ONLY CSS!
+
+/* Give the &amp;lt;body&amp;gt; element a background of #bdc3c7*/</span>
+
+<span class="nt">body</span> <span class="p">{</span>
+  <span class="nl">background</span><span class="p">:</span> <span class="m">#bdc3c7</span><span class="p">;</span>
+<span class="p">}</span>
+
+
+<span class="c">/* Make the &amp;lt;h1&amp;gt; element #9b59b6*/</span>
+
+<span class="nt">h1</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="m">#9b59b6</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Make all &amp;lt;h2&amp;gt; elements orange */</span>
+
+<span class="nt">h2</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">orange</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Make all &amp;lt;li&amp;gt; elements blue(pick your own hexadecimal blue)*/</span>
+
+<span class="nt">li</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="m">#459BE6</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/*Change the background on every paragraph to be yellow*/</span>
+
+<span class="nt">p</span> <span class="p">{</span>
+  <span class="nl">background</span><span class="p">:</span> <span class="no">yellow</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/*Make all inputs have a 3px red border*/</span>
+
+<span class="nt">input</span> <span class="p">{</span>
+  <span class="nl">border</span><span class="p">:</span> <span class="m">3px</span> <span class="nb">solid</span> <span class="no">red</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Give everything with the class &amp;#039;hello&amp;#039; a white background*/</span>
+
+<span class="nc">.hello</span> <span class="p">{</span>
+  <span class="nl">background</span><span class="p">:</span> <span class="no">white</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Give the element with id &amp;#039;special&amp;#039; a 2px solid blue border(pick your own rgb blue)*/</span>
+
+<span class="nf">#special</span> <span class="p">{</span>
+  <span class="nl">border</span><span class="p">:</span> <span class="m">2px</span> <span class="nb">solid</span> <span class="m">#459BE6</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/*Make all the &amp;lt;p&amp;gt;&amp;#039;s that are nested inside of divs 25px font(font-size: 25px)*/</span>
+
+<span class="nt">div</span> <span class="nt">p</span> <span class="p">{</span>
+  <span class="nl">font-size</span><span class="p">:</span> <span class="m">25px</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/*Make only inputs with type &amp;#039;text&amp;#039; have a gray background*/</span>
+
+<span class="nt">input</span><span class="o">[</span><span class="nt">type</span><span class="o">=&amp;</span><span class="nt">quot</span><span class="o">;</span><span class="nt">text</span><span class="o">&amp;</span><span class="nt">quot</span><span class="o">;]</span> <span class="p">{</span>
+  <span class="nl">background</span><span class="p">:</span> <span class="no">gray</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Give both &amp;lt;p&amp;gt;&amp;#039;s inside the 3rd &amp;lt;div&amp;gt; a pink background*/</span>
+
+ <span class="nt">div</span><span class="nd">:nth-of-type</span><span class="o">(</span><span class="nt">3</span><span class="o">)</span> <span class="nt">p</span> <span class="p">{</span>
+  <span class="nl">background</span><span class="p">:</span> <span class="no">pink</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Give the 2nd &amp;lt;p&amp;gt; inside the 3rd &amp;lt;div&amp;gt; a 5px white border*/</span>
+
+<span class="nt">div</span><span class="nd">:nth-of-type</span><span class="o">(</span><span class="nt">3</span><span class="o">)</span> <span class="nt">p</span><span class="nd">:nth-of-type</span><span class="o">(</span><span class="nt">2</span><span class="o">)</span> <span class="p">{</span>
+  <span class="nl">border</span><span class="p">:</span> <span class="m">5px</span> <span class="nb">solid</span> <span class="no">white</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Make the &amp;lt;em&amp;gt; in the 3rd &amp;lt;div&amp;gt; element white and 20px font(font-size:20px)*/</span>
+
+<span class="nt">div</span><span class="nd">:nth-of-type</span><span class="o">(</span><span class="nt">3</span><span class="o">)</span> <span class="nt">em</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">white</span><span class="p">;</span>
+  <span class="nl">font-size</span><span class="p">:</span> <span class="m">20px</span><span class="p">;</span>
+<span class="p">}</span>
+
+
+<span class="c">/*BONUS CHALLENGES*/</span>
+<span class="c">/*You may need to research some other selectors and properties*/</span>
+
+<span class="c">/*Make all &amp;quot;checked&amp;quot; checkboxes have a left margin of 50px(margin-left: 50px)*/</span>
+
+<span class="nt">input</span><span class="nd">:checked</span> <span class="p">{</span>
+  <span class="nl">margin-left</span><span class="p">:</span> <span class="m">50px</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/* Make the &amp;lt;label&amp;gt; elements all UPPERCASE without changing the HTML(definitely look this one up*/</span>
+
+<span class="nt">label</span> <span class="p">{</span>
+  <span class="nl">text-transform</span><span class="p">:</span> <span class="nb">uppercase</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c">/*Make the first letter of the element with id &amp;#039;special&amp;#039; green and 100px font size(font-size: 100)*/</span>
+
+<span class="nf">#special</span><span class="nd">::first-letter</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">green</span><span class="p">;</span>
+  <span class="nl">font-size</span><span class="p">:</span> <span class="m">100px</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="c">/*Make the &amp;lt;h1&amp;gt; element&amp;#039;s color change to blue when hovered over */</span>
+
+<span class="nt">h1</span><span class="nd">:hover</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">blue</span><span class="p">;</span>
+<span class="p">}</span>
+<span class="c">/*Make the &amp;lt;a&amp;gt; element&amp;#039;s that have been visited gray */</span>
+
+<span class="nt">a</span><span class="nd">:visited</span> <span class="p">{</span>
+  <span class="nl">color</span><span class="p">:</span> <span class="no">gray</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre>
+</div>
+
+<h2 id="other-courses-1">Other Courses</h2>
+
+<p>Eventually, I’d like to be an iOS dev at some point. So I bought a Swift course from Steven <sup id="fnref:4:1"><a href="#fn:4" class="footnote">4</a></sup> and award winning iOS dev from the Hacking With Swift series, Paul Hudson.</p>
+
+<p>I won’t be starting that course until after I start the other course I bought <em>Modern React with Redux and Webpack</em>.</p>
+
+<p>Got all of these courses for $10 a piece. Not too bad.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Not just jQuery. <a href="#fnref:1" class="reversefootnote">&#8617;</a> <a href="#fnref:1:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:2">
+      <p>His apartment has me starry-eyed and wishing for a dev job and I am <em>totally</em> California dreamin’. <a href="#fnref:2" class="reversefootnote">&#8617;</a> <a href="#fnref:2:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:3">
+      <p>A form. Of all things. <a href="#fnref:3" class="reversefootnote">&#8617;</a> <a href="#fnref:3:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:4">
+      <p>Guy’s last name is always escaping me. <a href="#fnref:4" class="reversefootnote">&#8617;</a> <a href="#fnref:4:1" class="reversefootnote">&#8617;<sup>2</sup></a></p>
+    </li>
+  </ol>
+</div>
+
+            </div>
+            <footer class="post-footer">
+                
+                <p class="post-tags">
+                     
+                    <a href='tag/tutorials/'>tutorials</a>
+                    
+                     
+                    <a href='tag/web- developer- bootcamp/'>web developer bootcamp</a>
+                    
+                     
+                    <a href='tag/web- development/'>web development</a>
+                    
+                    
+                </p>
+                
+                <div class="post-share">
+                    <span class="post-share-title">Share:</span>
+                    <a target="_blank" href="https://twitter.com/share?text=The+Web+Developer+Bootcamp&amp;url=https://tiffanywhite.devweb-developer-bootcamp">Twitter</a>
+                    <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://tiffanywhite.devweb-developer-bootcamp">Facebook</a>
+                </div><!-- .share-post -->
+            </footer>
+            <div class="author-box">
+                <div class="author-avatar"><img src="/assets/images/authorimage-2.jpg" alt="Tiffany's Picture"
+                        class="avatar"></div>
+                <div class="author-details">
+                    <h2 class="author-title">About Tiffany</h2>
+                    <p class="author-description">Tiffany is a frontend developer, writer, and wannabe YouTuber.</p>
+                </div>
+            </div>
+            
+
+        </article>
+        
+        <section class="read-next inner">
+            <h2 class="read-next-title">Read Next</h2>
+            
+            <article class="post">
+                <header class="post-header">
+                    <div class="post-meta">
+                        <time class="published" datetime="May 30, 2017">May 30, 2017</time>
+                    </div>
+                    <h3 class="post-title"><a href="/event-handlers-check-yo-self">Event Handlers in Check Yo Self</a></h3>
+                    <p class="post-tags">
+                        
+                        
+                        
+                        <a href='/tag/daily-progress/'>Daily progress</a>
+                        
+                        
+                        
+                        <a href='/tag/programming/'>Programming</a>
+                        
+                        
+                        
+                        <a href='/tag/programming-fundamentals/'>Programming fundamentals</a>
+                        
+                        
+                        
+                    </p>
+                </header>
+                
+                
+            </article>
+            
+            
+            <article class="post">
+                <header class="post-header">
+                    <div class="post-meta">
+                        <time class="published" datetime="June 22, 2017">June 22, 2017</time>
+                    </div>
+                    <h3 class="post-title"><a href="/array-methods-in-javascript-2">Array Methods in JavaScript</a></h3>
+                    <p class="post-tags">
+                        
+                        
+                        
+                        <a href='/tag/uncategorized/'>Uncategorized</a>
+                        
+                        
+                        
+                    </p>
+                </header>
+                
+                
+            </article>
+            
+        </section><!-- .read-next -->
+    </main><!-- .site-main -->
+</div><!-- .site-content -->
+
+
+        
+
+        
+
+        <footer id="colophon" class="site-footer outer">
+            <div class="site-footer-inside">
+                <p class="social-links">
+    
+    <a href="https://twitter.com/tiffanywhitedev" target="_blank">
+        <span class="fa-twitter fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Twitter</span>
+    </a>
+    
+    
+    
+    <a href="https://github.com/twhite96" target="_blank">
+        <span class="fa-github fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">GitHub</span>
+    </a>
+    
+    
+    <a href="https://codepen.io/twhite96" target="_blank">
+        <span class="fa-codepen fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">CodePen</span>
+    </a>
+    
+    
+    
+    
+    <a href="https://www.instagram.com/tiffanywhitedev" target="_blank">
+        <span class="fa-instagram fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Instagram</span>
+    </a>
+    
+    
+    
+    <a href="https://www.linkedin.com/in/tiffanyrwhite" target="_blank">
+        <span class="fa-linkedin fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Linkedin</span>
+    </a>
+    
+    
+</p>
+                <p class="site-info">
+                    <a href="#">Tiffany R. White Blog</a> &copy; 2019 .
+                </p>
+                <p class="back-to-top">
+                    <a id="top-button" class="top-button" href="#page">
+                        <span class="icon-arrow-up" aria-hidden="true"></span>
+                        <span class="screen-reader-text">Back to top</span>
+                    </a>
+                </p>
+            </div><!-- .site-footer-inside -->
+        </footer><!-- .site-footer -->
+    </div><!-- .site -->
+    <div id="site-overlay" class="site-overlay"></div>
+    <aside id="sidebar" class="sidebar">
+	<div class="sidebar-scrollable">
+		<div class="sidebar-inside">
+			<button id="sidebar-hide" class="sidebar-toggle"><span class="screen-reader-text">Close Sidebar</span><span
+				    aria-hidden="true" class="icon-close"></span></button>
+			<nav id="sidebar-navigation" class="widget site-navigation">
+				<h2 class="widget-title">Explore Site</h2>
+				<ul class="menu">
+					
+						<li class="menu-item"><a href="/">Home</a></li>
+					
+						<li class="menu-item"><a href="/about/">About</a></li>
+					
+						<li class="menu-item"><a href="/search/">Search</a></li>
+					
+						<li class="menu-item"><a href="/uses/">Uses</a></li>
+					
+						<li class="menu-item"><a href="https://www.tiffanyrwhite.com">Portfolio</a></li>
+					
+						<li class="menu-item"><a href="https://resume.tiffanyrwhite.com">Resume</a></li>
+					
+						<li class="menu-item"><a href="/contact/">Contact Me</a></li>
+					
+				</ul>
+			</nav>
+			
+<section class="widget widget-text">
+    <h2 class="widget-title">About Tiffany R. White Blog</h2>
+    <p>Your friend Tiffany's tiny little weblog.</p>
+</section>
+
+
+<section class="widget widget-recent-posts">
+    <h2 class="widget-title">Recent Articles</h2>
+    <ul>
+        
+        <li>
+            <div class="post-header">
+                <div class="post-meta">
+                    <time class="published" datetime="??">September 20, 2019</time>
+                </div>
+                <div class="post-title">
+                    <a href="http://0.0.0.0:4001/recognizing-patterns">Recognizing Patterns</a>
+                </div>
+            </div>
+            
+            <a class="post-thumbnail" href="/recognizing-patterns">
+                <img src="http://0.0.0.0:4001/assets/images/posts/2019/patterns.jpg"
+                    alt="Recognizing Patterns">
+            </a>
+            
+        </li>
+        
+        <li>
+            <div class="post-header">
+                <div class="post-meta">
+                    <time class="published" datetime="??">July 27, 2019</time>
+                </div>
+                <div class="post-title">
+                    <a href="http://0.0.0.0:4001/stickers">Stickers</a>
+                </div>
+            </div>
+            
+            <a class="post-thumbnail" href="/stickers">
+                <img src="http://0.0.0.0:4001/assets/images/posts/2019/stickers.jpg"
+                    alt="Stickers">
+            </a>
+            
+        </li>
+        
+        <li>
+            <div class="post-header">
+                <div class="post-meta">
+                    <time class="published" datetime="??">July 18, 2019</time>
+                </div>
+                <div class="post-title">
+                    <a href="http://0.0.0.0:4001/first-week-feels">First Week Feels</a>
+                </div>
+            </div>
+            
+            <a class="post-thumbnail" href="/first-week-feels">
+                <img src="http://0.0.0.0:4001/assets/images/posts/2019/first-week.jpg"
+                    alt="First Week Feels">
+            </a>
+            
+        </li>
+        
+    </ul>
+</section>
+
+<!-- Create a sorted array of tags -->
+ 
+<section class="widget widget-tagcloud">
+    <h2 class="widget-title">Tags</h2>
+    <div class="tagcloud">
+        
+        <a href='https://tiffanywhite.devtag/100- days- of- code/'>100 days of code</a>
+        
+        <a href='https://tiffanywhite.devtag/2018/'>2018</a>
+        
+        <a href='https://tiffanywhite.devtag/2019- goals/'>2019 goals</a>
+        
+        <a href='https://tiffanywhite.devtag/ajax/'>AJAX</a>
+        
+        <a href='https://tiffanywhite.devtag/alice/'>Alice</a>
+        
+        <a href='https://tiffanywhite.devtag/alice- app/'>Alice app</a>
+        
+        <a href='https://tiffanywhite.devtag/alice- program/'>Alice program</a>
+        
+        <a href='https://tiffanywhite.devtag/alice- software/'>Alice software</a>
+        
+        <a href='https://tiffanywhite.devtag/bonfires/'>Bonfires</a>
+        
+        <a href='https://tiffanywhite.devtag/bug- fixing/'>Bug fixing</a>
+        
+        <a href='https://tiffanywhite.devtag/css3/'>CSS3</a>
+        
+        <a href='https://tiffanywhite.devtag/coda- 2/'>Coda 2</a>
+        
+        <a href='https://tiffanywhite.devtag/code- newbies/'>Code Newbies</a>
+        
+        <a href='https://tiffanywhite.devtag/codepen/'>CodePen</a>
+        
+        <a href='https://tiffanywhite.devtag/codecademy/'>Codecademy</a>
+        
+        <a href='https://tiffanywhite.devtag/dom/'>DOM</a>
+        
+        <a href='https://tiffanywhite.devtag/dom- elements/'>DOM elements</a>
+        
+        <a href='https://tiffanywhite.devtag/dry- code/'>DRY code</a>
+        
+        <a href='https://tiffanywhite.devtag/dash/'>Dash</a>
+        
+        <a href='https://tiffanywhite.devtag/dash- for- mac/'>Dash for Mac</a>
+        
+        <a href='https://tiffanywhite.devtag/developer- health/'>Developer Health</a>
+        
+        <a href='https://tiffanywhite.devtag/developer- tea/'>Developer Tea</a>
+        
+        <a href='https://tiffanywhite.devtag/developer- tools/'>Developer Tools</a>
+        
+        <a href='https://tiffanywhite.devtag/fundamentals/'>Fundamentals</a>
+        
+        <a href='https://tiffanywhite.devtag/general- dev/'>General Dev</a>
+        
+        <a href='https://tiffanywhite.devtag/go- lang/'>Go Lang</a>
+        
+        <a href='https://tiffanywhite.devtag/goals/'>Goals</a>
+        
+        <a href='https://tiffanywhite.devtag/google+/'>Google+</a>
+        
+        <a href='https://tiffanywhite.devtag/html- tables/'>HTML Tables</a>
+        
+        <a href='https://tiffanywhite.devtag/ides/'>IDEs</a>
+        
+        <a href='https://tiffanywhite.devtag/jsfiddle/'>JSFiddle</a>
+        
+        <a href='https://tiffanywhite.devtag/json/'>JSON</a>
+        
+        <a href='https://tiffanywhite.devtag/java/'>Java</a>
+        
+        <a href='https://tiffanywhite.devtag/javascript/'>JavaScript</a>
+        
+        <a href='https://tiffanywhite.devtag/jetbrains/'>JetBrains</a>
+        
+        <a href='https://tiffanywhite.devtag/kanban/'>Kanban</a>
+        
+        <a href='https://tiffanywhite.devtag/less/'>LESS</a>
+        
+        <a href='https://tiffanywhite.devtag/lpthw/'>LPTHW</a>
+        
+        <a href='https://tiffanywhite.devtag/lynda.com/'>Lynda.com</a>
+        
+        <a href='https://tiffanywhite.devtag/mean- stack/'>MEAN Stack</a>
+        
+        <a href='https://tiffanywhite.devtag/mac- app- store/'>Mac App Store</a>
+        
+        <a href='https://tiffanywhite.devtag/nacowrimo/'>NaCoWriMo</a>
+        
+        <a href='https://tiffanywhite.devtag/nanowrimo/'>NaNoWriMo</a>
+        
+        <a href='https://tiffanywhite.devtag/omnifocus/'>OmniFocus</a>
+        
+        <a href='https://tiffanywhite.devtag/open- source/'>Open Source</a>
+        
+        <a href='https://tiffanywhite.devtag/phpstorm/'>PHPStorm</a>
+        
+        <a href='https://tiffanywhite.devtag/pitt/'>Pitt</a>
+        
+        <a href='https://tiffanywhite.devtag/playlists/'>Playlists</a>
+        
+        <a href='https://tiffanywhite.devtag/pycharm/'>PyCharm</a>
+        
+        <a href='https://tiffanywhite.devtag/python/'>Python</a>
+        
+        <a href='https://tiffanywhite.devtag/random/'>Random</a>
+        
+        <a href='https://tiffanywhite.devtag/react/'>React</a>
+        
+        <a href='https://tiffanywhite.devtag/rubymine/'>RubyMine</a>
+        
+        <a href='https://tiffanywhite.devtag/sass/'>Sass</a>
+        
+        <a href='https://tiffanywhite.devtag/sketch/'>Sketch</a>
+        
+        <a href='https://tiffanywhite.devtag/spotify/'>Spotify</a>
+        
+        <a href='https://tiffanywhite.devtag/sublime- text/'>Sublime Text</a>
+        
+        <a href='https://tiffanywhite.devtag/team- treehouse/'>Team Treehouse</a>
+        
+        <a href='https://tiffanywhite.devtag/tech- ladies/'>Tech Ladies</a>
+        
+        <a href='https://tiffanywhite.devtag/the- odin- project/'>The Odin Project</a>
+        
+        <a href='https://tiffanywhite.devtag/treehouse/'>Treehouse</a>
+        
+        <a href='https://tiffanywhite.devtag/trello/'>Trello</a>
+        
+        <a href='https://tiffanywhite.devtag/ui/'>UI</a>
+        
+        <a href='https://tiffanywhite.devtag/work/'>Work</a>
+        
+        <a href='https://tiffanywhite.devtag/ydkjs/'>YDKJS</a>
+        
+        <a href='https://tiffanywhite.devtag/yelpcamp/'>YelpCamp</a>
+        
+        <a href='https://tiffanywhite.devtag/accountability/'>accountability</a>
+        
+        <a href='https://tiffanywhite.devtag/algorithms/'>algorithms</a>
+        
+        <a href='https://tiffanywhite.devtag/angular/'>angular</a>
+        
+        <a href='https://tiffanywhite.devtag/animation/'>animation</a>
+        
+        <a href='https://tiffanywhite.devtag/anniversary/'>anniversary</a>
+        
+        <a href='https://tiffanywhite.devtag/apps/'>apps</a>
+        
+        <a href='https://tiffanywhite.devtag/arrays/'>arrays</a>
+        
+        <a href='https://tiffanywhite.devtag/assignments/'>assignments</a>
+        
+        <a href='https://tiffanywhite.devtag/auto-completion/'>auto-completion</a>
+        
+        <a href='https://tiffanywhite.devtag/beginners/'>beginners</a>
+        
+        <a href='https://tiffanywhite.devtag/big- o- notation/'>big o notation</a>
+        
+        <a href='https://tiffanywhite.devtag/binding/'>binding</a>
+        
+        <a href='https://tiffanywhite.devtag/boilerplates/'>boilerplates</a>
+        
+        <a href='https://tiffanywhite.devtag/books/'>books</a>
+        
+        <a href='https://tiffanywhite.devtag/challenege/'>challenege</a>
+        
+        <a href='https://tiffanywhite.devtag/cli/'>cli</a>
+        
+        <a href='https://tiffanywhite.devtag/code/'>code</a>
+        
+        <a href='https://tiffanywhite.devtag/code- and- supply/'>code and supply</a>
+        
+        <a href='https://tiffanywhite.devtag/code- newbie/'>code newbie</a>
+        
+        <a href='https://tiffanywhite.devtag/code- newbies/'>code newbies</a>
+        
+        <a href='https://tiffanywhite.devtag/coding/'>coding</a>
+        
+        <a href='https://tiffanywhite.devtag/college/'>college</a>
+        
+        <a href='https://tiffanywhite.devtag/college- admissions/'>college admissions</a>
+        
+        <a href='https://tiffanywhite.devtag/component- props/'>component props</a>
+        
+        <a href='https://tiffanywhite.devtag/computer- science/'>computer science</a>
+        
+        <a href='https://tiffanywhite.devtag/conditionals/'>conditionals</a>
+        
+        <a href='https://tiffanywhite.devtag/const/'>const</a>
+        
+        <a href='https://tiffanywhite.devtag/css/'>css</a>
+        
+        <a href='https://tiffanywhite.devtag/css- animations/'>css animations</a>
+        
+        <a href='https://tiffanywhite.devtag/daily- progress/'>daily progress</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 2/'>day 2</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 3/'>day 3</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 4/'>day 4</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 5/'>day 5</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 6/'>day 6</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 7/'>day 7</a>
+        
+        <a href='https://tiffanywhite.devtag/day- 8/'>day 8</a>
+        
+        <a href='https://tiffanywhite.devtag/degree/'>degree</a>
+        
+        <a href='https://tiffanywhite.devtag/depression/'>depression</a>
+        
+        <a href='https://tiffanywhite.devtag/design/'>design</a>
+        
+        <a href='https://tiffanywhite.devtag/developer/'>developer</a>
+        
+        <a href='https://tiffanywhite.devtag/developer- on- fire/'>developer on fire</a>
+        
+        <a href='https://tiffanywhite.devtag/developers/'>developers</a>
+        
+        <a href='https://tiffanywhite.devtag/diploma/'>diploma</a>
+        
+        <a href='https://tiffanywhite.devtag/docsets/'>docsets</a>
+        
+        <a href='https://tiffanywhite.devtag/drawing- app/'>drawing app</a>
+        
+        <a href='https://tiffanywhite.devtag/dreams/'>dreams</a>
+        
+        <a href='https://tiffanywhite.devtag/errors/'>errors</a>
+        
+        <a href='https://tiffanywhite.devtag/es2015/'>es2015</a>
+        
+        <a href='https://tiffanywhite.devtag/es6/'>es6</a>
+        
+        <a href='https://tiffanywhite.devtag/execution- stack/'>execution stack</a>
+        
+        <a href='https://tiffanywhite.devtag/failure/'>failure</a>
+        
+        <a href='https://tiffanywhite.devtag/fear/'>fear</a>
+        
+        <a href='https://tiffanywhite.devtag/filter/'>filter</a>
+        
+        <a href='https://tiffanywhite.devtag/first- assignment/'>first assignment</a>
+        
+        <a href='https://tiffanywhite.devtag/first- episode/'>first episode</a>
+        
+        <a href='https://tiffanywhite.devtag/first- interview/'>first interview</a>
+        
+        <a href='https://tiffanywhite.devtag/first- program/'>first program</a>
+        
+        <a href='https://tiffanywhite.devtag/first- week/'>first week</a>
+        
+        <a href='https://tiffanywhite.devtag/for- loops/'>for loops</a>
+        
+        <a href='https://tiffanywhite.devtag/free- code- camp/'>free code camp</a>
+        
+        <a href='https://tiffanywhite.devtag/freecodecamp/'>freecodecamp</a>
+        
+        <a href='https://tiffanywhite.devtag/functional- programming/'>functional programming</a>
+        
+        <a href='https://tiffanywhite.devtag/functions/'>functions</a>
+        
+        <a href='https://tiffanywhite.devtag/games/'>games</a>
+        
+        <a href='https://tiffanywhite.devtag/gists/'>gists</a>
+        
+        <a href='https://tiffanywhite.devtag/git/'>git</a>
+        
+        <a href='https://tiffanywhite.devtag/github/'>github</a>
+        
+        <a href='https://tiffanywhite.devtag/github- pages/'>github pages</a>
+        
+        <a href='https://tiffanywhite.devtag/goals/'>goals</a>
+        
+        <a href='https://tiffanywhite.devtag/good- habits/'>good habits</a>
+        
+        <a href='https://tiffanywhite.devtag/grades/'>grades</a>
+        
+        <a href='https://tiffanywhite.devtag/hacking/'>hacking</a>
+        
+        <a href='https://tiffanywhite.devtag/hard- work/'>hard work</a>
+        
+        <a href='https://tiffanywhite.devtag/heroku/'>heroku</a>
+        
+        <a href='https://tiffanywhite.devtag/higher- order- functions/'>higher order functions</a>
+        
+        <a href='https://tiffanywhite.devtag/homework/'>homework</a>
+        
+        <a href='https://tiffanywhite.devtag/html/'>html</a>
+        
+        <a href='https://tiffanywhite.devtag/hustle/'>hustle</a>
+        
+        <a href='https://tiffanywhite.devtag/interface/'>interface</a>
+        
+        <a href='https://tiffanywhite.devtag/interview/'>interview</a>
+        
+        <a href='https://tiffanywhite.devtag/iterm/'>iterm</a>
+        
+        <a href='https://tiffanywhite.devtag/iterm2/'>iterm2</a>
+        
+        <a href='https://tiffanywhite.devtag/jagged- arrays/'>jagged arrays</a>
+        
+        <a href='https://tiffanywhite.devtag/javascript/'>javascript</a>
+        
+        <a href='https://tiffanywhite.devtag/jekyll/'>jekyll</a>
+        
+        <a href='https://tiffanywhite.devtag/jekyll-bootstrap/'>jekyll-bootstrap</a>
+        
+        <a href='https://tiffanywhite.devtag/job- search/'>job search</a>
+        
+        <a href='https://tiffanywhite.devtag/jobs/'>jobs</a>
+        
+        <a href='https://tiffanywhite.devtag/john- gruber/'>john gruber</a>
+        
+        <a href='https://tiffanywhite.devtag/jquery/'>jquery</a>
+        
+        <a href='https://tiffanywhite.devtag/knowledege/'>knowledege</a>
+        
+        <a href='https://tiffanywhite.devtag/laughs/'>laughs</a>
+        
+        <a href='https://tiffanywhite.devtag/learn- python- the- hard- way/'>learn python the hard way</a>
+        
+        <a href='https://tiffanywhite.devtag/learning/'>learning</a>
+        
+        <a href='https://tiffanywhite.devtag/let/'>let</a>
+        
+        <a href='https://tiffanywhite.devtag/level- up/'>level up</a>
+        
+        <a href='https://tiffanywhite.devtag/libraries/'>libraries</a>
+        
+        <a href='https://tiffanywhite.devtag/life- changes/'>life changes</a>
+        
+        <a href='https://tiffanywhite.devtag/lightboxes/'>lightboxes</a>
+        
+        <a href='https://tiffanywhite.devtag/map/'>map</a>
+        
+        <a href='https://tiffanywhite.devtag/marco- arment/'>marco arment</a>
+        
+        <a href='https://tiffanywhite.devtag/mentorship/'>mentorship</a>
+        
+        <a href='https://tiffanywhite.devtag/methods/'>methods</a>
+        
+        <a href='https://tiffanywhite.devtag/minorities- in- tech/'>minorities in tech</a>
+        
+        <a href='https://tiffanywhite.devtag/mockups/'>mockups</a>
+        
+        <a href='https://tiffanywhite.devtag/modules/'>modules</a>
+        
+        <a href='https://tiffanywhite.devtag/mvp/'>mvp</a>
+        
+        <a href='https://tiffanywhite.devtag/my- coding- journey/'>my coding journey</a>
+        
+        <a href='https://tiffanywhite.devtag/new- projects/'>new projects</a>
+        
+        <a href='https://tiffanywhite.devtag/new- years/'>new years</a>
+        
+        <a href='https://tiffanywhite.devtag/news/'>news</a>
+        
+        <a href='https://tiffanywhite.devtag/node/'>node</a>
+        
+        <a href='https://tiffanywhite.devtag/npm/'>npm</a>
+        
+        <a href='https://tiffanywhite.devtag/objects/'>objects</a>
+        
+        <a href='https://tiffanywhite.devtag/octopress/'>octopress</a>
+        
+        <a href='https://tiffanywhite.devtag/odd- talking/'>odd talking</a>
+        
+        <a href='https://tiffanywhite.devtag/oh-my-zsh/'>oh-my-zsh</a>
+        
+        <a href='https://tiffanywhite.devtag/open- source/'>open source</a>
+        
+        <a href='https://tiffanywhite.devtag/outdated- tech/'>outdated tech</a>
+        
+        <a href='https://tiffanywhite.devtag/panthers/'>panthers</a>
+        
+        <a href='https://tiffanywhite.devtag/pitt/'>pitt</a>
+        
+        <a href='https://tiffanywhite.devtag/podcast/'>podcast</a>
+        
+        <a href='https://tiffanywhite.devtag/polls/'>polls</a>
+        
+        <a href='https://tiffanywhite.devtag/post- updates/'>post updates</a>
+        
+        <a href='https://tiffanywhite.devtag/primitive- data- types/'>primitive data types</a>
+        
+        <a href='https://tiffanywhite.devtag/productivity/'>productivity</a>
+        
+        <a href='https://tiffanywhite.devtag/programming/'>programming</a>
+        
+        <a href='https://tiffanywhite.devtag/programming- fundamentals/'>programming fundamentals</a>
+        
+        <a href='https://tiffanywhite.devtag/prorgammers/'>prorgammers</a>
+        
+        <a href='https://tiffanywhite.devtag/pull- requests/'>pull requests</a>
+        
+        <a href='https://tiffanywhite.devtag/pydoc/'>pydoc</a>
+        
+        <a href='https://tiffanywhite.devtag/python/'>python</a>
+        
+        <a href='https://tiffanywhite.devtag/random/'>random</a>
+        
+        <a href='https://tiffanywhite.devtag/react/'>react</a>
+        
+        <a href='https://tiffanywhite.devtag/react- components/'>react components</a>
+        
+        <a href='https://tiffanywhite.devtag/reconciliation/'>reconciliation</a>
+        
+        <a href='https://tiffanywhite.devtag/reduce/'>reduce</a>
+        
+        <a href='https://tiffanywhite.devtag/rescuetime/'>rescuetime</a>
+        
+        <a href='https://tiffanywhite.devtag/responsive- grid/'>responsive grid</a>
+        
+        <a href='https://tiffanywhite.devtag/ruby/'>ruby</a>
+        
+        <a href='https://tiffanywhite.devtag/ruby- gems/'>ruby gems</a>
+        
+        <a href='https://tiffanywhite.devtag/rut/'>rut</a>
+        
+        <a href='https://tiffanywhite.devtag/rvm/'>rvm</a>
+        
+        <a href='https://tiffanywhite.devtag/school/'>school</a>
+        
+        <a href='https://tiffanywhite.devtag/scope/'>scope</a>
+        
+        <a href='https://tiffanywhite.devtag/screencast/'>screencast</a>
+        
+        <a href='https://tiffanywhite.devtag/self-reflection/'>self-reflection</a>
+        
+        <a href='https://tiffanywhite.devtag/setups/'>setups</a>
+        
+        <a href='https://tiffanywhite.devtag/show- notes/'>show notes</a>
+        
+        <a href='https://tiffanywhite.devtag/sinatra/'>sinatra</a>
+        
+        <a href='https://tiffanywhite.devtag/slack/'>slack</a>
+        
+        <a href='https://tiffanywhite.devtag/snippets/'>snippets</a>
+        
+        <a href='https://tiffanywhite.devtag/software- engineering/'>software engineering</a>
+        
+        <a href='https://tiffanywhite.devtag/spread- operator/'>spread operator</a>
+        
+        <a href='https://tiffanywhite.devtag/spring- break/'>spring break</a>
+        
+        <a href='https://tiffanywhite.devtag/stack- overflow/'>stack overflow</a>
+        
+        <a href='https://tiffanywhite.devtag/student/'>student</a>
+        
+        <a href='https://tiffanywhite.devtag/students/'>students</a>
+        
+        <a href='https://tiffanywhite.devtag/success/'>success</a>
+        
+        <a href='https://tiffanywhite.devtag/tdd/'>tdd</a>
+        
+        <a href='https://tiffanywhite.devtag/teamwork/'>teamwork</a>
+        
+        <a href='https://tiffanywhite.devtag/technical/'>technical</a>
+        
+        <a href='https://tiffanywhite.devtag/template- literals/'>template literals</a>
+        
+        <a href='https://tiffanywhite.devtag/template- strings/'>template strings</a>
+        
+        <a href='https://tiffanywhite.devtag/terminal/'>terminal</a>
+        
+        <a href='https://tiffanywhite.devtag/test-driven- development/'>test-driven development</a>
+        
+        <a href='https://tiffanywhite.devtag/testing/'>testing</a>
+        
+        <a href='https://tiffanywhite.devtag/the- practical- dev/'>the practical dev</a>
+        
+        <a href='https://tiffanywhite.devtag/the- talk- show/'>the talk show</a>
+        
+        <a href='https://tiffanywhite.devtag/this/'>this</a>
+        
+        <a href='https://tiffanywhite.devtag/this- developer's- journey/'>this developer's journey</a>
+        
+        <a href='https://tiffanywhite.devtag/time- complexity/'>time complexity</a>
+        
+        <a href='https://tiffanywhite.devtag/to- do/'>to do</a>
+        
+        <a href='https://tiffanywhite.devtag/tools/'>tools</a>
+        
+        <a href='https://tiffanywhite.devtag/tutorials/'>tutorials</a>
+        
+        <a href='https://tiffanywhite.devtag/twitter/'>twitter</a>
+        
+        <a href='https://tiffanywhite.devtag/type- coercion/'>type coercion</a>
+        
+        <a href='https://tiffanywhite.devtag/uncategorized/'>uncategorized</a>
+        
+        <a href='https://tiffanywhite.devtag/university/'>university</a>
+        
+        <a href='https://tiffanywhite.devtag/university- of- pittsburgh/'>university of pittsburgh</a>
+        
+        <a href='https://tiffanywhite.devtag/updates/'>updates</a>
+        
+        <a href='https://tiffanywhite.devtag/ux/'>ux</a>
+        
+        <a href='https://tiffanywhite.devtag/var/'>var</a>
+        
+        <a href='https://tiffanywhite.devtag/vscode/'>vscode</a>
+        
+        <a href='https://tiffanywhite.devtag/weather- app/'>weather app</a>
+        
+        <a href='https://tiffanywhite.devtag/web- app/'>web app</a>
+        
+        <a href='https://tiffanywhite.devtag/web- developer- bootcamp/'>web developer bootcamp</a>
+        
+        <a href='https://tiffanywhite.devtag/web- development/'>web development</a>
+        
+        <a href='https://tiffanywhite.devtag/women- in- tech/'>women in tech</a>
+        
+        <a href='https://tiffanywhite.devtag/work/'>work</a>
+        
+        <a href='https://tiffanywhite.devtag/year- end- wrap-up/'>year end wrap-up</a>
+        
+        <a href='https://tiffanywhite.devtag/yeoman/'>yeoman</a>
+        
+        <a href='https://tiffanywhite.devtag/zed- shaw/'>zed shaw</a>
+        
+    </div>
+</section>
+
+
+		</div><!-- .sidebar-inside -->
+	</div><!-- .sidebar-scrollable -->
+</aside><!-- .sidebar -->
+    
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-61294063-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-61294063-1', { 'anonymize_ip': true });
+  </script>
+
+    <!-- Javascript Assets -->
+    <script src="/assets/js/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
+
+    <!-- <link rel="stylesheet" href="/assets/css/dark-mode.css"> -->
+    <script type="text/javascript">
+        var bigfoot = $.bigfoot({
+            actionOriginalFN: "hide",
+            positionContent: "true"
+        });
+    </script>
+    <script src="/assets/js/plugins.js"></script>
+    <script src="/assets/js/custom.js"></script>
+
+            <script>
+                window.onload = function () {
+                    var script = document.createElement('script');
+                    var firstScript = document.getElementsByTagName('script')[0];
+                    script.type = 'text/javascript';
+                    script.async = true;
+                    script.src = '/sw-register.js?v=' + Date.now();
+                    firstScript.parentNode.insertBefore(script, firstScript);
+                };
+            </script>
+            </body>
+
+
+</html>

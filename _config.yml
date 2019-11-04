@@ -1,0 +1,90 @@
+# Site setings
+name: 'Tiffany R. White Blog'
+description: "Your friend Tiffany's tiny little weblog."
+meta_description: "Your friend Tiffany's tiny little weblog."
+logo: 'assets/images/logo-2.png'
+favicon: 'assets/images/favicon.ico'
+baseurl:
+production_url: https://tiffanywhite.dev
+# disqus: 'justgoodthemes'
+# mailchimp_url: 'https://buttondown.email/api/emails/embed-subscribe/tiffanywhite'
+cover_image: bc_1.jpg
+# Add your GA Tracking Id
+ga_analytics: UA-61294063-1
+
+# Author
+author:
+  name: 'Tiffany'
+  image: 'authorimage-2.jpg'
+  greetings: 'Hi! 👋🏾'
+  description: "My name is Tiffany. I'm a front-end developer for a large multinational consulting firm, writer and all around geek based in Swatara Township, PA."
+  bio: 'Tiffany is a frontend developer, writer, and wannabe YouTuber.'
+
+# Contact form setings
+email: tiffany@tiffanywhite.dev
+contact_page_description: "Contact Me"
+thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+
+# Social links
+twitter: 'tiffanywhitedev'
+# facebook: 'username'
+github: 'twhite96'
+codepen: 'twhite96'
+# dribbble: 'username'
+# medium: '@username'
+instagram: 'tiffanywhitedev'
+# pinterest: 'tifftalkstech'
+linkedin: 'tiffanyrwhite'
+# producthunt: '@username'
+
+# Jekyll PWA
+pwa:
+  sw_src_filepath: sw.js # Optional
+  sw_dest_filename: sw.js # Optional
+  dest_js_directory: assets/js # Required
+  precache_recent_posts_num: 5 # Optional
+  precache_glob_directory: / # Optional
+  precache_glob_patterns: # Optional
+    - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
+    - index.html
+  precache_glob_ignores: # Optional
+    - "fonts/**/*"
+
+# Navigation
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about/
+  - text: Search
+    url: /search/
+  - text: Uses
+    url: /uses/
+  - text: Portfolio
+    url: https://www.tiffanyrwhite.com
+  - text: Resume
+    url: https://resume.tiffanyrwhite.com
+  - text: Contact Me
+    url: /contact/
+
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
