@@ -4,11 +4,11 @@ title: About
 featured_image: https://res.cloudinary.com/thatmacnerd/image/upload/v1559450398/2019-05-18_self-portrait_copy_2.jpg
 ---
 
-*Tiffany Talks Tech* is a monthly[^1] show that dives into tech so you don't have to. It's for the noobs, the tech literate, and everyone in between.
+Hi. I'm Tiffany. I am a front-end dev at ICF working remotely[^1] in my comfy little loft in Swatara Twp, PA. I have been programming as an autodidact and university student for three years. I attended the University of Pittsburgh for two years after a stint in a few junior colleges.
 
-The YouTube channel, this blog, and social channels are venues for my setups, tech, ideas, and smart home reviews only not for a house but for those of us who rent apartments[^2].
+My toolbox contains JavaScript, React, some Rails, and Styled Components 💅.
 
-My YouTube channel, this blog, and everything else is for you.
+Besides programming and writing for this blog, I enjoy photography, lifting weights when I can, playing around with Go and Swift, automating my apartment with smart home tech, and tinkering with robots 🤖.
 
-[^1]: For now...
-[^2]: There isn't a lot of content for single folks who rent and don't want to own a home (apartment life!) or who are waiting to pony up for a house sometime later.
+[^1]: I'm extremely luck but it *is* [the future of work](https://basecamp.com/books/remote).
+
