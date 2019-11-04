@@ -38,10 +38,10 @@ You can find some of this on [Kit](https://kit.com/tiffanywhitedev) but just to 
 
 Glad you asked.
 
-![](/assets/images/posts/2019/1.jpg)
+![](https://res.cloudinary.com/thatmacnerd/image/upload/v1570932814/office.jpg)
 *Full desk*
 
-![](./2.jpg)
+![](/assets/images/posts/2019/mic.jpg)
 *Main equipment*
 
 ## For the curious
