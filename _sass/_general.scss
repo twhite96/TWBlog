@@ -11,6 +11,7 @@ body {
     background: #fff;
     color: $gray-dark;
     line-height: 1.66667;
+    font-size: 1.4rem;
 }
 
 a {
@@ -92,37 +93,47 @@ ins {
     text-decoration: none;
 }
 pre[class*="language-"] {
-    padding: 1.875em;
+    padding: 1em;
     margin: 0 0 1.875em;
     overflow: auto;
+    background: #F9F9F9;
+    color: #BF616A;
     border-radius: 3px;
 }
 
 :not(pre)>code[class*="language-"],
 pre[class*="language-"] {
     background: #F9F9F9;
-}
-
-/* Inline code */
-:not(pre)>code[class*="language-"] {
     border-radius: .3em;
-    background: #F9F9F9;
     color: #BF616A;
     padding: .15em .2em .05em;
     white-space: normal;
     font-family: 'Fira Code', monospace;
 }
 
+// /* Inline code */
+// :not(pre)>code[class*="language-"] {
+//     border-radius: .3em;
+//     background: #F9F9F9;
+//     color: #BF616A;
+//     padding: .15em .2em .05em;
+//     white-space: normal;
+//     font-family: 'Fira Code', monospace;
+// }
+
 code {
-    font-size: 0.88889rem;
+     background: #F9F9F9;
+     border-radius: .3em;
+     color: #BF616A;
+    font-size: 1.4rem;
     padding: 1px 3px;
     font-family: 'Fira Code', monospace;
 }
 
 pre {
-    background: $gray-darkest;
-    border-radius: 3px;
-    color: $gray-light;
+    background: #F9F9F9;
+    border-radius: .3em;
+    color: #BF616A;
     font-size: 0.88889rem;
     margin: 0 0 1.875em;
     overflow: auto;
@@ -137,7 +148,7 @@ pre code {
 
 blockquote {
     color: $gray-darkest;
-    font-size: 1.88889rem;
+    font-size:1.88889rem;
     line-height: 1.25;
     margin: 0 0 0.88235em;
     position: relative;

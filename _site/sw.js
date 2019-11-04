@@ -1,7 +1,7 @@
                         importScripts("/assets/js/workbox-v3.6.3/workbox-sw.js");
             workbox.setConfig({modulePathPrefix: "/assets/js/workbox-v3.6.3"});
 
-            self.__precacheManifest = [{"url":"/index.html","revision":"1db96ac1c45d8909be09e11ed031e830"},{"url":"/recognizing-patterns","revision":"8743e8293cb745eee13dc3d3e01af04a"},{"url":"/stickers","revision":"bdbd85788664fc1ab0c31ac7061e6882"},{"url":"/first-week-feels","revision":"1f9d5fa739dc56eeb937c6f188b678c5"},{"url":"/goal-completed","revision":"ecd90892ec03d549ff31236ef5b11f4f"},{"url":"/burnout-health-and-starting-over","revision":"9a898008d108dd1a6bad8fa2b5fb4604"}];
+            self.__precacheManifest = [{"url":"/index.html","revision":"64e1eebc292ca5629e0258016b99e8ee"},{"url":"/recognizing-patterns","revision":"8743e8293cb745eee13dc3d3e01af04a"},{"url":"/stickers","revision":"bdbd85788664fc1ab0c31ac7061e6882"},{"url":"/first-week-feels","revision":"1f9d5fa739dc56eeb937c6f188b678c5"},{"url":"/goal-completed","revision":"ecd90892ec03d549ff31236ef5b11f4f"},{"url":"/burnout-health-and-starting-over","revision":"8c6e208da4792c7af1f523ad88f0aceb"}];
             // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'tiffany-white-blog',
