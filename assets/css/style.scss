@@ -139,7 +139,7 @@
 
 .site-header .menu-item {
   display: inline-block;
-  font-size: 14px;
+  font-size: 22px;
   line-height: 1.5;
   margin: 0 25px 0 0;
 }
@@ -729,12 +729,13 @@
 }
 
 .widget.site-navigation .menu-item {
-  font-size: 1rem;
+  font-size: 4em;
   margin: 0 0 0.5em;
 }
 
 .widget.site-navigation a {
   color: #fff;
+  font-size: 4em;
 }
 
 .widget.site-navigation a:hover {
