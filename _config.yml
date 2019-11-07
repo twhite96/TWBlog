@@ -7,7 +7,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl:
 production_url: https://tiffanywhite.dev
 # disqus: 'justgoodthemes'
-# mailchimp_url: 'https://buttondown.email/api/emails/embed-subscribe/tiffanywhite'
+mailchimp_url: 'https://buttondown.email/api/emails/embed-subscribe/tiffanywhite'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
 ga_analytics: UA-61294063-1

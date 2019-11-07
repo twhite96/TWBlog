@@ -4,10 +4,11 @@
         <p>Get the latest and greatest from {{ site.name }} delivered straight to your inbox every week.</p>
         <!-- Begin MailChimp Signup Form -->
         <div id="mc_embed_signup">
-            <form action="{{ site.mailchimp_url }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate gh-subscribe-form" target="_blank" novalidate>
-                <label for="mce-email" class="screen-reader-text">Email Address</label>
-                <input type="email" value="" name="EMAIL" class="required email subscribe-email" id="mce-email" placeholder="Your email address">
-                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+            <form action="{{ site.mailchimp_url }}" method="post" id="embeddable-buttondown-form" name="embeddable-buttondown-form" class="validate embeddable-buttondown-form gh-subscribe-form" target="_blank" novalidate>
+                <label for="bd-email" class="screen-reader-text">Email Address</label>
+                <input type="email" value="" name="email" class="required email subscribe-email" id="bd-email" placeholder="Your email address">
+                <input type="hidden" value="1" name="embed"></input>
+                <input type="submit" value="Subscribe" name="subscribe" class="button">
             </form>
         </div>
         <!--End mc_embed_signup-->
