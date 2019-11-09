@@ -53,6 +53,12 @@
         <span class="screen-reader-text">Linkedin</span>
     </a>
     {% endif %}
+    {% if site.codesandbox %}
+    <a href="https://codesandbox/u/{{ site.codesandbox }}" target="_blank">
+        <span class="iconify social-links" data-icon="simple-icons:codesandbox" data-inline="false" style= "font-size: 19px; vertical-align:middle !important; text-align: center !important;"></span>
+        <span class="screen-reader-text">Codesandbox</span>
+    </a>
+    {% endif %}
     {% if site.producthunt %}
     <a href="https://www.producthunt.com/{{ site.producthunt }}" target="_blank">
         <span class="fa-product-hunt fa" aria-hidden="true"></span>

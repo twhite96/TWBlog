@@ -20,15 +20,9 @@ fs.writeFileSync(
  `${dir}.md`,
 `---
 title: "${title}"
-date: ${date}
 layout: post
-categories:
-tags:
-image:
-  path:
-  caption:
-excerpt:
-description:
+tags: []
+featured_image
 ---`,
  function(err) {
  if (err) {
