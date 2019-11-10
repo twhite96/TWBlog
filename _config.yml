@@ -18,7 +18,7 @@ author:
   image: 'authorimage-2.jpg'
   greetings: 'Hi! 👋🏾'
   description: "My name is Tiffany. I'm a front-end developer for a large multinational consulting firm, writer and all around geek based in Swatara Township, PA."
-  bio: 'Tiffany is a frontend developer, writer, and wannabe YouTuber.'
+  bio: 'Tiffany is a frontend developer, writer, and wannabe hacker.'
 
 # Contact form setings
 email: tiffany@tiffanywhite.dev
@@ -37,6 +37,7 @@ instagram: 'tiffanywhitedev'
 linkedin: 'tiffanyrwhite'
 # producthunt: '@username'
 codesandbox: 'twhite96'
+rss: '/feed.xml'
 
 # Jekyll PWA
 pwa:
@@ -50,6 +51,25 @@ pwa:
     - index.html
   precache_glob_ignores: # Optional
     - "fonts/**/*"
+
+# Webmentions
+webmentions:
+  username: tiffanywhite.dev
+  cache_folder: .cache
+  cache_bad_uris_for: 5
+  legacy_domains:
+    - https://tiffanywhite.dev
+    - https://www.tiffanywhite.dev
+    - https://tiffanywhite.tech
+    - https://tiffanywhite.tech
+    - https://helloburgh.me
+    - http://helloburgh.me
+  templates:
+    count: _includes/webmentions/count.html
+    likes: _includes/webmentions/likes.html
+    replies: _includes/webmentions/replies.html
+    reposts: _includes/webmentions/reposts.html
+    webmentions: _includes/webmentions/webmentions.html
 
 # Navigation
 navigation:

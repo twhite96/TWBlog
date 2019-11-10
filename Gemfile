@@ -10,5 +10,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-archives'
   gem 'jekyll-pwa-plugin'
+  gem 'jekyll-webmention_io'
+  gem 'jekyll-include-cache'
 end
 

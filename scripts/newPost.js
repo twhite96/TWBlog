@@ -6,7 +6,7 @@ const dateFns = require('date-fns')
 const title = process.argv[2]
 
 if (!title) {
- throw 'a title is required!';
+ throw 'a title is required!';c
 }
 const slug = slugify(title.toLowerCase());
 const date = dateFns.format(new Date(), 'YYYY-MM-DD');
@@ -22,7 +22,7 @@ fs.writeFileSync(
 title: "${title}"
 layout: post
 tags: []
-featured_image
+featured_image:
 ---`,
  function(err) {
  if (err) {

@@ -51,6 +51,11 @@ post_class: post-template
         </article>
         {% if site.mailchimp_url %}
         {% include newsletter-box.html %}
+        {% webmentions page.url %}
+        {% webmention_count page.url %}
+        {% webmention_likes page.url %}
+        {% webmention_replies page.url %}
+        {% webmention_reposts page.url %}
         {% endif %}
         <section class="read-next inner">
             <h2 class="read-next-title">Read Next</h2>
