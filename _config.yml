@@ -58,12 +58,12 @@ webmentions:
   cache_folder: .cache
   cache_bad_uris_for: 5
   legacy_domains:
-    - https://tiffanywhite.dev
-    - https://www.tiffanywhite.dev
     - https://tiffanywhite.tech
-    - https://tiffanywhite.tech
+    - http://tiffanywhite.tech
     - https://helloburgh.me
-    - http://helloburgh.me
+    - https://helloburgh.me
+    - https://twhite96.github.io
+    - http://twhite96.github.io
   templates:
     count: _includes/webmentions/count.html
     likes: _includes/webmentions/likes.html

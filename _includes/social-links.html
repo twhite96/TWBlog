@@ -59,6 +59,12 @@
         <span class="screen-reader-text">Codesandbox</span>
     </a>
     {% endif %}
+    {% if site.rss %}
+    <a href="/feed.xml">
+        <span class="fa-rss fa""></span>
+        <span class="screen-reader-text">rss feed</span>
+    </a>
+    {% endif %}
     {% if site.producthunt %}
     <a href="https://www.producthunt.com/{{ site.producthunt }}" target="_blank">
         <span class="fa-product-hunt fa" aria-hidden="true"></span>
