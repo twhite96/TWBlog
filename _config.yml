@@ -22,7 +22,7 @@ author:
 
 # Contact form setings
 email: tiffany@tiffanywhite.dev
-contact_page_description: "Contact Me"
+# contact_page_description: "Contact Me"
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
@@ -85,6 +85,8 @@ navigation:
     url: https://www.tiffanyrwhite.com
   - text: Resume
     url: https://resume.tiffanyrwhite.com
+  - text: Privacy Policy
+    url: /privacy-policy/
   - text: Contact Me
     url: /contact/
 
