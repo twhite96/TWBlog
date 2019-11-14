@@ -1,7 +1,7 @@
 ---
 title: "Setting Up a New Mac with a Shell Script"
 layout: post
-featured_image: /assets/images/posts/2019/term.jpg
+featured_image: /assets/images/posts/2019/term.webp
 tags: [General Dev]
 ---
 
@@ -17,12 +17,3 @@ You can use `curl` to grab the dotfile from your repo without needed to stick it
 `curl https://raw.githubusercontent.com/<yourname>/dotfiles/master/.<your_script> | bash`
 
 [Here is my implementation](https://github.com/twhite96/dot-files/blob/master/.macos).
-
----
-
-### Sign Up for the Newsletter. No spam. I hate that, too.
-
-<iframe scrolling="no" width="100% !important" height="220px !important" style="height: 220px !important; border:1px #ccc solid !important" class="lazyload" src="https://buttondown.email/tiffanywhite? as_embed=true"></iframe>
-
----
-<a href="https://www.buymeacoffee.com/twhitedev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>

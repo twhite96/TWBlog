@@ -1,7 +1,7 @@
 ---
 title: "Q1 Goals Update: Some Meh, Mostly Good"
 layout: post
-featured_image: /assets/images/posts/2019/goals.jpg
+featured_image: /assets/images/posts/2019/goals.webp
 category: [Goals]
 ---
 
@@ -19,7 +19,7 @@ Let's start out with reviewing what I wanted to do[^2].
 
 ---
 
-[![Tiffany R. White Blog Goals](/assets/images/posts/2019/goals-click.jpg)](https://tiffanywhite.dev/end-of-year-goals/)
+[![Tiffany R. White Blog Goals](/assets/images/posts/2019/goals-click.webp)](https://tiffanywhite.dev/end-of-year-goals/)
 
 ---
 

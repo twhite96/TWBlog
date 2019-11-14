@@ -1,6 +1,6 @@
 ---
 title: "Some Music I'm Vibing To This Spring"
-featured_image: /assets/images/posts/2019/cover.jpg
+featured_image: /assets/images/posts/2019/music-vibes.webp
 tags: "Playlists"
 layout: post
 ---
@@ -25,7 +25,7 @@ I love that particular song. There other faves on here from Childish Gambino, Sc
 
 ## Spotify
 
-https://open.spotify.com/playlist/37i9dQZF1E9MHtximUEEG4
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1E9MHtximUEEG4" width="660" height="1000" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 

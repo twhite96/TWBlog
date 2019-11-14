@@ -1,6 +1,6 @@
 ---
 title: "Twitch, YouTube, Egghead, and Zoom: My New Projects and Setup"
-featured_image: /assets/images/posts/2019/twitch.jpg
+featured_image: /assets/images/posts/2019/twitch.webp
 category: [Fun]
 layout: post
 ---
@@ -41,7 +41,7 @@ Glad you asked.
 ![](https://res.cloudinary.com/thatmacnerd/image/upload/v1570932814/office.jpg)
 *Full desk*
 
-![](/assets/images/posts/2019/mic.jpg)
+![](/assets/images/posts/2019/mic.webp)
 *Main equipment*
 
 ## For the curious

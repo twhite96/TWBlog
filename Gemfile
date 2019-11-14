@@ -12,5 +12,6 @@ group :jekyll_plugins do
   gem 'jekyll-pwa-plugin'
   gem 'jekyll-webmention_io'
   gem 'jekyll-include-cache'
+  gem 'jekyll-webp'
 end
 

@@ -2,7 +2,7 @@
 title: "Bugfix: Spelunking in Someone Else's Code"
 layout: post
 tags: [Bug fixing]
-featured_image: /assets/images/posts/2019/bugfix.jpg
+featured_image: /assets/images/posts/2019/bugfix.webp
 ---
 
 I love [CodeSandbox](https://codesandbox.io/). It has pretty much replaced CodePen for me unless I am fiddling around with CSS or freeCodeCamp front-end projects.
@@ -144,11 +144,3 @@ This stopwatch is a stupid simple component but if you are just scratching the s
 
 <iframe src="https://codesandbox.io/embed/wyz76w95n8" style="width:100%; height:400px!important; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
 
----
-
-### Sign Up for the Newsletter. No spam. I hate that, too.
-
-<iframe scrolling="no" width="100% !important" height="220px !important" style="height: 220px !important; border:1px #ccc solid !important" class="lazyload" src="https://buttondown.email/tiffanywhite? as_embed=true"></iframe>
-
----
-<a href="https://www.buymeacoffee.com/twhitedev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>

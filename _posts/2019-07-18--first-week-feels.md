@@ -1,11 +1,9 @@
 ---
 title: "First Week Feels"
 layout: post
-featured_image: /assets/images/posts/2019/first-week.jpg
+featured_image: /assets/images/posts/2019/first-week.webp
 tags: [Work]
 ---
-
-![](./1.jpg)
 
 This week has been a complete whirlwind of excitement, emails, and downtime.
 

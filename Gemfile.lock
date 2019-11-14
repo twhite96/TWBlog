@@ -54,6 +54,7 @@ GEM
       string_inflection (~> 0.1)
       uglifier (~> 4.1)
       webmention (~> 0.1.6)
+    jekyll-webp (1.0.0)
     json (2.2.0)
     kramdown (1.17.0)
     link_header (0.0.8)
@@ -102,6 +103,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-tagsgenerator
   jekyll-webmention_io
+  jekyll-webp
 
 BUNDLED WITH
    2.0.1

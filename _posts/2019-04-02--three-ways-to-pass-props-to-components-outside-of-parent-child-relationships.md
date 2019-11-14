@@ -1,7 +1,7 @@
 ---
 title: "Three Ways to Pass Props to Components Outside of Parent/Child Relationships"
 layout: post
-featured_image: /assets/images/posts/2019/props.jpg
+featured_image: /assets/images/posts/2019/props.webp
 tags: [React]
 ---
 

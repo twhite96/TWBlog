@@ -1,6 +1,6 @@
 ---
 title: "Goal, Completed"
-featured_image: /assets/images/posts/2019/new-job.jpg
+featured_image: /assets/images/posts/2019/new-job.webp
 layout: post
 tags: [Goals]
 ---
@@ -55,7 +55,7 @@ I laid out the groundwork for getting a job this year in [Notion](https://www.no
 
 I increased my streak on freeCodeCamp from 4 to 36 consecutive days with 579 points.
 
-![Screenshot-2019-07-05_04-40-07_PM|690x343](2.png)
+![](/assets/images/posts/2019/2.webp)
 
 I applied to more positions but nothing turned up.
 

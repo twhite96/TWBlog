@@ -2,7 +2,7 @@
 title: "Open Source and the Role of a Good README"
 tags: [Open Source]
 layout: post
-featured_image: /assets/images/posts/2019/1.png
+featured_image: /assets/images/posts/2019/1.webp
 ---
 
 I spent the better part of last week working on a project I started almost two years ago.
@@ -21,14 +21,14 @@ Originally it was made to be an [Awesome list](https://github.com/sindresorhus/a
 
 It taught me about having a header image for your repo. It taught me about having a Code of Conduct and Contributing guidelines and Table of Contents. I worked on that for *days*.
 
-![](/assets/images/posts/2019/1screen.png)
+![](/assets/images/posts/2019/1screen.webp)
 *The first iteration in VS Code*
 
 ## Tweeting, DEV'ing and hoping for the best
 
 I finished the repo last Friday evening. I tweeted about it:
 
-https://twitter.com/tiffanywhitedev/status/1106678222463340550
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I made a little repo of books and articles for JavaScript devs to consider reading. If you want to add a book or article on JavaScript and its frameworks/libraries, submit a pull request! 📚📝 <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://twitter.com/hashtag/DevDiscuss?src=hash&amp;ref_src=twsrc%5Etfw">#DevDiscuss</a> <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/2hQAZfmWlI">https://t.co/2hQAZfmWlI</a></p>&mdash; Tiffany White 🤨🤔⚛️ (@tiffanywhitedev) <a href="https://twitter.com/tiffanywhitedev/status/1106678222463340550?ref_src=twsrc%5Etfw">March 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Hashtagging made all the difference. I specifically targeted the most frequently used hashtags, throwing up a lob and hoping someone would come down for the dunk.
 
@@ -38,12 +38,12 @@ I also made a post on [DEV](https://dev.to/twhite/the-javascript-developers-read
 
 I looked shortly after I made the repo public. I had two stars. By night's end I had 40.
 
-![](/assets/images/posts/2019/2screen.png)
+![](/assets/images/posts/2019/2screen.webp)
 *Not bad, not bad*
 
 I woke up and there were *235*. I went out with my friends to celebrate one of their birthdays and while out I checked again. *394 stars*.
 
-![](/assets/images/posts/2019/3screen.png)
+![](/assets/images/posts/2019/3screen.webp)
 
 I also gained another 22 followers on GitHub.
 
@@ -51,14 +51,14 @@ I also gained another 22 followers on GitHub.
 
 Four days on and I have *over 1300 stars*.
 
-![](/assets/images/posts/2019/4screen.png)
+![](/assets/images/posts/2019/4screen.webp)
 
 I also made GitHub trending:
 
-![](/assets/images/posts/2019/5screen.png)
+![](/assets/images/posts/2019/5screen.webp)
 *Number 3 is not too shabby*
 
-![](/assets/images/posts/2019/6screen.png)
+![](/assets/images/posts/2019/6screen.webp)
 *I was a "popular" developer for one day*
 
 ## How did this happen?
