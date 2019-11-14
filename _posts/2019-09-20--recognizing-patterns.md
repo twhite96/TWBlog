@@ -1,7 +1,7 @@
 ---
 title: "Recognizing Patterns"
 layout: post
-featured_image: /assets/images/posts/2019/patterns.webp
+featured_image: /assets/images/posts/2019/patterns.png
 tags: [Fundamentals]
 ---
 

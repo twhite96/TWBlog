@@ -2,7 +2,7 @@
 title: "Open Source and the Role of a Good README"
 tags: [Open Source]
 layout: post
-featured_image: /assets/images/posts/2019/1.webp
+featured_image: /assets/images/posts/2019/1.png
 ---
 
 I spent the better part of last week working on a project I started almost two years ago.
@@ -21,7 +21,7 @@ Originally it was made to be an [Awesome list](https://github.com/sindresorhus/a
 
 It taught me about having a header image for your repo. It taught me about having a Code of Conduct and Contributing guidelines and Table of Contents. I worked on that for *days*.
 
-![](/assets/images/posts/2019/1screen.webp)
+![](/assets/images/posts/2019/1screen.png)
 *The first iteration in VS Code*
 
 ## Tweeting, DEV'ing and hoping for the best
@@ -38,12 +38,12 @@ I also made a post on [DEV](https://dev.to/twhite/the-javascript-developers-read
 
 I looked shortly after I made the repo public. I had two stars. By night's end I had 40.
 
-![](/assets/images/posts/2019/2screen.webp)
+![](/assets/images/posts/2019/2screen.png)
 *Not bad, not bad*
 
 I woke up and there were *235*. I went out with my friends to celebrate one of their birthdays and while out I checked again. *394 stars*.
 
-![](/assets/images/posts/2019/3screen.webp)
+![](/assets/images/posts/2019/3screen.png)
 
 I also gained another 22 followers on GitHub.
 
@@ -51,14 +51,14 @@ I also gained another 22 followers on GitHub.
 
 Four days on and I have *over 1300 stars*.
 
-![](/assets/images/posts/2019/4screen.webp)
+![](/assets/images/posts/2019/4screen.png)
 
 I also made GitHub trending:
 
-![](/assets/images/posts/2019/5screen.webp)
+![](/assets/images/posts/2019/5screen.png)
 *Number 3 is not too shabby*
 
-![](/assets/images/posts/2019/6screen.webp)
+![](/assets/images/posts/2019/6screen.png)
 *I was a "popular" developer for one day*
 
 ## How did this happen?

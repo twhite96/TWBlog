@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Burnout, Health, and Starting Over"
-featured_image: /assets/images/posts/2019/frustrated.webp
+featured_image: /assets/images/posts/2019/frustrated.png
 tags: [Developer Health]
 ---
 
@@ -42,7 +42,7 @@ I am willing to put in the hours, even when I don't want to, to get it.
 
 I need to listen to my body and take the weekend for self-care. *Self-care* is a loaded buzzword but I didn't do it for many years and now I am stuck, 4 years programming with nothing to show for it. I journal. A lot. I see a professional. I have a [photography](https://www.eyeem.com/u/trwhite) [hobby](https://www.flickr.com/photos/sydmalicious/) I really enjoy. I have this dope robot car I am building. I do this on the weekends. I go out with friends and have friends over. I won't get into too many details but I really *missed* this while I was in Pittsburgh. And if I ever move from here again, I really need to make sure I actually *know* some people in the new area.
 
-![](/assets/images/posts/2019/robots.webp)
+![](/assets/images/posts/2019/robots.png)
 *Robots are pretty cool*
 
 I am willing to anything. And this is where other's success comes in.
@@ -53,7 +53,7 @@ Seeing the folks over the weekend sharing their freeCodeCamp JavaScript and Data
 
 One of the ways I am motivating myself is having this random certificate frame I picked up from the Dollar Tree. It is going up on the wall in front of my desk as a reminder of what I need to do to fill it with a freeCodeCamp certificate.
 
-![](/assets/images/posts/2019/cert.webp)
+![](/assets/images/posts/2019/cert.png)
 
 ## Setting up a study plan
 

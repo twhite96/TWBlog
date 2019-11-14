@@ -2,7 +2,7 @@
 title: "Bugfix: Spelunking in Someone Else's Code"
 layout: post
 tags: [Bug fixing]
-featured_image: /assets/images/posts/2019/bugfix.webp
+featured_image: /assets/images/posts/2019/bugfix.png
 ---
 
 I love [CodeSandbox](https://codesandbox.io/). It has pretty much replaced CodePen for me unless I am fiddling around with CSS or freeCodeCamp front-end projects.

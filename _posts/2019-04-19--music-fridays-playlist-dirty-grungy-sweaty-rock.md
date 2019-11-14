@@ -1,6 +1,6 @@
 ---
 title: "Music Friday's Playlist: Dirty, Grungy, Sweaty Rock"
-featured_image: /assets/images/posts/2019/cover-3.webp
+featured_image: /assets/images/posts/2019/cover-3.png
 tags: [Playlists]
 layout: post
 ---
