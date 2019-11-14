@@ -87,6 +87,8 @@ navigation:
     url: https://resume.tiffanyrwhite.com
   - text: Privacy Policy
     url: /privacy-policy/
+  - text: Archive
+    url: /archive/
   - text: Contact Me
     url: /contact/
 
