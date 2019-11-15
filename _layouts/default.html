@@ -24,9 +24,31 @@
     <link href="https://fonts.googleapis.com/css?family=Fira+Code&display=swap" rel="stylesheet">
 
     <!-- CSS Styles -->
-    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/center_image-min.css" rel="stylesheet">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bigfoot-number-min.css">
+    <link rel="preload" href="{{ site.baseurl }}/assets/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+    </noscript>
+    <link rel="preload" href="{{ site.baseurl }}/assets/css/center_image-min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/center_image-min.css">
+    </noscript>
+    <link rel="preload" href="{{ site.baseurl }}/assets/css/bigfoot-number-min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bigfoot-number-min.css">
+    </noscript>
+    <script defer src="{{ site.baseurl }}/assets/js/jquery-3.3.1.min.js"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
+
+    <!-- <link rel="stylesheet" href="/assets/css/dark-mode.css"> -->
+    <script defer type="text/javascript">
+        var bigfoot = $.bigfoot({
+            actionOriginalFN: "hide",
+            positionContent: "true"
+        });
+    </script>
+    <link href="https://twitter.com/tiffanywhitedev" rel="me">
+    <script defer src="{{ site.baseurl }}/assets/js/plugins.js"></script>
+    <script defer src="{{ site.baseurl }}/assets/js/custom.js"></script>
 
 </head>
 
@@ -84,19 +106,6 @@
     {% include sidebar.html %}
     {% include analytics.html %}
     <!-- Javascript Assets -->
-    <script src="{{ site.baseurl }}/assets/js/jquery-3.3.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
-
-    <!-- <link rel="stylesheet" href="/assets/css/dark-mode.css"> -->
-    <script type="text/javascript">
-        var bigfoot = $.bigfoot({
-            actionOriginalFN: "hide",
-            positionContent: "true"
-        });
-    </script>
-    <link href="https://twitter.com/tiffanywhitedev" rel="me">
-    <script src="{{ site.baseurl }}/assets/js/plugins.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
 
 </body>
 
