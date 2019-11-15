@@ -81,14 +81,16 @@ navigation:
     url: /search/
   - text: Uses
     url: /uses/
-  - text: Portfolio
-    url: https://www.tiffanyrwhite.com
-  - text: Resume
-    url: https://resume.tiffanyrwhite.com
+  # - text: Portfolio
+  #   url: https://www.tiffanyrwhite.com
+  # - text: Resume
+  #   url: https://resume.tiffanyrwhite.com
   - text: Privacy Policy
     url: /privacy-policy/
   - text: Archive
     url: /archive/
+  - text: Status
+    url: https://status.tiffanywhite.dev
   - text: Contact Me
     url: /contact/
 
