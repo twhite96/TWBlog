@@ -1,7 +1,7 @@
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'tiffany-white-blog',
-    suffix: 'v9.5',
+    suffix: 'v9.6',
     precache: 'precache',
     runtime: 'runtime-cache'
   });
