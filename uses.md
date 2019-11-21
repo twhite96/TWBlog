@@ -33,32 +33,30 @@ Let’s start with my gear.
 	- I will never type on another iMac keyboard. **Ever**. I fly on the keyboard DEV loaned me during my internship. Not going back to desktop chicklet keys.
 -  [Audio-Technica ATH-MSR7BK SonicPro Over-Ear High Res Headphones](https://www.amazon.com/gp/product/B00PEU9CFA/ref=oh_aui_detailpage_o06_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- These things sound *amazing*. Seriously good upgrade over my  previous Audio-Technica cans, the M50s.
-- [Plantronics BeatBack Pro wireless headphones](https://www.amazon.com/gp/product/B00MBWIL0G/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
-- [Dylan Quiet Speace Q1 Wireless Headphones](http://www.amazon.com/dp/product/B01MPZLYQV/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=thatmacnerd-20)
-- [ANCHEER Ergonomic Office Chair with Black Mesh](https://www.amazon.com/gp/product/B017SJBW0C/ref=oh_aui_detailpage_o01_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
-- [elago M2 Stand for Smartphones](https://www.amazon.com/gp/product/B002OLM56K/ref=oh_aui_detailpage_o06_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
-- [Just Mobile Headphone Stand](https://www.amazon.com/gp/product/B00A3CMAYY/ref=oh_aui_detailpage_o06_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
+- [Steelcase Leap Chair](https://www.madisonseating.com/leap-chair-by-steelcase.html?gclid=Cj0KCQiA5dPuBRCrARIsAJL7oei4kRFt9MUVlZgDlVPmOhr_fOuMQ8AtH-ReGn7nEPBNqE1R1Fxfnj0aAmOsEALw_wcB)
+  - I bought this chair open box from Madison Seating because...well...[check out the retail price](https://store.steelcase.com/seating/office-chairs/leap)...
 - [Heil PR 40 mic kit](https://www.amazon.com/gp/product/B00U1SG5SW/ref=oh_aui_detailpage_o07_s02?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- I've got a rig setup where I will use this more often than I had.
 - [AirPods](https://www.apple.com/airpods/)
-
----
-
-### Next Gen Gear
+- [15.4" MacBook Pro with Touch Bar](https://www.bhphotovideo.com/c/product/1480941-REG/apple_mv902ll_a_15_4_macbook_pro_with.html/?ap=y&ap=y&smp=y&smp=y&lsft=BI%3A514&gclid=Cj0KCQiA5dPuBRCrARIsAJL7oeifV4BJ1yP17DvqGQlwHSXwtGoHEp-k87144kruD8wUgxfCQqgs3IsaAig3EALw_wcB)
+  - Work machine
+- [Acer 25-Inch WQHD (2560 x 1440) Widescreen Monitor](https://www.amazon.com/gp/product/B00QS0AKVK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+  - Placeholder monitor until I buy a second LG 4k monitor and arm
 - [IKEA LINNMON/ALEX Desk](http://www.ikea.com/us/en/catalog/products/S99932696/)
 	- Every programmer needs a good desk. This one is relatively inexpensive.
-- [Edifier R1280T Powered Bookshelf Speakers](https://www.amazon.com/gp/product/B016P9HJIA/ref=oh_aui_detailpage_o09_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
-	- *Finally* picked up some decent speakers. These were the same price as the Mackies I was going to get only these look better.
-- [iXCC RCA to 3.5 mm cable](https://www.amazon.com/gp/product/B019D048XC/ref=oh_aui_detailpage_o03_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
-	- Need this to connect the speakers to my iMac
+- [Tabletop Bulb Base](https://www.amazon.com/gp/product/B07CBTKRXW/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+  - Cute lamp that sits on my KALLAX bookshelf with a LIFX bulb in it.
+- [Knodel Desk Pad](https://www.amazon.com/gp/product/B07D6559YM/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1)
+- [Insten Premium Leather Mouse Pad](https://www.amazon.com/gp/product/B01E9V515O/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1)
+- [HomePod, White](https://www.apple.com/shop/buy-homepod/homepod/white)
+  - Sold my Edifier speakers reluctantly as I really had no place and no use for them 😥.
+- [KALLAX Shelf unit - black, white - IKEA](https://www.ikea.com/us/en/p/kallax-shelf-unit-black-white-70346927/)
 - [LG 4K Monitor](https://www.amazon.com/gp/product/B01LPNKFK0/ref=oh_aui_detailpage_o02_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- Two monitors are better than one.
 -  [North Bayou VESA Mount](https://www.amazon.com/gp/product/B01FRWONKI/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
-- [Twelve South 12-1223/B HiRise for iMac - Height-adjustable stand with storage for iMac and Apple Displays](https://www.amazon.com/gp/product/B009HPGD2I/ref=oh_aui_detailpage_o00_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [Anker Qi Wireless Charger](https://www.amazon.com/gp/product/B0756Z8X82/ref=oh_aui_detailpage_o00_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
--  [Lamicall iPad Stand](https://www.amazon.com/gp/product/B071K5SPKN/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [Logitech MX Master Wireless Mouse](https://www.amazon.com/gp/product/B00TZR3WRM/ref=oh_aui_detailpage_o05_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
-	- *The best mouse I have ever used* is an understatement.
+	- *The best mouse I have ever used* is an understatement. Upgrading to the MX Master 3 once *it's in stock*.
 - [Aenfor aluminum gaming mousepad](https://www.amazon.com/gp/product/B074L6Z5P3/ref=oh_aui_detailpage_o05_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 -  [M-Audio M-Track C-Series USB Audio Interface](https://www.amazon.com/gp/product/B01FFH5XMC/ref=oh_aui_detailpage_o04_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- This will drive a lot of audio…as well as record from an XLR mic which I have. Said I was cooking things up.
@@ -67,13 +65,9 @@ Let’s start with my gear.
 -  [Choetech Wireless Charging Stand](https://www.amazon.com/gp/product/B010B6PSMC/ref=oh_aui_detailpage_o05_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 -  [FORSÅ Work Lamp from IKEA](http://www.ikea.com/us/en/catalog/products/70321427/)
 -  [Amazon Echo Dot 3rd Gen](https://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-Black/dp/B01DFKC2SO/ref=sr_1_1_sspa?sr=8-1-spons&ie=UTF8&tag=thatmacnerd-20&keywords=Amazon%2BEcho%2BDots%2B%25282nd%2BGen&psc=1&qid=1519870529)
-	- I got this as a companion to my Echo 1st Gen which you can find below. I wanted one for my room so I got the cheapest Echo I could find.
-	- [Amazon Echo 1st Gen](http://www.amazon.com/dp/product/B076PSZL29/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=thatmacnerd-20)
 - [LIFX Z Wi-Fi Smart LED Strip Starter Kit](https://www.amazon.com/gp/product/B073168F4Y/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- Yeah. I am on the bandwagon. I am a programmer and I want my desk to feel like a rocket ship. Sue me.
 - [LIFX A19 Wi-fi Smart LED Bulbs](https://www.amazon.com/gp/product/B01KY02MS8/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
-- [TP-Link Smart Plug No Hub Required](https://www.amazon.com/gp/product/B0178IC734/ref=oh_aui_detailpage_o01_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
-	- For all lights that aren't smart, *now they can be*. Win.
 - [Anchor Pro by ElevationLab](https://www.elevationlab.com/products/the-anchor-pro)
   - Great under the desk, hide your cables, headphone rack.
 - [IKEA Holmo 46" Floor Lamps](https://www.amazon.com/gp/product/B0070PBVWO/ref=ox_sc_sfl_title_2?smid=A22ARMH4S21UOS&tag=thatmacnerd-20&psc=1&ie=UTF8)
@@ -87,7 +81,6 @@ Let’s start with my gear.
 	- It does everything I need it to do. Atom was nice and had a lot of features but goddamn it’s hella slow. So I went back to VS Code [^2] and couldn’t be happier.
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 	- I will never use a terminal without this installed.
-- [Sketch](https://www.sketchapp.com/) for UI design
 - [Boom 3D](http://www.globaldelight.com/boom3d/index.php)
 	- This makes everything sound *amazing*.
 - Xcode
@@ -97,13 +90,8 @@ Let’s start with my gear.
 - [Alfred](https://www.alfredapp.com/)
 	- Workflows make this my favorite app. I can’t live without it. You can find my workflows [here](https://cl.ly/1W2N1P1z213i/Alfred_workflows.jpg). I have way too many, I admit.
 - Text Expander
-- [Lightroom CC](https://www.adobe.com/products/photoshop-lightroom.html)
-	- For basic edits. Yeah, I bit on the Adobe train but only the photography bundle with 1TB of storage.
-- [Lightroom Classic CC](https://www.adobe.com/products/photoshop-lightroom-classic.html)
-  - For all my editing needs. It is what I started using years ago. Muscle memory, and all that.
-- Amphetamine to keep my Mac awake
-- [Shell Runner](https://itunes.apple.com/us/app/shell-runner/id689441182?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS)
-	- To test shell scripts
+- [Adobe CC, All Apps](https://www.adobe.com/creativecloud/plans.html)
+  - Dipping my toe into YouTube, and hopefully having a co-host for the [Good First Issue Podcast](https://goodfirstissue.org/) means I need a pro suite of tools.
 - [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is my choice for window snapping.
 - [Quiver](https://itunes.apple.com/us/app/quiver-the-programmers-notebook/id866773894?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is a programmers notebook to take notes with syntax highlighting and markdown support. Supports many languages [^3].
 - [Tweetbot 2](https://itunes.apple.com/us/app/tweetbot-2-for-twitter/id557168941?mt=12)
