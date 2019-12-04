@@ -98,6 +98,7 @@ To get an example of this, check out this pen I forked below:
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 
+
 ## Why This Matters
 
 The way React handles state and state changes makes it really fast. You'll need to be careful to adhere to its heuristics and conventions or else performance will degrade. With that said, it is pretty easy to build a performant app in React.
@@ -105,9 +106,3 @@ The way React handles state and state changes makes it really fast. You'll need 
 ## Wrapping Things Up
 
 There are a few things I didn't go over in this article but I suggest you read the [React docs on reconciliation](https://reactjs.org/docs/reconciliation.html).
-
----
-
-If you like the blog, you'll *love* the newsletter: little letters *to you*.
-
-<iframe scrolling="no" style="width:100%!important;height:220px;border:1px #ccc solid !important" src="https://buttondown.email/tiffanywhite?as_embed=true"></iframe>
