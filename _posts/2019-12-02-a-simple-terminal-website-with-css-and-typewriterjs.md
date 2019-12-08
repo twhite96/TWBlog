@@ -59,7 +59,7 @@ Here we have a nav that will have the core links underlined. Then, we give the m
 
 The second `div` is where the cool stuff happens.
 
-I am using a library for the typewriter effect called, obviously, [typerwriterjs](https://github.com/tameemsafi/typewriterjs). In order to type everything we need out to the "console", we need an empty `div` we can target with enough space to type what we need. We can do that with an `id` of `app`. Then I added a class of `container` to center the content and then make it expand once we add content to the `div`. Then the footer is just an svg of the GitHub logo and a copyright.
+I am using a library for the typewriter effect called, obviously, [typerwriterjs](https://github.com/tameemsafi/typewriterjs). In order to type everything we need out to the "console", we need an empty `div` we can target with enough space to type what we need. We can do that with an `id` of `app`. Then I added a class of `container` to center the content and then make it responsive once we add content to the `div`. Then the footer is just an svg of the GitHub logo and a copyright.
 
 ## The CSS
 
