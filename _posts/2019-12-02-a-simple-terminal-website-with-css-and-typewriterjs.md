@@ -133,7 +133,7 @@ We want to give the links that 1980s terminal green. We also want to give the bo
 
 ![](https://cl.ly/f14a67bf9314/Screen%252520Recording%2525202019-12-08%252520at%25252003.30%252520PM.gif)
 
-Using the `transform-origin` property allows us to specify where to start the transition, in this case, the bottom right of the link in the nav.
+Using the `transform-origin` property allows us to specify where to start and end the transition, in this case, the bottom right of the link in the nav.
 
 We give the cursor some love with the `animation` property and keyframes to give it a fade in and out look as it is blinking.
 
@@ -196,7 +196,6 @@ To get the typing started, we can do something like this:
 typewriter
   .deleteAll(1)
   .pauseFor(50)
-  // .typeString('My name is Tiffany, and I am a frontend dev and wannabe hacker.')
   .deleteAll(1)
   .typeString('I work for <strong>[REDACTED]</strong> as a frontend dev, and I code, write, and shoot and edit videos on weekends.')
   .pauseFor(300)
@@ -209,7 +208,7 @@ typewriter
 
 We delete all the initial strings using the `deleteAll` method which takes a number in `ms` for how long the delete animation should last. Then we can use the `pauseFor` method to pause for a specified time in `ms`.
 
-The `typeString` method allows us to type whatever we want. Each method takes one string that can also contain HTML. This means in order to do what I wanted, I needed to create several `typeString` methods to create a list of links I wanted to show on different lines. It's a unfortunate limitation but with everything else you get in the library, it is not a deal breaker.
+The `typeString` method allows us to type whatever we want. Each method takes one string that can also contain HTML. This means in order to do what I wanted, I needed to create several `typeString` methods to create a list of links I wanted to show on different lines. It's an unfortunate limitation but with everything else you get in the library, it is not a deal breaker.
 
 Check out [all the methods](https://github.com/tameemsafi/typewriterjs#options) that come with the library to see what you can do with it.
 
