@@ -4,7 +4,7 @@ description: "Your friend Tiffany's tiny little weblog."
 meta_description: "Your friend Tiffany's tiny little weblog."
 logo: 'assets/images/logo-2.png'
 favicon: 'assets/images/favicon.ico'
-baseurl:
+baseurl: ''
 production_url: https://tiffanywhite.dev
 # disqus: 'justgoodthemes'
 mailchimp_url: 'https://buttondown.email/api/emails/embed-subscribe/tiffanywhite'
