@@ -95,7 +95,7 @@ navigation:
     url: /contact/
 
 # Required Plugins
-plugins_dir:
+plugins:
   - jekyll-paginate
   - jekyll-tagsgenerator
   - jekyll-seo-tag
@@ -115,3 +115,6 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
+
+components:
+  output: false

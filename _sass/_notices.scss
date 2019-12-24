@@ -1,0 +1,107 @@
+/* ==========================================================================
+   NOTICE TEXT BLOCKS
+   ========================================================================== */
+
+.notice {
+  position: relative;
+  min-height: 1em;
+  @include margin-top(1);
+  @include margin-bottom(1);
+  padding: 1em 1.5em 1.5em;
+  border: 2px solid;
+  box-shadow: 0.25em 0.25em 0 #000;
+
+  &.info {
+    color: $info-color;
+    box-shadow: 0.25em 0.25em 0 $info-color;
+  }
+
+  &.warning {
+    color: $warning-color;
+    box-shadow: 0.25em 0.25em 0 $warning-color;
+  }
+
+  &.danger {
+    color: $danger-color;
+    box-shadow: 0.25em 0.25em 0 $danger-color;
+  }
+
+  &.success {
+    color: $success-color;
+    box-shadow: 0.25em 0.25em 0 $success-color;
+  }
+}
+
+.notice > {
+  h2, h3, h4, h5, h6 {
+    display: block;
+    margin-bottom: 1.25em;
+    padding-bottom: 0.25em;
+    border-bottom: 2px solid;
+    font-family: $monospace-font;
+    font-size: ms(0);
+  }
+}
+
+.notice:first-child {
+  margin-top: 0;
+}
+
+.notice:last-child {
+  margin-bottom: 0;
+}
+
+.notice p {
+  margin: 0.75em 0;
+}
+
+.notice p:first-child {
+  margin-top: 0;
+}
+
+.notice p:last-child {
+  margin-bottom: 0;
+}
+
+.notice ul {
+  text-align: left;
+  padding: 0;
+  opacity: 0.85;
+  list-style-position: inside;
+  margin: 0.5em 0 0;
+}
+
+.notice ul:first-child {
+  margin-top: 0;
+}
+
+.notice ul:last-child {
+  margin-bottom: 0;
+}
+
+.notice ul li {
+  position: relative;
+  list-style-type: none;
+  margin: 0 0 0.3em 1em;
+  padding: 0;
+}
+
+.notice ul li::before {
+  position: absolute;
+  content: "•";
+  left: -1em;
+  height: 100%;
+  vertical-align: baseline;
+}
+
+.notice ul li:last-child {
+  margin-bottom: 0;
+}
+
+.notice > :first-child {
+  margin-top: 0;
+}
+
+.notice > :last-child {
+  margin-bottom: 0;
+}
