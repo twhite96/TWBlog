@@ -2,13 +2,22 @@
  * 2. General
  * ----------------------------------------------------------------------------
  */
+
+/* Darken */
+
+:root {
+  --primary-color: #ffffff;
+  --secondary-color: #24292e;
+  --brand-color: #06d7d9;
+}
+
 html {
     font-family: $font-primary;
     font-size: 112.5%;
 }
 
 body {
-    background: #fff;
+    background-color: var(--primary-color);
     color: $gray-dark;
     line-height: 1.66667;
     font-size: 1.4rem;
@@ -146,52 +155,64 @@ pre code {
     padding: 0;
 }
 
+// blockquote {
+//     color: $gray-darkest;
+//     font-size:1.88889rem;
+//     line-height: 1.25;
+//     margin: 0 0 0.88235em;
+//     position: relative;
+//     text-align: center;
+// }
+
+// blockquote:before,
+// blockquote:after {
+//     background-color: $color-accent;
+//     content: "";
+//     display: block;
+//     height: 3px;
+//     margin-left: auto;
+//     margin-right: auto;
+// }
+
+// blockquote:before {
+//     margin-bottom: 30px;
+//     width: 60px;
+// }
+
+// blockquote:after {
+//     margin-top: 40px;
+//     width: 30px;
+// }
+
+// blockquote p {
+//     margin-bottom: 0.44117em;
+// }
+
+// blockquote p:last-child {
+//     margin-bottom: 0;
+// }
+
+// blockquote small,
+// blockquote cite {
+//     display: block;
+//     font-size: 0.47058em;
+//     font-style: normal;
+//     font-weight: normal;
+//     letter-spacing: 3px;
+//     margin-top: 1.25em;
+//     text-transform: uppercase;
+// }
+
 blockquote {
-    color: $gray-darkest;
-    font-size:1.88889rem;
-    line-height: 1.25;
-    margin: 0 0 0.88235em;
-    position: relative;
-    text-align: center;
-}
-
-blockquote:before,
-blockquote:after {
-    background-color: $color-accent;
-    content: "";
-    display: block;
-    height: 3px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-blockquote:before {
-    margin-bottom: 30px;
-    width: 60px;
-}
-
-blockquote:after {
-    margin-top: 40px;
-    width: 30px;
-}
-
-blockquote p {
-    margin-bottom: 0.44117em;
-}
-
-blockquote p:last-child {
-    margin-bottom: 0;
-}
-
-blockquote small,
-blockquote cite {
-    display: block;
-    font-size: 0.47058em;
-    font-style: normal;
-    font-weight: normal;
-    letter-spacing: 3px;
-    margin-top: 1.25em;
-    text-transform: uppercase;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  max-width: 1080px;
+  padding-left: .5em;
+  position: relative;
+  border-left: 5px solid #06d7d9;
+  font-family: $font-primary;
+  font-size: 1.3rem;
+  font-style: italic;
 }
 
 dl {
@@ -871,6 +892,6 @@ input {
 }
 
 .read-time::before {
-    content: "🕐";
+    content: "~";
     padding: 0 0.5em;
 }

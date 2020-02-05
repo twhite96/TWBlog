@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/twhite96/TWBlog#readme",
   "dependencies": {
+    "darken": "^1.1.0",
     "date-fns": "^2.9.0",
     "slug": "^2.1.0",
     "slugify": "^1.3.6"

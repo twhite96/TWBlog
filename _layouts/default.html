@@ -45,6 +45,8 @@
     <script defer src="{{ site.baseurl }}/assets/js/plugins.js"></script>
     <script defer src="{{ site.baseurl }}/assets/js/custom.js"></script>
 
+
+
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -66,10 +68,10 @@
             </section><!-- .hero -->
         </div><!-- .hero-wrap -->
 
+        <!-- <button id="darkmode-button">Toggle dark mode</button> -->
         {% else %}
         {% include header.html %}
         {% endif %}
-
         {{ content }}
 
         {% if paginator.total_posts > site.paginate %}
@@ -103,6 +105,23 @@
     {% include sidebar.html %}
     {% include analytics.html %}
     <!-- Javascript Assets -->
+        <!--Dark Mode-->
+        <!-- <script src="https://unpkg.com/darken"></script> -->
+        <!-- <script>
+            const darkmode = new darken({
+              toggle: "#darkmode-button",
+              default: "light",
+              class: "darken",
+              container: "body",
+              remember: "darken-mode",
+              variables: {
+                  "--primary-color": ["#ffffff", "#24292e"],
+                  "--secondary-color": ["#24292e", "#ffffff"],
+              }
+            });
+            darkmode.toggle();
+        </script> -->
+        <!-- <script>console.log(darken());</script> -->
 
 </body>
 
