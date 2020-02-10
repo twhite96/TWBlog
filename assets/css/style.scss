@@ -141,6 +141,7 @@
 
 .site-header .menu-item {
   display: inline-block;
+  font-family: $font-secondary;
   font-size: 1rem;
   line-height: 1.5;
   margin: 0 25px 0 0;
@@ -207,6 +208,7 @@
 .post-share {
   font-size: 0.77778rem;
   line-height: 1.5;
+  font-family: $font-secondary !important;
 }
 
 .post-tags a {
@@ -235,6 +237,7 @@
   margin: 1.66667em 0 3.33333em;
   padding: 1.66667em 30px;
   text-align: center;
+  font-family: $font-secondary !important;
 }
 
 .author-avatar {
@@ -250,13 +253,15 @@
   width: 70px;
 }
 
-.author-title {
+author-title {
   font-size: 1.3rem;
   margin: 0 0 0.55556em;
+  font-family: $font-secondary !important;
 }
 
 .author-description {
   font-size: 21px;
+  font-family: $font-secondary !important;
   margin: 0.71428em 0;
 }
 
@@ -380,6 +385,7 @@
 
 .read-next .post-tags {
   margin: 1.07142em 0 0;
+  font-family: $font-secondary;
 }
 
 .read-next .post-thumbnail {
@@ -446,6 +452,7 @@
   padding-top: 3.33333em;
   position: relative;
   text-align: center;
+  font-family: $font-secondary !important;
 }
 
 .hero-avatar {
@@ -464,6 +471,7 @@
 .hero-title {
   font-size: 2.22222rem;
   margin: 0 0 0.75em;
+  font-family: $font-secondary !important;
 }
 
 .hero .social-links a {
@@ -1025,6 +1033,7 @@
   .newsletter-box-title {
     font-size: 1.875rem;
   }
+
 
   h2 {
     font-size: 1.5rem;

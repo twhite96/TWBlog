@@ -44,6 +44,7 @@ h6 {
     font-weight: bold;
     line-height: 1.2;
     text-rendering: optimizeLegibility;
+    font-family: $font-secondary !important;
 }
 
 h1 {
@@ -886,7 +887,7 @@ input {
 }
 
 .read-time {
-    font-family: 'Lato' sans-serif;
+    font-family: 'PT Serif' serif;
     // font-style: bold;
     white-space: nowrap;
 }
