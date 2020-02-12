@@ -294,6 +294,7 @@ textarea {
     max-width: 100%;
     padding: 8px 10px;
     vertical-align: baseline;
+    font-family: $font-secondary;
 }
 
 input[type="text"],
@@ -333,6 +334,7 @@ a.button {
     padding: 10px 30px;
     -webkit-transition: .3s;
     transition: .3s;
+    font-family: $font-secondary;
 }
 
 button:hover,
@@ -847,6 +849,7 @@ pre[class*="language-"] {
 .form-label {
     display: block;
     font-size: 1rem;
+    font-family: $font-secondary;
     margin-bottom: 0.55556em;
     span {
         color: $gray;

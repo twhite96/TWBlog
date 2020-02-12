@@ -185,6 +185,7 @@
   line-height: 1.5;
   margin-bottom: 1.42857em;
   text-transform: uppercase;
+  font-family: $font-secondary;
 }
 
 .featured-badge {
@@ -296,6 +297,7 @@ author-title {
   margin-bottom: 2.14285em;
   margin-top: 0;
   text-transform: uppercase;
+  font-family: $font-secondary;
 }
 
 .post-feed-title:after {
@@ -349,6 +351,7 @@ author-title {
   letter-spacing: 2px;
   margin: 0 0 2.14285em;
   text-transform: uppercase;
+  font-family: $font-secondary;
 }
 
 .read-next-title:after {
@@ -581,6 +584,7 @@ author-title {
   line-height: 1.5;
   letter-spacing: 2px;
   text-transform: uppercase;
+  font-family: $font-secondary;
 }
 
 .newer-posts,
@@ -834,6 +838,7 @@ author-title {
   line-height: 1.5;
   margin: 0;
   text-align: center;
+  font-family: $font-secondary;
   text-transform: uppercase;
 }
 
@@ -1099,6 +1104,7 @@ author-title {
 
   .contact-form {
     padding: 20px 15px;
+    font-family: $font-secondary;
   }
 
 }
