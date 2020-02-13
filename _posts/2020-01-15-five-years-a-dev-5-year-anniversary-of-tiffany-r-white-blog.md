@@ -5,7 +5,7 @@ tags: [anniversary, 5 years, code newbie in pittsburgh]
 featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1579404231/twblog-anniversary_plw2mj.jpg
 ---
 
-*It's been five years since I started this humble blog on the web*.
+> It's been five years since I started this humble blog on the web.
 
 In that time, I [started university](https://tiffanywhite.dev/2015/05/02/i-am-now-a-pitt-panther/) as an old head, [quit university](https://tiffanywhite.dev/2016/02/17/fear-loathing-anxiety-pittsburgh/) and [went back](https://tiffanywhite.dev/2016/05/08/pitt/).
 
