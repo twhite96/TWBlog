@@ -9,7 +9,7 @@
 
 <span class="read-time">
   {%- if words < words_per_minute -%}
-    ~1 {{ min_read }}
+    1 {{ min_read }}
   {%- else -%}
     {{ words | divided_by:words_per_minute }} {{ min_read }}
   {%- endif -%}
