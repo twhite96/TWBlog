@@ -47,7 +47,12 @@
     <script defer src="{{ site.baseurl }}/assets/js/plugins.js"></script>
     <script defer src="{{ site.baseurl }}/assets/js/custom.js"></script>
 
-
+    {%- if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' -%}
+      {%- comment -%}
+        Add Atom feed link if jekyll-feed plugin is enabled
+      {%- endcomment -%}
+      {% include head-feed.html %}
+    {%- endif -%}
 
 </head>
 
