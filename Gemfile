@@ -11,5 +11,6 @@ group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-pwa-plugin'
   gem 'jekyll-webmention_io'
+  gem 'jekyll-feed'
 end
 
