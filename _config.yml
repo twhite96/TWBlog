@@ -38,7 +38,7 @@ instagram: 'tiffanywhitedev'
 linkedin: 'tiffanyrwhite'
 # producthunt: '@username'
 # codesandbox: 'twhite96'
-rss: '/atom.xml'
+rss: '/feed.xml'
 
 # Jekyll PWA
 pwa:
