@@ -121,4 +121,4 @@ components:
   output: false
 
 feed:
-  path: /feed.xml
+  path: atom.xml
