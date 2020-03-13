@@ -123,3 +123,4 @@ components:
 
 feed:
   path: atom.xml
+  url: https://tiffanywhite.dev
