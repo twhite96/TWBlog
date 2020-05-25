@@ -28,7 +28,8 @@
 "variables",
 "icons",
 "reset",
-"general"
+"general",
+"notices"
 ;
 
 
@@ -83,6 +84,11 @@
 
 .site-header a:hover {
   color: $color-accent;
+}
+
+.site-header a:focus {
+  background-color: rgba(255,105,180, .7);
+    color: #fff;
 }
 
 .site-header-inside {
@@ -174,6 +180,11 @@
   margin: 0 0 0.75em;
 }
 
+.post-title a:focus {
+  background-color: rgba(255,105,180, .7);
+  color: #fff;
+}
+
 .post-title a {
   color: inherit;
 }
@@ -210,6 +221,7 @@
   font-size: 0.77778rem;
   line-height: 1.5;
   font-family: $font-secondary !important;
+  margin-top: 3rem !important;
 }
 
 .post-tags a {

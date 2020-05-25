@@ -16,8 +16,8 @@ I'm *finally* doing big girl work at a company so I was able to upgrade everythi
 
 Let’s start with my gear.
 
-- [27” iMac, Retina 5K, late 2015](https://www.bhphotovideo.com/c/product/1190385-REG/apple_mk462ll_a_27_imac_with_retina.html)
-	- Bought this in 2017, two years after its release. It's almost 5 years old. Time to upgrade.
+- [Mac mini - Apple](https://www.apple.com/mac-mini/)
+	- My old iMac's hard disk, a Fusion Drive, was failing because [APFS isn't good on spinning drives](https://blog.macsales.com/43043-using-apfs-on-hdds-and-why-you-might-not-want-to/). The CPU constantly ran high and I couldn't get my work done. I got my old MacBook Pro back from a friend, a 2013 13" but that was much slower than the Fusion Drive 2015 iMac. This thing is a *dream* compared to those two machines.
 - [iPhone XS Max 256gb, Gold](https://www.t-mobile.com/cell-phone/apple-iphone-8-plus?color=spacegray&memory=256gb) [^1]
 - [iPad Pro 12.9” late 2018 256 gb](https://www.bhphotovideo.com/c/product/1441845-REG/apple_mtfn2ll_a_12_9_ipad_pro_late.html)
   - This thing is a *beast*. Fast, and the industrial design is my *favorite* of Apple's iPads to date.
@@ -25,7 +25,6 @@ Let’s start with my gear.
 	- Decent but fragile as hell.
 - [Apple Pencil](https://www.bhphotovideo.com/c/product/1441874-REG/apple_mu8f2am_a_apple_pencil_2nd_generation.html)
 	- Still trying to figure out a use for it. I use it for editing videos and podcasts currently.
-- [DAS Keyboard 4 Professional for Mac Clicky MX  Blue Mechanical Switches](https://www.amazon.com/gp/product/B00TU7UA7W/ref=oh_aui_detailpage_o01_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
 - [WASD Custom Keys Mechanical Keyboard, Mac layout, MX Cherry Blue](https://www.wasdkeyboards.com/wasd-v3-87-key-custom-mechanical-keyboard.html?wasd_customizer_id=1ea3e45f691d80ec3f30739ce3eb5b7b773da6539543b3c4de2b85e1503a4829)
 	- Got my "brand" colors. Next is a Keychron, RGB backlighting...*Down the rabbit hole I go...*
 -  [Audio-Technica ATH-MSR7BK SonicPro Over-Ear High Res Headphones](https://www.amazon.com/gp/product/B00PEU9CFA/ref=oh_aui_detailpage_o06_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
@@ -36,19 +35,13 @@ Let’s start with my gear.
   - I bought this chair open box from Madison Seating because...well...[check out the retail price](https://store.steelcase.com/seating/office-chairs/leap)...
 - [Heil PR 40 mic kit](https://www.amazon.com/gp/product/B00U1SG5SW/ref=oh_aui_detailpage_o07_s02?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- I've got a rig setup where I will use this more often than I had.
-- [AirPods](https://www.apple.com/airpods/)
-- [15.4" MacBook Pro with Touch Bar](https://www.bhphotovideo.com/c/product/1480941-REG/apple_mv902ll_a_15_4_macbook_pro_with.html/?ap=y&ap=y&smp=y&smp=y&lsft=BI%3A514&gclid=Cj0KCQiA5dPuBRCrARIsAJL7oeifV4BJ1yP17DvqGQlwHSXwtGoHEp-k87144kruD8wUgxfCQqgs3IsaAig3EALw_wcB)
-  - Work machine
-- [Acer 25-Inch WQHD (2560 x 1440) Widescreen Monitor](https://www.amazon.com/gp/product/B00QS0AKVK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-  - Placeholder monitor until I buy a second LG 4k monitor and arm
+- [AirPods Pro](https://www.apple.com/airpods-pro/)
 - [IKEA LINNMON/ALEX Desk](http://www.ikea.com/us/en/catalog/products/S99932696/)
 	- Every programmer needs a good desk. This one is relatively inexpensive.
 - [Tabletop Bulb Base](https://www.amazon.com/gp/product/B07CBTKRXW/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
   - Cute lamp that sits on my KALLAX bookshelf with a LIFX bulb in it.
-- [Knodel Desk Pad](https://www.amazon.com/gp/product/B07D6559YM/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1)
-- [Insten Premium Leather Mouse Pad](https://www.amazon.com/gp/product/B01E9V515O/ref=ppx_yo_dt_b_asin_title_o05_s01?ie=UTF8&psc=1)
-- [HomePod, White](https://www.apple.com/shop/buy-homepod/homepod/white)
-  - Sold my Edifier speakers reluctantly as I really had no place and no use for them 😥.
+- [HomePods, White](https://www.apple.com/shop/buy-homepod/homepod/white)
+  - Sold my Edifier speakers reluctantly as I really had no place and no use for them 😥. **UPDATE**: I bought another HomePod because of Best Buy's ridiculous sale for $199 to make a stereo pair and damn. I can only turn the volume up to about 3 because it is so loud and just...awesome.
 - [KALLAX Shelf unit - black, white - IKEA](https://www.ikea.com/us/en/p/kallax-shelf-unit-black-white-70346927/)
 - [LG 4K Monitor](https://www.amazon.com/gp/product/B01LPNKFK0/ref=oh_aui_detailpage_o02_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- Three monitors are better than one.
@@ -57,8 +50,8 @@ Let’s start with my gear.
 	- *The best mouse I have ever used* is an understatement. Better than the original *in every way*.
 -  [M-Audio M-Track C-Series USB Audio Interface](https://www.amazon.com/gp/product/B01FFH5XMC/ref=oh_aui_detailpage_o04_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
 	- This will drive a lot of audio…as well as record from an XLR mic which I have. Said I was cooking things up.
-- [MAKETECH Swivel Under-the-Desk USB 3.0 Hub](https://www.amazon.com/gp/product/B01LWIIAOR/ref=oh_aui_detailpage_o05_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
-- [Choetech Wireless Charging Stand](https://www.amazon.com/gp/product/B010B6PSMC/ref=oh_aui_detailpage_o05_s01?psc=1&tag=thatmacnerd-20&ie=UTF8)
+- [Material Dock by Studio Neat](https://www.studioneat.com/products/dock)
+  - This is the Qi, Lightining, and Apple Watch one. Looks really nice.
 - [FORSÅ Work Lamp from IKEA](http://www.ikea.com/us/en/catalog/products/70321427/)
 - [Amazon Echo Dot 3rd Gen](https://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-Black/dp/B01DFKC2SO/ref=sr_1_1_sspa?sr=8-1-spons&ie=UTF8&tag=thatmacnerd-20&keywords=Amazon%2BEcho%2BDots%2B%25282nd%2BGen&psc=1&qid=1519870529)
 - [LIFX Z Wi-Fi Smart LED Strip Starter Kit](https://www.amazon.com/gp/product/B073168F4Y/ref=oh_aui_detailpage_o02_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
@@ -70,6 +63,10 @@ Let’s start with my gear.
 	- Where else am I going to put the LIFX Bulbs?
 - [Logitech C920S Pro HD Webcam with Privacy Shutter](https://www.amazon.com/gp/product/B07K95WFWM/ref=ppx_yo_dt_b_asin_title_o01_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
   - As I do more webinars, Egghead videos, and yes, soon, streaming, I need a good webcam. I have a [Streaming Amazon List](https://www.amazon.com/hz/wishlist/ls/WYX3PZGSUJWN?tag=thatmacnerd-20&sort=default) that I'll be adding to my arsenal in the next couple months.
+- [Asus 28" 4K UHD LED LCD Monitor](https://www.bhphotovideo.com/c/product/1232411-REG/asus_mg28uq_28_16_9_freesync.html)
+  - Getting rid of the low res monitor.
+- [EVEO Premium Monitor Arm Desk Mount](https://www.amazon.com/gp/product/B07V1W5C7Z/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1)
+  - For the new monitor.
 
 ## Software
 
@@ -103,8 +100,8 @@ Let’s start with my gear.
 - [Sip for Mac](https://sipapp.io/) for a color picker
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
   - As I get into making egghead lessons and more screencasts for tiffany.blog, I need a heavy duty piece of software to do so. Screenflow fits the bill.
-- [Open Broadcaster Software](https://obsproject.com/welcome)
-  - Going to stream at Twitch soon enough. This is the gold standard but their Mac app is terribly behind the Windows app.
+- [StreamLabs OBS Software for Mac](https://streamlabs.com/)
+  - Best OBS client on the Mac.
 - [CloudApp](https://www.getcloudapp.com/)
   - This is how I share bugs and other things with devs and dev teams. Also an easy way to make a gif of a feature or bug on my Mac.
 - [Setapp](https://setapp.com/)

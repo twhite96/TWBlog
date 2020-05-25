@@ -1,6 +1,7 @@
 // Fonts
 $font-primary: 'Merriweather', serif;
 $font-secondary: 'Lato', sans-serif;
+$monospace-font: 'Fira Code', monospace;
 
 // Colors
 $color-accent: #06d7d9;
@@ -12,8 +13,8 @@ $gray-lighter: #e5e7e9;
 $gray-lightest: #f9f9fb;
 $yellow: #fffac4;
 
-$primary-color: #1c76d6;
-$success-color: #1a882e;
-$warning-color: #92710c;
-$danger-color: #b11313;
-$info-color: #1c7cd6;
+$primary-color: #920358 !default;
+$success-color: #62c462 !default;
+$warning-color: #f5cf3e !default;
+$danger-color: #e60023 !default;
+$info-color: #4bc3d5 !default;

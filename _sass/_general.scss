@@ -30,8 +30,16 @@ a {
     transition: color .3s ease;
 }
 
-a:hover {
-    color: $gray-darkest;
+// a:hover {
+//     background-color: rgba(255,105,180, .7);
+//     color: #fff;
+//     transition: background-color, top;
+//     transition-timing-function: ease;
+// }
+
+a:focus {
+    background-color: rgba(255,105,180, .7);
+    color: #fff;
 }
 
 h1,
