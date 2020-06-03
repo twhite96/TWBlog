@@ -5,6 +5,18 @@
         <span class="screen-reader-text">Twitter</span>
     </a>
     {% endif %}
+    {% if site.youtube %}
+    <a href="https://youtube.com/{{ site.youtube }}" target="_blank">
+        <span class="fa-youtube fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">YouTube</span>
+    </a>
+    {% endif %}
+    <!-- {% if site.twitch %}
+    <a href="https://twitch.tv/{{ site.twitch }}" target="_blank">
+        <span class="fa-twitch fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Twitch</span>
+    </a> -->
+    {% endif %}
     {% if site.facebook %}
     <a href="https://www.facebook.com/{{ site.facebook }}" target="_blank">
         <span class="fa-facebook-f fa" aria-hidden="true"></span>

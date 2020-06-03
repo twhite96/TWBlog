@@ -1,7 +1,7 @@
 ---
 title: /Uses
 layout: page
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1579053981/edited-desk-setups-2019-12-20-20191220-ttt-nanoleaf-reddit-macsetups_-_1_mtadsv.jpg
+featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1591128562/new-office_nib11t.jpg
 ---
 
 Seems that a lot of developers are creating these `/uses` pages after discovering [Wes Bos’s](https://twitter.com/wesbos) [/uses page](http://wesbos.com/uses).
@@ -86,17 +86,12 @@ Let’s start with my gear.
 - [Adobe CC, All Apps](https://www.adobe.com/creativecloud/plans.html)
   - Dipping my toe into YouTube, and hopefully having a co-host for the [Good First Issue Podcast](https://goodfirstissue.org/) means I need a pro suite of tools.
 - [BetterSnapTool](https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is my choice for window snapping.
-- [Quiver](https://itunes.apple.com/us/app/quiver-the-programmers-notebook/id866773894?mt=12&at=+1001lnT5&ct=That+Mac+Nerd+iOS) is a programmers notebook to take notes with syntax highlighting and markdown support. Supports many languages [^3].
-- [Tweetbot 2](https://itunes.apple.com/us/app/tweetbot-2-for-twitter/id557168941?mt=12)
-  - The 3rd iteration hogs CPU and memory. If it was more efficient I'd use it; the ability to add gifs right in the app is killer. But it freezes constantly. So I use v2.
-- [Station](https://getstation.com/).
-  - This is a chat aggregator that is *like Franz on steroids* and *free*. Honestly don't know why it's free but I know the hammer will come down on it, as it always does with SaaS companies.
-- [Things 3](https://culturedcode.com/things/) for tasks.[^4]
-- [Notion](https://www.notion.so) for Project management.[^5]
+- [Things 3](https://culturedcode.com/things/) for tasks.[^3]
+- [Notion](https://www.notion.so) for Project management.[^4]
 - [Evernote](https://evernote.com/)
   - Nothing beats it for note-taking and archiving.
 - [Fantastical 2](https://flexibits.com/fantastical) for scheduling
-- [Dash 4](https://kapeli.com/dash). [^6]
+- [Dash 4](https://kapeli.com/dash). [^5]
 - [Sip for Mac](https://sipapp.io/) for a color picker
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
   - As I get into making egghead lessons and more screencasts for tiffany.blog, I need a heavy duty piece of software to do so. Screenflow fits the bill.
@@ -113,11 +108,11 @@ But I use ALL OF IT.
 
 So this is my setup and what I am currently using. You can show me your dev setup on [Twitter](https://twitter.com/tiffanywhitedev).
 
+![](https://res.cloudinary.com/twhiteblog/image/upload/v1591128658/new-office-front_euwufh.jpg)
 
 [^1]: Got the gold and this will be my last iPhone for a while. No need to upgrade yearly as these phones are more than capable of lasting a couple years.
 [^2]: I did have Ulysses installed. They even featured me on [their blog](https://ulyssesapp.com/blog/2018/04/tiffany-r-white/). I mainly used it to post to WordPress and since I am on Gatsby and Jekyll for everything now I don't need the subscription. I feel really bad. But now I use VSCode for this and a couple scripts to post here and my other blogs.
-[^3]: Even brainfuck!
-[^4]: This is the only task manager that I actually look at and use. It is *that* beautiful, simple, and it has impressed me far more than any task manager in recent memory.
-[^5]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/44d974d179b2/Screenshot-2020-01-15_09-08-14_PM-1-1.png).
-[^6]: Offline docs ftw! Plus much more.
+[^3]: This is the only task manager that I actually look at and use. It is *that* beautiful, simple, and it has impressed me far more than any task manager in recent memory.
+[^4]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](https://cl.ly/44d974d179b2/Screenshot-2020-01-15_09-08-14_PM-1-1.png).
+[^5]: Offline docs ftw! Plus much more.
 
