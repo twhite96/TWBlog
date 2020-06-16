@@ -65,6 +65,12 @@
         <span class="screen-reader-text">Linkedin</span>
     </a>
     {% endif %}
+    {% if site.stackoverflow %}
+    <a href="https://stackoverflow.com/story/{{ site.stackoverflow }}" target="_blank">
+        <span class="fa-stack-overflow fa" aria-hidden="true"></span>
+        <span class="screen-reader-text">Stack Overflow</span>
+    </a>
+    {% endif %}
     {% if site.rss %}
     <a href="/feed.xml">
         <span class="fa-rss fa""></span>
