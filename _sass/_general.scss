@@ -24,8 +24,8 @@ body {
 }
 
 a {
-    color: $color-accent;
-    text-decoration: none;
+    color: $gray-darkest;
+    text-decoration: underline;
     -webkit-transition: color .3s ease;
     transition: color .3s ease;
 }
@@ -37,10 +37,10 @@ a {
 //     transition-timing-function: ease;
 // }
 
-a:focus {
-    background-color: rgba(255,105,180, .7);
-    color: #fff;
-}
+// a:focus {
+//     background-color: rgba(255,105,180, .7);
+//     color: #fff;
+// }
 
 h1,
 h2,
@@ -63,11 +63,15 @@ h1 {
 h2 {
     font-size: 2rem;
     margin: 0.83333em 0 0.41667em;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+    display: inline;
 }
 
 h3 {
     font-size: 1.66667rem;
     margin: 1em 0 0.5em;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+    display: inline;
 }
 
 h4 {
@@ -910,4 +914,24 @@ input {
 
 .fuck-you {
     display: none;
+}
+
+h1.highlight {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+  display: inline;
+}
+
+
+body::-webkit-scrollbar {
+  width: 1em;
+}
+
+body::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+  background: rgb(6, 215, 217);
+  background: linear-gradient(45deg, rgba(6, 215, 217, 1) 0%, rgba(228, 70, 123, 1) 35%, rgba(6, 215, 217, 1) 100%);
+  border-radius: 3em;
 }
