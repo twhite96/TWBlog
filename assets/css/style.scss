@@ -244,6 +244,7 @@
 
 .post-share a {
   display: inline-block;
+  color: #e4467b;
   margin: 0 0 0 10px;
 }
 
@@ -399,6 +400,9 @@ author-title {
   background: #fff;
 }
 
+.post-meta .post-title a {
+  background: $gray-darkest !important;
+}
 .read-next .post-title {
   font-size: 1.33333rem;
   margin: 0;
@@ -827,6 +831,7 @@ author-title {
   padding: 0.4em 20px;
   -webkit-transition: .3s;
   transition: .3s;
+  text-decoration: none !important;
 }
 
 .widget-tagcloud a:hover {
@@ -1420,4 +1425,9 @@ p.site-info a {
 
 .lity-hide {
   display: none;
+}
+
+.override {
+  background: $gray-darkest !important;
+  color: #fff !important;
 }

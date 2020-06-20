@@ -15,7 +15,7 @@
                     <time class="published" datetime="??">{{ post.date | date: "%B %-d, %Y" }}</time>
                 </div>
                 <div class="post-title">
-                    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+                    <a class="override" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
                 </div>
             </div>
             {% if post.featured_image_thumbnail %}
