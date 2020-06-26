@@ -5,6 +5,8 @@ tags: [CSS, prototype, learning]
 featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1590446030/prototype.jpg
 ---
 
+You can do a lot on CodePen.
+
 > Photo by [Stanley Dai on Unsplash](https://unsplash.com/@stanleydai?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 {% notice info %}
