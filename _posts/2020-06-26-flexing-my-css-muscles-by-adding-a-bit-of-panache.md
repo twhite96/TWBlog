@@ -88,7 +88,7 @@ I tried to add a class to all the header elements but it still didn't work. I fo
 
 I wanted all header elements to be highlighted on every page. It was difficult to accomplish this with the different templates that my Jekyll theme has in its `_layouts` folder.
 
-I dug into the Sass in my theme and looked for any classes that targeted what I wanted and added the gradient to them. Unfortunately, I got highlights on *everything*, links, tags, paragraphs, headers, my newsletter box. It was a *disaster*.
+I dug into the Sass in my theme and looked for any classes that targeted what I wanted and added the gradient to them but that also didn't work.
 
 <figure>
     <img class="align-center" src="https://res.cloudinary.com/twhiteblog/image/upload/v1592438354/ugh_yrklef.png" />
@@ -112,7 +112,7 @@ One of the things I wanted to do was *exclude* certain elements with certain cla
 
 At first it confused me; what are we excluding?
 
-At first selected all of the elements I wanted to change and added the `:not()` selector, for instance `p:not(.some-class)` which highlighted *all* the `p` elements that did not have that class. This meant all paragraphs in the body were selected.
+At first I selected all of the elements I wanted to change and added the `:not()` selector, for instance `p:not(.some-class)` which highlighted *all* the `p` elements that did not have that class. This meant all paragraphs in the body were selected.
 
 I tried to add the linear gradient to all the main `hn` selectors which meant even those elements that I didn't want selected, like the tags or header in the newsletter box had the gradient added to them which I didn't want. I also wanted to add the gradient to different links in the body. I did the same for the anchor elements, not realizing that the social icons and tags were also links, thus having all the social icons, tags, and other buttons included in the linear gradient selection. It was a *disaster* so I went back to the docs and reread them.
 
