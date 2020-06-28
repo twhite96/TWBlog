@@ -127,3 +127,7 @@ components:
 feed:
   path: atom.xml
   url: https://tiffanywhite.dev
+
+twitter:
+  username: tiffanywhitedev
+  card: summary
