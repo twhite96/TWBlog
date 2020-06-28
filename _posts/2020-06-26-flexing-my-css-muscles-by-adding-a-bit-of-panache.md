@@ -172,6 +172,24 @@ CSS can be fun at times and sprucing up this blog with some fancy CSS tricks was
 
 Learning about specificity, different CSS selectors, and the like, made for a fun yet frustrating evening and I am glad I did it.
 
+***Edit***: 
+
+I could have used a CSS variable instead of writing `background: #fff` everywhere, declaring the `:root` pseudo-class and declaring a variable like so:
+
+```css
+:root {
+  --non-highlights: #fff;
+}
+```
+
+And then applying this variable everywhere I need, like this:
+
+```css
+.non-highlights: var(--non-highlights)
+```
+
+I plan on implementing this soon.
+
 [^1]: Also, admittedly, my least favorite.
 [^2]: Maybe something custom that I was missing. I just didn't feel like digging any deeper for such a minor enhancement.
 [^3]: Ba dum tiss
