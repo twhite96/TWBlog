@@ -20,6 +20,7 @@ author:
   description: "My name is Tiffany. I'm a frontend engineer, writer and all around geek based in Swatara Township, PA."
   bio: 'Tiffany is a frontend engineer, writer, and wannabe hacker.'
   twitter: tiffanywhitedev
+    card: summary
 
 # Contact form setings
 email: tiffany@tiffanywhite.dev
@@ -127,7 +128,3 @@ components:
 feed:
   path: atom.xml
   url: https://tiffanywhite.dev
-
-twitter:
-  username: tiffanywhitedev
-  card: summary
