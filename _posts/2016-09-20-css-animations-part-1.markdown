@@ -7,11 +7,6 @@ excerpt: As you may know, you can animate pretty much anything with JavaScript a
 tags: [css, css animations]
 comments: true
 read_time: true
-image:
-  feature: Panorama.jpg
-  credit: Divine Mayhem Photography
-  creditlink: http://www.divinemayhem.com/
-date: 2016-09-20T00:15:15-04:00
 ---
 As you may know, you can animate pretty much anything with JavaScript and jQuery. jQuery makes it easier as it is a pretty neat and simple JavaScript library. No need to use {% highlight ruby linenos %}document.getElementByID{% endhighlight %} when you can use {% highlight ruby linenos %}$(#myID).animate({left: '250px'});{% endhighlight %}.
 

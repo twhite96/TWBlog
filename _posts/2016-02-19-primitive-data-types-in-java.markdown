@@ -6,10 +6,6 @@ categories: Java
 comments: true
 excerpt:
 tags: [Java, primitive data types]
-image:
-  feature: Panorama.jpg
-  credit: Divine Mayhem Photography
-  creditlink: http://www.divinemayhem.com/
 date: 2016-02-19T00:09:18-05:00
 ---
 
