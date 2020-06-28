@@ -2,7 +2,7 @@
 title: "VS Code Setup: An Update"
 layout: post
 tags: [VS Code, extensions]
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1574302075/luca-bravo-XJXWbfSo2f0-unsplash-1-2_cmiiio.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1574302075/luca-bravo-XJXWbfSo2f0-unsplash-1-2_cmiiio.jpg
 ---
 
 A few people on [micro.blog](https://micro.blog) inquired about my VS Code extensions after I posted a screenshot of my editor.

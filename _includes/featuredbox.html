@@ -8,8 +8,8 @@
             <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">{{ post.title }}</a>
         </h2>
     </header><!-- .post-header -->
-    {% if post.featured_image %}
-        <a href="{{ post.url | absolute_url }}" class="post-thumbnail"><img src="{{ post.featured_image | prepend: site.baseurl }}" alt="{% if post.featured_image_alt %}{{ post.featured_image_alt }}{% else %}{{ post.title }}{% endif %}"></a>
+    {% if post.image %}
+        <a href="{{ post.url | absolute_url }}" class="post-thumbnail"><img src="{{ post.image | prepend: site.baseurl }}" alt="{% if post.image_alt %}{{ post.image_alt }}{% else %}{{ post.title }}{% endif %}"></a>
     {% endif %}
     <div class="post-content">
         {% if post.content contains '<!--more-->' %} {{ post.content | split:'<!--more-->' | first }}

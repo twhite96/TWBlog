@@ -2,7 +2,7 @@
 title: "Open Source and the Role of a Good README"
 tags: [Open Source]
 layout: post
-featured_image: /assets/images/posts/2019/1.png
+image: /assets/images/posts/2019/1.png
 ---
 
 I spent the better part of last week working on a project I started almost two years ago.

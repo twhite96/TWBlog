@@ -2,7 +2,7 @@
 title: "Laid Off But Leveled Up, Lessons Learned"
 layout: post
 tags: [level up, lessons]
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1584326714/lorenzo-herrera-p0j-mE6mGo4-unsplash-1-1-1_scm26m.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1584326714/lorenzo-herrera-p0j-mE6mGo4-unsplash-1-1-1_scm26m.jpg
 ---
 
 I noticed something since picking up this freelance project, something I never had, ever, since the day my journey as a dev began:

@@ -2,7 +2,7 @@
 title: "A Simple Terminal Website with CSS and Typewriter.js"
 layout: post
 tags: [CSS, JavaScript]
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1575418294/pard0x-terminal.png
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1575418294/pard0x-terminal.png
 ---
 
 Just recently, I was searching for how to create a terminal-esque website, much like Jeremy Wagner's old site where you could run commands to open different links and places on his site.

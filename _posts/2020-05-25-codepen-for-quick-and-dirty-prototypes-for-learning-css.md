@@ -2,7 +2,7 @@
 title: "CodePen for Quick and Dirty Prototypes for Learning CSS"
 layout: post
 tags: [CSS, prototype, learning]
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1590446030/prototype.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1590446030/prototype.jpg
 ---
 
 You can do a lot on CodePen.

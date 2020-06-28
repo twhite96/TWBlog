@@ -1,7 +1,7 @@
 ---
 title: "Setting Up a New Mac with a Shell Script"
 layout: post
-featured_image: /assets/images/posts/2019/term.png
+image: /assets/images/posts/2019/term.png
 tags: [General Dev]
 ---
 

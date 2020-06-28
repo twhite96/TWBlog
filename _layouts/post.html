@@ -14,8 +14,8 @@ post_class: post-template
                 </div><!-- .post-meta -->
                 <h1 class="posttitle highlight">{{ page.title }}</h1>
             </header><!-- .post-header -->
-            {% if page.featured_image %}
-            <div class="post-thumbnail"><img class="featured-image img-fluid" src="{{ site.baseurl }}{{ page.featured_image }}"
+            {% if page.image %}
+            <div class="post-thumbnail"><img class="featured-image img-fluid" src="{{ site.baseurl }}{{ page.image }}"
                     alt="{{ page.title }}"></div>
             {% endif %}
             <div class="post-content">
@@ -83,13 +83,13 @@ post_class: post-template
                         {% endif %}
                     </p>
                 </header>
-                {% if page.previous.featured_image_thumbnail %}
+                {% if page.previous.image_thumbnail %}
                 <a href="{{ site.baseurl }}{{page.previous.url}}" class="post-thumbnail">
-                    <img src="{{ page.previous.featured_image_thumbnail }}" alt="{{page.previous.title}}" />
+                    <img src="{{ page.previous.image_thumbnail }}" alt="{{page.previous.title}}" />
                 </a>
-                {% elsif page.previous.featured_image %}
+                {% elsif page.previous.image %}
                 <a href="{{ site.baseurl }}{{page.previous.url}}" class="post-thumbnail">
-                    <img src="{{ page.previous.featured_image }}" alt="{{page.previous.title}}" />
+                    <img src="{{ page.previous.image }}" alt="{{page.previous.title}}" />
                 </a>
                 {% else %}
                 {% endif %}
@@ -117,13 +117,13 @@ post_class: post-template
                         {% endif %}
                     </p>
                 </header>
-                {% if page.next.featured_image_thumbnail %}
+                {% if page.next.image_thumbnail %}
                 <a href="{{ site.baseurl }}{{page.next.url}}" class="post-thumbnail">
-                    <img src="{{ page.next.featured_image_thumbnail }}" alt="{{page.next.title}}" />
+                    <img src="{{ page.next.image_thumbnail }}" alt="{{page.next.title}}" />
                 </a>
-                {% elsif page.next.featured_image %}
+                {% elsif page.next.image %}
                 <a href="{{ site.baseurl }}{{page.next.url}}" class="post-thumbnail">
-                    <img src="{{ page.next.featured_image }}" alt="{{page.next.title}}" />
+                    <img src="{{ page.next.image }}" alt="{{page.next.title}}" />
                 </a>
                 {% else %}
                 {% endif %}

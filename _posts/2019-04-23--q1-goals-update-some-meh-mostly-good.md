@@ -1,7 +1,7 @@
 ---
 title: "Q1 Goals Update: Some Meh, Mostly Good"
 layout: post
-featured_image: /assets/images/posts/2019/goals.png
+image: /assets/images/posts/2019/goals.png
 category: [Goals]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Some Music I'm Vibing To This Spring"
-featured_image: /assets/images/posts/2019/music-vibes.png
+image: /assets/images/posts/2019/music-vibes.png
 tags: "Playlists"
 layout: post
 ---

@@ -2,7 +2,7 @@
 title: "2019: A Year in Review"
 layout: post
 tags: [goals, year in review, bye 2019]
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1577165045/year-in-review_vpswkn.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1577165045/year-in-review_vpswkn.jpg
 ---
 
 Every year on this blog, I try to do a year in review[^1]; a look back at the year that was and looking forward to the year to come.

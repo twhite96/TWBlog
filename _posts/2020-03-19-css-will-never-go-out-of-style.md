@@ -2,7 +2,7 @@
 title: "CSS Will Never Go Out of Style"
 layout: post
 tags: [CSS, bad at CSS]
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1584755535/css_jutkxw.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1584755535/css_jutkxw.jpg
 ---
 
 Learning the hard way that CSS, is in fact, a necessary skill.

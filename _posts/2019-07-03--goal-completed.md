@@ -1,6 +1,6 @@
 ---
 title: "Goal, Completed"
-featured_image: /assets/images/posts/2019/new-job.png
+image: /assets/images/posts/2019/new-job.png
 layout: post
 tags: [Goals]
 ---

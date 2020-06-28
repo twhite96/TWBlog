@@ -1,7 +1,7 @@
 ---
 title: "Realizations & Breakthroughs"
 layout: post
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1544081369/End%20of%20Year%20Wrap%20up%20and%202019%20Goals%20Post/goals.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1544081369/End%20of%20Year%20Wrap%20up%20and%202019%20Goals%20Post/goals.jpg
 category: [Life]
 ---
 

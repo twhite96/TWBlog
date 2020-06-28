@@ -1,6 +1,6 @@
 ---
 title: "Showing Up Everyday and Other Things"
-featured_image: "/assets/images/posts/2019/vibes.png"
+image: "/assets/images/posts/2019/vibes.png"
 layout: post
 tags: [Daily Updates]
 ---

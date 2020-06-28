@@ -2,7 +2,7 @@
 title: "On Being Laid Off: Some Thoughts"
 layout: post
 tags: [job hunt, laid off, work]
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1583986712/laid-off_gvlmzn.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1583986712/laid-off_gvlmzn.jpg
 ---
 
 > I've been dreading writing this one....

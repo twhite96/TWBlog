@@ -2,7 +2,7 @@
 title: "Course Duck for Learning JavaScript"
 layout: post
 tags: [JavaScript, courses, learning, CourseDuck]
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1573422937/joshua-coleman-unsplash.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1573422937/joshua-coleman-unsplash.jpg
 ---
 
 > CourseDuck reached out to me about their product. I am not reviewing it, just letting you know it exists.

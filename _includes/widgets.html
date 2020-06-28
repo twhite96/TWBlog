@@ -18,14 +18,14 @@
                     <a class="override" href="{{ post.url | absolute_url }}">{{ post.title }}</a>
                 </div>
             </div>
-            {% if post.featured_image_thumbnail %}
+            {% if post.image_thumbnail %}
             <a class="post-thumbnail" href="{{ post.url }}">
-                <img src="{% if post.featured_image_thumbnail contains ' :// ' %}{{ post.featured_image_thumbnail }}{% else %}{{ post.featured_image_thumbnail | absolute_url }}{% endif %}"
+                <img src="{% if post.image_thumbnail contains ' :// ' %}{{ post.image_thumbnail }}{% else %}{{ post.image_thumbnail | absolute_url }}{% endif %}"
                     alt="{{ post.title }}">
             </a>
-            {% elsif post.featured_image %}
+            {% elsif post.image %}
             <a class="post-thumbnail" href="{{ post.url }}">
-                <img src="{% if post.featured_image contains ' :// ' %}{{ post.featured_image }}{% else %}{{ post.featured_image | absolute_url }}{% endif %}"
+                <img src="{% if post.image contains ' :// ' %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}"
                     alt="{{ post.title }}">
             </a>
             {% else %}

@@ -1,7 +1,7 @@
 ---
 title: /Uses
 layout: page
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1591128562/new-office_nib11t.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1591128562/new-office_nib11t.jpg
 ---
 
 Seems that a lot of developers are creating these `/uses` pages after discovering [Wes Bos’s](https://twitter.com/wesbos) [/uses page](http://wesbos.com/uses).

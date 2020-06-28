@@ -1,6 +1,6 @@
 ---
 title: "Twitch, YouTube, Egghead, and Zoom: My New Projects and Setup"
-featured_image: /assets/images/posts/2019/twitch.png
+image: /assets/images/posts/2019/twitch.png
 category: [Fun]
 layout: post
 ---

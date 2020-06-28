@@ -2,7 +2,7 @@
 title: "Piping in a Node API from Glitch to a React Frontend"
 layout: post
 tags: [React, create-react-app]
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1581491834/IMG_0767_wanmww.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1581491834/IMG_0767_wanmww.jpg
 ---
 
 *Creating the frontend was the hardest part for me.*

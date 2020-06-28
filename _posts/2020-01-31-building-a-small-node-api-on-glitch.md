@@ -2,7 +2,7 @@
 title: "Building A Small Node API On Glitch"
 layout: post
 tags: [APIs, Glitch, Node]
-featured_image: https://res.cloudinary.com/twhiteblog/image/upload/v1581489715/IMG_0762_ahmlyr.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/v1581489715/IMG_0762_ahmlyr.jpg
 ---
 
 At the end of last year, I decided I wanted to try my hand at building and consuming my own API.

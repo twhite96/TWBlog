@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Burnout, Health, and Starting Over"
-featured_image: /assets/images/posts/2019/frustrated.png
+image: /assets/images/posts/2019/frustrated.png
 tags: [Developer Health]
 ---
 
