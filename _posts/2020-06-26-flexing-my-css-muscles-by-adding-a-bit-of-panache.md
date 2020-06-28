@@ -185,7 +185,9 @@ I could have used a CSS variable instead of writing `background: #fff` everywher
 And then applying this variable everywhere I need, like this:
 
 ```css
-.non-highlights: var(--non-highlights)
+.non-highlights {
+  var(--non-highlights)
+}
 ```
 
 I plan on implementing this soon.
