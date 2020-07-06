@@ -17,7 +17,7 @@ Why didn't the stopwatch work? Glancing at the code for a few seconds, I saw som
 
 Here is an example of the stopwatch being broken:
 
-<iframe src="https://embed.cl.ly/89f29a329f05?nobranding=1&notitle=1" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
+<iframe src="https://embed.cl.ly/89f29a329f05?nobranding=1&notitle=1" width="575" height="400" style="border:none" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe><br />
 
 ## Bugfix 1
 
