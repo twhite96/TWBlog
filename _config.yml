@@ -72,8 +72,8 @@ webmentions:
     count: _includes/webmentions/count.html
     likes: _includes/webmentions/likes.html
     replies: _includes/webmentions/replies.html
-    reposts: _includes/webmentions/reposts.html
-    # webmentions: _includes/webmentions/webmentions.html
+    # reposts: _includes/webmentions/reposts.html
+    webmentions: _includes/webmentions/webmentions.html
 
 # Navigation
 navigation:
