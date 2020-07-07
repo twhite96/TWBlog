@@ -5,10 +5,7 @@ modified: 2016-06-15T16:10:44-04:00
 categories: JavaScript, JSON
 excerpt: When thinking about JavaScript objects, it is important to think about them in terms of real life objects. For instance, you have a cup, which is an object. The object has some properties...
 tags: []
-comments: true
 ---
-
-![JSON](/images/JSON and Objects.png)
 
 ## What are JavaScript Objects?
 
