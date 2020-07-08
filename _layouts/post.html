@@ -51,10 +51,6 @@ post_class: post-template
             </div>
             {% include disqus.html %}
             {% webmentions page.url count posts replies likes reposts %}
-            {% webmention_count page.url %}
-            {% webmention_likes page.url %}
-            {% webmention_replies page.url %}
-            {% webmention_reposts page.url %}
         </article>
         {% if site.mailchimp_url %}
         {% include newsletter-box.html %}
