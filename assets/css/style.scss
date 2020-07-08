@@ -434,6 +434,9 @@ author-title {
   margin-top: 3.33333em;
   padding: 3.33333em 30px;
   text-align: center;
+  -webkit-box-shadow: 7px 8px 57px -23px rgba(0, 0, 0, 0.59);
+  -moz-box-shadow: 7px 8px 57px -23px rgba(0, 0, 0, 0.59);
+  box-shadow: 7px 8px 57px -23px rgba(0, 0, 0, 0.59);
 }
 
 .newsletter-box-title {
@@ -921,6 +924,9 @@ author-title {
     display: -webkit-flex;
     display: flex;
     text-align: left;
+    -webkit-box-shadow: 7px 8px 57px -23px rgba(0, 0, 0, 0.59);
+    -moz-box-shadow: 7px 8px 57px -23px rgba(0, 0, 0, 0.59);
+    box-shadow: 7px 8px 57px -23px rgba(0, 0, 0, 0.59);
   }
 
   .author-avatar {

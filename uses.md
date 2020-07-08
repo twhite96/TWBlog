@@ -18,6 +18,8 @@ Let’s start with my gear.
 
 - [Mac mini - Apple](https://www.apple.com/mac-mini/)
 	- My old iMac's hard disk, a Fusion Drive, was failing because [APFS isn't good on spinning drives](https://blog.macsales.com/43043-using-apfs-on-hdds-and-why-you-might-not-want-to/). The CPU constantly ran high and I couldn't get my work done. I got my old MacBook Pro back from a friend, a 2013 13" but that was much slower than the Fusion Drive 2015 iMac. This thing is a *dream* compared to those two machines.
+- MacBook Pro 13" Late 2013
+  - Used for quickie code/blog edits and admin stuff. Too slow for anything else.
 - [iPhone XS Max 256gb, Gold](https://www.t-mobile.com/cell-phone/apple-iphone-8-plus?color=spacegray&memory=256gb) [^1]
 - [iPad Pro 12.9” late 2018 256 gb](https://www.bhphotovideo.com/c/product/1441845-REG/apple_mtfn2ll_a_12_9_ipad_pro_late.html)
   - This thing is a *beast*. Fast, and the industrial design is my *favorite* of Apple's iPads to date.
@@ -107,8 +109,6 @@ Let’s start with my gear.
 But I use ALL OF IT.
 
 So this is my setup and what I am currently using. You can show me your dev setup on [Twitter](https://twitter.com/tiffanywhitedev).
-
-![]()
 
 <figure>
     <img class="align-center" src="https://res.cloudinary.com/twhiteblog/image/upload/v1591128658/new-office-front_euwufh.jpg" />
