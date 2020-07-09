@@ -255,6 +255,9 @@
   padding: 1.66667em 30px;
   text-align: center;
   font-family: $font-secondary !important;
+  -webkit-box-shadow: 7px 8px 44px -23px rgba(0, 0, 0, 0.59);
+  -moz-box-shadow: 7px 8px 44px -23px rgba(0, 0, 0, 0.59);
+  box-shadow: 7px 8px 44px -23px rgba(0, 0, 0, 0.59);
 }
 
 .author-avatar {
