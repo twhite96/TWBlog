@@ -1,6 +1,6 @@
 {% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
 <div class="webmentions inner"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}>
-  <h2 class="inner">Webmentions</h2>
+  <h2 class="inner">Webmentions {{ count }}</h2>
   {% if webmentions.size > 0 %}
     <ol class="webmentions__list">
       {% for webmention in webmentions %}
