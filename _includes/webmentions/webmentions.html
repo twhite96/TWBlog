@@ -1,6 +1,6 @@
 {% capture webmention_types %}{{ types | join: ',' }}{% endcapture %}
 <div class="webmentions inner"{% unless webmention_types=="" %} data-webmention-types="{{ webmention_types }}"{% endunless %}>
-  <h2 class="inner">Webmentions {{ count }}</h2>
+  <h2 class="inner">Webmentions</h2>
   {% if webmentions.size > 0 %}
     <ol class="webmentions__list">
       {% for webmention in webmentions %}
@@ -17,11 +17,7 @@
                   {% if webmention.author.photo %}
                     <img
                       class="webmention__author__photo u-photo"
-                      data-src="https://res.cloudinary.com/twhiteblog/image/fetch/c_fill,f_auto,q_auto,w_48,h_48/{{ webmention.author.photo }}"
-                      data-srcset="https://res.cloudinary.com/twhiteblog/image/fetch/c_fill,f_auto,q_auto,w_48,h_48/{{ webmention.author.photo }} 1x, https://res.cloudinary.com/twhiteblog/image/fetch/c_fill,f_auto,q_auto,w_96,h_96/{{ webmention.author.photo }} 2x"
-                      width= "48"
-                      height="48"
-                      alt="{{ webmention.author.name }} avatar" />
+                      src="{{ webmention.author.photo }}" alt="{{ webmention.author.name }}" width="48" height="48" loading="lazy" alt="{{ webmention.author.name }} avatar" />
                   {% endif %}
                   <b class="p-name">{{ webmention.author.name }}</b></a>
                   <!-- endnomicrotypo -->
