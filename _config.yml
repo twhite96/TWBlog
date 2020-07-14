@@ -91,6 +91,8 @@ navigation:
     url: https://resume.tiffanyrwhite.com
   # - text: Privacy Policy
   #   url: /privacy-policy/
+  - text: Dev Research
+    url: https://research.tiffanywhite.dev/
   - text: Archive
     url: /archive/
   # - text: Status
