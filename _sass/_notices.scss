@@ -26,6 +26,17 @@
     box-shadow: 0.25em 0.25em 0 $danger-color;
   }
 
+  &.tip {
+    border-color: $tip-color;
+    color: $gray-dark;
+    box-shadow: 0.25em 0.25em 0 $tip-color;
+  }
+
+  &.primary {
+    color: $primary-color;
+    box-shadow: 0.25em 0.25em 0 $primary-color;
+  }
+
   &.success {
     color: $success-color;
     box-shadow: 0.25em 0.25em 0 $success-color;

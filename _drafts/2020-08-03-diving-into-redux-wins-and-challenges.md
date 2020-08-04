@@ -1,5 +1,5 @@
 ---
-title: "Dev Research, A Zettelkasten"
+title: "Diving Into Redux, Wins and Challenges"
 layout: post
 tags: []
 image:

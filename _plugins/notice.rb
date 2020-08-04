@@ -7,7 +7,7 @@ module Jekyll
       def initialize(tag_name, type, tokens)
         super
         type.strip!
-        if %w(info danger warning success).include?(type)
+        if %w(info danger warning success tip, primary).include?(type)
           @type = type
         else
           @type = ""
