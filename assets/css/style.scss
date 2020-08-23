@@ -251,9 +251,9 @@
 .author-box {
   border: 1px solid $gray-lighter;
   border-radius: 3px;
-  margin: 1.66667em 0 3.33333em;
+  margin: 1.66667em -2px 3.33333em;
   padding: 1.66667em 30px;
-  text-align: center;
+  // text-align: center !important;
   font-family: $font-secondary !important;
   -webkit-box-shadow: 7px 8px 44px -23px rgba(0, 0, 0, 0.59);
   -moz-box-shadow: 7px 8px 44px -23px rgba(0, 0, 0, 0.59);
@@ -261,7 +261,7 @@
 }
 
 .author-avatar {
-  margin: 0 0 1.66667em;
+  margin: 0 1.66667em;
 }
 
 .author-avatar .avatar {
@@ -269,8 +269,8 @@
   border-radius: 100%;
   box-shadow: 0 0 1px 7px rgba($color-accent,.1);
   display: inline-block;
-  height: 70px;
-  width: 70px;
+  height: 80px;
+  width: 80px;
 }
 
 
