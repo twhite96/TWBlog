@@ -26,9 +26,9 @@
             {% else %}
               {% if webmention.url %}
                 <div class="webmention__source">
-                  <a class="deeplink" href="#webmention-{{ webmention.id }}"><svg><use xlink:href="#symbol-link" /></svg></a>
+                  <a class="deeplink" href="#webmention-{{ webmention.id }}"></a>
                   <!-- nomicrotypo -->
-                  <a class="u-url" href="{{ webmention.url }}">
+                  <!-- <a class="u-url" href="{{ webmention.url }}">
                     <img
                       class="webmention__source__screenshot u-photo"
                       data-src="https://res.cloudinary.com/twhiteblog/image/fetch/c_fill,f_auto,q_auto,w_300,h_200/http://image.thum.io/get/width/1200/crop/800/noanimate/{{ webmention.url }}"
@@ -37,7 +37,7 @@
                       height="400"
                       alt="Page screenshot" />
                     <b class="p-name">{{ webmention.url | truncate: 70 }}</b>
-                  </a>
+                  </a> -->
                   <!-- endnomicrotypo -->
                 </div>
               {% endif %}
