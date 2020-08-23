@@ -122,6 +122,8 @@ permalink: /:year/:month/:day/:title/
 # Other
 markdown: kramdown
 
+highlighter: none
+
 # Sass
 sass:
   sass_dir: _sass
