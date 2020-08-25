@@ -50,7 +50,7 @@ post_class: post-template
                 </div>
             </div>
             {% include disqus.html %}
-            {% webmentions page.url posts replies likes %}
+            {% webmentions page.url reposts replies likes count %}
         </article>
         {% if site.mailchimp_url %}
         {% include newsletter-box.html %}
