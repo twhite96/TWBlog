@@ -4,6 +4,7 @@ layout: post
 tags: [zettelkasten, research, Roam Research, Foam Research]
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1595982657/zettelkasten-method.jpg
 description: A new old way to take notes and research
+excerpt: A new old way to take notes and research
 ---
 A new old way to take notes and research.
 
