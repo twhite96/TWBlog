@@ -21,25 +21,18 @@
 
     <!-- Font Embed Code -->
     <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i&display=swap" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i&display=swap" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Fira+Code&display=swap" rel="stylesheet">
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
 
     <!-- CSS Styles -->
-    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
-    <!-- <noscript>
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
-    </noscript> -->
-    <!-- <link href="{{ site.baseurl }}/assets/css/center_image-min.css" rel="stylesheet"> -->
-    <!-- <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/center_image-min.css"> -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/bigfoot-default.min.css">
-    <script src="{{ site.baseurl }}/assets/js/jquery-3.3.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/jquery.smooth-scroll.min.js"></script>
-    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <link preload href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
+    <link preload rel="stylesheet" href="{{ site.baseurl }}/assets/css/bigfoot-default.min.css">
+    <script async src="{{ site.baseurl }}/assets/js/jquery-3.3.1.min.js"></script>
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.min.js"></script>
+    <script async src="{{ site.baseurl }}/assets/js/jquery.smooth-scroll.min.js"></script>
+    <script async src="{{ '/assets/js/main.js' | relative_url }}"></script>
 
-    <!-- <link rel="stylesheet" href="/assets/css/dark-mode.css"> -->
+    
     <script type="text/javascript">
         var bigfoot = $.bigfoot({
             actionOriginalFN: "hide",
@@ -113,24 +106,6 @@
     <div id="site-overlay" class="site-overlay"></div>
     {% include sidebar.html %}
     {% include analytics.html %}
-    <!-- Javascript Assets -->
-        <!--Dark Mode-->
-        <!-- <script src="https://unpkg.com/darken"></script> -->
-        <!-- <script>
-            const darkmode = new darken({
-              toggle: "#darkmode-button",
-              default: "light",
-              class: "darken",
-              container: "body",
-              remember: "darken-mode",
-              variables: {
-                  "--primary-color": ["#ffffff", "#24292e"],
-                  "--secondary-color": ["#24292e", "#ffffff"],
-              }
-            });
-            darkmode.toggle();
-        </script> -->
-        <!-- <script>console.log(darken());</script> -->
    {% webmentions_js %}
 </body>
 
