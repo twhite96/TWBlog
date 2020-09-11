@@ -3,7 +3,7 @@ title: "Portfolio Redesign Part 1: Ideas"
 layout: post
 tags: [portfolio, level-up, skill building]
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1594191673/portfolio-redesign.jpg
-description: Exploring Gatsby for self-expression.
+# description: Exploring Gatsby for self-expression.
 excerpt: Exploring Gatsby for self-expression.
 ---
 
