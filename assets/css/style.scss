@@ -39,7 +39,7 @@
  * ----------------------------------------------------------------------------
  */
 .site {
-  background: #fff;
+  background: var(--primary-color);
   overflow: hidden;
   pointer-events: auto;
   position: relative;
@@ -187,7 +187,7 @@
 
 .post-title a {
   color: inherit;
-  background: #fff;
+  background: var(--primary-color);
   text-decoration: none;
 }
 
@@ -460,7 +460,7 @@
 .read-next-title {
   color: $gray-dark;
   font-size: 14px;
-  background: #fff;
+  background: var(--primary-color);
   font-weight: normal;
   letter-spacing: 2px;
   margin: 0 0 2.14285em;
@@ -494,7 +494,7 @@
 
 .read-next .post-meta {
   margin-bottom: 0.5em;
-  background: #fff;
+  background: var(--primary-color);
 }
 
 .post-meta .post-title a {
@@ -503,13 +503,13 @@
 .read-next .post-title {
   font-size: 1.33333rem;
   margin: 0;
-  background: #fff;
+  background: var(--primary-color);
 }
 
 .read-next .post-tags {
   margin: 1.07142em 0 0;
   font-family: $font-secondary;
-  background: #fff;
+  background: var(--primary-color);
 }
 
 .read-next .post-thumbnail {
@@ -518,7 +518,7 @@
   flex: 0 0 auto;
   margin: 0 0 0.83333em 30px;
   width: 150px;
-  background: #fff;
+  background: var(--primary-color);
 }
 
 /* Newsletter section */
@@ -1367,13 +1367,13 @@ p a,
 }
 
 p.post-tags a {
-  background: #fff;
+  background: var(--primary-color);
   color: $color-accent;
   text-decoration: none;
 }
 
 p.site-info a {
-  background: #fff;
+  background: var(--primary-color);
   color: $color-accent;
   text-decoration: none;
 }

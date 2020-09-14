@@ -295,7 +295,7 @@ label {
 input,
 select,
 textarea {
-    background: #fff;
+    background: var(--primary-color);
     border: 1px solid $gray-lighter;
     border-radius: 3px;
     box-shadow: none;
@@ -631,7 +631,7 @@ img {
 }
 
 .hero .social-links a {
-    background: #fff;
+    background: var(--primary-color);
     text-decoration: none;
 }
 
@@ -983,4 +983,8 @@ body::-webkit-scrollbar-thumb {
   background: rgb(6, 215, 217);
   background: linear-gradient(45deg, rgba(6, 215, 217, 1) 0%, rgba(255, 193, 210, 1.00) 35%, rgba(6, 215, 217, 1) 100%);
   border-radius: 3em;
+}
+
+.margin {
+    margin-bottom: 2.5em;
 }
