@@ -1,5 +1,6 @@
 <div class="webmentions webmentions--likes inner">
   {% if webmentions.size > 0 %}
+   <p><span>♥️</span></p>
     <ol class="webmentions__list">
       {% for webmention in webmentions %}
         <li id="webmention-{{ webmention.id }}" class="webmentions__item webmention webmention--{{ webmention.type }}">

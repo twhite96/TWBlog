@@ -1,11 +1,12 @@
 ---
-title:: UX Testing Results for The Lens Cap Mock E-Commerce Site
-modified:
-categories: cs_0134 ux_testing assignments
-excerpt: I asked six users of various technical ability to test The Lens Cap’s UX-- its responsiveness, its legibility, its resolution, and whether they were able to find what they needed in search, etc.
-tags: [ux,testing,pitt]
-date: 2016-11-25T00:00:30-04:00
+title: 'UX Testing Results for The Lens Cap Mock E-Commerce Site'
+author: Tiffany White
+date: 2017-06-22
+layout: post
+tags: [Pitt, ux, ecommerce, testing]
 ---
+
+
 ## Summary
 
 I asked six users of various technical ability to test The Lens Cap’s UX: its responsiveness, its legibility, its resolution, and whether they were able to find what they needed in search, etc. I asked them to tell me which devices they used and asked for suggestions on how to make the site better, what surprised them, good or bad, about the site, and also if anything frustrated them while using it.

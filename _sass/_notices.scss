@@ -12,8 +12,8 @@
   box-shadow: 0.25em 0.25em 0 #000;
 
   &.info {
-    color: $info-color;
-    box-shadow: 0.25em 0.25em 0 $info-color;
+    color: $tip-color;
+    box-shadow: 0.25em 0.25em 0 $tip-color;
   }
 
   &.warning {
@@ -27,8 +27,7 @@
   }
 
   &.tip {
-    border-color: $tip-color;
-    color: $gray-dark;
+    color: $tip-color;
     box-shadow: 0.25em 0.25em 0 $tip-color;
   }
 

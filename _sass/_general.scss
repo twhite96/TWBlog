@@ -65,6 +65,8 @@ h2 {
     margin: 0.83333em 0 0.41667em;
     background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
     display: inline;
+    position: relative;
+    transform: rotateX(-2deg) scaleX(1);
 }
 
 h3 {
@@ -967,6 +969,7 @@ input {
 
 h1.highlight {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+  transform: rotate(15deg);
   display: inline;
 }
 
