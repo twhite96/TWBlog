@@ -124,6 +124,12 @@ markdown: kramdown
 
 highlighter: none
 
+kramdown:
+  # Enable GitHub Flavored Markdown (fenced code blocks)
+  input: GFM
+  # Disable auto-generated ID's for headings
+  auto_ids: true
+
 # Sass
 sass:
   sass_dir: _sass

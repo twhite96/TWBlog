@@ -3,9 +3,9 @@
         <div class="post-meta">
             <time class="published" datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %-d, %Y" }}</time>
         </div><!-- .post-meta -->
-        <h2 class="post-title">
+        <h1 class="post-title">
             <a href="{{ post.url | absolute_url }}" rel="bookmark">{{ post.title }}</a>
-        </h2>
+        </h1>
     </header><!-- .post-header -->
     {% if post.image_thumbnail %}
     <a class="post-thumbnail" href="{{ post.url }}">
