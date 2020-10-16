@@ -18,7 +18,7 @@ It took me two weeks working on it every couple days for a couple hours a day. I
 
 ## The easy part
 
-I wanted the color theme to look like Brittany's because, well, I *really like it*. I used a tool for Mac called [Sip](https://sipapp.io/) to grab the colors from here site and went to work.
+I wanted the color theme to look like Brittany's because, well, I *really like it*. I used a tool for Mac called [Sip](https://sipapp.io/) to grab the colors from her site and went to work.
 
 ## The hard parts
 
@@ -60,7 +60,7 @@ import resumeDownload from "../../downloads/resume.pdf";
 ```
 Next, I needed to figure out a way to download a file from a React component.
 
-Initially, I thought I'd need to come up with some convoluted system to do this but it was as simple as using a simple an anchor tag and a couple built-in React props:
+Initially, I thought I'd need to come up with some convoluted system to do this but it was as simple as using an anchor tag and a couple built-in React props:
 
 ```jsx
 <span className="d-flex mt-3">
@@ -129,7 +129,7 @@ This was *the hardest part* about this project. I didn't use react-bootstrap for
 
 But since I wanted a custom nav, using Bootstrap wasn't going to work. So I built a hamburger nav from scratch. Only, *it was hard*. 
 
-I wasn't sure how to do it in a React app. I did some searching and come across [a tutorial on CSS-Tricks](https://css-tricks.com/hamburger-menu-with-a-side-of-react-hooks-and-styled-components/) that gave a step by step guide on how to build a hambuger nav[^4]. The issue was I only wanted the hamburger nav to show up *only* when the viewport reached `769px`.
+I wasn't sure how to do it in a React app. I did some searching and come across [a tutorial on CSS-Tricks](https://css-tricks.com/hamburger-menu-with-a-side-of-react-hooks-and-styled-components/) that gave a step by step guide on how to build a hambuger nav[^4]. The issue was I wanted the hamburger nav to show up *only* when the viewport reached `769px`.
 
 I searched some more and found that I could make the hamburger icon its own component, called `Burger.jsx` and a mobile nav called `MobileNav.jsx`. I used styled-components to create both of these, with code from a video that *also* used the same code in that CSS-Tricks article[^5].
 
@@ -180,7 +180,7 @@ const MobileNav = ({ open }) => {
 ```
 Here we use the `StyledList` to create the `MobileNav` passing in an `open` prop to the styled list.
 
-Then, in `Burger.jsx` we set `open`'s state using the `useState` hook to and setting the intial state to `false`:
+Then, in `Burger.jsx` we set `open`'s state using the `useState` hook and setting the intial state to `false`:
 
 ```jsx
 const Burger = () => {
@@ -204,7 +204,7 @@ When someone taps or clicks on the burger part of the mobile nav, the new state 
 
 I tried to use media queries to get the hamburger menu to only show when the viewport reached `769px` >. Nothing I tried worked.
 
-I kept searching and, in a moment of defeat, because I spent a couple days trying to figure this out, I found a little library called [react-socks, a React library to render components only on specific viewports](https://github.com/flexdinesh/react-socks). I was able to easily set the breakpoints I needed with an import and some nesting in `App.jsx`:
+I kept searching and, in a moment of defeat, because I spent a couple days trying to figure this out, I used a little library called [react-socks, a React library to render components only on specific viewports](https://github.com/flexdinesh/react-socks). I was able to easily set the breakpoints I needed with an import and some nesting in `App.jsx`:
 
 ```jsx
 <BreakpointProvider>
