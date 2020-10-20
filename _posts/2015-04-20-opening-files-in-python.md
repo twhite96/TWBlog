@@ -61,15 +61,22 @@ from sys import argv
 
 script, filename = argv
 
-#when we type the script into the terminal, you have to type in the filename as well that you want to open. This filename must be an arguement variable when you run the python script. txt indicates that it is a txt file. Open(filenmae) calls the argument variable that we specified was ex15_sample.txt and opens it, taking a parameter and returning a value you can set as your own value, much like raw_input
+# when we type the script into the terminal, 
+# you have to type in the filename as well that you want to open. 
+# This filename must be an arguement variable when you run the python script. 
+# txt indicates that it is a txt file. Open(filenmae) calls the argument variable 
+# that we specified was ex15_sample.txt 
+# and opens it, taking a parameter and returning a value you can set as your own value, 
+# much like raw_input
 
 txt = open(filename)
 
-#this line prints out text and opens an formatter which is the argument variable filename.
+# this line prints out text and opens an formatter which is the argument variable filename.
 
 print “Here’s your file %r:” % filename
 
-#here we call a function on the text file which is read(). To give a file a command you use the dot and and function so txt.read() opens the file without getting any parameters.
+# here we call a function on the text file which is read(). 
+# To give a file a command you use the dot and and function so txt.read() opens the file without getting any parameters.
 
 print txt.read()
 
@@ -77,15 +84,18 @@ print txt.read()
 
 print “Type the filename again:”
 
-#this is another prompt with raw_input and the caret assigned to the variable file_again. You must type in the name of the text file again or python will throw an error
+# this is another prompt with raw_input 
+# and the caret assigned to the variable file_again. 
+# You must type in the name of the text file again 
+# or python will throw an error
 
 file_again = raw_input(“&gt; ”)
 
-#this line uses the open command to open the txt file again
+# this line uses the open command to open the txt file again
 
 txt_again = open(file_again)
 
-#this line uses the function read() which is part of the command you’re giving the file
+# this line uses the function read() which is part of the command you’re giving the file
 txt_again.read(). It will then read and print the contents of the file.
 
 print txt_again.read()
