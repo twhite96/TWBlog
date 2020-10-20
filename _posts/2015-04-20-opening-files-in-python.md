@@ -22,19 +22,18 @@ So right now I am learning how to open and read files in Python, which is exerci
 
 So I am working through exercise 15. The text file we are to open and read in python contains some arbitrary text. We are still working with argument variables and the command raw_input(), but we’re throwing in the argv
 
-<pre><code>filename
-</code></pre>
+`filename`
 
 with another command
 
-<pre><code>open
-</code></pre>
+`open`
 
 which just opens the file taking a parameter which returns a value, kind of like raw_input, that you can set to any variable you want, according to pydoc (which is the document system built into python– excellent resource, aside from Dash).
 
 Here is the script I wrote:
 
-<pre><code>from sys import argv
+```python
+from sys import argv
 
 script, filename = argv
 
@@ -49,11 +48,12 @@ file_again = raw_input(“&gt; ”)
 txt_again = open(file_again)
 
 print txt_again.read()
-</code></pre>
+```
 
 Here is my script with the comments I wrote, an annotation that Zed Shaw encourages.
 
-<pre><code>#Grabs the sys module and the argv variable inside that module
+```python
+#Grabs the sys module and the argv variable inside that module
 
 from sys import argv
 
@@ -89,6 +89,4 @@ txt_again = open(file_again)
 txt_again.read(). It will then read and print the contents of the file.
 
 print txt_again.read()
-</code></pre>
-
-<img src="https://helloburgh.me/wp-content/uploads/2015/04/wpid-reading_text_files_in_python.gif" alt="python_gif_3" />
+```
