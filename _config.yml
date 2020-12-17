@@ -1,24 +1,24 @@
 # Site setings
-title: 'Tiffany R. White Blog'
+title: "Tiffany R. White Blog"
 description: "your friend tiffany's tiny little digital garden."
 meta_description: "your friend tiffany's tiny little digital garden."
-logo: 'assets/images/logo-2.png'
-favicon: 'assets/images/favicon.ico'
-url: 'https://tiffanywhite.dev'
+logo: "assets/images/logo-2.png"
+favicon: "assets/images/favicon.ico"
+url: "https://tiffanywhite.dev"
 production_url: https://tiffanywhite.dev
 # disqus: 'justgoodthemes'
-mailchimp_url: 'https://buttondown.email/api/emails/embed-subscribe/tiffanywhite'
+mailchimp_url: "https://buttondown.email/api/emails/embed-subscribe/tiffanywhite"
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
-ga_analytics: UA-61294063-1
+# ga_analytics: UA-61294063-1
 
 # Author
 author:
-  name: 'Tiffany'
-  image: 'authorimage.jpg'
-  greetings: 'Hi! 👋🏾'
+  name: "Tiffany"
+  image: "authorimage.jpg"
+  greetings: "Hi! 👋🏾"
   description: "my name is tiffany and this is my digital garden 🌱"
-  bio: 'Tiffany is a frontend engineer, writer, and wannabe hacker based in Swatara Twp, PA.'
+  bio: "Tiffany is a frontend engineer, writer, and wannabe hacker based in Swatara Twp, PA."
   twitter: tiffanywhitedev
 
 # Contact form setings
@@ -27,24 +27,23 @@ email: tiffany@tiffanywhite.dev
 thankyou_page_description: "Your message has been successfully sent. I will contact you very soon!"
 
 # Social links
-twitter: 'tiffanywhitedev'
+twitter: "tiffanywhitedev"
 # facebook: 'username'
-github: 'twhite96'
-youtube: 'channel/UCF4UjAYLSOAma84h85yD4Mw'
-twitch: 'sydmalicious78'
-codepen: 'tiffanywhitedev'
+github: "twhite96"
+youtube: "channel/UCF4UjAYLSOAma84h85yD4Mw"
+twitch: "sydmalicious78"
+codepen: "tiffanywhitedev"
 # dribbble: 'username'
 # medium: '@username'
 # instagram: 'tiffanywhitedev'
 # pinterest: 'tifftalkstech'
-linkedin: 'tiffanyrwhite'
+linkedin: "tiffanyrwhite"
 # producthunt: '@username'
 # codesandbox: 'twhite96'
-stackoverflow: 'tiffanywhitedev'
-rss: '/feed.xml'
+stackoverflow: "tiffanywhitedev"
+rss: "/feed.xml"
 
 # Jekyll PWA
-
 
 # Webmentions
 webmentions:
@@ -98,8 +97,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-cloudinary
-
-
 
 # Cloudinary
 cloudinary:
