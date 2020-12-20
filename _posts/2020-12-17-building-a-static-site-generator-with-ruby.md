@@ -4,9 +4,12 @@ layout: post
 tags: [portfolio, ruby, rubylang, static site generator]
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1608253261/generator.jpg
 description: Adventures in building a static site generator in Ruby.
+featured: true
 ---
 
+<!--more-->
 Adventures in building a static site generator in Ruby.
+
 
 {% notice tip %}
 📸 &nbsp; Photo by [Jayphen Simpson](https://unsplash.com/@jayphen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/generator?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

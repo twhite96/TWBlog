@@ -3,11 +3,13 @@ title: "Laid Off But Leveled Up, Lessons Learned"
 layout: post
 tags: [level up, lessons]
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1584326714/lorenzo-herrera-p0j-mE6mGo4-unsplash-1-1-1_scm26m.jpg
+description: I noticed something since picking up this freelance project, something I never had, ever, since the day my journey as a dev began...
 ---
 
 I noticed something since picking up this freelance project, something I never had, ever, since the day my journey as a dev began:
 
 *I have confidence*.
+
 
 It's something I noticed when I was doing the freeCodeCamp JavaScript Data Structures & Algorithms challenges. I could Google a thing I felt was the right answer, but not *the* answer, just something to guide me in the right direction. And most often, I could discern what I needed to do from there.
 

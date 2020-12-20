@@ -38,6 +38,15 @@
  * 3. Structure
  * ----------------------------------------------------------------------------
  */
+ 
+ html {
+   box-sizing: border-box;
+ }
+ 
+ *:before,
+ *:after {
+   box-sizing: inherit;
+ }
 .site {
   background: var(--primary-color);
   overflow: hidden;
@@ -388,15 +397,42 @@
   text-align: center;
 }
 
-/* Featured Posts */
-.featured-posts {
-  border-bottom: 1px solid $gray-lighter;
-  margin-bottom: 5em;
-  padding-bottom: 1.66667em;
+
+.more-link {
+  background: var(--primary-color);
 }
 
+.grid-parent {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  column-gap: 20px;
+}
+
+/* Featured Posts */
+.featured-posts {
+  // display: grid;
+  // column-gap: 1px;
+  justify-content: center;
+  // align-items: center;
+  border-bottom: 1px solid $gray-lighter;
+  margin-bottom: 5em;
+  padding-bottom: 1em;
+}
+
+header.post-header > h2 {
+  margin-bottom: 0 !important;
+}
+
+// p.post-tags.shrink {
+//   margin-top: 0 !important;
+// }
+
+// .featured-title {
+//   font-size: 1rem;
+// }
+
 .featured-posts .read-more {
-  margin-top: 2.5em;
+  margin-top: 0;
 }
 
 /* Post Feed */

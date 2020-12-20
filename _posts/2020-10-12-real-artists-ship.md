@@ -4,9 +4,12 @@ layout: post
 tags: [portfolio, gatsby.js, ship it]
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1602538757/portfolio_vq0kye.jpg
 description: Real artists ship so that's what I vow to do from here on in.
+featured: true
 ---
+<!--more-->
 
 Real artists ship so that's what I vow to do from here on in.
+
 
 {% notice primary %}
  📸 &nbsp; Photo by [Anas Alshanti](https://unsplash.com/@otenteko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/portfolio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
