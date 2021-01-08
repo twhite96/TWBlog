@@ -4,7 +4,9 @@ layout: post
 tags: [CSS, learning]
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1593056621/css_qnvo1r.jpg
 description: "A case study on a trial by fire primer on CSS."
+featured: true
 ---
+<!--more-->
 
 A case study on a trial by fire primer on CSS.
 

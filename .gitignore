@@ -21,3 +21,4 @@ scripts/
 ## Environment normalization:
 /.bundle/
 /vendor/
+.nova
