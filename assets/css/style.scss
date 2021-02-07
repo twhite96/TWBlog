@@ -1,10 +1,15 @@
---- 
+---
 ---
 /**
  * Horace 1.2.0
  * By Just Good Themes
  */
 
+@import "variables";
+@import "icons";
+@import "reset";
+@import "general";
+@import "notices";
 
 /**
  * Table of Contents
@@ -23,12 +28,6 @@
  * 8. Site Footer
  * 9. Media Queries
 */
-
-@import "variables",
-"icons",
-"reset",
-"general",
-"notices";
 
 /**
  * 3. Structure
@@ -622,16 +621,16 @@ header.post-header>h2 {
     margin-bottom: 3.33333em;
 }
 
-#image {
-    border: linear-gradient(360deg, #f78ae0, #00ad9f, #e4467b, #fff450, #b305b3, #06d7d9);
-    border-radius: 50%;
-    box-shadow: 0 0 1px 7px rgba($color-accent, .1);
-    height: 130px;
-    width: 130px;
-    animation-name: spinning-circle;
-    animation-duration: 20s;
-    animation-iteration-count: infinite;
-}
+// #image {
+//     border: linear-gradient(360deg, #f78ae0, #00ad9f, #e4467b, #fff450, #b305b3, #06d7d9);
+//     border-radius: 50%;
+//     box-shadow: 0 0 1px 7px rgba($color-accent, .1);
+//     height: 130px;
+//     width: 130px;
+//     animation-name: spinning-circle;
+//     animation-duration: 20s;
+//     animation-iteration-count: infinite;
+// }
 
 .hero-avatar .avatar {
     border: 4px solid $color-accent;
