@@ -16,7 +16,7 @@ I'm _finally_ doing big girl work at a company so I was able to upgrade everythi
 
 Let’s start with my gear.
 
-- [Mac mini - Apple](https://www.apple.com/mac-mini/)
+- [M1 Mac mini, 1TB storage, 16 GB RAM - Apple](https://www.apple.com/mac-mini/)
   - My old iMac's hard disk, a Fusion Drive, was failing because [APFS isn't good on spinning drives](https://blog.macsales.com/43043-using-apfs-on-hdds-and-why-you-might-not-want-to/). The CPU constantly ran high and I couldn't get my work done. I got my old MacBook Pro back from a friend, a 2013 13" but that was much slower than the Fusion Drive 2015 iMac. This thing is a _dream_ compared to those two machines.
 - MacBook Pro 13" Late 2013
   - Used for quickie code/blog edits and admin stuff. Too slow for anything else.
@@ -25,8 +25,8 @@ Let’s start with my gear.
   - This thing is a _beast_. Fast, and the industrial design is my _favorite_ of Apple's iPads to date.
 - [Apple Pencil](https://www.bhphotovideo.com/c/product/1441874-REG/apple_mu8f2am_a_apple_pencil_2nd_generation.html)
   - Still trying to figure out a use for it. I use it for editing videos and podcasts currently.
-- [WASD Custom Keys Mechanical Keyboard, Mac layout, MX Cherry Blue](https://www.wasdkeyboards.com/wasd-v3-87-key-custom-mechanical-keyboard.html?wasd_customizer_id=1ea3e45f691d80ec3f30739ce3eb5b7b773da6539543b3c4de2b85e1503a4829)
-  - Got my "brand" colors. Next is a Keychron, RGB backlighting..._Down the rabbit hole I go..._
+- [Keychron K2 Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard?variant=21207598104665)
+  - Wanted something a bit smaller and darker as the WASD really showed the grime. The backlighting is a plus. I also use it wired.
 - [Audio-Technica ATH-MSR7BK SonicPro Over-Ear High Res Headphones](https://www.amazon.com/gp/product/B00PEU9CFA/ref=oh_aui_detailpage_o06_s00?psc=1&tag=thatmacnerd-20&ie=UTF8)
   - These things sound _amazing_. Seriously good upgrade over my previous Audio-Technica cans, the M50s.
 - [beyerdynamic DT 990 Pro 250 ohm Headphones, Gray](https://www.amazon.com/gp/product/B0011UB9CQ/ref=ppx_yo_dt_b_asin_title_o02_s02?ie=UTF8&th=1)
@@ -38,6 +38,7 @@ Let’s start with my gear.
 - [Heil PR 40 mic kit](https://www.amazon.com/gp/product/B00U1SG5SW/ref=oh_aui_detailpage_o07_s02?psc=1&tag=thatmacnerd-20&ie=UTF8)
   - I've got a rig setup where I will use this more often than I had.
 - [AirPods Pro](https://www.apple.com/airpods-pro/)
+- [AirPods Max](https://www.apple.com/airpods-max/)
 - [IKEA LINNMON/ALEX Desk](http://www.ikea.com/us/en/catalog/products/S99932696/)
   - Every programmer needs a good desk. This one is relatively inexpensive.
 - [Tabletop Bulb Base](https://www.amazon.com/gp/product/B07CBTKRXW/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
@@ -80,7 +81,7 @@ Let’s start with my gear.
   - This makes everything sound _amazing_.
 - Chrome
 - [Alfred](https://www.alfredapp.com)
-  - Workflows make this my favorite app. I can’t live without it. You can find my workflows [here](https://trw.im/alfred). I have way too many, I admit.
+  - Workflows make this my favorite app.I can’t live without it. You can find my workflows [here](https://trw.im/alfred). I have way too many, I admit.
 - Text Expander
 - [Todoist](https://todosit.com) for tasks.[^2]
 - [Notion](https://www.notion.so) for Project management.[^3]
@@ -96,6 +97,72 @@ Let’s start with my gear.
 - [Setapp](https://setapp.com/)
   - It finally has enough utilities to make it worth the subscription price for me.
 
+<hr>
+
+## Home Server
+Yeah I am running a home server of sorts, as my fascination with Home Assistant, InfoSec, and networking/network security continues to grow.
+
+Below is a list of the hardware I use for the rack. Click the details button to see the softare I am running on the network for server and IoT purposes.
+
+- [CyberPower Smart App LCD UPS System, 1500VA/900W, 8 Outlets, AVR, 2U Rack Tower](https://www.amazon.com/gp/product/B00HDODQYS?psc=1)
+  - Having battery backup is important. This way if there is a black or brownout, you have enough juice to keep your system running until you can shut it down properly.
+- [CyberPower CPS1215RMS Surge Protector, 120V/15A, 12 Outlets, 15ft Power Cord, 1U Rackmount Black](https://www.amazon.com/gp/product/B00077INZU?psc=1)
+  - Ran out of outlets in the UPS
+- [TP-Link 16 Port Gigabit Switch Smart Managed Switch](https://www.amazon.com/gp/product/B0797KPRPK?psc=1)
+  - I have a couple of these TP-Link Switches, one unmanaged and another smaller managed switch. I want to separate different devices on different networks using a VLAN and other things.
+  - [NavePoint 9U Wall Mount Network Server 19 Inch IT Cabinet Rack Enclosure Glass Door Lock](https://www.amazon.com/NavePoint-Network-Server-Cabinet-Enclosure/dp/B01FKOW4LS/144-7175663-3493110?psc=1)
+    - This is where I hold all the rack equipment
+  - [Synology 4 bay NAS DiskStation DS920+ Diskless 4-bay; 4GB DDR4](https://www.amazon.com/gp/product/B087Z34F3R?psc=1)
+    - I *love* this thing. I have Homebridge running on it, I have Plex serving up stuff on it, and a dev instance of Home Assistant as well as a few Docker containers. Trying to figure out how to deploy a production app in a container[^4] and am using this to test out a few containers with small node apps in them.
+  - [Raspberry Pi 4 Model B (8gb)](https://www.amazon.com/gp/product/B08R87H4RR?psc=1)
+    - I have a production Home Assistant instance running on this.
+  - [CanaKit Raspberry Pi 3 B+](https://www.amazon.com/CanaKit-Raspberry-Premium-Clear-Supply/dp/B07BC7BMHY)
+    - I am running Pi-hole and WireGuard on this however I don't understand most of how Wireguard works so I bought a Swiss VPN with no ties to any government[^5]
+
+## Server software
+Some of the software running on the servers[^6]
+
+<details>
+  <summary>Server Software</summary>
+    <ul>
+      <li><a href="https://www.home-assistant.io/">Home Assistant</a></li>
+      <li><a href="https://pi-hole.net/">Pi-hole</a></li>
+      <li><a href="https://homebridge.io/">Homebridge</a></li>
+      <li><a href="https://www.wireguard.com/">Wireguard</a></li>
+    </ul>
+</details>
+
+
+## Racks on Racks...
+
+<figure>
+    <img class="align-center" src="https://res.cloudinary.com/twhiteblog/image/upload/v1623645475/open-rack_kl67fr.webp" />
+    <figcaption class="caption-text">
+      Open rack
+       <a href="https://res.cloudinary.com/twhiteblog/image/upload/v1623645475/open-rack_kl67fr.webp">
+          <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#06d7d9">
+            <path d="M19.0536842,0 L11.7951267,0 C11.2940351,0 10.8877973,0.40703125 10.8877973,0.909101562 C10.8877973,1.41117187 11.2940351,1.81820312 11.7951267,1.81820312 L16.8632359,1.81820312 L7.52432749,11.1753906 C7.16998051,11.5304297 7.16998051,12.1059766 7.52432749,12.4610156 C7.7014425,12.6385156 7.93364522,12.7272656 8.16584795,12.7272656 C8.39805068,12.7272656 8.6302924,12.6385547 8.80744639,12.4609766 L18.1463938,3.10382812 L18.1463938,8.18183594 C18.1463938,8.68390625 18.5526316,9.0909375 19.0537232,9.0909375 C19.5548148,9.0909375 19.9610526,8.68390625 19.9610526,8.18183594 L19.9610526,0.909101562 C19.9610136,0.40703125 19.5547758,0 19.0536842,0 Z" id="Shape"></path>
+            <path d="M15.4244055,9.09089844 C14.9233138,9.09089844 14.517076,9.49792969 14.517076,10 L14.517076,18.1818359 L1.81461988,18.1818359 L1.81461988,5.45453125 L9.98050682,5.45453125 C10.4815984,5.45453125 10.8878363,5.0475 10.8878363,4.54542969 C10.8878363,4.04335938 10.4815984,3.63636719 9.98050682,3.63636719 L0.907329435,3.63636719 C0.406237817,3.63636719 0,4.04339844 0,4.54546875 L0,19.0909375 C0,19.5929688 0.406237817,20 0.907329435,20 L15.4244444,20 C15.9255361,20 16.3317739,19.5929688 16.3317739,19.0908984 L16.3317739,10 C16.3317349,9.49792969 15.9254971,9.09089844 15.4244055,9.09089844 Z" id="Shape"></path>
+        </svg>
+       </a>
+    </figcaption>
+</figure>
+
+<figure>
+    <img class="align-center" src="https://res.cloudinary.com/twhiteblog/image/upload/v1623645474/closed-rack_prxx2o.webp" />
+    <figcaption class="caption-text">
+      Closed rack
+       <a href="https://res.cloudinary.com/twhiteblog/image/upload/v1623645474/closed-rack_prxx2o.webp">
+          <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#06d7d9">
+            <path d="M19.0536842,0 L11.7951267,0 C11.2940351,0 10.8877973,0.40703125 10.8877973,0.909101562 C10.8877973,1.41117187 11.2940351,1.81820312 11.7951267,1.81820312 L16.8632359,1.81820312 L7.52432749,11.1753906 C7.16998051,11.5304297 7.16998051,12.1059766 7.52432749,12.4610156 C7.7014425,12.6385156 7.93364522,12.7272656 8.16584795,12.7272656 C8.39805068,12.7272656 8.6302924,12.6385547 8.80744639,12.4609766 L18.1463938,3.10382812 L18.1463938,8.18183594 C18.1463938,8.68390625 18.5526316,9.0909375 19.0537232,9.0909375 C19.5548148,9.0909375 19.9610526,8.68390625 19.9610526,8.18183594 L19.9610526,0.909101562 C19.9610136,0.40703125 19.5547758,0 19.0536842,0 Z" id="Shape"></path>
+            <path d="M15.4244055,9.09089844 C14.9233138,9.09089844 14.517076,9.49792969 14.517076,10 L14.517076,18.1818359 L1.81461988,18.1818359 L1.81461988,5.45453125 L9.98050682,5.45453125 C10.4815984,5.45453125 10.8878363,5.0475 10.8878363,4.54542969 C10.8878363,4.04335938 10.4815984,3.63636719 9.98050682,3.63636719 L0.907329435,3.63636719 C0.406237817,3.63636719 0,4.04339844 0,4.54546875 L0,19.0909375 C0,19.5929688 0.406237817,20 0.907329435,20 L15.4244444,20 C15.9255361,20 16.3317739,19.5929688 16.3317739,19.0908984 L16.3317739,10 C16.3317349,9.49792969 15.9254971,9.09089844 15.4244055,9.09089844 Z" id="Shape"></path>
+        </svg>
+       </a>
+    </figcaption>
+</figure>
+
+<br />
+<br />
 ## I Use a lot of software, I admit
 
 But I use ALL OF IT.
@@ -103,9 +170,9 @@ But I use ALL OF IT.
 So this is my setup and what I am currently using. You can show me your dev setup on [Twitter](https://twitter.com/tiffanywhitedev).
 
 <figure>
-    <img class="align-center" src="https://res.cloudinary.com/twhiteblog/image/upload/v1608240686/desk.jpg" />
+    <img class="align-center" src="https://res.cloudinary.com/twhiteblog/image/upload/v1614554176/2021-02-26-info-dev-twblog_pik0go.webp" />
     <figcaption style="text-align: center;">
-       <a href="https://res.cloudinary.com/twhiteblog/image/upload/v1608240686/desk.jpg">
+       <a href="https://res.cloudinary.com/twhiteblog/image/upload/v1614554176/2021-02-26-info-dev-twblog_pik0go.webp">
           <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#06d7d9">
             <path d="M19.0536842,0 L11.7951267,0 C11.2940351,0 10.8877973,0.40703125 10.8877973,0.909101562 C10.8877973,1.41117187 11.2940351,1.81820312 11.7951267,1.81820312 L16.8632359,1.81820312 L7.52432749,11.1753906 C7.16998051,11.5304297 7.16998051,12.1059766 7.52432749,12.4610156 C7.7014425,12.6385156 7.93364522,12.7272656 8.16584795,12.7272656 C8.39805068,12.7272656 8.6302924,12.6385547 8.80744639,12.4609766 L18.1463938,3.10382812 L18.1463938,8.18183594 C18.1463938,8.68390625 18.5526316,9.0909375 19.0537232,9.0909375 C19.5548148,9.0909375 19.9610526,8.68390625 19.9610526,8.18183594 L19.9610526,0.909101562 C19.9610136,0.40703125 19.5547758,0 19.0536842,0 Z" id="Shape"></path>
             <path d="M15.4244055,9.09089844 C14.9233138,9.09089844 14.517076,9.49792969 14.517076,10 L14.517076,18.1818359 L1.81461988,18.1818359 L1.81461988,5.45453125 L9.98050682,5.45453125 C10.4815984,5.45453125 10.8878363,5.0475 10.8878363,4.54542969 C10.8878363,4.04335938 10.4815984,3.63636719 9.98050682,3.63636719 L0.907329435,3.63636719 C0.406237817,3.63636719 0,4.04339844 0,4.54546875 L0,19.0909375 C0,19.5929688 0.406237817,20 0.907329435,20 L15.4244444,20 C15.9255361,20 16.3317739,19.5929688 16.3317739,19.0908984 L16.3317739,10 C16.3317349,9.49792969 15.9254971,9.09089844 15.4244055,9.09089844 Z" id="Shape"></path>
@@ -117,3 +184,6 @@ So this is my setup and what I am currently using. You can show me your dev setu
 [^1]: The latency of the HomePods when watching video on my Mac was atrocious. I bought my favorite bookshelf speakers again and couldn't be happier. Still have the HomePods when I want to have apartment filling sound with AirPlay 2 Sonos Play:5 2nd Gen, Sonos One, and the two black HomePods I use as home theater audio with my Apple TV. It's a party for sure. 😉
 [^2]: This is the only task manager that I actually look at and use. It is _that_ beautiful, simple, and it has impressed me far more than any task manager in recent memory.
 [^3]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](http://trw.im/dash).
+[^4]: Though *not* from my NAS....
+[^5]: No logs kept either. It's kinda slow though. Some things don't work on my network when it is enabled. I think a lot of it has to do with Fios being shit for a lot of folks, including myself, lately.
+[^6]: When grabbing the link for WireGuard I found this repo which is just 🤌🏽 [trailofbits/algo Set up a personal VPN in the cloud](https://github.com/trailofbits/algo)
