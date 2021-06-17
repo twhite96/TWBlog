@@ -110,14 +110,14 @@ Below is a list of the hardware I use for the rack. Click the details button to 
   - Ran out of outlets in the UPS
 - [TP-Link 16 Port Gigabit Switch Smart Managed Switch](https://www.amazon.com/gp/product/B0797KPRPK?psc=1)
   - I have a couple of these TP-Link Switches, one unmanaged and another smaller managed switch. I want to separate different devices on different networks using a VLAN and other things.
-  - [NavePoint 9U Wall Mount Network Server 19 Inch IT Cabinet Rack Enclosure Glass Door Lock](https://www.amazon.com/NavePoint-Network-Server-Cabinet-Enclosure/dp/B01FKOW4LS/144-7175663-3493110?psc=1)
-    - This is where I hold all the rack equipment
-  - [Synology 4 bay NAS DiskStation DS920+ Diskless 4-bay; 4GB DDR4](https://www.amazon.com/gp/product/B087Z34F3R?psc=1)
-    - I *love* this thing. I have Homebridge running on it, I have Plex serving up stuff on it, and a dev instance of Home Assistant as well as a few Docker containers. Trying to figure out how to deploy a production app in a container[^4] and am using this to test out a few containers with small node apps in them.
-  - [Raspberry Pi 4 Model B (8gb)](https://www.amazon.com/gp/product/B08R87H4RR?psc=1)
-    - I have a production Home Assistant instance running on this.
-  - [CanaKit Raspberry Pi 3 B+](https://www.amazon.com/CanaKit-Raspberry-Premium-Clear-Supply/dp/B07BC7BMHY)
-    - I am running Pi-hole and WireGuard on this however I don't understand most of how Wireguard works so I bought a Swiss VPN with no ties to any government[^5]
+- [NavePoint 9U Wall Mount Network Server 19 Inch IT Cabinet Rack Enclosure Glass Door Lock](https://www.amazon.com/NavePoint-Network-Server-Cabinet-Enclosure/dp/B01FKOW4LS/144-7175663-3493110?psc=1)
+  - This is where I hold all the rack equipment
+- [Synology 4 bay NAS DiskStation DS920+ Diskless 4-bay; 4GB DDR4](https://www.amazon.com/gp/product/B087Z34F3R?psc=1)
+  - I *love* this thing. I have Homebridge running on it, I have Plex serving up stuff on it, and a dev instance of Home Assistant as well as a few Docker containers. Trying to figure out how to deploy a production app in a container[^4] and am using this to test out a few containers with small node apps in them.
+- [Raspberry Pi 4 Model B (8gb)](https://www.amazon.com/gp/product/B08R87H4RR?psc=1)
+  - I have a production Home Assistant instance running on this.
+- [CanaKit Raspberry Pi 3 B+](https://www.amazon.com/CanaKit-Raspberry-Premium-Clear-Supply/dp/B07BC7BMHY)
+  - I am running Pi-hole and WireGuard on this however I don't understand most of how Wireguard works so I bought a Swiss VPN with no ties to any government[^5]
 
 ## Server software
 Some of the software running on the servers[^6]

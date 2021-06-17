@@ -5,7 +5,6 @@ tags: [portfolio, level-up, skill building]
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1594191673/portfolio-redesign.jpg
 description: "Exploring Gatsby for self-expression."
 ---
-
 Exploring Gatsby for self-expression.
 
 {% notice info %}
@@ -14,7 +13,9 @@ Exploring Gatsby for self-expression.
 
 My [current portfolio](https://www.tiffanyrwhite.com/) is written in Jekyll with a premade theme I found on GitHub. I have had many different versions over the years[^1], most of which I have found some boilerplate online and customized it[^2].
 
-Below are some screenshots of my current portfolio.
+
+## Below are some screenshots of my current portfolio.
+
 
 <figure>
     <img class="align-center" src="https://res.cloudinary.com/twhiteblog/image/upload/v1594190767/screenshot-2020-07-08_02-37-15_AM_oo9apn.png" />

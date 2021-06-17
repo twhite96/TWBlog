@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: https://res.cloudinary.com/twhiteblog/image/upload/v1573960505/authorimage_cxgyau.jpg
+image: https://res.cloudinary.com/twhiteblog/image/upload/c_scale,q_auto,w_500/v1623806306/authorimage_o7mj3e.webp
 ---
 
 Hi. I'm Tiffany. I am a frontend engineer formerly at **[REDACTED]** where I worked remotely[^1] in my comfy little apartment in Swatara Twp, PA. I have been programming as an autodidact and university student for three years. I attended the University of Pittsburgh for two years after a stint in a few junior colleges.

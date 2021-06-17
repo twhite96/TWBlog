@@ -131,6 +131,10 @@ sass:
   sass_dir: _sass
   style: compressed
 
+# Ports
+port : 4000
+host : 0.0.0.0
+
 components:
   output: false
 

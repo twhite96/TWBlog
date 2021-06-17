@@ -1,0 +1,167 @@
+<style>
+  :root {
+    --primary-color: #e60023;
+    --secondary-color: #eb324e;
+    --font-color: #000;
+    --bg-color: #fff;
+    --ft-color: #fff;
+    --heading-color: #292922;
+  }
+
+  [data-theme="dark"] {
+    --primary-color: #e25050;
+    --secondary-color: #db354e;
+    --font-color: #e1e1ff;
+    --bg-color: #161621;
+    --heading-color: #818cab;
+    --ft-color: #000;
+  }
+
+  body {
+    background: var(--bg-color);
+    color: var(--font-color);
+    border-top: solid 0.25em #e60023;
+  }
+
+  body {
+    transition: background 1s ease-in, color 1s ease-in;
+  }
+
+  .page-pagination-title,
+  .page-pagination-label,
+  .site-title > a,
+  .lines {
+    color: var(--font-color);
+  }
+
+a > .page-pagination-title:hover {
+  color: var(--primary-color);
+}
+a > .page-pagination-label:hover {
+  color: var(--primary-color);
+}
+
+.more-link:hover {
+  color: var(--primary-color);
+}
+
+  /*slider switch css */
+.theme-switch-wrapper {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.theme-switch-wrapper em {
+  margin-left: 10px;
+  font-size: 1rem;
+}
+.theme-switch {
+  display: inline-block;
+  height: 34px;
+  position: relative;
+  width: 60px;
+  margin-right: 17rem;
+}
+.theme-switch input {
+  display: none;
+}
+.slider {
+  background-color: #ccc;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: 0.4s;
+}
+.slider:before {
+  background-color: #fff;
+  bottom: 4px;
+  content: "";
+  height: 26px;
+  left: 4px;
+  position: absolute;
+  transition: 0.4s;
+  width: 26px;
+}
+input:checked + .slider {
+  background-color: #a1a1a7;
+}
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+.slider.round {
+  border-radius: 34px;
+}
+.slider.round:before {
+  border-radius: 50%;
+}
+
+@media only screen and (max-width: 576px) {
+  .theme-switch-wrapper {
+    display: flex;
+    align-items: flex-end;
+  }
+  .theme-switch {
+    display: inline-block;
+    height: 34px;
+    position: relative;
+    width: 60px;
+    margin-left: 30rem;
+  }
+}
+.bigfoot-footnote__button:hover:after, .bigfoot-footnote__button.is-active:after {
+  color: var(--ft-color);
+}
+
+/* .bigfoot-footnote__button:after {
+  color: var(--font-color)
+} */
+
+.bigfoot-footnote__content  {
+  background-color: var(--bg-color);
+}
+
+.bigfoot-footnote__tooltip {
+  background: var(--bg-color)
+}
+
+.bigfoot-footnote {
+  background: var(--bg-color) 
+}
+</style>
+
+<div class="theme-switch-wrapper">
+  <label class="theme-switch" for="checkbox">
+    <input type="checkbox" id="checkbox" />
+    <div class="slider round"></div>
+  </label>
+</div>
+
+<script>
+  const toggleSwitch = document.querySelector(
+    '.theme-switch input[type="checkbox"]'
+  );
+  const currentTheme = localStorage.getItem("theme");
+
+  if (currentTheme) {
+    document.documentElement.setAttribute("data-theme", currentTheme);
+
+    if (currentTheme === "dark") {
+      toggleSwitch.checked = true;
+    }
+  }
+
+  function switchTheme(e) {
+    if (e.target.checked) {
+      document.documentElement.setAttribute("data-theme", "dark");
+      localStorage.setItem("theme", "dark");
+    } else {
+      document.documentElement.setAttribute("data-theme", "light");
+      localStorage.setItem("theme", "light");
+    }
+  }
+
+  toggleSwitch.addEventListener("change", switchTheme, false);
+</script>

@@ -2,8 +2,8 @@
 $font-primary: 'Merriweather', serif;
 $font-secondary: 'Lato', sans-serif;
 $monospace-font: 'Fira Code', monospace;
-
 // Colors
+$base-color: #000 !default;
 $color-accent: #06d7d9;
 $gray: #a1a1a7;
 $gray-dark: #535358;
@@ -12,10 +12,34 @@ $gray-light: #d8d8d8;
 $gray-lighter: #e5e7e9;
 $gray-lightest: #f9f9fb;
 $yellow: #fffac4;
-
+$border-color: rgb(220,220,220);
 $primary-color: #920358 !default;
 $success-color: #62c462 !default;
 $warning-color: #b305b3 !default;
 $danger-color: #e60023 !default;
 $info-color: #4bc3d5 !default;
 $tip-color: #ffa500 !default;
+
+// Base colors
+/* Syntax highlighting (base16) colors */
+$base00: #fafafa !default;
+$base01: #073642 !default;
+$base02: #586e75 !default;
+$base03: #657b83 !default;
+$base04: #839496 !default;
+$base05: #586e75 !default;
+$base06: #eee8d5 !default;
+$base07: #fdf6e3 !default;
+$base08: #dc322f !default;
+$base09: #cb4b16 !default;
+$base0a: #b58900 !default;
+$base0b: #859900 !default;
+$base0c: #2aa198 !default;
+$base0d: #268bd2 !default;
+$base0e: #6c71c4 !default;
+$base0f: #d33682 !default;
+$base0g: #BF616A !default;
+$background-color: #fff!default;
+
+// Misc
+$border-radius: 0.25rem !default;

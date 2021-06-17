@@ -39,7 +39,8 @@
 
     <script defer src="{{ site.baseurl }}/assets/js/plugins.js"></script>
     <script defer src="{{ site.baseurl }}/assets/js/custom.js"></script>
-
+    <script defer src="{{ site.baseurl }}/assets/js/lity.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/table-of-contents.js"></script>
     <script async defer data-domain="tiffanywhite.dev" src="https://plausible.io/js/plausible.js"></script>
 
     {%- if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' -%} {%- comment -%} Add Atom feed link if jekyll-feed plugin is enabled {%- endcomment -%} {% include head-feed.html %} {%- endif -%}
@@ -88,10 +89,10 @@
     <!-- .site -->
     <div id="site-overlay" class="site-overlay"></div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.3.0/anchor.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> -->
     <script>
         anchors.options.placement = 'left';
-        anchors.add('.e-content > h1, h2, h3, h4, h5, h6');
+        anchors.add('.e-content > h1, h2:not(#toc-toggle), h3, h4, h5, h6')
     </script>
     {% include sidebar.html %} {% include analytics.html %} {% webmentions_js %}
 </body>
