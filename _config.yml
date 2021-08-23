@@ -17,7 +17,7 @@ author:
   name: "Tiffany"
   image: "authorimage.webp"
   greetings: "Hi! 👋🏾"
-  description: "my name is tiffany and this is my digital garden 🌱"
+  description: "my name is tiff and this is my digital garden 🌱"
   bio: "Tiffany is a frontend engineer, writer, and wannabe hacker based in Swatara Twp, PA."
   twitter: tiffanywhitedev
 
@@ -72,15 +72,17 @@ navigation:
   - text: Search
     url: /search/
   - text: Uses
-    url: /uses/
+    url: https://kit.co/tiffanywhite/my-office
   - text: Portfolio
     url: https://www.tiffanyrwhite.com
   - text: Resume
     url: https://resume.tiffanyrwhite.com
   # - text: Privacy Policy
   #   url: /privacy-policy/
-  - text: Dev Research
-    url: https://research.tiffanywhite.dev/
+  - text: Failures
+    url: https://failures.tiffanywhite.dev/
+  - text: Notes
+    url: https://notes.tiffanywhite.dev/
   - text: Archive
     url: /archive/
   # - text: Status
