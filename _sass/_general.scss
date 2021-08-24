@@ -951,6 +951,8 @@ h1.highlight {
     transform-origin: left;
     transform: rotate(15deg);
     display: inline;
+    transform: scaleX(1);
+    transform-origin: left;
 }
 
 body::-webkit-scrollbar {
