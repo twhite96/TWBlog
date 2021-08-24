@@ -939,6 +939,8 @@ h1.highlight {
     background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
     transform: rotate(15deg);
     display: inline;
+    transform: scaleX(1);
+    transform-origin: left;
 }
 
 body::-webkit-scrollbar {
