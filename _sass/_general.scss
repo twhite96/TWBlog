@@ -62,7 +62,10 @@ h1 {
 h2, .typeform {
     font-size: 2rem;
     margin: 0.83333em 0 0.41667em;
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+    background: linear-gradient(179deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+    display: inline;
+    transform: scaleX(1);
+    transform-origin: left;
     display: inline;
     position: relative;
     transform: rotateX(-2deg) scaleX(1);
@@ -71,14 +74,20 @@ h2, .typeform {
 h3 {
     font-size: 1.66667rem;
     margin: 1em 0 0.5em;
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+    background: linear-gradient(179deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+    display: inline;
+    transform: scaleX(1);
+    transform-origin: left;
     display: inline;
 }
 
 h4 {
     font-size: 1.33333rem;
     margin: 1.25em 0 0.625em;
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+    background: linear-gradient(179deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+    display: inline;
+    transform: scaleX(1);
+    transform-origin: left;
     display: inline;
 }
 
@@ -936,7 +945,10 @@ input {
 }
 
 h1.highlight {
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+    background: linear-gradient(179deg, rgba(255, 255, 255, 0) 65%, #ffc1d2 65%);
+    display: inline;
+    transform: scaleX(1);
+    transform-origin: left;
     transform: rotate(15deg);
     display: inline;
 }
