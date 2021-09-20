@@ -73,8 +73,6 @@ html {
     margin-right: auto;
     max-width: 1080px;
 }
-
-
 /**
  * 4. Site Header
  * ----------------------------------------------------------------------------
@@ -1484,3 +1482,39 @@ h6:hover .header-link {
       }
     }
   }
+  @media (prefers-color-scheme: dark) {
+    /* Invert all elements on the body while attempting to not alter the hue substantially. */
+    body {
+      filter: invert(100%) hue-rotate(150deg);
+    }
+  
+    /* Workarounds and optical adjustments. */
+  
+    /* Firefox workaround: Set the background colour for the html
+       element separately because, unlike other browsers, Firefox
+       doesn’t apply the filter to the root element’s background. */
+    html {
+      background-color: #111;
+    }
+  
+    /* Do not invert media (revert the invert). */
+    img, video, iframe pre {
+      filter: invert(100%) hue-rotate(180deg);
+    }
+  
+    /* Improve contrast on icons. */
+    .icon {
+      filter: invert(15%) hue-rotate(180deg);
+    }
+  
+    /* Re-enable code block backgrounds. */
+    pre {
+      filter: invert(100%);
+    }
+  
+    /* Improve contrast on list item markers. */
+    li::marker {
+      color: #666;
+    }
+  }
+  

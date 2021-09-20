@@ -10,6 +10,8 @@
     --primary-color: #ffffff;
     --secondary-color: #24292e;
     --brand-color: #06d7d9;
+    --print_on_web_bg_color: #1a1a1a;
+    --web_bg_color: #ffffff;
 }
 
 html {
@@ -29,6 +31,11 @@ a {
     text-decoration: underline;
     -webkit-transition: color .3s ease;
     transition: color .3s ease;
+}
+
+div.use-theme-bg {
+  background-color: var(--primary-color) !important;
+  color: var(--print_on_web_bg_color) !important;
 }
 
 // a:hover {

@@ -5,9 +5,10 @@ meta_description: "your friend tiffany's tiny little digital garden."
 logo: "assets/images/logo-2.png"
 favicon: "assets/images/favicon.ico"
 url: "https://tiffanywhite.dev"
+base_url: '/'
 production_url: https://tiffanywhite.dev
 # disqus: 'justgoodthemes'
-mailchimp_url: "https://buttondown.email/api/emails/embed-subscribe/tiffanywhite"
+mailchimp_url: #
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
 # ga_analytics: UA-61294063-1
@@ -134,8 +135,8 @@ sass:
   style: compressed
 
 # Ports
-port : 4000
-host : 0.0.0.0
+# port : 4000
+# host : 0.0.0.0
 
 components:
   output: false

@@ -6,4 +6,5 @@ image:
 description:
 excerpt:
 published: false
+draft: true
 ---
