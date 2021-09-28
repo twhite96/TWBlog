@@ -5,7 +5,10 @@ tags: [calaxy, learning new things]
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1632717807/new-blog-posts-calaxy-2.webp
 description: With this new job comes a great team.
 excerpt: With this new job comes a great team.
+featured: true
 ---
+
+<!--more-->
 
 This post will be really short[^1] but my team, the fine folks at Calaxy, are allowing me to write about the things I am learning, about the team, contributing to open source projects, as well as building prototype apps on my own time and they _**will pay me for it**_ which is just... _wild_.
 

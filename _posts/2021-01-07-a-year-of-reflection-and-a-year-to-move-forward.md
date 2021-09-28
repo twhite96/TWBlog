@@ -4,7 +4,6 @@ layout: post
 tags: [reflections, doing more, doing less, knowing thyself]
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1610067648/ben-sweet-2LowviVHZ-E-unsplash_1_aap0e7.jpg
 description: Sometimes it's just easier to know thyself.
-featured: true
 ---
 <!--more-->
 Sometimes it's just easier to know thyself.

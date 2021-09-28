@@ -5,7 +5,9 @@ tags: [new job, long wait]
 image: https://res.cloudinary.com/twhiteblog/image/upload/v1628932459/vue.js.webp
 description: Sometimes, you just get lucky. Again.
 excerpt: Sometimes, you just get lucky. Again.
+featured: true
 ---
+<!--more-->
 
 {% notice warning %}
 📸 &nbsp; Photo by [Mohammad Rahmani](https://unsplash.com/@afgprogrammer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/vue.js?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  
