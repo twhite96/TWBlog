@@ -45,25 +45,6 @@ rss: "/feed.xml"
 
 # Jekyll PWA
 
-# Webmentions
-webmentions:
-  username: tiffanywhite.dev
-  cache_folder: .cache
-  cache_bad_uris_for: 5
-  legacy_domains:
-    - https://tiffanywhite.tech
-    - http://tiffanywhite.tech
-    - https://helloburgh.me
-    - http://helloburgh.me
-    - https://twhite96.github.io
-    - http://twhite96.github.io
-  templates:
-    count: _includes/webmentions/count.html
-    likes: _includes/webmentions/likes.html
-    replies: _includes/webmentions/replies.html
-    # reposts: _includes/webmentions/reposts.html
-    webmentions: _includes/webmentions/webmentions.html
-
 # Navigation
 navigation:
   - text: Home
@@ -146,3 +127,9 @@ feed:
   url: https://tiffanywhite.dev
 
 future: false
+
+
+# algolia:
+#   application_id         : VVKLD2O8OY
+#   index_name             : articles
+#   search_only_api_key    : b5faa712b4c07dc61c03eec1e79a4954

@@ -57,7 +57,7 @@ post_class: post-template
                         <p class="author-description">{{ site.author.bio }}</p>
                     </div>
                 </div>
-                {% webmentions page.url reposts replies likes count %}
+                {% include giscus.html %}
             </article>
             <!-- {% if site.mailchimp_url %}
                 {% include newsletter-box.html %}

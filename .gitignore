@@ -22,3 +22,4 @@ scripts/
 /.bundle/
 /vendor/
 .nova
+algolia.sh

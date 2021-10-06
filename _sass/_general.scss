@@ -1058,3 +1058,22 @@ body::-webkit-scrollbar-thumb {
       }
     }
   }
+
+  .ais-search-box {
+    max-width: 100% !important;
+    margin-bottom: 2em;
+  }
+  
+  .ais-Highlight {
+    color: $gray-dark;
+    font-style: normal;
+    text-decoration: underline;
+  }
+  
+.ais-Highlight {
+    color: $gray-dark;
+    font-style: normal;
+    font-weight: bold;
+  }
+  
+  
