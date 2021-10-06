@@ -2,8 +2,8 @@
 title: "Tiffany R. White Blog"
 description: "your friend tiffany's tiny little digital garden."
 meta_description: "your friend tiffany's tiny little digital garden."
-logo: "assets/images/logo-2.png"
-favicon: "assets/images/favicon.ico"
+logo: "assets/images/twblog.png"
+favicon: "assets/images/fav-twblog.png"
 url: "https://tiffanywhite.dev"
 base_url: '/'
 production_url: https://tiffanywhite.dev

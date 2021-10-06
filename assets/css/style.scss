@@ -121,6 +121,7 @@ html {
 
 .site-logo img {
     max-height: 48px;
+    background: #f9f9fb;
 }
 
 .site-title {
@@ -1458,3 +1459,6 @@ h6:hover .header-link {
 //     font-style: normal;
 //     font-weight: bold;
 //   }
+p.site-logo a {
+    background-color: white;
+  }
