@@ -16,7 +16,7 @@ cover_image: bc_1.jpg
 # Author
 author:
   name: "Tiffany"
-  image: "authorimage.webp"
+  image: "best.webp"
   greetings: "Hi! 👋🏾"
   description: "my name is tiff and this is my digital garden 🌱"
   bio: "Tiffany is a frontend engineer, writer, and wannabe hacker based in Swatara Twp, PA."
@@ -31,7 +31,7 @@ twitter: "tiffanywhitedev"
 # facebook: 'username'
 github: "twhite96"
 youtube: "channel/UCF4UjAYLSOAma84h85yD4Mw"
-twitch: "sydmalicious78"
+twitch: "tiffanywhite.live"
 codepen: "tiffanywhitedev"
 # dribbble: 'username'
 # medium: '@username'
@@ -39,7 +39,7 @@ codepen: "tiffanywhitedev"
 # pinterest: 'tifftalkstech'
 linkedin: "tiffanyrwhite"
 # producthunt: '@username'
-# codesandbox: 'twhite96'
+codesandbox: 'twhite96'
 stackoverflow: "tiffanywhitedev"
 rss: "/feed.xml"
 
@@ -67,8 +67,8 @@ navigation:
     url: https://notes.tiffanywhite.dev/
   - text: Archive
     url: /archive/
-  # - text: Status
-  #   url: https://status.tiffanywhite.dev
+  - text: Newsletter
+    url: https://news.tiffanywhite.dev/
   - text: Contact Me
     url: /contact/
 

@@ -11,11 +11,11 @@
         <span class="screen-reader-text">YouTube</span>
     </a>
     {% endif %}
-    <!-- {% if site.twitch %}
-    <a href="https://twitch.tv/{{ site.twitch }}" target="_blank">
-        <span class="fa-twitch fa" aria-hidden="true"></span>
+    {% if site.twitch %}
+    <a href="http://{{ site.twitch }}" class="twitch" target="_blank">
+        <span class="icon-twitch" aria-hidden="true"></span>
         <span class="screen-reader-text">Twitch</span>
-    </a> -->
+    </a>
     {% endif %}
     {% if site.facebook %}
     <a href="https://www.facebook.com/{{ site.facebook }}" target="_blank">
@@ -57,6 +57,12 @@
     <a class="linkedin" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank">
         <span class="fa-linkedin fa" aria-hidden="true"></span>
         <span class="screen-reader-text">Linkedin</span>
+    </a>
+    {% endif %}
+    {% if site.codesandbox %}
+    <a class="codesandbox" href="https://codesandbox.io/{{ site.codesandbox }}" target="_blank">
+        <span class="icon-codesandbox" aria-hidden="true"></span>
+        <span class="screen-reader-text">Codesandbox</span>
     </a>
     {% endif %}
     {% if site.stackoverflow %}
