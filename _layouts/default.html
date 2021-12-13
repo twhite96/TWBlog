@@ -401,7 +401,15 @@
         anchors.options.placement = 'left';
         anchors.add('.e-content > h1, h2:not(#toc-toggle), h3, h4, h5, h6')
     </script>
+    <!--Thanks to Kent C Dodds for this script in this tweet https://twitter.com/kentcdodds/status/1447409115106463747?s=20-->
+    <script>
+      const isHackerNews = request.headers.get('referer').includes('http://news.ycombinator.com')
+      const isReddit = request.headers.get('referer').includes('https://www.reddit.com/')
+        if (isHackerNews || isReddit) return redirect('https://youtube.com/watch?v=dQw4w9WgXcQ')
+
+    </script>
     {% include sidebar.html %} {% include analytics.html %}
+    
 </body>
 
 </html>
