@@ -65,10 +65,12 @@ navigation:
     url: https://failures.tiffanywhite.dev/
   - text: Notes
     url: https://notes.tiffanywhite.dev/
-  - text: Archive
-    url: /archive/
   - text: Newsletter
     url: https://news.tiffanywhite.dev/
+  - text: Polywork
+    url: https://network.tiffanyrwhite.com/
+  - text: Archive
+    url: /archive/
   - text: Contact Me
     url: /contact/
 
