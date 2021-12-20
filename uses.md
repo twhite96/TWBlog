@@ -79,6 +79,11 @@ Below is a list of the hardware I use for the rack. Click the details button to 
   - I have a production Home Assistant instance running on this.
 - [CanaKit Raspberry Pi 3 B+](https://www.amazon.com/CanaKit-Raspberry-Premium-Clear-Supply/dp/B07BC7BMHY)
   - I am running Pi-hole and WireGuard on this however I don't understand most of how Wireguard works so I bought a Swiss VPN with no ties to any government[^5]
+- [Intel NUC BXKit10i3 Home & Business Mini Desktop Black with Hub](https://www.amazon.com/gp/product/B09DCZQFF2?psc=1)
+  - Moving Home Assistant to this as it is more powerful which means faster automations and load times.
+- [Ubiquiti Dream Machine Pro](https://store.ui.com/collections/unifi-network-unifi-os-consoles/products/udm-pro)
+  - Running a little server farm in here so why not.
+
 
 ## Server software
 Some of the software running on the servers[^6]
@@ -90,6 +95,7 @@ Some of the software running on the servers[^6]
       <li><a href="https://pi-hole.net/">Pi-hole</a></li>
       <li><a href="https://homebridge.io/">Homebridge</a></li>
       <li><a href="https://www.wireguard.com/">Wireguard</a></li>
+      <li><a href="https://store.ui.com/collections/unifi-network-unifi-os-consoles/products/udm-pro/">UniFi OS</a></li>
     </ul>
 </details>
 
@@ -129,7 +135,7 @@ So this is my setup and what I am currently using. You can show me your dev setu
     </figcaption>
 </figure>
 
-[^1]: The latency of the HomePods when watching video on my Mac was atrocious. I bought my favorite bookshelf speakers again and couldn't be happier. Still have the HomePods when I want to have apartment filling sound with AirPlay 2 Sonos Play:5 2nd Gen, Sonos One, and the two black HomePods I use as home theater audio with my Apple TV. It's a party for sure. 😉
+[^1]: I never seem to be satisfied with my place, no matter how many times I rearrange, add, and subtract things...
 [^2]: This is the only task manager that I actually look at and use. It is _that_ beautiful, simple, and it has impressed me far more than any task manager in recent memory.
 [^3]: This is such a deep app and I am in love with it. After avoiding it because I was a heavy user of Evernote and quite liked it, there were things that annoyed me about it. Everyone talked about this app, Notion and I signed up. Been using it for two weeks and I have paid the subscription. It's that good. Still setting it up but here's my [dashboard](http://trw.im/dash).
 [^4]: Though *not* from my NAS....

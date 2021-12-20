@@ -49,18 +49,10 @@ rss: "/feed.xml"
 navigation:
   - text: Home
     url: /
-  - text: About
-    url: /about/
-  - text: Search
-    url: /search/
-  - text: Uses
-    url: /uses/
   - text: Portfolio
     url: https://www.tiffanyrwhite.com
   - text: Resume
     url: https://resume.tiffanyrwhite.com
-  # - text: Privacy Policy
-  #   url: /privacy-policy/
   - text: Failures
     url: https://failures.tiffanywhite.dev/
   - text: Notes
@@ -69,8 +61,16 @@ navigation:
     url: https://news.tiffanywhite.dev/
   - text: Polywork
     url: https://network.tiffanyrwhite.com/
+  # - text: Privacy Policy
+  #   url: /privacy-policy/
+  - text: Search
+    url: /search/
   - text: Archive
     url: /archive/
+  - text: Uses
+    url: /uses/
+  - text: About
+    url: /about/
   - text: Contact Me
     url: /contact/
 
