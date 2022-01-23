@@ -1,0 +1,25 @@
+{
+  "name": "twblog",
+  "version": "1.0.0",
+  "description": "[Theme Live Demo](https://horace.netlify.com/)",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twhite96/TWBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twhite96/TWBlog/issues"
+  },
+  "homepage": "https://github.com/twhite96/TWBlog#readme",
+  "dependencies": {
+    "darken": "^1.1.0",
+    "date-fns": "^2.9.0",
+    "slug": "^2.1.0",
+    "slugify": "^1.3.6"
+  }
+}

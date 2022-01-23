@@ -1,0 +1,140 @@
+---
+layout: default
+disqus: false
+post_class: post-template
+---
+
+<div id="content" class="site-content fadeInDown delay_05s">
+    <main id="main" class="site-main outer">
+        <article class="post-full inner">
+            <header class="post-header">
+                <div class="post-meta">
+                    <time class="post-date" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%B %-d,
+                        %Y" }}</time>
+                </div><!-- .post-meta -->
+                <h1 class="posttitle highlight">{{ page.title }}</h1>
+            </header><!-- .post-header -->
+            {% if page.image %}
+            <div class="post-thumbnail"><img class="featured-image img-fluid" src="{{ site.baseurl }}{{ page.image }}"
+                    alt="{{ page.title }}"></div>
+            {% endif %}
+            <div class="post-content">
+                {% include read-time.html %}
+                {{content}}
+                {% include substack.html %}
+                {% include buymeacoffee.html %}
+            </div>
+            <footer class="post-footer">
+                {% if page.tags.size > 0 %}
+                <p class="post-tags no-highlight">
+                    {% for tag in page.tags %} {% if forloop.index == page.tags.size %}
+                    <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
+                    {% else %}
+                    <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
+                    {% endif %}
+                    {% endfor %}
+                </p>
+                {% endif %}
+                <div class="post-share">
+                    <span class="post-share-title">Share:</span>
+                    <a target="_blank" href="https://twitter.com/share?text={{ page.title | url_encode }}&amp;url={{ site.production_url }}{{ page.url }}">Twitter   <svg width="10px" height="10px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#06d7d9">
+                        <path d="M19.0536842,0 L11.7951267,0 C11.2940351,0 10.8877973,0.40703125 10.8877973,0.909101562 C10.8877973,1.41117187 11.2940351,1.81820312 11.7951267,1.81820312 L16.8632359,1.81820312 L7.52432749,11.1753906 C7.16998051,11.5304297 7.16998051,12.1059766 7.52432749,12.4610156 C7.7014425,12.6385156 7.93364522,12.7272656 8.16584795,12.7272656 C8.39805068,12.7272656 8.6302924,12.6385547 8.80744639,12.4609766 L18.1463938,3.10382812 L18.1463938,8.18183594 C18.1463938,8.68390625 18.5526316,9.0909375 19.0537232,9.0909375 C19.5548148,9.0909375 19.9610526,8.68390625 19.9610526,8.18183594 L19.9610526,0.909101562 C19.9610136,0.40703125 19.5547758,0 19.0536842,0 Z" id="Shape"></path>
+                        <path d="M15.4244055,9.09089844 C14.9233138,9.09089844 14.517076,9.49792969 14.517076,10 L14.517076,18.1818359 L1.81461988,18.1818359 L1.81461988,5.45453125 L9.98050682,5.45453125 C10.4815984,5.45453125 10.8878363,5.0475 10.8878363,4.54542969 C10.8878363,4.04335938 10.4815984,3.63636719 9.98050682,3.63636719 L0.907329435,3.63636719 C0.406237817,3.63636719 0,4.04339844 0,4.54546875 L0,19.0909375 C0,19.5929688 0.406237817,20 0.907329435,20 L15.4244444,20 C15.9255361,20 16.3317739,19.5929688 16.3317739,19.0908984 L16.3317739,10 C16.3317349,9.49792969 15.9254971,9.09089844 15.4244055,9.09089844 Z" id="Shape"></path>
+                    </svg></a>
+                    <!-- <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.production_url }}{{ page.url | remove_first: '/' }}">Facebook</a> -->
+                    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.production_url }}{{ page.url }}"
+                    >LinkedIn   <svg width="10px" height="10px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#06d7d9">
+                        <path d="M19.0536842,0 L11.7951267,0 C11.2940351,0 10.8877973,0.40703125 10.8877973,0.909101562 C10.8877973,1.41117187 11.2940351,1.81820312 11.7951267,1.81820312 L16.8632359,1.81820312 L7.52432749,11.1753906 C7.16998051,11.5304297 7.16998051,12.1059766 7.52432749,12.4610156 C7.7014425,12.6385156 7.93364522,12.7272656 8.16584795,12.7272656 C8.39805068,12.7272656 8.6302924,12.6385547 8.80744639,12.4609766 L18.1463938,3.10382812 L18.1463938,8.18183594 C18.1463938,8.68390625 18.5526316,9.0909375 19.0537232,9.0909375 C19.5548148,9.0909375 19.9610526,8.68390625 19.9610526,8.18183594 L19.9610526,0.909101562 C19.9610136,0.40703125 19.5547758,0 19.0536842,0 Z" id="Shape"></path>
+                        <path d="M15.4244055,9.09089844 C14.9233138,9.09089844 14.517076,9.49792969 14.517076,10 L14.517076,18.1818359 L1.81461988,18.1818359 L1.81461988,5.45453125 L9.98050682,5.45453125 C10.4815984,5.45453125 10.8878363,5.0475 10.8878363,4.54542969 C10.8878363,4.04335938 10.4815984,3.63636719 9.98050682,3.63636719 L0.907329435,3.63636719 C0.406237817,3.63636719 0,4.04339844 0,4.54546875 L0,19.0909375 C0,19.5929688 0.406237817,20 0.907329435,20 L15.4244444,20 C15.9255361,20 16.3317739,19.5929688 16.3317739,19.0908984 L16.3317739,10 C16.3317349,9.49792969 15.9254971,9.09089844 15.4244055,9.09089844 Z" id="Shape"></path>
+                    </svg></a>
+                </div><!-- .share-post -->
+            </footer>
+            <div class="author-box">
+                <div class="author-avatar"><img src="{{ site.baseurl }}/assets/images/{{ site.author.image }}" alt="{{ site.author.name }}'s Picture"
+                    class="avatar"></div>
+                    <div class="author-details">
+                        <h2 class="author-title">About {{ site.author.name }}</h2>
+                        <p class="author-description">{{ site.author.bio }}</p>
+                    </div>
+                </div>
+                {% include giscus.html %}
+            </article>
+            <!-- {% if site.mailchimp_url %}
+                {% include newsletter-box.html %}
+                {% endif %} -->
+        <section class="read-next inner">
+            <h2 class="read-next-title">Read Next</h2>
+            {% if page.previous.url %}
+            <article class="post">
+                <header class="post-header">
+                    <div class="post-meta">
+                        <time class="published" datetime="{{page.previous.date | date: '%B %-d, %Y'}}">{{page.previous.date
+                            | date: "%B %-d, %Y"}}</time>
+                    </div>
+                    <h3 class="post-title"><a href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a></h3>
+                    <p class="post-tags">
+                        {% if page.previous.tags.size > 0 %}
+                        {% for tag in page.previous.tags %}
+                        {% if forloop.index == page.previous.tags.size %}
+                        <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | capitalize
+                            }}</a>
+                        {% else %}
+                        <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | capitalize
+                            }}</a>
+                        {% endif %}
+                        {% endfor %}
+                        {% endif %}
+                    </p>
+                </header>
+                {% if page.previous.image_thumbnail %}
+                <a href="{{ site.baseurl }}{{page.previous.url}}" class="post-thumbnail">
+                    <img src="{{ page.previous.image_thumbnail }}" alt="{{page.previous.title}}" />
+                </a>
+                {% elsif page.previous.image %}
+                <a href="{{ site.baseurl }}{{page.previous.url}}" class="post-thumbnail">
+                    <img src="{{ page.previous.image }}" alt="{{page.previous.title}}" />
+                </a>
+                {% else %}
+                {% endif %}
+            </article>
+            {% endif %}
+            {% if page.next.url %}
+            <article class="post">
+                <header class="post-header">
+                    <div class="post-meta">
+                        <time class="published" datetime="{{page.next.date | date: '%B %-d, %Y'}}">{{page.next.date |
+                            date: "%B %-d, %Y"}}</time>
+                    </div>
+                    <h3 class="post-title"><a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a></h3>
+                    <p class="post-tags">
+                        {% if page.next.tags.size > 0 %}
+                        {% for tag in page.next.tags %}
+                        {% if forloop.index == page.next.tags.size %}
+                        <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | capitalize
+                            }}</a>
+                        {% else %}
+                        <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '-' }}/'>{{ tag | capitalize
+                            }}</a>
+                        {% endif %}
+                        {% endfor %}
+                        {% endif %}
+                    </p>
+                </header>
+                {% if page.next.image_thumbnail %}
+                <a href="{{ site.baseurl }}{{page.next.url}}" class="post-thumbnail">
+                    <img src="{{ page.next.image_thumbnail }}" alt="{{page.next.title}}" />
+                </a>
+                {% elsif page.next.image %}
+                <a href="{{ site.baseurl }}{{page.next.url}}" class="post-thumbnail">
+                    <img src="{{ page.next.image }}" alt="{{page.next.title}}" />
+                </a>
+                {% else %}
+                {% endif %}
+            </article>
+            {% endif %}
+        </section><!-- .read-next -->
+    </main><!-- .site-main -->
+</div><!-- .site-content -->
+
+
+

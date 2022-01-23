@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Joseph Rex&#39;s website - Portfolio, Resume, Designs, and Publications</title>
+  <subtitle>voyaging the boundaries of interfaces and interactions</subtitle>
+  <link href="https://www.josephrex.me/feed.xml" rel="self"/>
+  <link href="https://www.josephrex.me"/>
+  <updated>2022-01-07T04:50:19Z</updated>
+  <id>https://www.josephrex.me</id>
+  <author>
+    <name>Joseph Rex</name>
+  </author>
+  
+  <entry>
+    <title>Ban embed codes</title>
+    <link href="https://www.josephrex.me/ban-embed-codes/"/>
+    <updated>2022-01-07T04:50:19Z</updated>
+    <id>https://www.josephrex.me/ban-embed-codes/</id>
+    <summary></summary>
+    <content type="html">&lt;p&gt;Test&lt;/p&gt;
+</content>
+  </entry>
+</feed>
