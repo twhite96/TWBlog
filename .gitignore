@@ -24,3 +24,5 @@ scripts/
 .nova
 algolia.sh
 _includes/algolia.html
+
+privacy-policy copy.md
