@@ -1,0 +1,8 @@
+
+[[redirects]]
+  from = "https://tiffnotes.dev/*"
+  to = "https://publish.obsidian.md/serve?url=tiffnotes.dev:splat"
+  from = "https://tiffanywhite.dev/notes/*"
+  to = "https://publish.obsidian.md/serve?url=tiffnotes.dev/README/:splat"
+  status = 200
+  force = true
