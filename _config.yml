@@ -53,14 +53,6 @@ navigation:
     url: https://www.tiffanyrwhite.com
   - text: Resume
     url: https://resume.tiffanyrwhite.com
-  - text: Failures
-    url: https://failures.tiffanywhite.dev/
-  - text: Notes
-    url: https://notes.tiffssecondbrain.org/
-  - text: Newsletter
-    url: https://news.tiffanywhite.dev/
-  - text: Polywork
-    url: https://network.tiffanyrwhite.com/
   # - text: Privacy Policy
   #   url: /privacy-policy/
   - text: Search
